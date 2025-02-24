@@ -1,0 +1,5894 @@
+abater
+  IPA: /abaˈteɾ/
+  IPA: [a.β̞aˈt̪eɾ]
+libre
+  IPA: /ˈlibɾe/
+  IPA: [ˈli.β̞ɾɪ]
+estar
+  IPA: /esˈtaɾ/
+  IPA: [es̺ˈt̪aɾ]
+trade
+  IPA: /ˈtɾade/
+  IPA: [ˈt̪ɾa.ð̞ɪ]
+ten
+  IPA: /ˈtɛŋ/
+dar
+  IPA: /ˈdaɾ/
+  IPA: [ˈd̪aɾ]
+abandono
+  IPA: /abanˈdono/
+  IPA: [a.β̞an̪ˈd̪o.nʊ]
+abandonar
+  IPA: /abandoˈnaɾ/
+  IPA: [a.β̞an̪.d̪oˈnaɾ]
+regular
+  IPA: /reɡuˈlaɾ/
+  IPA: [re.ɣ̞uˈlaɾ]
+  IPA: /reɡuˈlaɾ/ (Tags: standard)
+  IPA: [re.ɣ̞uˈlaɾ] (Tags: standard)
+  IPA: /reħuˈlaɾ/
+  IPA: [re.ħuˈlaɾ]
+asoar
+  IPA: /asoˈaɾ/
+aceite
+  IPA: /aˈθejte/
+  IPA: [aˈθej.t̪ɪ]
+  IPA: /aˈθejte/ (Tags: standard)
+  IPA: [aˈθej.t̪ɪ] (Tags: standard)
+  IPA: /aˈsejte/
+  IPA: [aˈsej.t̪ɪ]
+barato
+  IPA: /baˈɾato/
+  IPA: [baˈɾa.t̪ʊ]
+son
+  IPA: /ˈsoŋ/
+  IPA: [ˈs̺oŋ]
+viña
+  IPA: [ˈbiɲa̝]
+lapar
+  IPA: /laˈpaɾ/
+saia
+  IPA: /ˈsaja̝/
+ver
+  IPA: /ˈbeɾ/
+  IPA: [ˈbeɾ]
+pos
+  IPA: /ˈpɔs/
+  IPA: [ˈpɔs̺]
+pos
+  IPA: /ˈpɔs/
+  IPA: [ˈpɔs̺]
+meter
+  IPA: /meˈteɾ/
+  IPA: [meˈt̪eɾ]
+sugar
+  IPA: [suˈɣaɾ]
+han
+  IPA: /an/
+casa
+  IPA: /ˈkasa/
+  IPA: [ˈkɑ.s̺ɐ]
+escudo
+  IPA: /esˈkudo/
+  IPA: [es̺ˈku.ð̞ʊ]
+escudo
+  IPA: /esˈkudo/
+  IPA: [es̺ˈku.ð̞ʊ]
+acostumar
+  IPA: /akostuˈmaɾ/
+  IPA: [ɑ.kos̺.t̪uˈmaɾ]
+lava
+  IPA: /ˈlaba/
+  IPA: [ˈla.β̞ɐ]
+acreditar
+  IPA: /akɾediˈtaɾ/
+  IPA: [ɑ.kɾe.ð̞iˈt̪aɾ]
+es
+  IPA: /ɛs/
+soltar
+  IPA: /solˈtaɾ/
+estado
+  IPA: /esˈtado/
+  IPA: [es̺ˈt̪a.ð̞ʊ]
+caer
+  IPA: /kaˈeɾ/
+  IPA: [kɑˈeɾ]
+saber
+  IPA: /saˈbeɾ/
+  IPA: [s̺aˈβ̞eɾ]
+ser
+  IPA: /ˈseɾ/
+  IPA: [ˈs̺eɾ]
+leo
+  IPA: /leʊ/
+vir
+  IPA: [ˈbiːɾ]
+vir
+  IPA: [ˈbiːɾ]
+porto
+  IPA: /ˈpoɾto/
+  IPA: [ˈpoɾ.t̪ʊ]
+falar
+  IPA: /faˈlaɾ/
+  IPA: [faˈlaɾ]
+beber
+  IPA: [beˈβeɾ]
+fender
+  IPA: /fenˈdeɾ/
+rego
+  IPA: [ˈreɣʊ]
+  IPA: [ˈrɛɣʊ]
+chegar
+  IPA: /t͡ʃeˈɡaɾ/
+  IPA: [t͡ʃeˈɣ̞ɑɾ]
+  IPA: /t͡ʃeˈɡaɾ/ (Tags: standard)
+  IPA: [t͡ʃeˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /t͡ʃeˈħaɾ/
+  IPA: [t͡ʃeˈħɑɾ]
+ouvir
+  IPA: /ow.ˈβiɾ/
+papa
+  IPA: /ˈpapa̝/
+comprar
+  IPA: /kom.ˈpɾaɾ/
+dizer
+  IPA: /diˈθeɾ/
+  IPA: [d̪iˈθeɾ]
+  IPA: /diˈθeɾ/ (Tags: standard)
+  IPA: [d̪iˈθeɾ] (Tags: standard)
+  IPA: /diˈseɾ/
+  IPA: [d̪iˈseɾ]
+trazer
+  IPA: /tɾaˈθeɾ/
+  IPA: [t̪ɾaˈθeɾ]
+  IPA: /tɾaˈθeɾ/ (Tags: standard)
+  IPA: [t̪ɾaˈθeɾ] (Tags: standard)
+  IPA: /tɾaˈseɾ/
+  IPA: [t̪ɾaˈseɾ]
+caber
+  IPA: /kaˈbeɾ/
+  IPA: [kɑˈβ̞eɾ]
+pedir
+  IPA: [pɪˈðiɾ]
+correr
+  IPA: /koˈreɾ/
+  IPA: [koˈreɾ]
+ladro
+  IPA: [ˈlaðɾʊ]
+ler
+  IPA: [ˈleɾ]
+comer
+  IPA: [koˈmeɾ]
+cantar
+  IPA: [kɑnˈtaɾ]
+vender
+  IPA: [benˈdeɾ]
+mango
+  IPA: [ˈmaŋɡʊ]
+partir
+  IPA: /paɾˈtiɾ/
+  IPA: [paɾˈt̪iɾ]
+querer
+  IPA: /keˈɾeɾ/
+ter
+  IPA: [ˈteːɾ]
+hai
+  IPA: [ˈaj]
+neve
+  IPA: /ˈnɛbe/
+  IPA: [ˈnɛ.β̞ɪ]
+vela
+  IPA: /ˈbɛla/
+  IPA: [ˈbɛ.lɐ]
+vento
+  IPA: /ˈbento/
+  IPA: [ˈben̪.t̪ʊ]
+  IPA: /ˈbɛnto/ (Tags: dialectal)
+  IPA: [ˈbɛn̪.t̪ʊ] (Tags: dialectal)
+andar
+  IPA: /anˈdaɾ/
+  IPA: [an̪ˈd̪aɾ]
+coma
+  IPA: /ˈkomɐ/
+adaptar
+  IPA: /adapˈtaɾ/
+  IPA: [a.ð̞apˈt̪aɾ]
+elixir
+  IPA: [ɛ.li.ˈʃiɾ]
+has
+  IPA: /as/
+porta
+  IPA: /ˈpɔɾta/
+  IPA: [ˈpɔɾ.t̪ɐ]
+pelo
+  IPA: /ˈpelo/
+  IPA: [ˈpe.lʊ]
+levantar
+  IPA: [leβanˈtaɾ]
+mentir
+  IPA: [menˈtiɾ]
+  IPA: [minˈtiɾ] (Tags: common)
+trema
+  IPA: /ˈtɾema/
+  IPA: [ˈt̪ɾe.mɐ]
+latín
+  IPA: /laˈtiŋ/
+  IPA: [laˈt̪iŋ]
+sentir
+  IPA: /senˈtiɾ/
+pinta
+  IPA: [ˈpintɐ]
+enviar
+  IPA: [em.ˈbjaɾ]
+  IPA: [em.ˈbi.aɾ]
+pesado
+  IPA: /peˈsado/
+  IPA: [peˈs̺a.ð̞ʊ]
+pagan
+  IPA: /ˈpaɣɐŋ/
+vara
+  IPA: /ˈbaɾa/
+  IPA: [ˈba.ɾɐ]
+mandar
+  IPA: /manˈdaɾ/
+mirar
+  IPA: /miˈɾaɾ/
+matar
+  IPA: /maˈtaɾ/
+  IPA: [maˈt̪aɾ]
+buscar
+  IPA: /busˈkaɾ/
+velar
+  IPA: [beˈlaɾ]
+velar
+  IPA: [beˈlaɾ]
+está
+  IPA: /ɪsˈtaː/
+parar
+  IPA: [paˈɾaɾ]
+sacar
+  IPA: /saˈkaɾ/
+rascar
+  IPA: [rasˈkaɾ]
+perder
+  IPA: [peɾˈðer]
+odiar
+  IPA: [ɔˈð̞jaɾ]
+tasca
+  IPA: /ˈtaska̝/
+doer
+  IPA: [doˈeɾ]
+facer
+  IPA: [faˈθeɾ] (Tags: standard)
+  IPA: [faˈseɾ] (Tags: Western, dialectal)
+adobe
+  IPA: /aˈdɔbe/
+  IPA: [aˈð̞ɔ.β̞ɪ]
+lima
+  IPA: [ˈlimɐ]
+canto
+  IPA: /ˈkanto̝/
+mato
+  IPA: /ˈmato̝/
+mente
+  IPA: /ˈmente/
+  IPA: [ˈmẽn̪.t̪ɪ]
+  IPA: /ˈmɛnte/
+  IPA: [ˈmɛ̃n̪.t̪ɪ]
+inverno
+  IPA: /imˈbɛɾno/
+  IPA: [imˈbɛɾ.nʊ]
+render
+  IPA: [renˈdeɾ]
+firma
+  IPA: /ˈfiɾma/
+  IPA: [ˈfiɾ.mɐ]
+río
+  IPA: /ˈrio/
+  IPA: [ˈri.ʊ]
+entrar
+  IPA: /enˈtɾaɾ/
+  IPA: [en̪ˈt̪ɾaɾ]
+causa
+  IPA: /ˈkawsa/
+  IPA: [ˈkɑw.s̺ɐ]
+incentivar
+  IPA: /inθentiˈbaɾ/
+  IPA: [in̪.θen̪.t̪iˈβ̞aɾ]
+  IPA: /inθentiˈbaɾ/ (Tags: standard)
+  IPA: [in̪.θen̪.t̪iˈβ̞aɾ] (Tags: standard)
+  IPA: /insentiˈbaɾ/
+  IPA: [in.sen̪.t̪iˈβ̞aɾ]
+comida
+  IPA: /koˈmida/
+  IPA: [koˈmi.ð̞ɐ]
+comida
+  IPA: /koˈmida/
+  IPA: [koˈmi.ð̞ɐ]
+foder
+  IPA: /foˈðeɾ/
+pito
+  IPA: /ˈpito/
+  IPA: [ˈpi.t̪ʊ]
+garda
+  IPA: [ˈɡaɾðɐ]
+ora
+  IPA: [ˈɔɾɐ]
+rir
+  IPA: [ˈriːɾ]
+ferro
+  IPA: /ˈfɛro/
+  IPA: [ˈfɛ.rʊ]
+dado
+  IPA: /ˈdado/
+  IPA: [ˈd̪a.ð̞ʊ]
+basto
+  IPA: /ˈbasto/
+  IPA: [ˈbas̺.t̪ʊ]
+sexa
+  IPA: /ˈseʃɐ/
+fume
+  IPA: [ˈfumɪ]
+dito
+  IPA: [ˈditʊ]
+dito
+  IPA: [ˈditʊ]
+haber
+  IPA: /aˈbeɾ/
+  IPA: [aˈβ̞eɾ]
+encontrar
+  IPA: /eŋkɔnˈtɾaɾ/
+  IPA: [eŋ.kɔn̪ˈt̪ɾaɾ]
+finar
+  IPA: /fiˈnaɾ/
+notar
+  IPA: /noˈtaɾ/
+aceptar
+  IPA: /aθɛpˈtaɾ/
+  IPA: [a.θɛpˈt̪aɾ]
+  IPA: /aθɛpˈtaɾ/ (Tags: standard)
+  IPA: [a.θɛpˈt̪aɾ] (Tags: standard)
+  IPA: /asɛpˈtaɾ/
+  IPA: [a.sɛpˈt̪aɾ]
+sé
+  IPA: /ˈsɛ/
+papo
+  IPA: /ˈpapo/
+  IPA: [ˈpa.pʊ]
+gravitas
+  IPA: /ɡɾaˈbitas/
+  IPA: [ɡɾaˈβ̞i.t̪as̺]
+  IPA: /ɡɾaˈbitas/ (Tags: standard)
+  IPA: [ɡɾaˈβ̞i.t̪as̺] (Tags: standard)
+  IPA: /ħɾaˈbitas/
+  IPA: [ħɾaˈβ̞i.t̪as̺]
+gustar
+  IPA: /ɡusˈtaɾ/
+  IPA: [ɡus̺ˈt̪aɾ]
+  IPA: /ɡusˈtaɾ/ (Tags: standard)
+  IPA: [ɡus̺ˈt̪aɾ] (Tags: standard)
+  IPA: /ħusˈtaɾ/
+  IPA: [ħus̺ˈt̪aɾ]
+entre
+  IPA: [ˈen.tɾɪ]
+fumar
+  IPA: /fu.ˈmaɾ/
+zurcir
+  IPA: [θuɾˈθiɾ]
+  IPA: [suɾˈsiɾ] (Tags: Western)
+zafar
+  IPA: [za.ˈfaɾ]
+  IPA: [sa.ˈfaɾ] (Tags: Western)
+zumbar
+  IPA: /θumˈbaɾ/
+  IPA: [θumˈbaɾ]
+  IPA: /θumˈbaɾ/ (Tags: standard)
+  IPA: [θumˈbaɾ] (Tags: standard)
+  IPA: /sumˈbaɾ/
+  IPA: [sumˈbaɾ]
+bailar
+  IPA: /bajˈlaɾ/
+  IPA: [ba̠jˈlaɾ]
+vivir
+  IPA: /biˈβiɾ/
+curva
+  IPA: [ˈkuɾβɐ]
+pecar
+  IPA: [peˈkaɾ]
+tocar
+  IPA: /toˈkaɾ/
+  IPA: [t̪oˈkɑɾ]
+tes
+  IPA: /ˈtɛs/
+usurpar
+  IPA: [usuɾˈpaɾ]
+cabalgar
+  IPA: /kabalˈɡaɾ/
+  IPA: [kɑ.β̞ɑɫˈɣ̞ɑɾ]
+  IPA: /kabalˈɡaɾ/ (Tags: standard)
+  IPA: [kɑ.β̞ɑɫˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /kabalˈħaɾ/
+  IPA: [kɑ.β̞ɑɫˈħɑɾ]
+untar
+  IPA: [unˈtaɾ]
+uso
+  IPA: /ˈuso/
+  IPA: [ˈu.s̺ʊ]
+insultar
+  IPA: /insulˈtaɾ/
+  IPA: [in.s̺ul̪ˈt̪aɾ]
+baile
+  IPA: [ˈbajlɪ]
+cubrir
+  IPA: [kuˈβɾiɾ]
+odio
+  IPA: [ˈɔð̞jʊ]
+gusto
+  IPA: [ˈɡus̺.t̪ʊ] (Tags: standard)
+  IPA: [ˈħus̺.t̪ʊ] (Tags: dialectal)
+parte
+  IPA: /ˈpaɾte̝/
+oír
+  IPA: [ɔˈiɾ]
+murmurar
+  IPA: [muɾmuˈɾaɾ]
+amasar
+  IPA: [a.ma.ˈsaɾ]
+escribir
+  IPA: /eskɾiˈbiɾ/
+  IPA: [es̺.kɾiˈβ̞iɾ]
+vive
+  IPA: /biˈβɪ/
+abrir
+  IPA: [aˈβɾiɾ]
+aburrir
+  IPA: /abuˈriɾ/
+  IPA: [a.β̞uˈriɾ]
+alfa
+  IPA: [ˈalfɐ]
+sabido
+  IPA: [saˈβiðʊ]
+perdido
+  IPA: [peɾˈðiðʊ]
+acabar
+  IPA: /akaˈbaɾ/
+  IPA: [ɑ.kɑˈβ̞aɾ]
+traer
+  IPA: /tɾaˈeɾ/
+  IPA: [t̪ɾaˈeɾ]
+burlar
+  IPA: /buɾˈlaɾ/
+senta
+  IPA: /ˈsɛntɐ/
+pago
+  IPA: /ˈpaɣo̝/
+pago
+  IPA: /ˈpaɣo̝/
+almorzar
+  IPA: /almoɾˈθaɾ/
+  IPA: /almoɾˈsaɾ/ (Tags: Western)
+quedar
+  IPA: [keˈðaɾ]
+solar
+  IPA: /soˈlaɾ/
+afeitar
+  IPA: /afejˈtaɾ/
+  IPA: [a.fejˈt̪aɾ]
+adquirir
+  IPA: /adkiˈɾiɾ/
+  IPA: [að̞.kiˈɾiɾ]
+apagar
+  IPA: [apaˈɣaɾ]
+faltar
+  IPA: /falˈtaɾ/
+  IPA: [fɑl̪ˈt̪aɾ]
+tirar
+  IPA: /tiˈɾaɾ/
+ama
+  IPA: /ˈama̝/
+nadar
+  IPA: /naˈdaɾ/
+servir
+  IPA: [seɾˈβiɾ]
+  IPA: [sɪɾˈβiɾ]
+bula
+  IPA: [ˈbulɐ]
+soar
+  IPA: /soˈaɾ/
+roda
+  IPA: /ˈrɔda/
+  IPA: [ˈrɔ.ð̞ɐ]
+feder
+  IPA: /feˈðeɾ/
+vencer
+  IPA: [benˈθeɾ]
+traducir
+  IPA: /tɾaduˈθiɾ/
+  IPA: [t̪ɾa.ð̞uˈθiɾ]
+  IPA: /tɾaduˈθiɾ/ (Tags: standard)
+  IPA: [t̪ɾa.ð̞uˈθiɾ] (Tags: standard)
+  IPA: /tɾaduˈsiɾ/
+  IPA: [t̪ɾa.ð̞uˈsiɾ]
+pon
+  IPA: /ˈpɔŋ/
+  IPA: [ˈpɔŋ]
+prender
+  IPA: [pɾenˈdeɾ]
+lucir
+  IPA: [luˈθiɾ]
+  IPA: [luˈsiɾ] (Tags: Western)
+prohibir
+  IPA: /pɾoiˈbiɾ/
+  IPA: [pɾo.iˈβ̞iɾ]
+como
+  IPA: /ˈkomo/
+  IPA: [ˈko.mʊ]
+bebida
+  IPA: /beˈbida/
+  IPA: [beˈβ̞i.ð̞ɐ]
+nacer
+  IPA: /naˈθeɾ/
+  IPA: [naˈθeɾ]
+  IPA: /naˈθeɾ/ (Tags: standard)
+  IPA: [naˈθeɾ] (Tags: standard)
+  IPA: /naˈseɾ/
+  IPA: [naˈseɾ]
+cocer
+  IPA: /koˈθeɾ/
+  IPA: [koˈθeɾ]
+  IPA: /koˈθeɾ/ (Tags: standard)
+  IPA: [koˈθeɾ] (Tags: standard)
+  IPA: /koˈseɾ/
+  IPA: [koˈseɾ]
+nevada
+  IPA: /neˈbada/
+  IPA: [neˈβ̞a.ð̞ɐ]
+pasear
+  IPA: /paseˈaɾ/
+  IPA: [pa.s̺eˈaɾ]
+vivo
+  IPA: /ˈbibo/
+  IPA: [ˈbi.β̞ʊ]
+defender
+  IPA: [defenˈdeɾ]
+defender
+  IPA: [defenˈdeɾ]
+acordar
+  IPA: [akoɾˈðaɾ]
+gritar
+  IPA: /ɡɾiˈtaɾ/
+  IPA: [ɡɾiˈt̪aɾ]
+  IPA: /ɡɾiˈtaɾ/ (Tags: standard)
+  IPA: [ɡɾiˈt̪aɾ] (Tags: standard)
+  IPA: /ħɾiˈtaɾ/
+  IPA: [ħɾiˈt̪aɾ]
+monte
+  IPA: /ˈmonte/
+  IPA: [ˈmõn̪.t̪ɪ]
+probar
+  IPA: /pɾoˈβaɾ/
+tomar
+  IPA: /toˈmaɾ/
+deter
+  IPA: [deˈteːɾ]
+amante
+  IPA: /aˈmante/
+  IPA: [aˈmãn̪.t̪ɪ]
+temer
+  IPA: /teˈmeɾ/
+aparecer
+  IPA: [apaɾeˈθeɾ]
+  IPA: [apaɾeˈseɾ] (Tags: Western)
+aprender
+  IPA: /apɾenˈdeɾ/
+  IPA: [a.pɾen̪ˈd̪eɾ]
+alfombra
+  IPA: /alˈfombɾa/
+  IPA: [ɑlˈfom.bɾɐ]
+soñar
+  IPA: /soˈɲaɾ/
+  IPA: [s̺oˈɲaɾ]
+producir
+  IPA: /pɾoduˈθiɾ/
+  IPA: [pɾo.ð̞uˈθiɾ]
+  IPA: /pɾoduˈθiɾ/ (Tags: standard)
+  IPA: [pɾo.ð̞uˈθiɾ] (Tags: standard)
+  IPA: /pɾoduˈsiɾ/
+  IPA: [pɾo.ð̞uˈsiɾ]
+poder
+  IPA: [poˈðeɾ]
+esperar
+  IPA: /espeˈɾaɾ/
+  IPA: [es̺.peˈɾaɾ]
+alcanzar
+  IPA: /alkanˈθaɾ/
+  IPA: /alkanˈsaɾ/ (Tags: Western)
+prestar
+  IPA: /pɾesˈtaɾ/
+bastar
+  IPA: /basˈtaɾ/
+chucha
+  IPA: /ˈt͡ʃut͡ʃa/
+  IPA: [ˈt͡ʃu.t͡ʃɐ]
+leva
+  IPA: /ˈlɛba/
+  IPA: [ˈlɛ.β̞ɐ]
+morder
+  IPA: [moɾˈðeɾ]
+protesta
+  IPA: /pɾoˈtɛsta/
+  IPA: [pɾoˈt̪ɛs̺.t̪ɐ]
+pasado
+  IPA: [paˈsaðʊ]
+partido
+  IPA: /paɾˈtido/
+  IPA: [paɾˈt̪i.ð̞ʊ]
+acompañar
+  IPA: /ɐkɔmpɐˈɲaɾ/
+asegurar
+  IPA: /aseɡuˈɾaɾ/
+  IPA: [a.s̺e.ɣ̞uˈɾaɾ]
+  IPA: /aseɡuˈɾaɾ/ (Tags: standard)
+  IPA: [a.s̺e.ɣ̞uˈɾaɾ] (Tags: standard)
+  IPA: /aseħuˈɾaɾ/
+  IPA: [a.s̺e.ħuˈɾaɾ]
+firmar
+  IPA: [fiɾˈmaɾ]
+falta
+  IPA: /ˈfalta/
+  IPA: [ˈfɑl̪.t̪ɐ]
+insistir
+  IPA: /insisˈtiɾ/
+  IPA: [in.s̺is̺ˈt̪iɾ]
+emitir
+  IPA: /emiˈtiɾ/
+  IPA: [e.miˈt̪iɾ]
+indicar
+  IPA: /indiˈkaɾ/
+  IPA: [in̪.d̪iˈkɑɾ]
+cobrar
+  IPA: [koˈβɾaɾ]
+soldado
+  IPA: [solˈdaðʊ]
+organizar
+  IPA: /ɔɾɡaniˈθaɾ/
+  IPA: [ɔɾ.ɣ̞ɑ.niˈθaɾ]
+  IPA: /ɔɾɡaniˈθaɾ/ (Tags: standard)
+  IPA: [ɔɾ.ɣ̞ɑ.niˈθaɾ] (Tags: standard)
+  IPA: /ɔɾħaniˈθaɾ/
+  IPA: [ɔɾ.ħɑ.niˈθaɾ]
+  IPA: /ɔɾħaniˈsaɾ/
+  IPA: [ɔɾ.ħɑ.niˈsaɾ]
+crecer
+  IPA: [kɾeˈθeɾ]
+  IPA: [kɾeˈseɾ] (Tags: Western)
+presentar
+  IPA: /pɾesenˈtaɾ/
+  IPA: [pɾe.s̺en̪ˈt̪aɾ]
+sufrir
+  IPA: /suˈfɾiɾ/
+participar
+  IPA: /paɾtiθiˈpaɾ/
+  IPA: [paɾ.t̪i.θiˈpaɾ]
+  IPA: /paɾtiθiˈpaɾ/ (Tags: standard)
+  IPA: [paɾ.t̪i.θiˈpaɾ] (Tags: standard)
+  IPA: /paɾtisiˈpaɾ/
+  IPA: [paɾ.t̪i.siˈpaɾ]
+parada
+  IPA: /paˈɾada/
+  IPA: [paˈɾa.ð̞ɐ]
+negociar
+  IPA: /neɡɔˈθjaɾ/
+  IPA: [ne.ɣ̞ɔˈθjaɾ]
+  IPA: /neɡɔˈθjaɾ/ (Tags: standard)
+  IPA: [ne.ɣ̞ɔˈθjaɾ] (Tags: standard)
+  IPA: /neħɔˈθjaɾ/
+  IPA: [ne.ħɔˈθjaɾ]
+  IPA: /neħɔˈsjaɾ/
+  IPA: [ne.ħɔˈsjaɾ]
+contar
+  IPA: /konˈtaɾ/
+  IPA: [kon̪ˈt̪aɾ]
+identificar
+  IPA: /idɛntifiˈkaɾ/
+  IPA: [i.ð̞ɛn̪.t̪i.fiˈkɑɾ]
+proseguir
+  IPA: [prʊ.se.ˈɣiɾ]
+  IPA: [prʊ.se.ˈħiɾ]
+negar
+  IPA: [neˈɣaɾ]
+abrazo
+  IPA: /aˈbɾaθo/
+  IPA: [aˈβ̞ɾa.θʊ]
+  IPA: /aˈbɾaθo/ (Tags: standard)
+  IPA: [aˈβ̞ɾa.θʊ] (Tags: standard)
+  IPA: /aˈbɾaso/
+  IPA: [aˈβ̞ɾa.sʊ]
+atacar
+  IPA: [ataˈkaɾ]
+atacar
+  IPA: [ataˈkaɾ]
+gobernar
+  IPA: [ɡoβɛɾˈnaɾ]
+batalla
+  IPA: /baˈtaɟa/
+  IPA: [baˈt̪a̠.ɟɐ]
+promover
+  IPA: /pɾomoˈbeɾ/
+  IPA: [pɾo.moˈβ̞eɾ]
+sepultar
+  IPA: /sepulˈtaɾ/
+  IPA: [s̺e.pul̪ˈt̪aɾ]
+entrada
+  IPA: /enˈtɾada/
+  IPA: [en̪ˈt̪ɾa.ð̞ɐ]
+enriquecer
+  IPA: /enrikeˈθeɾ/
+perseguir
+  IPA: [peɾ.se.ˈɣiɾ]
+  IPA: [peɾ.se.ˈħiɾ]
+documento
+  IPA: /dokuˈmento/
+  IPA: [d̪o.kuˈmẽn̪.t̪ʊ]
+  IPA: /dokuˈmɛnto/
+  IPA: [d̪o.kuˈmɛ̃n̪.t̪ʊ]
+reino
+  IPA: /ˈrejno/
+  IPA: [ˈrej.nʊ]
+oído
+  IPA: [oˈiðʊ]
+investigar
+  IPA: /imbestiˈɡaɾ/
+  IPA: [im.bes̺.t̪iˈɣ̞ɑɾ]
+  IPA: /imbestiˈɡaɾ/ (Tags: standard)
+  IPA: [im.bes̺.t̪iˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /imbestiˈħaɾ/
+  IPA: [im.bes̺.t̪iˈħɑɾ]
+marco
+  IPA: /ˈmaɾko/
+  IPA: [ˈmaɾ.kʊ]
+escapar
+  IPA: [eskaˈpaɾ]
+curar
+  IPA: /kuˈɾaɾ/
+reducir
+  IPA: /reduˈθiɾ/
+  IPA: [re.ð̞uˈθiɾ]
+  IPA: /reduˈθiɾ/ (Tags: standard)
+  IPA: [re.ð̞uˈθiɾ] (Tags: standard)
+  IPA: /reduˈsiɾ/
+  IPA: [re.ð̞uˈsiɾ]
+esconder
+  IPA: [es.kon.ˈdeɾ]
+seguir
+  IPA: [seˈɣiɾ]
+  IPA: [seˈħiɾ]
+declarar
+  IPA: /deklaˈɾaɾ/
+  IPA: [d̪e.klaˈɾaɾ]
+confirmar
+  IPA: [koɱfiɾˈmaɾ]
+recibir
+  IPA: [reθiˈβiɾ]
+  IPA: [reθiˈβiɾ] (Tags: Western)
+cepillo
+  IPA: /θeˈpiʎʊ/
+baño
+  IPA: /ˈbaɲo/
+  IPA: [ˈba.ɲʊ]
+facilitar
+  IPA: /faθiliˈtaɾ/
+  IPA: [fa.θi.liˈt̪aɾ]
+  IPA: /faθiliˈtaɾ/ (Tags: standard)
+  IPA: [fa.θi.liˈt̪aɾ] (Tags: standard)
+  IPA: /fasiliˈtaɾ/
+  IPA: [fa.si.liˈt̪aɾ]
+importar
+  IPA: /impoɾˈtaɾ/
+  IPA: [im.poɾˈt̪aɾ]
+aplicar
+  IPA: /apliˈkaɾ/
+salvar
+  IPA: /salˈbaɾ/
+  IPA: [s̺ɑlˈβ̞aɾ]
+publicar
+  IPA: /publiˈkaɾ/
+  IPA: [pu.β̞liˈkɑɾ]
+preguntar
+  IPA: /pɾeɡunˈtaɾ/
+  IPA: [pɾe.ɣ̞un̪ˈt̪aɾ]
+  IPA: /pɾeɡunˈtaɾ/ (Tags: standard)
+  IPA: [pɾe.ɣ̞un̪ˈt̪aɾ] (Tags: standard)
+  IPA: /pɾeħunˈtaɾ/
+  IPA: [pɾe.ħun̪ˈt̪aɾ]
+castigar
+  IPA: /kastiˈɡaɾ/
+  IPA: [kɑs̺.t̪iˈɣ̞ɑɾ]
+  IPA: /kastiˈɡaɾ/ (Tags: standard)
+  IPA: [kɑs̺.t̪iˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /kastiˈħaɾ/
+  IPA: [kɑs̺.t̪iˈħɑɾ]
+arder
+  IPA: [aɾˈðɛɾ]
+  IPA: [aɾˈðɛɾɛ]
+vestido
+  IPA: /besˈtido/
+  IPA: [bes̺ˈt̪i.ð̞ʊ]
+demandar
+  IPA: [d̪e.mãnˈð̞ar]
+afirmar
+  IPA: /afiɾˈmaɾ/
+  IPA: [a.fiɾˈmaɾ]
+callar
+  IPA: /ka.ˈʎaɾ/
+marcar
+  IPA: /maɾˈkaɾ/
+  IPA: [maɾˈkɑɾ]
+marcar
+  IPA: /maɾˈkaɾ/
+  IPA: [maɾˈkɑɾ]
+entender
+  IPA: /entenˈdeɾ/
+  IPA: [en̪.t̪en̪ˈd̪eɾ]
+chantar
+  IPA: /t͡ʃanˈtaɾ/
+é
+  IPA: /ˈɛ/
+romper
+  IPA: [romˈpeɾ]
+soldar
+  IPA: /solˈðaɾ/
+botar
+  IPA: /boˈtar/
+subir
+  IPA: [suˈβiɾ]
+coser
+  IPA: [koˈseɾ]
+lata
+  IPA: /ˈlata̝/
+librar
+  IPA: /liˈbɾaɾ/
+  IPA: [liˈβ̞ɾaɾ]
+librar
+  IPA: /liˈbɾaɾ/
+  IPA: [liˈβ̞ɾaɾ]
+pinto
+  IPA: /ˈpinto̝/
+volver
+  IPA: [bolˈβeɾ]
+colgar
+  IPA: [kolˈɣaɾ]
+cansar
+  IPA: [kɑnˈsaɾ]
+pesar
+  IPA: [peˈsaɾ]
+ata
+  IPA: /ˈata/
+  IPA: [ˈa.t̪ɐ]
+valer
+  IPA: [baˈleɾ]
+enfadar
+  IPA: [eɱfaˈðaɾ]
+morrer
+  IPA: [moˈreɾ]
+obra
+  IPA: [ˈɔβɾɐ]
+rapar
+  IPA: /raˈpaɾ/
+abrigo
+  IPA: /aˈbɾiɡo/
+  IPA: [aˈβ̞ɾi.ɣ̞ʊ]
+  IPA: /aˈbɾiɡo/ (Tags: standard)
+  IPA: [aˈβ̞ɾi.ɣ̞ʊ] (Tags: standard)
+  IPA: /aˈbɾiħo/
+  IPA: [aˈβ̞ɾi.ħʊ]
+chapar
+  IPA: /t͡ʃaˈpaɾ/
+chapar
+  IPA: /t͡ʃaˈpaɾ/
+vía
+  IPA: [ˈbiɐ]
+cortar
+  IPA: [koɾˈtaɾ]
+mover
+  IPA: /moˈbeɾ/
+  IPA: [moˈβ̞eɾ]
+quente
+  IPA: /ˈkɛnte/
+  IPA: [ˈkɛn̪.t̪ɪ]
+achar
+  IPA: /aˈt͡ʃaɾ/
+  IPA: [aˈt͡ʃaɾ]
+atolar
+  IPA: /atoˈlaɾ/
+cooptar
+  IPA: /ˌkɔopˈtaɾ/
+  IPA: [ˌkɔopˈt̪aɾ]
+mudo
+  IPA: /ˈmuðo̝/
+labrada
+  IPA: /laˈβɾaða̝/
+varar
+  IPA: /baˈɾaɾ/
+gozar
+  IPA: /ɡoˈθaɾ/
+  IPA: [ɡoˈθaɾ]
+  IPA: /ɡoˈθaɾ/ (Tags: standard)
+  IPA: [ɡoˈθaɾ] (Tags: standard)
+  IPA: /ħoˈθaɾ/
+  IPA: [ħoˈθaɾ]
+  IPA: /ħoˈsaɾ/
+  IPA: [ħoˈsaɾ]
+rodeo
+  IPA: [roˈðe.ʊ]
+paso
+  IPA: /ˈpaso/
+  IPA: [ˈpa.s̺ʊ]
+compartir
+  IPA: /kompaɾˈtiɾ/
+  IPA: [kom.paɾˈt̪iɾ]
+raer
+  IPA: /raˈeɾ/
+cavar
+  IPA: /kaˈβaɾ/
+vagar
+  IPA: [baˈɣaɾ]
+vagar
+  IPA: [baˈɣaɾ]
+trato
+  IPA: [ˈtɾatʊ]
+marca
+  IPA: /ˈmaɾka̝/
+lidar
+  IPA: /liˈðaɾ/
+conducir
+  IPA: /konduˈθiɾ/
+  IPA: [kon̪.d̪uˈθiɾ]
+  IPA: /konduˈθiɾ/ (Tags: standard)
+  IPA: [kon̪.d̪uˈθiɾ] (Tags: standard)
+  IPA: /konduˈsiɾ/
+  IPA: [kon̪.d̪uˈsiɾ]
+pagar
+  IPA: /paˈɡaɾ/
+  IPA: [pɑˈɣ̞ɑɾ]
+  IPA: /paˈɡaɾ/ (Tags: standard)
+  IPA: [pɑˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /paˈħaɾ/
+  IPA: [pɑˈħɑɾ]
+vés
+  IPA: /bɛs/
+queremos
+  IPA: /keˈɾemʊs/
+picar
+  IPA: /piˈkaɾ/
+casco
+  IPA: /ˈkasko/
+  IPA: [ˈkɑs̺.kʊ]
+ida
+  IPA: [ˈiðɐ]
+cerrar
+  IPA: /θɛˈraɾ/ (Tags: standard)
+  IPA: /sɛˈraɾ/ (Tags: Western)
+coito
+  IPA: /ˈkojto/
+  IPA: [ˈkoj.t̪ʊ]
+pisar
+  IPA: /piˈsaɾ/
+pisar
+  IPA: /piˈsaɾ/
+parir
+  IPA: [paˈɾiɾ]
+galga
+  IPA: /ˈɡalɣa̝/
+opor
+  IPA: [oˈpɔɾ]
+farto
+  IPA: /ˈfaɾto̝/
+ripa
+  IPA: [ˈripɐ]
+doar
+  IPA: /doˈaɾ/
+montar
+  IPA: /monˈtaɾ/
+fala
+  IPA: /ˈfala/
+  IPA: [ˈfa.lɐ]
+vinda
+  IPA: [ˈbindɐ]
+parecer
+  IPA: /ˌpaɾeˈθeɾ/ (Tags: standard)
+  IPA: /ˌpaɾeˈseɾ/ (Tags: Western, dialectal)
+roer
+  IPA: /roˈeɾ/
+fai
+  IPA: /faj/
+morto
+  IPA: /ˈmɔɾto/
+  IPA: [ˈmɔɾ.t̪ʊ]
+  IPA: /ˈmoɾto/
+  IPA: [ˈmoɾ.t̪ʊ]
+punir
+  IPA: /puˈniɾ/
+  IPA: [puˈniɾ]
+fiar
+  IPA: /ˈfjaɾ/
+  IPA: [ˈfjaɾ]
+fiar
+  IPA: /ˈfjaɾ/
+  IPA: [ˈfjaɾ]
+tallo
+  IPA: /ˈtaʎo̝/
+forzar
+  IPA: [foɾˈθaɾ]
+  IPA: [foɾˈsaɾ] (Tags: Western)
+vou
+  IPA: /bow/
+papar
+  IPA: /paˈpaɾ/
+pasar
+  IPA: /paˈsaɾ/
+  IPA: [paˈs̺aɾ]
+golpear
+  IPA: [ɡolpeˈaɾ]
+revistar
+  IPA: /rebisˈtaɾ/
+  IPA: [re.β̞is̺ˈt̪aɾ]
+madrugar
+  IPA: [maðɾuˈɣaɾ]
+asar
+  IPA: /aˈsaɾ/
+pescar
+  IPA: /pesˈkaɾ/
+pintar
+  IPA: /pinˈtaɾ/
+cepillar
+  IPA: /θepiˈʎaɾ/
+criar
+  IPA: [kɾiˈaɾ]
+marra
+  IPA: /ˈmara̝/
+lapa
+  IPA: [ˈlapɐ]
+impar
+  IPA: [imˈpaɾ]
+talla
+  IPA: /ˈtaʎa̝/
+tallar
+  IPA: /taˈʎaɾ/
+atar
+  IPA: /aˈtaɾ/
+  IPA: [aˈt̪aɾ]
+vestir
+  IPA: /besˈtiɾ/
+  IPA: /bisˈtiɾ/
+sumir
+  IPA: [suˈmiɾ]
+mudar
+  IPA: [muˈðaɾ]
+abanico
+  IPA: /abaˈniko/
+  IPA: [a.β̞aˈni.kʊ]
+abanicar
+  IPA: /abaniˈkaɾ/
+  IPA: [a.β̞a.niˈkɑɾ]
+abeto
+  IPA: /aˈbeto/
+  IPA: [aˈβ̞e.t̪ʊ]
+cazar
+  IPA: /kaˈθaɾ/
+  IPA: [kɑˈθaɾ]
+  IPA: /kaˈθaɾ/ (Tags: standard)
+  IPA: [kɑˈθaɾ] (Tags: standard)
+  IPA: /kaˈsaɾ/
+  IPA: [kɑˈsaɾ]
+morado
+  IPA: /moˈɾaðo̝/
+brindar
+  IPA: /bɾinˈdaɾ/
+putear
+  IPA: [puteˈaɾ]
+orde
+  IPA: /ˈɔɾde/
+  IPA: [ˈɔɾ.ð̞ɪ]
+voar
+  IPA: /boˈaɾ/
+  IPA: [boˈaɾ]
+vexo
+  IPA: /bɪˈʃʊ/
+ladrar
+  IPA: /laˈðɾaɾ/
+cacha
+  IPA: /ˈkat͡ʃa/
+  IPA: [ˈkɑ.t͡ʃɐ]
+manda
+  IPA: /ˈmanda̝/
+marchar
+  IPA: /maɾˈt͡ʃaɾ/
+imita
+  IPA: /iˈmita/
+  IPA: [iˈmi.t̪ɐ]
+bullo
+  IPA: /ˈbuʎo̝/
+eixir
+  IPA: [ejˈʃiɾ]
+cagar
+  IPA: /kaˈɣaɾ/
+  IPA: /kaˈħaɾ/
+calar
+  IPA: [kɑ.ˈlaɾ]
+rabia
+  IPA: /ˈrabja/
+  IPA: [ˈra.β̞jɐ]
+tolerar
+  IPA: /tolɛˈɾaɾ/
+  IPA: [t̪o.lɛˈɾaɾ]
+abdicar
+  IPA: /abdiˈkaɾ/
+  IPA: [aβ̞.ð̞iˈkɑɾ]
+rabiar
+  IPA: /raˈβjaɾ/
+suceder
+  IPA: /suθeˈdeɾ/
+  IPA: [s̺u.θeˈð̞eɾ]
+  IPA: /suθeˈdeɾ/ (Tags: standard)
+  IPA: [s̺u.θeˈð̞eɾ] (Tags: standard)
+  IPA: /suseˈdeɾ/
+  IPA: [su.seˈð̞eɾ]
+callado
+  IPA: [kɑ.ˈʎa.ðʊ]
+viven
+  IPA: /ˈbibeŋ/
+  IPA: [ˈbi.β̞eŋ]
+asistir
+  IPA: [as̺is̺ˈtiɾ]
+percibir
+  IPA: [peɾθiˈβiɾ]
+  IPA: [peɾsiˈβiɾ] (Tags: Western)
+empeorar
+  IPA: /empeoˈɾaɾ/
+  IPA: [em.peoˈɾaɾ]
+abrazar
+  IPA: /abɾaˈθaɾ/
+  IPA: [a.β̞ɾaˈθaɾ]
+  IPA: /abɾaˈθaɾ/ (Tags: standard)
+  IPA: [a.β̞ɾaˈθaɾ] (Tags: standard)
+  IPA: /abɾaˈsaɾ/
+  IPA: [a.β̞ɾaˈsaɾ]
+adoptar
+  IPA: /ɐðɔpˈtaɾ/
+aliviar
+  IPA: /aliˈβjaɾ/
+regañar
+  IPA: [reɣaˈɲaɾ]
+regañar
+  IPA: [reɣaˈɲaɾ]
+confortar
+  IPA: [koɱfoɾˈtaɾ]
+bloquear
+  IPA: /blokeˈaɾ/
+  IPA: [blo.keˈaɾ]
+bañar
+  IPA: [baˈɲaɾ]
+engordar
+  IPA: [eŋɡoɾˈðaɾ]
+transmitir
+  IPA: /tɾansmiˈtiɾ/
+  IPA: [t̪ɾanz̺.miˈt̪iɾ]
+cachear
+  IPA: /kat͡ʃeˈaɾ/
+sacudir
+  IPA: [sakuˈðiɾ]
+compilar
+  IPA: /kompiˈlaɾ/
+  IPA: [kom.piˈlaɾ]
+condenar
+  IPA: [kondeˈnaɾ]
+consolar
+  IPA: [konsoˈlaɾ]
+apartar
+  IPA: [apaɾˈtaɾ]
+frustrar
+  IPA: /fɾusˈtɾaɾ/
+  IPA: [fɾus̺ˈt̪ɾaɾ]
+proceder
+  IPA: /pɾoθeˈdeɾ/
+  IPA: [pɾo.θeˈð̞eɾ]
+  IPA: /pɾoθeˈdeɾ/ (Tags: standard)
+  IPA: [pɾo.θeˈð̞eɾ] (Tags: standard)
+  IPA: /pɾoseˈdeɾ/
+  IPA: [pɾo.seˈð̞eɾ]
+cambiar
+  IPA: /kamˈbjaɾ/
+  IPA: [kɑmˈbjaɾ]
+regatear
+  IPA: /reɣateˈaɾ/
+derribar
+  IPA: /deriˈbaɾ/
+  IPA: [d̪e.riˈβ̞aɾ]
+distinguir
+  IPA: /distiŋˈɡiɾ/
+  IPA: [d̪is̺.t̪iŋˈɡiɾ]
+  IPA: /distiŋˈɡiɾ/ (Tags: standard)
+  IPA: [d̪is̺.t̪iŋˈɡiɾ] (Tags: standard)
+  IPA: /distiŋˈħiɾ/
+  IPA: [d̪is̺.t̪iŋˈħiɾ]
+confrontar
+  IPA: /konfɾonˈtaɾ/
+  IPA: [koɱ.fɾon̪ˈt̪aɾ]
+incapacitar
+  IPA: /iŋkapaθiˈtaɾ/
+  IPA: [iŋ.kɑ.pa.θiˈt̪aɾ]
+  IPA: /iŋkapaθiˈtaɾ/ (Tags: standard)
+  IPA: [iŋ.kɑ.pa.θiˈt̪aɾ] (Tags: standard)
+  IPA: /iŋkapasiˈtaɾ/
+  IPA: [iŋ.kɑ.pa.siˈt̪aɾ]
+acertar
+  IPA: /aθeɾˈtaɾ/
+  IPA: [a.θeɾˈt̪aɾ]
+  IPA: /aθeɾˈtaɾ/ (Tags: standard)
+  IPA: [a.θeɾˈt̪aɾ] (Tags: standard)
+  IPA: /aseɾˈtaɾ/
+  IPA: [a.seɾˈt̪aɾ]
+manchar
+  IPA: [manˈt͡ʃaɾ]
+manchar
+  IPA: [manˈt͡ʃaɾ]
+precisar
+  IPA: [pɾeθiˈsɐɾ] (Tags: standard)
+  IPA: [pɾesiˈsɐɾ] (Tags: Western, dialectal)
+reparar
+  IPA: [re.pa.ˈɾaɾ]
+corrida
+  IPA: [koˈriðɐ]
+alimentar
+  IPA: /alimenˈtaɾ/
+  IPA: [a.li.mẽn̪ˈt̪aɾ]
+  IPA: /alimɛnˈtaɾ/
+  IPA: [a.li.mɛ̃n̪ˈt̪aɾ]
+conquistar
+  IPA: /koŋkisˈtaɾ/
+  IPA: [koŋ.kis̺ˈt̪aɾ]
+gastar
+  IPA: /ɡasˈtaɾ/
+adobar
+  IPA: /aðoˈβaɾ/
+asomar
+  IPA: [asoˈmaɾ]
+alfombrar
+  IPA: /alfomˈbɾaɾ/
+  IPA: [ɑl.fomˈbɾaɾ]
+pitar
+  IPA: /piˈtaɾ/
+guerrear
+  IPA: [ɡereˈaɾ]
+aceitar
+  IPA: /aθejˈtaɾ/
+  IPA: [a.θejˈt̪aɾ]
+  IPA: /aθejˈtaɾ/ (Tags: standard)
+  IPA: [a.θejˈt̪aɾ] (Tags: standard)
+  IPA: /asejˈtaɾ/
+  IPA: [a.sejˈt̪aɾ]
+abrasar
+  IPA: [aβɾaˈsaɾ]
+labrar
+  IPA: [laˈβɾaɾ]
+gradar
+  IPA: /ɡɾaˈðaɾ/
+cardar
+  IPA: /kɑɾˈðaɾ/
+acomodar
+  IPA: /akomoˈdaɾ/
+  IPA: [ɑ.ko.moˈð̞aɾ]
+asimilar
+  IPA: /asimiˈlaɾ/
+  IPA: [a.s̺i.miˈlaɾ]
+narrar
+  IPA: /naˈraɾ/
+  IPA: [naˈraɾ]
+ondear
+  IPA: /ondeˈaɾ/
+  IPA: [on̪.d̪eˈaɾ]
+trillar
+  IPA: /tɾiˈʎaɾ/
+atufar
+  IPA: [atuˈfaɾ]
+guisar
+  IPA: /ɡiˈsaɾ/
+lamber
+  IPA: /lamˈbeɾ/
+  IPA: [lamˈbeɾ]
+amparar
+  IPA: [ampaˈɾaɾ]
+suspirar
+  IPA: /suspiˈɾaɾ/
+dirigir
+  IPA: /diɾiˈʃiɾ/
+  IPA: [d̪i.ɾiˈʃiɾ]
+temperar
+  IPA: [tempeˈɾaɾ]
+acumular
+  IPA: /akumuˈlaɾ/
+  IPA: [ɑ.ku.muˈlaɾ]
+latir
+  IPA: [laˈtiɾ]
+imitar
+  IPA: /imiˈtaɾ/
+  IPA: [i.miˈt̪aɾ]
+eliminar
+  IPA: /ɛlimiˈnaɾ/
+  IPA: [ɛ.li.mĩˈnaɾ]
+vulnerar
+  IPA: /bulneˈɾaɾ/
+  IPA: [bul.neˈɾaɾ]
+inventar
+  IPA: /imbenˈtaɾ/
+  IPA: [im.ben̪ˈt̪aɾ]
+convivir
+  IPA: /kombiˈbiɾ/
+  IPA: [kom.biˈβ̞iɾ]
+bordear
+  IPA: /boɾðeˈaɾ/
+decorar
+  IPA: /dekoˈɾaɾ/
+  IPA: [d̪e.koˈɾaɾ]
+cebar
+  IPA: [θeˈbaɾ]
+  IPA: [seˈbaɾ] (Tags: Western)
+trotar
+  IPA: /tɾɔˈtaɾ/
+ignorar
+  IPA: [iɡnoˈɾaɾ]
+  IPA: [inoˈɾaɾ]
+avisar
+  IPA: [aβiˈsaɾ]
+testar
+  IPA: /tesˈtaɾ/
+  IPA: /tɛsˈtaɾ/
+testar
+  IPA: /tesˈtaɾ/
+arbitrar
+  IPA: /aɾbiˈtɾaɾ/
+  IPA: [aɾ.β̞iˈt̪ɾaɾ]
+croar
+  IPA: [kɾoˈaɾ]
+pelar
+  IPA: /peˈlaɾ/
+  IPA: [peˈlaɾ]
+bramar
+  IPA: /bɾaˈmaɾ/
+brotar
+  IPA: [bɾɔˈtaɾ]
+capear
+  IPA: /kapeˈaɾ/
+  IPA: [kɑ.peˈaɾ]
+circundar
+  IPA: /θiɾkunˈdaɾ/
+  IPA: [θiɾ.kun̪ˈd̪aɾ]
+  IPA: /θiɾkunˈdaɾ/ (Tags: standard)
+  IPA: [θiɾ.kun̪ˈd̪aɾ] (Tags: standard)
+  IPA: /siɾkunˈdaɾ/
+  IPA: [siɾ.kun̪ˈd̪aɾ]
+colmar
+  IPA: /kolˈmaɾ/
+combar
+  IPA: [komˈbaɾ]
+precaver
+  IPA: /pɾekaˈbeɾ/
+  IPA: [pɾe.kɑˈβ̞eɾ]
+culpar
+  IPA: [kulˈpaɾ]
+clarear
+  IPA: [klaɾeˈaɾ]
+consagrar
+  IPA: /konsaˈɡɾaɾ/
+  IPA: [kon.s̺ɑˈɣ̞ɾaɾ]
+  IPA: /konsaˈɡɾaɾ/ (Tags: standard)
+  IPA: [kon.s̺ɑˈɣ̞ɾaɾ] (Tags: standard)
+  IPA: /konsaˈħɾaɾ/
+  IPA: [kon.s̺ɑˈħɾaɾ]
+captar
+  IPA: /kapˈtaɾ/
+  IPA: [kɑpˈt̪aɾ]
+censurar
+  IPA: /θensuˈɾaɾ/
+  IPA: [θen.s̺uˈɾaɾ]
+  IPA: /θensuˈɾaɾ/ (Tags: standard)
+  IPA: [θen.s̺uˈɾaɾ] (Tags: standard)
+  IPA: /sensuˈɾaɾ/
+  IPA: [sen.suˈɾaɾ]
+  IPA: /θɛnsuˈɾaɾ/
+  IPA: [θɛn.s̺uˈɾaɾ]
+  IPA: /θɛnsuˈɾaɾ/ (Tags: standard)
+  IPA: [θɛn.s̺uˈɾaɾ] (Tags: standard)
+  IPA: /sɛnsuˈɾaɾ/
+  IPA: [sɛn.suˈɾaɾ]
+afinar
+  IPA: /afiˈnaɾ/
+  IPA: [a.fiˈnaɾ]
+pinchar
+  IPA: /pinˈt͡ʃaɾ/
+  IPA: [pinʲˈt͡ʃaɾ]
+pender
+  IPA: [penˈdeɾ]
+casar
+  IPA: [kaˈsaɾ]
+tapar
+  IPA: /taˈpaɾ/
+bufar
+  IPA: /buˈfaɾ/
+  IPA: [buˈfaɾ]
+afeito
+  IPA: [aˈfejtʊ]
+cachar
+  IPA: /kaˈt͡ʃaɾ/
+cachar
+  IPA: /kaˈt͡ʃaɾ/
+incrustar
+  IPA: /iŋkɾusˈtaɾ/
+  IPA: [iŋ.kɾus̺ˈt̪aɾ]
+virar
+  IPA: /biˈɾaɾ/
+arrimar
+  IPA: /ariˈmaɾ/
+  IPA: [a.riˈmaɾ]
+catar
+  IPA: /kaˈtaɾ/
+alistado
+  IPA: [alisˈtaðʊ]
+apartado
+  IPA: /apaɾˈtado/
+  IPA: [a.paɾˈt̪a.ð̞ʊ]
+convidar
+  IPA: /kombiˈðaɾ/
+arrimado
+  IPA: [ariˈmaðʊ]
+asimilado
+  IPA: /asimiˈlado/
+  IPA: [a.s̺i.miˈla.ð̞ʊ]
+asistas
+  IPA: /aˈsistas/
+  IPA: [aˈs̺is̺.t̪as̺]
+asimila
+  IPA: /asiˈmila/
+  IPA: [a.s̺iˈmi.lɐ]
+arado
+  IPA: /aˈɾaðo̝/
+pegar
+  IPA: /peˈɣaɾ/
+barata
+  IPA: /baˈɾata/
+  IPA: [baˈɾa.t̪ɐ]
+asfalto
+  IPA: /asˈfalto/
+  IPA: [as̺ˈfɑl̪.t̪ʊ]
+detallar
+  IPA: /detaˈɟaɾ/
+  IPA: [d̪e.t̪aˈɟaɾ]
+deleitar
+  IPA: /delejˈtaɾ/
+  IPA: [d̪e.lejˈt̪aɾ]
+encalar
+  IPA: [eŋkaˈlaɾ]
+encamar
+  IPA: /eŋkaˈmaɾ/
+  IPA: [eŋ.kɑˈmaɾ]
+encallar
+  IPA: [enkaˈʎaɾ]
+enfermar
+  IPA: [eɱfeɾˈmaɾ]
+entrampar
+  IPA: [entɾamˈpaɾ]
+escabechar
+  IPA: /eskabeˈt͡ʃaɾ/
+  IPA: [es̺.kɑ.β̞eˈt͡ʃaɾ]
+ensanchar
+  IPA: [ensanˈt͡ʃaɾ]
+derramar
+  IPA: [deraˈmaɾ]
+atufado
+  IPA: /atuˈfaðo̝/
+desprender
+  IPA: /despɾenˈdeɾ/
+escorar
+  IPA: /eskɔˈɾaɾ/
+documentar
+  IPA: /dokumenˈtaɾ/
+  IPA: [d̪o.ku.mẽn̪ˈt̪aɾ]
+  IPA: /dokumɛnˈtaɾ/
+  IPA: [d̪o.ku.mɛ̃n̪ˈt̪aɾ]
+entallar
+  IPA: [entaˈʎaɾ]
+enganchar
+  IPA: [eŋɡanˈt͡ʃaɾ]
+departir
+  IPA: /depaɾˈtiɾ/
+enredar
+  IPA: /enreˈðaɾ/
+batido
+  IPA: /baˈtido/
+  IPA: [baˈt̪i.ð̞ʊ]
+empanar
+  IPA: /empaˈnaɾ/
+empanar
+  IPA: /empaˈnaɾ/
+avisado
+  IPA: [aβiˈsaðʊ]
+baila
+  IPA: [ˈbajlɐ]
+escatimar
+  IPA: [eskɑtiˈmaɾ]
+entornar
+  IPA: /entoɾˈnaɾ/
+escamar
+  IPA: [eskɑˈmaɾ]
+esmaltar
+  IPA: /esmalˈtaɾ/
+  IPA: [ez̺.mɑl̪ˈt̪aɾ]
+escaldar
+  IPA: /eskalˈðaɾ/
+cantas
+  IPA: /ˈkantɐs/
+calado
+  IPA: [kɑ.ˈla.ðʊ]
+cacho
+  IPA: /ˈkat͡ʃo/
+  IPA: [ˈkɑ.t͡ʃʊ]
+cebado
+  IPA: [θeˈβaðʊ]
+  IPA: [seˈβaðʊ] (Tags: Western)
+canta
+  IPA: /ˈkantɐ/
+empachar
+  IPA: /empaˈt͡ʃaɾ/
+cata
+  IPA: [ˈkɑtɐ]
+censura
+  IPA: /θenˈsuɾa/
+  IPA: [θenˈs̺u.ɾɐ]
+  IPA: /θenˈsuɾa/ (Tags: standard)
+  IPA: [θenˈs̺u.ɾɐ] (Tags: standard)
+  IPA: /senˈsuɾa/
+  IPA: [senˈsu.ɾɐ]
+  IPA: /θɛnˈsuɾa/
+  IPA: [θɛnˈs̺u.ɾɐ]
+  IPA: /θɛnˈsuɾa/ (Tags: standard)
+  IPA: [θɛnˈs̺u.ɾɐ] (Tags: standard)
+  IPA: /sɛnˈsuɾa/
+  IPA: [sɛnˈsu.ɾɐ]
+espetar
+  IPA: /espeˈtaɾ/
+colmado
+  IPA: [kolˈmaðʊ]
+espantar
+  IPA: /espanˈtaɾ/
+constipado
+  IPA: /kons.tiˈpa.ðo/
+estorbar
+  IPA: [estoɾˈβaɾ]
+estirar
+  IPA: /estiˈɾaɾ/
+conversa
+  IPA: /komˈbɛɾsa/
+  IPA: [komˈbɛɾ.s̺ɐ]
+exonerar
+  IPA: /ɛksɔnɛˈɾaɾ/
+  IPA: [ɛk.s̺ɔ.nɛˈɾaɾ]
+exacerbar
+  IPA: /eksaθeɾˈbaɾ/
+  IPA: [ek.s̺a.θeɾˈβ̞aɾ]
+  IPA: /eksaθeɾˈbaɾ/ (Tags: standard)
+  IPA: [ek.s̺a.θeɾˈβ̞aɾ] (Tags: standard)
+  IPA: /eksaseɾˈbaɾ/
+  IPA: [ek.sa.seɾˈβ̞aɾ]
+estampar
+  IPA: /estamˈpaɾ/
+estimar
+  IPA: [es.ti.ˈmaɾ]
+decoro
+  IPA: /deˈkɔɾo/
+  IPA: [d̪eˈkɔ.ɾʊ]
+explorar
+  IPA: /eksplɔˈɾaɾ/
+  IPA: [eks̺.plɔˈɾaɾ]
+franquear
+  IPA: [fraŋkeˈaɾ]
+fermentar
+  IPA: [feɾmenˈtaɾ]
+forrar
+  IPA: /foˈraɾ/
+fundir
+  IPA: [funˈdiɾ]
+fundir
+  IPA: [funˈdiɾ]
+fulgurar
+  IPA: /fulɡuˈɾaɾ/
+  IPA: [fuɫ.ɣ̞uˈɾaɾ]
+  IPA: /fulɡuˈɾaɾ/ (Tags: standard)
+  IPA: [fuɫ.ɣ̞uˈɾaɾ] (Tags: standard)
+  IPA: /fulħuˈɾaɾ/
+  IPA: [fuɫ.ħuˈɾaɾ]
+encanto
+  IPA: /eŋˈkanto/
+  IPA: [eŋˈkɑn̪.t̪ʊ]
+humillar
+  IPA: /umiˈʎaɾ/
+enfermaría
+  IPA: [eɱfeɾmaˈɾiɐ]
+galopar
+  IPA: /ɡaloˈpaɾ/
+enfermo
+  IPA: [eɱˈfeɾmʊ]
+iluminar
+  IPA: /ilumiˈnaɾ/
+  IPA: [i.lu.mĩˈnaɾ]
+habitar
+  IPA: /a.biˈtaɾ/
+igualar
+  IPA: [iɣu̯aˈlaɾ]
+facilitas
+  IPA: /faθiˈlitas/
+  IPA: [fa.θiˈli.t̪as̺]
+  IPA: /faθiˈlitas/ (Tags: standard)
+  IPA: [fa.θiˈli.t̪as̺] (Tags: standard)
+  IPA: /fasiˈlitas/
+  IPA: [fa.siˈli.t̪as]
+incendiar
+  IPA: /inθɛnˈdjaɾ/
+  IPA: [in̪.θɛn̪ˈd̪jaɾ]
+  IPA: /inθɛnˈdjaɾ/ (Tags: standard)
+  IPA: [in̪.θɛn̪ˈd̪jaɾ] (Tags: standard)
+  IPA: /insɛnˈdjaɾ/
+  IPA: [in.sɛn̪ˈd̪jaɾ]
+falto
+  IPA: /ˈfalto/
+  IPA: [ˈfɑl̪.t̪ʊ]
+loar
+  IPA: /loˈaɾ/
+frito
+  IPA: /ˈfɾito̝/
+funde
+  IPA: /ˈfunde/
+  IPA: [ˈfun̪.d̪ɪ]
+infiltrar
+  IPA: /infilˈtɾaɾ/
+  IPA: [iɱ.fil̪ˈt̪ɾaɾ]
+espera
+  IPA: /esˈpɛɾɐ/
+guisado
+  IPA: [ɡiˈsaðʊ]
+masacrar
+  IPA: /masaˈkɾaɾ/
+  IPA: [ma.s̺ɑˈkɾaɾ]
+puntear
+  IPA: [punteˈaɾ]
+marear
+  IPA: /maɾeˈaɾ/
+marrar
+  IPA: /maˈraɾ/
+recobrar
+  IPA: [rekoˈβɾaɾ]
+morar
+  IPA: /moˈɾaɾ/
+remontar
+  IPA: /remonˈtaɾ/
+medrar
+  IPA: /meˈðɾaɾ/
+mutar
+  IPA: [muˈtaɾ]
+rematar
+  IPA: /remaˈtaɾ/
+rebobinar
+  IPA: /rebɔbiˈnaɾ/
+  IPA: [re.β̞ɔ.β̞iˈnaɾ]
+resignar
+  IPA: /resiŋˈnaɾ/
+  IPA: [re.s̺iŋˈnaɾ]
+reinar
+  IPA: /rejˈnaɾ/
+regalar
+  IPA: [reɣaˈlaɾ]
+raspar
+  IPA: /rasˈpaɾ/
+mamar
+  IPA: /maˈmaɾ/
+  IPA: [mãˈmaɾ]
+sobar
+  IPA: [soˈβaɾ]
+trabar
+  IPA: /tɾaˈβaɾ/
+rodear
+  IPA: [roðeˈaɾ]
+retar
+  IPA: /reˈtaɾ/
+podar
+  IPA: [poˈðaɾ]
+trinchar
+  IPA: [tɾinˈt͡ʃaɾ]
+lavado
+  IPA: /laˈbado/
+  IPA: [laˈβ̞a.ð̞ʊ]
+unificar
+  IPA: /unifiˈkaɾ/
+  IPA: [u.ni.fiˈkɑɾ]
+trepar
+  IPA: /tɾeˈpaɾ/
+tardar
+  IPA: /taɾˈdaɾ/
+  IPA: [t̪aɾˈð̞aɾ]
+tornar
+  IPA: /toɾˈnaɾ/
+pincho
+  IPA: /ˈpint͡ʃo̝/
+pintado
+  IPA: /pinˈtado/
+  IPA: [pin̪ˈt̪a.ð̞ʊ]
+precisan
+  IPA: [pɾeˈθisɐŋ] (Tags: standard)
+  IPA: [pɾeˈsisɐŋ] (Tags: Western, dialectal)
+precisa
+  IPA: [pɾeˈθisɐ] (Tags: standard)
+  IPA: [pɾeˈsisɐ] (Tags: Western, dialectal)
+preciso
+  IPA: [pɾeˈθisʊ] (Tags: standard)
+  IPA: [pɾeˈsisʊ] (Tags: Western, dialectal)
+mandado
+  IPA: [manˈdaðʊ]
+quebra
+  IPA: /ˈkɛbɾa/
+  IPA: [ˈkɛ.β̞ɾɐ]
+mancha
+  IPA: /ˈmant͡ʃa/
+  IPA: [ˈmãnʲ.t͡ʃɐ]
+nado
+  IPA: [ˈnaðʊ]
+tallado
+  IPA: [taˈʎaðʊ]
+tose
+  IPA: /ˈtɔsɪ/
+tardo
+  IPA: /ˈtaɾdo/
+  IPA: [ˈt̪aɾ.ð̞ʊ]
+suba
+  IPA: [ˈsuβɐ]
+trilla
+  IPA: /ˈtɾiʎa̝/
+venden
+  IPA: /ˈbɛndɪŋ/
+vibras
+  IPA: /ˈbibɾas/
+  IPA: [ˈbi.β̞ɾas̺]
+vende
+  IPA: /ˈbɛndɪ/
+suma
+  IPA: /ˈsuma/
+  IPA: [ˈs̺u.mɐ]
+zafado
+  IPA: /θaˈfado/
+  IPA: [θaˈfa.ð̞ʊ]
+  IPA: /θaˈfado/ (Tags: standard)
+  IPA: [θaˈfa.ð̞ʊ] (Tags: standard)
+  IPA: /saˈfado/
+  IPA: [saˈfa.ð̞ʊ]
+coller
+  IPA: /koˈɟeɾ/
+  IPA: [koˈɟeɾ]
+nevar
+  IPA: /neˈbaɾ/
+  IPA: [neˈβ̞aɾ]
+rubo
+  IPA: /ˈrubo/
+  IPA: [ˈru.β̞ʊ]
+escotar
+  IPA: /eskɔˈtaɾ/
+escotar
+  IPA: /eskɔˈtaɾ/
+escotar
+  IPA: /eskoˈtaɾ/
+guiar
+  IPA: /ɡiˈaɾ/
+trocar
+  IPA: /tɾoˈkaɾ/
+entregar
+  IPA: /entɾeˈɡaɾ/
+  IPA: [en̪.t̪ɾeˈɣ̞ɑɾ]
+  IPA: /entɾeˈɡaɾ/ (Tags: standard)
+  IPA: [en̪.t̪ɾeˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /entɾeˈħaɾ/
+  IPA: [en̪.t̪ɾeˈħɑɾ]
+cascar
+  IPA: /kasˈkaɾ/
+deixar
+  IPA: /dejˈʃaɾ/
+  IPA: [d̪ejˈʃaɾ]
+conter
+  IPA: [koŋˈteːɾ]
+edificar
+  IPA: /eðifiˈkaɾ/
+zoar
+  IPA: /θoˈaɾ/
+  IPA: [θoˈaɾ]
+  IPA: /θoˈaɾ/ (Tags: standard)
+  IPA: [θoˈaɾ] (Tags: standard)
+  IPA: /soˈaɾ/
+  IPA: [soˈaɾ]
+queimada
+  IPA: /kejˈmaða̝/
+queimar
+  IPA: /kejˈmaɾ/
+lapo
+  IPA: /ˈlapo̝/
+galar
+  IPA: /ɡaˈlaɾ/
+  IPA: /ħaˈlaɾ/ (Tags: Western)
+miar
+  IPA: /miˈaɾ/
+renegar
+  IPA: /reneˈɣaɾ/
+ventar
+  IPA: /benˈtaɾ/
+papas
+  IPA: /ˈpapas/
+  IPA: [ˈpa.pas̺]
+asentar
+  IPA: /asenˈtaɾ/
+  IPA: [a.s̺en̪ˈt̪aɾ]
+aterir
+  IPA: [ateɾiɾ]
+masturba
+  IPA: /masˈtuɾba/
+  IPA: [mas̺ˈt̪uɾ.β̞ɐ]
+adiar
+  IPA: [aðiˈaɾ]
+calcar
+  IPA: /kalˈkaɾ/
+escocer
+  IPA: [eskoˈθeɾ]
+  IPA: [eskoˈseɾ] (Tags: Western)
+imitando
+  IPA: /imiˈtando/
+  IPA: [i.miˈt̪an̪.d̪ʊ]
+piar
+  IPA: /piˈaɾ/
+rogar
+  IPA: [roˈɣaɾ]
+paga
+  IPA: [ˈpaɣɐ]
+manco
+  IPA: /ˈmaŋko/
+  IPA: [ˈmɑ̃ŋ.kʊ]
+apostar
+  IPA: /aposˈtaɾ/
+composta
+  IPA: /komˈpɔsta̝/
+alzar
+  IPA: /alˈθaɾ/
+  IPA: [ɑl̪ˈθaɾ]
+  IPA: /alˈθaɾ/ (Tags: standard)
+  IPA: [ɑl̪ˈθaɾ] (Tags: standard)
+  IPA: /alˈsaɾ/
+  IPA: [ɑlˈsaɾ]
+encargar
+  IPA: [eŋkaɾˈɣaɾ]
+largar
+  IPA: [laɾˈɣaɾ]
+traballa
+  IPA: /tɾɐβaˈʎɐ/
+traballo
+  IPA: [tɾaˈβaʎʊ]
+sos
+  IPA: [ˈsɔs]
+palidecer
+  IPA: [paliðeˈθeɾ]
+  IPA: [paliðeˈseɾ] (Tags: Western)
+cargar
+  IPA: /kaɾˈɣaɾ/
+chocar
+  IPA: [t͡ʃoˈkaɾ]
+chocar
+  IPA: [t͡ʃoˈkaɾ]
+saco
+  IPA: /ˈsako̝/
+introducir
+  IPA: /intɾoduˈθiɾ/
+  IPA: [in̪.t̪ɾo.ð̞uˈθiɾ]
+  IPA: /intɾoduˈθiɾ/ (Tags: standard)
+  IPA: [in̪.t̪ɾo.ð̞uˈθiɾ] (Tags: standard)
+  IPA: /intɾoduˈsiɾ/
+  IPA: [in̪.t̪ɾo.ð̞uˈsiɾ]
+divertir
+  IPA: [diβɪrˈtir]
+calzar
+  IPA: [kɑlˈθaɾ]
+  IPA: [kɑlˈsaɾ] (Tags: Western)
+bautizar
+  IPA: /bawtiˈθaɾ/
+  IPA: [bɑw.t̪iˈθaɾ]
+  IPA: /bawtiˈθaɾ/ (Tags: standard)
+  IPA: [bɑw.t̪iˈθaɾ] (Tags: standard)
+  IPA: /bawtiˈsaɾ/
+  IPA: [bɑw.t̪iˈsaɾ]
+avanzar
+  IPA: [aβanˈθaɾ]
+  IPA: [aβanˈsaɾ] (Tags: Western)
+tragar
+  IPA: [tɾaˈɣaɾ]
+fregar
+  IPA: /fɾeˈɣaɾ/
+mascar
+  IPA: [masˈkaɾ]
+inducir
+  IPA: /induˈθiɾ/
+  IPA: [in̪.d̪uˈθiɾ]
+  IPA: /induˈθiɾ/ (Tags: standard)
+  IPA: [in̪.d̪uˈθiɾ] (Tags: standard)
+  IPA: /induˈsiɾ/
+  IPA: [in̪.d̪uˈsiɾ]
+tropezar
+  IPA: [tɾopeˈθaɾ]
+  IPA: [tɾopeˈsaɾ] (Tags: Western)
+impedir
+  IPA: [impeˈðiɾ]
+tentar
+  IPA: /tenˈtaɾ/
+  IPA: [t̪en̪ˈt̪aɾ]
+secar
+  IPA: /seˈkar/
+queixo
+  IPA: /ˈkejʃo/
+  IPA: [ˈkej.ʃʊ]
+mallo
+  IPA: /ˈmaʎo̝/
+rodo
+  IPA: /ˈrɔðo̝/
+lazar
+  IPA: [laˈθaɾ]
+portada
+  IPA: [poɾˈtaðɐ]
+aventurar
+  IPA: [aβentuˈɾaɾ]
+perda
+  IPA: /ˈpɛɾða̝/
+esforzar
+  IPA: [esfoɾˈθaɾ]
+  IPA: [esfoɾˈsaɾ] (Tags: Western)
+pasada
+  IPA: /paˈsaða̝/
+aparcar
+  IPA: /apaɾˈkaɾ/
+  IPA: [a.paɾˈkɑɾ]
+chiar
+  IPA: /t͡ʃiˈaɾ/
+cercar
+  IPA: /θeɾˈkaɾ/
+  IPA: /seɾˈkaɾ/ (Tags: Western)
+estro
+  IPA: /ˈestɾo/
+  IPA: [ˈes̺.t̪ɾʊ]
+partida
+  IPA: /paɾˈtida/
+  IPA: [paɾˈt̪i.ð̞ɐ]
+estancar
+  IPA: [estaŋˈkaɾ]
+ligar
+  IPA: [liˈɣaɾ]
+fita
+  IPA: /ˈfita/
+  IPA: [ˈfi.t̪ɐ]
+chamuscar
+  IPA: /t͡ʃamusˈkaɾ/
+sorrir
+  IPA: /soˈriːɾ/
+pegado
+  IPA: [peˈɣaðʊ]
+chisme
+  IPA: /ˈt͡ʃisme/
+  IPA: [ˈt͡ʃiz̺.mɪ]
+sodes
+  IPA: /sodɪs/
+garantir
+  IPA: /ɡaɾanˈtiɾ/
+  IPA: [ɡɑ.ɾan̪ˈt̪iɾ]
+  IPA: /ɡaɾanˈtiɾ/ (Tags: standard)
+  IPA: [ɡɑ.ɾan̪ˈt̪iɾ] (Tags: standard)
+  IPA: /ħaɾanˈtiɾ/
+  IPA: [ħɑ.ɾan̪ˈt̪iɾ]
+parlar
+  IPA: /paɾˈlaɾ/
+batería
+  IPA: /bateˈɾia/
+  IPA: [ba.t̪eˈɾi.ɐ]
+somos
+  IPA: /somʊs/
+atado
+  IPA: [aˈtaðʊ]
+infiltra
+  IPA: /inˈfiltɾa/
+  IPA: [iɱˈfil̪.t̪ɾɐ]
+abastecer
+  IPA: /abasteˈθeɾ/
+  IPA: [a.β̞as̺.t̪eˈθeɾ]
+  IPA: /abasteˈθeɾ/ (Tags: standard)
+  IPA: [a.β̞as̺.t̪eˈθeɾ] (Tags: standard)
+  IPA: /abasteˈseɾ/
+  IPA: [a.β̞as.t̪eˈseɾ]
+ficar
+  IPA: /fiˈkaɾ/
+  IPA: [fiˈkɑɾ]
+abrigar
+  IPA: [aβɾiˈɣaɾ]
+nomear
+  IPA: [no.me.ˈaɾ]
+tomada
+  IPA: /toˈmaða̝/
+afán
+  IPA: /aˈfaŋ/
+  IPA: [aˈfɑŋ]
+chamar
+  IPA: /t͡ʃaˈmaɾ/
+verificar
+  IPA: /beɾifiˈkaɾ/
+  IPA: [be.ɾi.fiˈkɑɾ]
+crer
+  IPA: [ˈkɾeɾ]
+vencido
+  IPA: [benˈθiðʊ]
+abaixo
+  IPA: /aˈbajʃo/
+  IPA: [aˈβ̞a̠j.ʃʊ]
+dobar
+  IPA: /doˈβaɾ/
+enfiar
+  IPA: [eɱfiˈaɾ]
+cuspir
+  IPA: /kusˈpiɾ/
+seca
+  IPA: [ˈsekɐ]
+guindar
+  IPA: /ɡinˈdaɾ/
+asado
+  IPA: [aˈsaðʊ]
+rodar
+  IPA: /roˈdaɾ/
+  IPA: [roˈð̞aɾ]
+trincar
+  IPA: /triŋˈkaɾ/
+trincar
+  IPA: /triŋˈkaɾ/
+trincar
+  IPA: /triŋˈkaɾ/
+masturbando
+  IPA: /mastuɾˈbando/
+  IPA: [mas̺.t̪uɾˈβ̞an̪.d̪ʊ]
+sosegar
+  IPA: [soseˈɣaɾ]
+adormecer
+  IPA: [aðoɾmeˈθeɾ]
+  IPA: [aðoɾmeˈseɾ] (Tags: Western)
+murar
+  IPA: /muˈɾar/
+murar
+  IPA: /muˈɾar/
+aguzar
+  IPA: [aɣuˈθar]
+obrigado
+  IPA: /obɾiˈɡado/
+  IPA: [o.β̞ɾiˈɣ̞ɑ.ð̞ʊ]
+  IPA: /obɾiˈɡado/ (Tags: standard)
+  IPA: [o.β̞ɾiˈɣ̞ɑ.ð̞ʊ] (Tags: standard)
+  IPA: /obɾiˈħado/
+  IPA: [o.β̞ɾiˈħɑ.ð̞ʊ]
+seducir
+  IPA: /seduˈθiɾ/
+  IPA: [s̺e.ð̞uˈθiɾ]
+  IPA: /seduˈθiɾ/ (Tags: standard)
+  IPA: [s̺e.ð̞uˈθiɾ] (Tags: standard)
+  IPA: /seduˈsiɾ/
+  IPA: [se.ð̞uˈsiɾ]
+segar
+  IPA: [seˈɣaɾ]
+levar
+  IPA: /leˈbaɾ/
+  IPA: [leˈβ̞aɾ]
+brear
+  IPA: [breˈaɾ]
+halar
+  IPA: /aˈlaɾ/
+aberto
+  IPA: /aˈbɛɾto/
+  IPA: [aˈβ̞ɛɾ.t̪ʊ]
+estrela
+  IPA: /esˈtɾela/
+  IPA: [es̺ˈt̪ɾe.lɐ]
+masturbar
+  IPA: /mastuɾˈbaɾ/
+  IPA: [mas̺.t̪uɾˈβ̞aɾ]
+moer
+  IPA: /moˈeɾ/
+afrontar
+  IPA: [afɾonˈtaɾ]
+relucir
+  IPA: /reluˈθiɾ/
+  IPA: [re.luˈθiɾ]
+  IPA: /reluˈθiɾ/ (Tags: standard)
+  IPA: [re.luˈθiɾ] (Tags: standard)
+  IPA: /reluˈsiɾ/
+  IPA: [re.luˈsiɾ]
+vingar
+  IPA: /biŋˈɡaɾ/
+esquecer
+  IPA: /eskɛˈθeɾ/
+  IPA: /eskɛˈseɾ/ (Tags: Western)
+rezo
+  IPA: /ˈrɛθo/
+  IPA: [ˈrɛ.θʊ]
+  IPA: /ˈrɛθo/ (Tags: standard)
+  IPA: [ˈrɛ.θʊ] (Tags: standard)
+  IPA: /ˈrɛso/
+  IPA: [ˈrɛ.sʊ]
+pregar
+  IPA: /pɾeˈɡaɾ/
+  IPA: [pɾeˈɣ̞ɑɾ]
+  IPA: /pɾeˈɡaɾ/ (Tags: standard)
+  IPA: [pɾeˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /pɾeˈħaɾ/
+  IPA: [pɾeˈħɑɾ]
+pregar
+  IPA: /pɾeˈɡaɾ/
+  IPA: [pɾeˈɣ̞ɑɾ]
+  IPA: /pɾeˈɡaɾ/ (Tags: standard)
+  IPA: [pɾeˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /pɾeˈħaɾ/
+  IPA: [pɾeˈħɑɾ]
+pregar
+  IPA: /pɾɛˈɡaɾ/
+  IPA: [pɾɛˈɣ̞ɑɾ]
+  IPA: /pɾɛˈɡaɾ/ (Tags: standard)
+  IPA: [pɾɛˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /pɾɛˈħaɾ/
+  IPA: [pɾɛˈħɑɾ]
+abasto
+  IPA: /aˈbasto/
+  IPA: [aˈβ̞as̺.t̪ʊ]
+abastar
+  IPA: [aβasˈtaɾ]
+lazo
+  IPA: /ˈlaθo/
+cheiro
+  IPA: /ˈt͡ʃɛj.ɾo̝/
+  IPA: /ˈt͡ʃej.ɾo̝/
+abducir
+  IPA: /abduˈθiɾ/
+  IPA: [aβ̞.ð̞uˈθiɾ]
+  IPA: /abduˈθiɾ/ (Tags: standard)
+  IPA: [aβ̞.ð̞uˈθiɾ] (Tags: standard)
+  IPA: /abduˈsiɾ/
+  IPA: [aβ̞.ð̞uˈsiɾ]
+chorar
+  IPA: /t͡ʃoˈɾaɾ/
+ensinar
+  IPA: [ensiˈnaɾ]
+estrado
+  IPA: /esˈtɾaðo̝/
+ataviar
+  IPA: /ataˈbjaɾ/
+  IPA: [a.t̪aˈβ̞jaɾ]
+segmento
+  IPA: /seɡˈmento/
+  IPA: [s̺eɣ̞ˈmẽn̪.t̪ʊ]
+  IPA: /seɡˈmento/ (Tags: standard)
+  IPA: [s̺eɣ̞ˈmẽn̪.t̪ʊ] (Tags: standard)
+  IPA: /seħˈmento/
+  IPA: [s̺eħˈmẽn̪.t̪ʊ]
+  IPA: /seɡˈmɛnto/
+  IPA: [s̺eɣ̞ˈmɛ̃n̪.t̪ʊ]
+  IPA: /seɡˈmɛnto/ (Tags: standard)
+  IPA: [s̺eɣ̞ˈmɛ̃n̪.t̪ʊ] (Tags: standard)
+  IPA: /seħˈmɛnto/
+  IPA: [s̺eħˈmɛ̃n̪.t̪ʊ]
+dourado
+  IPA: /dowˈɾaðo̝/
+tocan
+  IPA: /ˈtɔkaŋ/
+  IPA: [ˈt̪ɔ.kɑŋ]
+arrepentir
+  IPA: /arepenˈtiɾ/
+disentir
+  IPA: /disenˈtiɾ/
+resollar
+  IPA: [resoˈʎaɾ]
+presentir
+  IPA: /presenˈtiɾ/
+invernar
+  IPA: [imbɛɾˈnaɾ]
+engrosar
+  IPA: [eŋɡɾoˈsaɾ]
+verter
+  IPA: [beɾˈteɾ]
+assistas
+  IPA: /aˈsistas/
+  IPA: [aˈs̺is̺.t̪as̺]
+soterrar
+  IPA: /soteˈraɾ/
+risco
+  IPA: /ˈrisko̝/
+alongar
+  IPA: [aloŋˈɡaɾ]
+abano
+  IPA: /aˈbano/
+  IPA: [aˈβ̞a.nʊ]
+deducir
+  IPA: /deduˈθiɾ/
+  IPA: [d̪e.ð̞uˈθiɾ]
+  IPA: /deduˈθiɾ/ (Tags: standard)
+  IPA: [d̪e.ð̞uˈθiɾ] (Tags: standard)
+  IPA: /deduˈsiɾ/
+  IPA: [d̪e.ð̞uˈsiɾ]
+decrecer
+  IPA: /dekɾeˈθeɾ/
+  IPA: [d̪e.kɾeˈθeɾ]
+  IPA: /dekɾeˈθeɾ/ (Tags: standard)
+  IPA: [d̪e.kɾeˈθeɾ] (Tags: standard)
+  IPA: /dekɾeˈseɾ/
+  IPA: [d̪e.kɾeˈseɾ]
+aducir
+  IPA: [aðuˈθiɾ]
+estremecer
+  IPA: [estɾemeˈθeɾ]
+  IPA: [estɾemeˈseɾ] (Tags: Western)
+estragar
+  IPA: /estɾaˈɣaɾ/
+endurecer
+  IPA: /enduɾeˈθeɾ/
+  IPA: [en̪.d̪u.ɾeˈθeɾ]
+  IPA: /enduɾeˈθeɾ/ (Tags: standard)
+  IPA: [en̪.d̪u.ɾeˈθeɾ] (Tags: standard)
+  IPA: /enduɾeˈseɾ/
+  IPA: [en̪.d̪u.ɾeˈseɾ]
+aborrecer
+  IPA: [aβoreˈθeɾ]
+  IPA: [aβoreˈseɾ] (Tags: Western)
+rasgar
+  IPA: [rasˈɣaɾ]
+desarraigar
+  IPA: [desarajˈɣaɾ]
+porfiar
+  IPA: [poɾfiˈaɾ]
+albergar
+  IPA: [alβeɾˈɣaɾ]
+prolongar
+  IPA: [pɾo.loŋˈɡaɾ]
+machucar
+  IPA: /mat͡ʃuˈkaɾ/
+masturbas
+  IPA: /masˈtuɾbas/
+  IPA: [mas̺ˈt̪uɾ.β̞as̺]
+cristianizar
+  IPA: /kɾistjaniˈθaɾ/
+  IPA: [kɾis̺.t̪ja.niˈθaɾ]
+  IPA: /kɾistjaniˈθaɾ/ (Tags: standard)
+  IPA: [kɾis̺.t̪ja.niˈθaɾ] (Tags: standard)
+  IPA: /kɾistjaniˈsaɾ/
+  IPA: [kɾis.t̪ja.niˈsaɾ]
+criticar
+  IPA: /kɾitiˈkaɾ/
+  IPA: [kɾi.t̪iˈkɑɾ]
+crucificar
+  IPA: [kɾuθifiˈkaɾ]
+tendes
+  IPA: /ˈtendɪs/
+desprezar
+  IPA: [despɾeˈθaɾ]
+serán
+  IPA: /seˈɾaŋ/
+vimos
+  IPA: /bimʊs/
+vimos
+  IPA: /bimʊs/
+namorado
+  IPA: /namoˈɾado/
+  IPA: [nã.moˈɾa.ð̞ʊ]
+inchar
+  IPA: /inˈt͡ʃaɾ/
+vides
+  IPA: /biðɪs/
+transplantar
+  IPA: /tɾansplanˈtaɾ/
+  IPA: [t̪ɾans̺.plan̪ˈt̪aɾ]
+limpo
+  IPA: /ˈlimpo̝/
+escampar
+  IPA: [eskɑmˈpaɾ]
+limpar
+  IPA: /limˈpaɾ/
+aparecido
+  IPA: [apaɾeˈθiðʊ]
+alfar
+  IPA: /alˈfaɾ/
+ater
+  IPA: [aˈteːɾ]
+magoar
+  IPA: /maɣoˈaɾ/
+esmagar
+  IPA: /esmaˈɣaɾ/
+pendurar
+  IPA: /penduˈɾaɾ/
+estourar
+  IPA: /estowˈɾaɾ/
+repouso
+  IPA: [reˈpowsʊ]
+baratar
+  IPA: /baɾaˈtaɾ/
+chamo
+  IPA: /t͡ʃɐˈmʊ/
+picado
+  IPA: [piˈkɐðʊ]
+codificar
+  IPA: /kodifiˈkaɾ/
+  IPA: [ko.ð̞i.fiˈkɑɾ]
+voltar
+  IPA: [bɔlˈtaɾ]
+tremar
+  IPA: [tɾeˈmaɾ]
+testificar
+  IPA: /testifiˈkaɾ/
+  IPA: [t̪es̺.t̪i.fiˈkɑɾ]
+alucinar
+  IPA: /aluθiˈnaɾ/
+  IPA: [a.lu.θiˈnaɾ]
+  IPA: /aluθiˈnaɾ/ (Tags: standard)
+  IPA: [a.lu.θiˈnaɾ] (Tags: standard)
+  IPA: /alusiˈnaɾ/
+  IPA: [a.lu.siˈnaɾ]
+calzada
+  IPA: [kɑlˈθaða]
+  IPA: [kɑlˈθaða] (Tags: Western)
+toller
+  IPA: /toˈʎeɾ/
+quer
+  IPA: /ˈkɛɾ/
+fechar
+  IPA: /feˈt͡ʃaɾ/
+  IPA: [feˈt͡ʃaɾ]
+racha
+  IPA: /ˈrat͡ʃa/
+  IPA: [ˈra̠.t͡ʃɐ]
+revolta
+  IPA: /reˈbɔlta/
+  IPA: [reˈβ̞ɔl̪.t̪ɐ]
+rebanda
+  IPA: /reˈbanda/
+  IPA: [reˈβ̞an̪.d̪ɐ]
+rañar
+  IPA: /raˈɲaɾ/
+debuxo
+  IPA: /deˈbuʃo/
+  IPA: [d̪eˈβ̞u.ʃʊ]
+imaxinar
+  IPA: /imaʃiˈnaɾ/
+traballar
+  IPA: /tɾabaˈʎaɾ/
+amosar
+  IPA: [amoˈsaɾ]
+sexan
+  IPA: /ˈseʃɐŋ/
+predicir
+  IPA: /pɾediˈθiɾ/
+  IPA: [pɾe.ð̞iˈθiɾ]
+  IPA: /pɾediˈθiɾ/ (Tags: standard)
+  IPA: [pɾe.ð̞iˈθiɾ] (Tags: standard)
+  IPA: /pɾediˈsiɾ/
+  IPA: [pɾe.ð̞iˈsiɾ]
+afacer
+  IPA: [afaˈθeɾ]
+  IPA: [afaˈseɾ] (Tags: Western)
+pracer
+  IPA: /pɾaˈθeɾ/
+  IPA: [pɾaˈθeɾ]
+  IPA: /pɾaˈθeɾ/ (Tags: standard)
+  IPA: [pɾaˈθeɾ] (Tags: standard)
+  IPA: /pɾaˈseɾ/
+  IPA: [pɾaˈseɾ]
+poñer
+  IPA: /poˈɲeɾ/
+  IPA: [poˈɲeɾ]
+desfacer
+  IPA: [desˈfaθeɾ]
+  IPA: [desˈfaseɾ] (Tags: Western)
+coñecer
+  IPA: [koɲeˈθeɾ]
+  IPA: [koɲeˈseɾ] (Tags: Western)
+soster
+  IPA: [soz̺ˈteːɾ]
+compoñer
+  IPA: [compoˈɲeɾ]
+pór
+  IPA: /ˈpoɾ/
+  IPA: [ˈpoɾ]
+alentar
+  IPA: [alenˈtaɾ]
+  IPA: [alɛnˈtaɾ]
+quere
+  IPA: /ˈkɛɾe/
+  IPA: [ˈkɛ.ɾɪ]
+praza
+  IPA: /ˈpɾaθa/
+  IPA: [ˈpɾa.θɐ]
+  IPA: /ˈpɾaθa/ (Tags: standard)
+  IPA: [ˈpɾa.θɐ] (Tags: standard)
+  IPA: /ˈpɾasa/
+  IPA: [ˈpɾa.sɐ]
+quero
+  IPA: /ˈkɛɾʊ/
+convir
+  IPA: /komˈbiɾ/
+  IPA: [komˈbiɾ]
+varrer
+  IPA: /baˈreɾ/
+  IPA: [baˈreɾ]
+manter
+  IPA: /manˈteːɾ/
+abster
+  IPA: /absˈteɾ/
+  IPA: [aβ̞s̺ˈt̪eɾ]
+desfeito
+  IPA: /desˈfejto̝/
+entreter
+  IPA: [en.tɾɪˈteːɾ]
+trazar
+  IPA: [tɾaˈθaɾ]
+  IPA: [tɾaˈsaɾ] (Tags: Western)
+fixo
+  IPA: /ˈfiʃo/
+  IPA: [ˈfi.ʃʊ]
+teñen
+  IPA: /ˈtɛɲeŋ/
+puxer
+  IPA: /puˈʃɛɾ/
+  IPA: [puˈʃɛɾ]
+teño
+  IPA: [ˈteɲʊ]
+feito
+  IPA: /ˈfejto̝/
+  IPA: /ˈfɛjto̝/
+temos
+  IPA: /ˈtemʊs/
+satisfeito
+  IPA: [satisˈfei̯tʊ]
+chancho
+  IPA: /ˈt͡ʃant͡ʃo̝/
+veño
+  IPA: /beɲʊ/
+veñen
+  IPA: /beɲeŋ/
+vindes
+  IPA: /bindɪs/
+vén
+  IPA: /bɛŋ/
+provir
+  IPA: /pɾoˈbiɾ/
+  IPA: [pɾoˈβ̞iɾ]
+intervir
+  IPA: /inteɾˈbiɾ/
+  IPA: [in̪.t̪eɾˈβ̞iɾ]
+traballan
+  IPA: /tɾɐβaˈʎɐŋ/
+traballas
+  IPA: /tɾaβaˈʎɐs/
+raño
+  IPA: /ˈraɲo̝/
+raña
+  IPA: /ˈraɲa̝/
+brinca
+  IPA: [ˈbɾiŋkɐ]
+goberno
+  IPA: /ɡoˈbɛɾno/
+  IPA: [ɡoˈβ̞ɛɾ.nʊ]
+  IPA: /ɡoˈbɛɾno/ (Tags: standard)
+  IPA: [ɡoˈβ̞ɛɾ.nʊ] (Tags: standard)
+  IPA: /ħoˈbɛɾno/
+  IPA: [ħoˈβ̞ɛɾ.nʊ]
+sentan
+  IPA: /ˈsɛntɐŋ/
+brinco
+  IPA: /ˈbɾiŋko/
+  IPA: [ˈbɾiŋ.kʊ]
+xuntar
+  IPA: /ʃunˈtaɾ/
+  IPA: [ʃun̪ˈt̪aɾ]
+fito
+  IPA: /ˈfito̝/
+xunto
+  IPA: /ˈʃunto̝/
+bica
+  IPA: /ˈbika/
+  IPA: [ˈbi.kɐ]
+bico
+  IPA: [ˈbikʊ]
+bicar
+  IPA: /biˈkaɾ/
+xunta
+  IPA: /ˈʃunta/
+  IPA: [ˈʃun̪.t̪ɐ]
+recompoñer
+  IPA: /rekompoˈɲeɾ/
+  IPA: [re.kom.poˈɲeɾ]
+fitar
+  IPA: /fiˈtaɾ/
+suposto
+  IPA: /suˈpɔsto/
+  IPA: [s̺uˈpɔs̺.t̪ʊ]
+  IPA: /suˈposto/
+  IPA: [s̺uˈpos̺.t̪ʊ]
+sandar
+  IPA: /san.ˈdaɾ/
+topar
+  IPA: /toˈpaɾ/
+imitas
+  IPA: /iˈmitas/
+  IPA: [iˈmi.t̪as̺]
+gardar
+  IPA: /ɡaɾ.ˈdaɾ/
+gabar
+  IPA: /ɡaˈβaɾ/
+ardido
+  IPA: [aɾˈðiðʊ]
+invitas
+  IPA: /imˈbitas/
+  IPA: [imˈbi.t̪as̺]
+insistas
+  IPA: /inˈsistas/
+  IPA: [inˈs̺is̺.t̪as̺]
+xoga
+  IPA: /ˈʃɔɣa̝/
+viaxe
+  IPA: /ˈbjaʃe/
+  IPA: [ˈbja̠.ʃɪ]
+urda
+  IPA: [ˈuɾðɐ]
+xogo
+  IPA: /ˈʃɔɡo/
+  IPA: [ˈʃɔ.ɣ̞ʊ]
+  IPA: /ˈʃɔɡo/ (Tags: standard)
+  IPA: [ˈʃɔ.ɣ̞ʊ] (Tags: standard)
+  IPA: /ˈʃɔħo/
+  IPA: [ˈʃɔ.ħʊ]
+xogar
+  IPA: /ʃoˈɡaɾ/
+  IPA: [ʃoˈɣ̞ɑɾ]
+  IPA: /ʃoˈɡaɾ/ (Tags: standard)
+  IPA: [ʃoˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /ʃoˈħaɾ/
+  IPA: [ʃoˈħɑɾ]
+pagamos
+  IPA: /pɐˈɣamʊs/
+escuso
+  IPA: /esˈkuso̝/
+esquezo
+  IPA: [esˈkɛθʊ]
+  IPA: [esˈkɛsʊ] (Tags: Western)
+cozo
+  IPA: /ˈkoθo̝/
+cocido
+  IPA: /koˈθiðo̝/
+  IPA: /koˈsiðo̝/ (Tags: Western)
+pazo
+  IPA: /ˈpaθo/
+  IPA: [ˈpa.θʊ]
+  IPA: /ˈpaθo/ (Tags: standard)
+  IPA: [ˈpa.θʊ] (Tags: standard)
+  IPA: /ˈpaso/
+  IPA: [ˈpa.sʊ]
+podrecer
+  IPA: /poðɾeˈθeɾ/
+  IPA: /poðɾeˈseɾ/ (Tags: Western)
+mamada
+  IPA: /maˈmada/
+  IPA: [mãˈma.ð̞ɐ]
+chover
+  IPA: /t͡ʃoˈbeɾ/
+  IPA: [t͡ʃoˈβ̞eɾ]
+puxar
+  IPA: [puˈʃaɾ]
+escusar
+  IPA: /eskuˈsaɾ/
+fío
+  IPA: /ˈfio/
+  IPA: [ˈfi.ʊ]
+guiado
+  IPA: /ɡiˈaðo̝/
+pía
+  IPA: /ˈpi.a̝/
+porfiado
+  IPA: /poɾˈfjado/
+  IPA: [poɾˈfja.ð̞ʊ]
+dirijo
+  IPA: /diˈɾiʃo/
+  IPA: [d̪iˈɾi.ʃʊ]
+rendido
+  IPA: [renˈdiðʊ]
+civilizo
+  IPA: /θibiˈliθo/
+  IPA: [θi.β̞iˈli.θʊ]
+  IPA: /θibiˈliθo/ (Tags: standard)
+  IPA: [θi.β̞iˈli.θʊ] (Tags: standard)
+  IPA: /sibiˈliso/
+  IPA: [si.β̞iˈli.sʊ]
+civilizas
+  IPA: /θibiˈliθas/
+  IPA: [θi.β̞iˈli.θas̺]
+  IPA: /θibiˈliθas/ (Tags: standard)
+  IPA: [θi.β̞iˈli.θas̺] (Tags: standard)
+  IPA: /sibiˈlisas/
+  IPA: [si.β̞iˈli.sas]
+civiliza
+  IPA: /θibiˈliθa/
+  IPA: [θi.β̞iˈli.θɐ]
+  IPA: /θibiˈliθa/ (Tags: standard)
+  IPA: [θi.β̞iˈli.θɐ] (Tags: standard)
+  IPA: /sibiˈlisa/
+  IPA: [si.β̞iˈli.sɐ]
+organizas
+  IPA: /ɔɾɡaˈniθas/
+  IPA: [ɔɾ.ɣ̞ɑˈni.θas̺]
+  IPA: /ɔɾɡaˈniθas/ (Tags: standard)
+  IPA: [ɔɾ.ɣ̞ɑˈni.θas̺] (Tags: standard)
+  IPA: /ɔɾħaˈniθas/
+  IPA: [ɔɾ.ħɑˈni.θas̺]
+  IPA: /ɔɾħaˈnisas/
+  IPA: [ɔɾ.ħɑˈni.sas]
+organiza
+  IPA: /ɔɾɡaˈniθa/
+  IPA: [ɔɾ.ɣ̞ɑˈni.θɐ]
+  IPA: /ɔɾɡaˈniθa/ (Tags: standard)
+  IPA: [ɔɾ.ɣ̞ɑˈni.θɐ] (Tags: standard)
+  IPA: /ɔɾħaˈniθa/
+  IPA: [ɔɾ.ħɑˈni.θɐ]
+  IPA: /ɔɾħaˈnisa/
+  IPA: [ɔɾ.ħɑˈni.sɐ]
+fadar
+  IPA: [faˈðaɾ]
+organizo
+  IPA: /ɔɾɡaˈniθo/
+  IPA: [ɔɾ.ɣ̞ɑˈni.θʊ]
+  IPA: /ɔɾɡaˈniθo/ (Tags: standard)
+  IPA: [ɔɾ.ɣ̞ɑˈni.θʊ] (Tags: standard)
+  IPA: /ɔɾħaˈniθo/
+  IPA: [ɔɾ.ħɑˈni.θʊ]
+  IPA: /ɔɾħaˈniso/
+  IPA: [ɔɾ.ħɑˈni.sʊ]
+rifar
+  IPA: /riˈfaɾ/
+tostado
+  IPA: [tosˈtaðʊ]
+distraer
+  IPA: /distɾaˈeɾ/
+cagado
+  IPA: [kaˈɣaðʊ]
+conjugado
+  IPA: /konʃuˈɡado/
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ʊ]
+  IPA: /konʃuˈɡado/ (Tags: standard)
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ʊ] (Tags: standard)
+  IPA: /konʃuˈħado/
+  IPA: [konʲ.ʃuˈħɑ.ð̞ʊ]
+cristianizas
+  IPA: /kɾistjaˈniθas/
+  IPA: [kɾis̺.t̪jaˈni.θas̺]
+  IPA: /kɾistjaˈniθas/ (Tags: standard)
+  IPA: [kɾis̺.t̪jaˈni.θas̺] (Tags: standard)
+  IPA: /kɾistjaˈnisas/
+  IPA: [kɾis.t̪jaˈni.sas]
+cristianiza
+  IPA: /kɾistjaˈniθa/
+  IPA: [kɾis̺.t̪jaˈni.θɐ]
+  IPA: /kɾistjaˈniθa/ (Tags: standard)
+  IPA: [kɾis̺.t̪jaˈni.θɐ] (Tags: standard)
+  IPA: /kɾistjaˈnisa/
+  IPA: [kɾis.t̪jaˈni.sɐ]
+destripar
+  IPA: /destɾiˈpaɾ/
+aplicado
+  IPA: /apliˈkaðo̝/
+cercado
+  IPA: [θeɾˈkaðʊ]
+  IPA: [θeɾˈkaðʊ] (Tags: Western)
+integras
+  IPA: /inˈtɛɡɾas/
+  IPA: [in̪ˈt̪ɛ.ɣ̞ɾas̺]
+  IPA: /inˈtɛɡɾas/ (Tags: standard)
+  IPA: [in̪ˈt̪ɛ.ɣ̞ɾas̺] (Tags: standard)
+  IPA: /inˈtɛħɾas/
+  IPA: [in̪ˈt̪ɛ.ħɾas̺]
+arraigar
+  IPA: [arajˈɣaɾ]
+acha
+  IPA: /ˈat͡ʃa/
+  IPA: [ˈa̠.t͡ʃɐ]
+chufar
+  IPA: /t͡ʃuˈfaɾ/
+empregado
+  IPA: /empɾeˈɡado/
+  IPA: [em.pɾeˈɣ̞ɑ.ð̞ʊ]
+  IPA: /empɾeˈɡado/ (Tags: standard)
+  IPA: [em.pɾeˈɣ̞ɑ.ð̞ʊ] (Tags: standard)
+  IPA: /empɾeˈħado/
+  IPA: [em.pɾeˈħɑ.ð̞ʊ]
+enderezo
+  IPA: [endeˈɾeθʊ]
+cagada
+  IPA: [kaˈɣaðɐ]
+durmir
+  IPA: /duɾˈmiɾ/
+  IPA: [d̪uɾˈmiɾ]
+enganar
+  IPA: [eŋɡaˈnaɾ]
+camuflar
+  IPA: /kamuˈflaɾ/
+  IPA: [kɑ.muˈflaɾ]
+acantilar
+  IPA: [akɑntiˈlaɾ]
+fincar
+  IPA: [fiŋˈkaɾ]
+abanar
+  IPA: [aβaˈnaɾ]
+furtar
+  IPA: /fuɾˈtaɾ/
+  IPA: [fuɾˈt̪aɾ]
+intricar
+  IPA: /intɾiˈkaɾ/
+recudir
+  IPA: /rekuˈðiɾ/
+entraña
+  IPA: [enˈtɾaɲɐ]
+condimentar
+  IPA: /kondimenˈtaɾ/
+  IPA: [kon̪.d̪i.mẽn̪ˈt̪aɾ]
+empanada
+  IPA: /empaˈnaða̝/
+arrendar
+  IPA: [arenˈdaɾ]
+arrendar
+  IPA: [arenˈdaɾ]
+berro
+  IPA: /ˈbɛro/
+  IPA: [ˈbɛ.rʊ]
+truncar
+  IPA: /tɾuŋˈkaɾ/
+  IPA: [t̪ɾuŋˈkɑɾ]
+rolar
+  IPA: [roˈlaɾ]
+erradicar
+  IPA: /eradiˈkaɾ/
+  IPA: [e.ra.ð̞iˈkɑɾ]
+mercan
+  IPA: /ˈmɛɾkɐŋ/
+subverter
+  IPA: /subbeɾˈteɾ/
+  IPA: [s̺uβ̞.β̞eɾˈt̪eɾ]
+rozar
+  IPA: /roˈθaɾ/
+  IPA: [roˈθaɾ]
+  IPA: /roˈθaɾ/ (Tags: standard)
+  IPA: [roˈθaɾ] (Tags: standard)
+  IPA: /roˈsaɾ/
+  IPA: [roˈsaɾ]
+chamas
+  IPA: /t͡ʃɐˈmɐs/
+anegar
+  IPA: [aneˈɣaɾ]
+pegada
+  IPA: [peˈɣaðɐ]
+renacer
+  IPA: /renaˈθeɾ/
+  IPA: [re.naˈθeɾ]
+  IPA: /renaˈθeɾ/ (Tags: standard)
+  IPA: [re.naˈθeɾ] (Tags: standard)
+  IPA: /renaˈseɾ/
+  IPA: [re.naˈseɾ]
+picada
+  IPA: [piˈkaðɐ]
+falsar
+  IPA: [falˈsaɾ]
+empurrar
+  IPA: [em.pu.ˈraɾ]
+espirrar
+  IPA: /espiˈraɾ/
+ferver
+  IPA: /feɾˈβeɾ/
+camba
+  IPA: /ˈkamba/
+  IPA: [ˈkɑm.bɐ]
+cociña
+  IPA: /koˈθiɲa/
+  IPA: [koˈθi.ɲɐ]
+  IPA: /koˈθiɲa/ (Tags: standard)
+  IPA: [koˈθi.ɲɐ] (Tags: standard)
+  IPA: /koˈsiɲa/
+  IPA: [koˈsi.ɲɐ]
+axudar
+  IPA: [aʃuˈðaɾ]
+achantar
+  IPA: /at͡ʃanˈtaɾ/
+  IPA: [a̠.t͡ʃan̪ˈt̪aɾ]
+ditar
+  IPA: [diˈtaɾ]
+encaixe
+  IPA: [eŋˈkai̯ʃɪ]
+rexistrar
+  IPA: /reʃisˈtɾaɾ/
+  IPA: [re.ʃis̺ˈt̪ɾaɾ]
+encaixar
+  IPA: /eŋkajˈʃaɾ/
+abondo
+  IPA: /aˈbondo/
+  IPA: [aˈβ̞on̪.d̪ʊ]
+chame
+  IPA: /t͡ʃɐˈmɪ/
+baixo
+  IPA: /ˈbajʃo/
+  IPA: [ˈba̠j.ʃʊ]
+baixar
+  IPA: /bajˈʃaɾ/
+  IPA: [ba̠jˈʃaɾ]
+recostar
+  IPA: /rekosˈtaɾ/
+saen
+  IPA: /ˈsaɪŋ/
+saído
+  IPA: /saˈiðo̝/
+saias
+  IPA: /ˈsajas/
+  IPA: [ˈs̺a̠.jas̺]
+saír
+  IPA: [saˈiɾ]
+saída
+  IPA: /saˈiða̝/
+estouro
+  IPA: [esˈtowɾʊ]
+estoupar
+  IPA: /estowˈpaɾ/
+tusido
+  IPA: [tuˈsiðʊ]
+partiu
+  IPA: /paɾˈtiw/
+  IPA: [paɾˈt̪iw]
+xurdir
+  IPA: /ʃuɾˈðiɾ/
+tusir
+  IPA: /tuˈsiɾ/
+xunguir
+  IPA: [ʃuŋˈɡiɾ]
+ruxir
+  IPA: [ruˈʃiɾ]
+muxir
+  IPA: /muˈʃiɾ/
+estío
+  IPA: /esˈtio/
+  IPA: [es̺ˈt̪i.ʊ]
+ensumir
+  IPA: [ensuˈmiɾ]
+ruxido
+  IPA: /ruˈʃido/
+  IPA: [ruˈʃi.ð̞ʊ]
+tellado
+  IPA: /teˈʎaðo̝/
+fuxir
+  IPA: /fuˈʃiɾ/
+  IPA: [fuˈʃiɾ]
+teito
+  IPA: /ˈtejto/
+  IPA: [ˈt̪ej.t̪ʊ]
+camiño
+  IPA: /kaˈmiɲo/
+  IPA: [kɑˈmĩ.ɲʊ]
+apertar
+  IPA: [apeɾˈtaɾ]
+parolar
+  IPA: /parɔˈlar/
+lembrar
+  IPA: /lem.ˈbɾaɾ/
+aparar
+  IPA: [apaˈɾaɾ]
+migrar
+  IPA: /miˈɡɾaɾ/
+  IPA: [miˈɣ̞ɾaɾ]
+  IPA: /miˈɡɾaɾ/ (Tags: standard)
+  IPA: [miˈɣ̞ɾaɾ] (Tags: standard)
+  IPA: /miˈħɾaɾ/
+  IPA: [miˈħɾaɾ]
+desmaiar
+  IPA: [desmaˈjar]
+debuxar
+  IPA: /debuˈʃaɾ/
+  IPA: [d̪e.β̞uˈʃaɾ]
+brandir
+  IPA: [bɾanˈdiɾ]
+herdar
+  IPA: /ɛɾˈðaɾ/
+empregar
+  IPA: /empɾeˈɡaɾ/
+  IPA: [em.pɾeˈɣ̞ɑɾ]
+  IPA: /empɾeˈɡaɾ/ (Tags: standard)
+  IPA: [em.pɾeˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /empɾeˈħaɾ/
+  IPA: [em.pɾeˈħɑɾ]
+enxugar
+  IPA: [enʃuˈɣaɾ]
+finde
+  IPA: /ˈfinde/
+  IPA: [ˈfin̪.d̪ɪ]
+espremer
+  IPA: /espɾeˈmeɾ/
+coar
+  IPA: /koˈaɾ/
+bater
+  IPA: /baˈteɾ/
+lear
+  IPA: /leˈaɾ/
+remangar
+  IPA: [remãŋˈɡaɾ]
+remangar
+  IPA: [remãŋˈɡaɾ]
+isca
+  IPA: /ˈiska̝/
+bastir
+  IPA: /basˈtiɾ/
+mobilizas
+  IPA: /mɔbiˈliθas/
+  IPA: [mɔ.β̞iˈli.θas̺]
+  IPA: /mɔbiˈliθas/ (Tags: standard)
+  IPA: [mɔ.β̞iˈli.θas̺] (Tags: standard)
+  IPA: /mɔbiˈlisas/
+  IPA: [mɔ.β̞iˈli.sas]
+obriga
+  IPA: [oˈβɾiɣɐ]
+xerar
+  IPA: /ʃeˈɾaɾ/
+obrigar
+  IPA: /oβɾiˈɣaɾ/
+voo
+  IPA: /ˈboo/
+  IPA: [ˈbo.ʊ]
+blasfemar
+  IPA: /blasfeˈmaɾ/
+  IPA: [blas̺.feˈmaɾ]
+igar
+  IPA: [iˈɣaɾ]
+malla
+  IPA: /ˈmaɟa/
+  IPA: [ˈma̠.ɟɐ]
+creba
+  IPA: /ˈkɾɛba/
+  IPA: [ˈkɾɛ.β̞ɐ]
+queima
+  IPA: [ˈkejmɐ]
+trunfo
+  IPA: /ˈtɾunfo/
+  IPA: [ˈt̪ɾuɱ.fʊ]
+trunfar
+  IPA: [tɾuɱˈfaɾ]
+crebar
+  IPA: /kɾeˈβaɾ/
+erguer
+  IPA: /eɾˈɡeɾ/
+pular
+  IPA: /puˈlaɾ/
+mastigar
+  IPA: [mastiˈɣaɾ]
+apodrecer
+  IPA: /apoðɾeˈθeɾ/
+  IPA: /apoðɾeˈseɾ/ (Tags: Western)
+dobrar
+  IPA: /doˈβɾaɾ/
+ionizar
+  IPA: /ioniˈθaɾ/
+  IPA: [i.o.niˈθaɾ]
+  IPA: /ioniˈθaɾ/ (Tags: standard)
+  IPA: [i.o.niˈθaɾ] (Tags: standard)
+  IPA: /ioniˈsaɾ/
+  IPA: [i.o.niˈsaɾ]
+gallar
+  IPA: /ɡaˈʎaɾ/
+  IPA: /ħaˈʎaɾ/
+premer
+  IPA: /pɾeˈmeɾ/
+saudar
+  IPA: [saʊ̯ˈðaɾ]
+esbozar
+  IPA: /esboˈθaɾ/
+  IPA: [ez̺.β̞oˈθaɾ]
+  IPA: /esboˈθaɾ/ (Tags: standard)
+  IPA: [ez̺.β̞oˈθaɾ] (Tags: standard)
+  IPA: /esboˈsaɾ/
+  IPA: [ez.β̞oˈsaɾ]
+moscar
+  IPA: /mosˈkaɾ/
+apañar
+  IPA: /apaˈɲaɾ/
+decepar
+  IPA: /deθeˈpaɾ/
+esfregar
+  IPA: /esfɾeˈɣaɾ/
+baixada
+  IPA: [bajˈʃaðɐ]
+trucar
+  IPA: /tɾuˈkaɾ/
+  IPA: [t̪ɾuˈkɑɾ]
+engano
+  IPA: /eŋˈɡano/
+  IPA: [eŋˈɡɑ.nʊ]
+  IPA: /eŋˈɡano/ (Tags: standard)
+  IPA: [eŋˈɡɑ.nʊ] (Tags: standard)
+  IPA: /eŋˈħano/
+  IPA: [eŋˈħɑ.nʊ]
+unificada
+  IPA: /unifiˈkada/
+  IPA: [u.ni.fiˈkɑ.ð̞ɐ]
+nomeado
+  IPA: /nɔmɛˈado/
+  IPA: [nɔ̃.mɛˈa.ð̞ʊ]
+discriminada
+  IPA: /diskɾimiˈnada/
+  IPA: [d̪is̺.kɾi.mĩˈna.ð̞ɐ]
+gosto
+  IPA: [ˈɡʊs̺.t̪ʊ] (Tags: standard)
+  IPA: [ˈħʊs̺.t̪ʊ] (Tags: dialectal)
+pintada
+  IPA: [pinˈtaðɐ]
+apertado
+  IPA: [apeɾˈtaðʊ]
+aceso
+  IPA: /aˈθeso̝/
+  IPA: /aˈseso̝/ (Tags: Western)
+obter
+  IPA: /ɔbˈteɾ/
+  IPA: [ɔβ̞ˈt̪eɾ]
+tecer
+  IPA: /teˈθeɾ/
+  IPA: /teˈseɾ/ (Tags: Western)
+xeneralizo
+  IPA: /ʃeneɾaˈliθo/
+  IPA: [ʃe.ne.ɾaˈli.θʊ]
+  IPA: /ʃeneɾaˈliθo/ (Tags: standard)
+  IPA: [ʃe.ne.ɾaˈli.θʊ] (Tags: standard)
+  IPA: /ʃeneɾaˈliso/
+  IPA: [ʃe.ne.ɾaˈli.sʊ]
+couso
+  IPA: /ˈkowso/
+  IPA: [ˈkow.s̺ʊ]
+xeneralizar
+  IPA: /ʃeneɾaliˈθaɾ/
+  IPA: [ʃe.ne.ɾa.liˈθaɾ]
+  IPA: /ʃeneɾaliˈθaɾ/ (Tags: standard)
+  IPA: [ʃe.ne.ɾa.liˈθaɾ] (Tags: standard)
+  IPA: /ʃeneɾaliˈsaɾ/
+  IPA: [ʃe.ne.ɾa.liˈsaɾ]
+arrombar
+  IPA: /aromˈβaɾ/
+  IPA: /arumˈβaɾ/
+estripar
+  IPA: /estɾiˈpaɾ/
+britar
+  IPA: /bɾiˈtaɾ/
+tanguer
+  IPA: /taŋˈɡeɾ/
+amolar
+  IPA: /amoˈlaɾ/
+amolar
+  IPA: /amoˈlaɾ/
+rever
+  IPA: /reˈβeɾ/
+rever
+  IPA: /reˈβeɾ/
+afogar
+  IPA: [afoˈɣaɾ]
+aturar
+  IPA: /atuˈɾaɾ/
+abaixar
+  IPA: /abajˈʃaɾ/
+  IPA: [a.β̞a̠jˈʃaɾ]
+abafar
+  IPA: /abaˈfaɾ/
+  IPA: [a.β̞aˈfaɾ]
+abrandar
+  IPA: /abɾanˈdaɾ/
+  IPA: [a.β̞ɾan̪ˈd̪aɾ]
+ferir
+  IPA: /feˈɾiɾ/
+abafo
+  IPA: /aˈbafo/
+  IPA: [aˈβ̞a.fʊ]
+atizar
+  IPA: [atiˈθaɾ]
+  IPA: [atiˈsaɾ] (Tags: Western)
+conquerir
+  IPA: [kʊŋkeˈɾiɾ]
+esfolar
+  IPA: /esfoˈlaɾ/
+fornir
+  IPA: /foɾˈniɾ/
+aforrar
+  IPA: /afoˈraɾ/
+  IPA: [a.foˈraɾ]
+salgado
+  IPA: /salˈɡado/
+  IPA: [s̺ɑɫˈɣ̞ɑ.ð̞ʊ]
+  IPA: /salˈɡado/ (Tags: standard)
+  IPA: [s̺ɑɫˈɣ̞ɑ.ð̞ʊ] (Tags: standard)
+  IPA: /salˈħado/
+  IPA: [s̺ɑɫˈħɑ.ð̞ʊ]
+soño
+  IPA: /ˈsoɲo/
+  IPA: [ˈs̺o.ɲʊ]
+cheirar
+  IPA: /t͡ʃejˈɾaɾ/
+roubar
+  IPA: [rowˈβaɾ]
+calafatear
+  IPA: /kalafateˈaɾ/
+petar
+  IPA: /peˈtaɾ/
+tradar
+  IPA: [tɾaˈðaɾ]
+fungar
+  IPA: /fuŋˈɡaɾ/
+  IPA: /fuŋˈkaɾ/ (Tags: Western)
+mallar
+  IPA: /maˈʎaɾ/
+mallar
+  IPA: /maˈʎaɾ/
+capar
+  IPA: [kaˈpaɾ]
+trigar
+  IPA: /tɾiˈɣaɾ/
+eslava
+  IPA: /esˈlaβa̝/
+uniu
+  IPA: /uˈniw/
+  IPA: [uˈniw]
+ollar
+  IPA: /ɔˈʎaɾ/
+  IPA: /oˈʎaɾ/
+pingar
+  IPA: /piŋˈɡaɾ/
+  IPA: [piŋˈɡɑɾ]
+  IPA: /piŋˈɡaɾ/ (Tags: standard)
+  IPA: [piŋˈɡɑɾ] (Tags: standard)
+  IPA: /piŋˈħaɾ/
+  IPA: [piŋˈħɑɾ]
+valar
+  IPA: /baˈlaɾ/
+puñar
+  IPA: /puˈɲaɾ/
+cavilar
+  IPA: [kɑβiˈlaɾ]
+entrañar
+  IPA: [enˈtraɲar]
+ruar
+  IPA: /ruˈaɾ/
+coutar
+  IPA: [kowˈtaɾ]
+cepar
+  IPA: /θeˈpaɾ/
+comesto
+  IPA: /koˈmesto̝/
+camiñar
+  IPA: [kamiˈɲaɾ]
+tremer
+  IPA: /tɾeˈmeɾ/
+zurrar
+  IPA: /θuˈraɾ/
+insistiu
+  IPA: /insisˈtiw/
+  IPA: [in.s̺is̺ˈt̪iw]
+bullar
+  IPA: /buˈɟaɾ/
+  IPA: [buˈɟaɾ]
+bullar
+  IPA: /buˈɟaɾ/
+  IPA: [buˈɟaɾ]
+demarcar
+  IPA: /demaɾˈkaɾ/
+frade
+  IPA: /ˈfɾade/
+  IPA: [ˈfɾa.ð̞ɪ]
+findar
+  IPA: /finˈdaɾ/
+galgar
+  IPA: /ɡalˈɣaɾ/
+galgar
+  IPA: /ɡalˈɣaɾ/
+arriscar
+  IPA: /arisˈkaɾ/
+  IPA: [a.ris̺ˈkɑɾ]
+estrar
+  IPA: /esˈtɾaɾ/
+latar
+  IPA: /laˈtaɾ/
+latar
+  IPA: /laˈtaɾ/
+refugo
+  IPA: /reˈfuɡo/
+  IPA: [reˈfu.ɣ̞ʊ]
+  IPA: /reˈfuɡo/ (Tags: standard)
+  IPA: [reˈfu.ɣ̞ʊ] (Tags: standard)
+  IPA: /reˈfuħo/
+  IPA: [reˈfu.ħʊ]
+fanar
+  IPA: /faˈnaɾ/
+  IPA: [faˈnaɾ]
+arrigar
+  IPA: /ariˈɣaɾ/
+guarnecer
+  IPA: /ɡwaɾneˈθeɾ/
+  IPA: [ɡwaɾ.neˈθeɾ]
+  IPA: /ɡwaɾneˈθeɾ/ (Tags: standard)
+  IPA: [ɡwaɾ.neˈθeɾ] (Tags: standard)
+  IPA: /ħwaɾneˈθeɾ/
+  IPA: [ħwaɾ.neˈθeɾ]
+  IPA: /ħwaɾneˈseɾ/
+  IPA: [ħwaɾ.neˈseɾ]
+coroar
+  IPA: /koɾoˈaɾ/
+refusar
+  IPA: /refuˈsaɾ/
+esgarrar
+  IPA: /esɣaˈraɾ/
+arregar
+  IPA: [areˈɣaɾ]
+poupar
+  IPA: /powˈpaɾ/
+aprontar
+  IPA: [apɾonˈtaɾ]
+ladar
+  IPA: [laˈðaɾ]
+berrar
+  IPA: /beˈraɾ/
+mancar
+  IPA: [maŋˈkaɾ]
+queixa
+  IPA: /ˈkejʃa/
+  IPA: [ˈkej.ʃɐ]
+seiva
+  IPA: [ˈsej.βɐ]
+empedrar
+  IPA: /empeˈðɾaɾ/
+vogar
+  IPA: [bɔ.ˈɣaɾ]
+mobilizar
+  IPA: /mɔβiliˈθaɾ/
+afastar
+  IPA: /afasˈtaɾ/
+fiada
+  IPA: [fiˈaðɐ]
+adiantar
+  IPA: [aðjanˈtaɾ]
+trabuco
+  IPA: /tɾaˈβuko̝/
+furar
+  IPA: /fuˈɾaɾ/
+cuspido
+  IPA: /kusˈpiðo̝/
+tornada
+  IPA: [toɾˈnaðɐ]
+tapada
+  IPA: /taˈpaða̝/
+arranxar
+  IPA: /aranˈʃaɾ/
+levada
+  IPA: /leˈβaða̝/
+pescada
+  IPA: [pesˈkɑðɐ]
+privatizar
+  IPA: /pɾibatiˈθaɾ/
+  IPA: [pɾi.β̞a.t̪iˈθaɾ]
+  IPA: /pɾibatiˈθaɾ/ (Tags: standard)
+  IPA: [pɾi.β̞a.t̪iˈθaɾ] (Tags: standard)
+  IPA: /pɾibatiˈsaɾ/
+  IPA: [pɾi.β̞a.t̪iˈsaɾ]
+combater
+  IPA: /kombaˈteɾ/
+arrexuntar
+  IPA: [areʃunˈtaɾ]
+cribar
+  IPA: [kɾi.ˈβaɾ]
+deitar
+  IPA: /dejˈtaɾ/
+escoar
+  IPA: [eskoˈaɾ]
+rebento
+  IPA: [reˈbentʊ]
+lucrar
+  IPA: /luˈkɾaɾ/
+  IPA: [luˈkɾaɾ]
+mercar
+  IPA: /merˈkaɾ/
+atontecer
+  IPA: [atonteˈθeɾ]
+  IPA: [atonteˈseɾ] (Tags: Western)
+mazar
+  IPA: /maˈθaɾ/
+  IPA: [maˈθaɾ]
+  IPA: /maˈθaɾ/ (Tags: standard)
+  IPA: [maˈθaɾ] (Tags: standard)
+  IPA: /maˈsaɾ/
+  IPA: [maˈsaɾ]
+estender
+  IPA: [estenˈdeɾ]
+rebentar
+  IPA: [re.βen.ˈtaɾ]
+escavar
+  IPA: /eskaˈβaɾ/
+piscar
+  IPA: /pisˈkaɾ/
+dirixir
+  IPA: /diɾiˈʃiɾ/
+  IPA: [d̪i.ɾiˈʃiɾ]
+escorregar
+  IPA: /eskoreˈɣaɾ/
+xulgar
+  IPA: /ʃulˈɡaɾ/
+  IPA: [ʃuɫˈɣ̞ɑɾ]
+  IPA: /ʃulˈɡaɾ/ (Tags: standard)
+  IPA: [ʃuɫˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /ʃulˈħaɾ/
+  IPA: [ʃuɫˈħɑɾ]
+manexar
+  IPA: [maneˈʃaɾ]
+sollar
+  IPA: /soˈʎaɾ/
+sollar
+  IPA: /soˈʎaɾ/
+acender
+  IPA: /aθenˈdeɾ/
+  IPA: /asenˈdeɾ/ (Tags: Western)
+refregar
+  IPA: /refɾeˈɣaɾ/
+abalar
+  IPA: [aβaˈlaɾ]
+incensar
+  IPA: /inθenˈsaɾ/
+  IPA: [in̪.θenˈs̺aɾ]
+  IPA: /inθenˈsaɾ/ (Tags: standard)
+  IPA: [in̪.θenˈs̺aɾ] (Tags: standard)
+  IPA: /insenˈsaɾ/
+  IPA: [in.senˈsaɾ]
+mexer
+  IPA: /meˈʃeɾ/
+amañar
+  IPA: /amaˈɲaɾ/
+xiringa
+  IPA: /ʃiˈɾiŋɡa/
+  IPA: [ʃiˈɾiŋ.ɡɐ]
+  IPA: /ʃiˈɾiŋɡa/ (Tags: standard)
+  IPA: [ʃiˈɾiŋ.ɡɐ] (Tags: standard)
+  IPA: /ʃiˈɾiŋħa/
+  IPA: [ʃiˈɾiŋ.ħɐ]
+afondar
+  IPA: /afonˈdaɾ/
+espetada
+  IPA: /esˈpeto̝/
+emascular
+  IPA: /emaskuˈlaɾ/
+  IPA: [e.mas̺.kuˈlaɾ]
+torrar
+  IPA: /toˈraɾ/
+sucar
+  IPA: /suˈkaɾ/
+chucho
+  IPA: /ˈt͡ʃut͡ʃo/
+  IPA: [ˈt͡ʃu.t͡ʃʊ]
+triscar
+  IPA: /tɾisˈkaɾ/
+melada
+  IPA: /mɛˈlada/
+  IPA: [mɛˈla.ð̞ɐ]
+  IPA: /meˈlada/
+  IPA: [meˈla.ð̞ɐ]
+melado
+  IPA: /meˈlado/
+  IPA: [meˈla.ð̞ʊ]
+torrada
+  IPA: /toˈraða̝/
+escoitar
+  IPA: /eskojˈtaɾ/ (Tags: standard)
+  IPA: /eskujˈtaɾ/ (Tags: dialectal)
+aproveitar
+  IPA: [apɾoβejˈtaɾ]
+adiante
+  IPA: [aˈðjantɪ]
+furado
+  IPA: [fuˈɾaðʊ]
+afastado
+  IPA: [a.fas.ˈta.ðʊ]
+conjugada
+  IPA: /konʃuˈɡada/
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ɐ]
+  IPA: /konʃuˈɡada/ (Tags: standard)
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ɐ] (Tags: standard)
+  IPA: /konʃuˈħada/
+  IPA: [konʲ.ʃuˈħɑ.ð̞ɐ]
+traduziu
+  IPA: /tɾaduˈθiw/
+  IPA: [t̪ɾa.ð̞uˈθiw]
+  IPA: /tɾaduˈθiw/ (Tags: standard)
+  IPA: [t̪ɾa.ð̞uˈθiw] (Tags: standard)
+  IPA: /tɾaduˈsiw/
+  IPA: [t̪ɾa.ð̞uˈsiw]
+abduziu
+  IPA: /abduˈθiw/
+  IPA: [aβ̞.ð̞uˈθiw]
+  IPA: /abduˈθiw/ (Tags: standard)
+  IPA: [aβ̞.ð̞uˈθiw] (Tags: standard)
+  IPA: /abduˈsiw/
+  IPA: [aβ̞.ð̞uˈsiw]
+assistiu
+  IPA: /asisˈtiw/
+  IPA: [a.s̺is̺ˈt̪iw]
+doado
+  IPA: /doˈaðo̝/
+  IPA: /duˈaðo̝/
+contrafeito
+  IPA: [kontɾaˈfejtʊ]
+desfeita
+  IPA: /desˈfejta̝/
+aduziu
+  IPA: /aduˈθiw/
+  IPA: [a.ð̞uˈθiw]
+  IPA: /aduˈθiw/ (Tags: standard)
+  IPA: [a.ð̞uˈθiw] (Tags: standard)
+  IPA: /aduˈsiw/
+  IPA: [a.ð̞uˈsiw]
+vazar
+  IPA: [baˈθaɾ]
+  IPA: [baˈsaɾ] (Tags: Western)
+avir
+  IPA: [aˈβiːɾ]
+pertence
+  IPA: [peɾˈtɛnθɪ] (Tags: standard)
+  IPA: [peɾˈtɛnsɪ] (Tags: Western, dialectal)
+fornecer
+  IPA: /fɔɾnɛˈθeɾ/
+  IPA: /fɔɾnɛˈseɾ/ (Tags: Western)
+atuar
+  IPA: /atuˈaɾ/
+atuar
+  IPA: /atuˈaɾ/
+singrar
+  IPA: /siŋˈɡɾaɾ/
+pertencer
+  IPA: /peɾtenˈθeɾ/
+amolecer
+  IPA: /amoleˈθeɾ/
+  IPA: /amoleˈseɾ/ (Tags: Western)
+apelidar
+  IPA: [apeliˈðaɾ]
+escorrer
+  IPA: [eskoˈreɾ]
+aditar
+  IPA: [aðiˈtaɾ]
+cumprido
+  IPA: [kumˈpɾiðʊ]
+arriscado
+  IPA: /arisˈkado/
+  IPA: [a.ris̺ˈkɑ.ð̞ʊ]
+sementar
+  IPA: /semenˈtaɾ/
+decorrer
+  IPA: [dekoˈreɾ]
+cumprir
+  IPA: /kumˈpɾiɾ/
+cumprir
+  IPA: /kumˈpɾiɾ/
+alugar
+  IPA: /aluˈɣaɾ/
+emprestar
+  IPA: /empɾesˈtaɾ/
+derrubar
+  IPA: /deruˈbaɾ/
+  IPA: [d̪e.ruˈβ̞aɾ]
+emendar
+  IPA: [emenˈdaɾ]
+derreter
+  IPA: [de.re.ˈteɾ]
+anoitecer
+  IPA: [anojteˈθeɾ]
+  IPA: [anojteˈseɾ] (Tags: Western)
+folga
+  IPA: [ˈfɔlɣɐ]
+falecer
+  IPA: [faleˈθeɾ]
+  IPA: [faleˈseɾ] (Tags: Western)
+enlouquecer
+  IPA: [enloʊ̯keˈθeɾ]
+espreitar
+  IPA: /espɾejˈtaɾ/
+poxar
+  IPA: /poˈʃaɾ/
+lixar
+  IPA: [liˈʃaɾ]
+lixar
+  IPA: [liˈʃaɾ]
+ripar
+  IPA: /riˈpaɾ/
+enforcar
+  IPA: [eɱfoɾˈkaɾ]
+pouso
+  IPA: [ˈpowsʊ]
+recuar
+  IPA: /rekuˈaɾ/
+outorgar
+  IPA: [owtoɾˈɣaɾ]
+rodada
+  IPA: /roˈdada/
+  IPA: [roˈð̞a.ð̞ɐ]
+pousar
+  IPA: /powˈsaɾ/
+reter
+  IPA: [reˈteːɾ]
+imitada
+  IPA: /imiˈtada/
+  IPA: [i.miˈt̪a.ð̞ɐ]
+barbear
+  IPA: [baɾˈβeaɾ]
+moído
+  IPA: /moˈiðo̝/
+peneirar
+  IPA: /penejˈɾaɾ/
+escurecer
+  IPA: [eskuɾeˈθeɾ]
+  IPA: [eskuɾeˈseɾ] (Tags: Western)
+aleitar
+  IPA: /alejˈtaɾ/
+  IPA: [a.lejˈt̪aɾ]
+infiltrada
+  IPA: /infilˈtɾada/
+  IPA: [iɱ.fil̪ˈt̪ɾa.ð̞ɐ]
+loitar
+  IPA: /lojˈtaɾ/
+adoecer
+  IPA: [aðoeˈθeɾ]
+  IPA: [aðoeˈseɾ] (Tags: Western)
+banir
+  IPA: /baˈniɾ/
+mexar
+  IPA: /meˈʃaɾ/
+riscar
+  IPA: /risˈkaɾ/
+carrear
+  IPA: [kɑreˈaɾ]
+engastar
+  IPA: /eŋɡasˈtaɾ/
+acalentar
+  IPA: [akalenˈtaɾ]
+  IPA: [akalɛnˈtaɾ]
+dourar
+  IPA: [doʊ̯ˈɾaɾ]
+operada
+  IPA: /ɔpɛˈɾada/
+  IPA: [ɔ.pɛˈɾa.ð̞ɐ]
+babar
+  IPA: /baˈbaɾ/
+  IPA: [baˈβ̞aɾ]
+arrefecer
+  IPA: /arefeˈθeɾ/
+  IPA: /arefeˈseɾ/ (Tags: Western)
+refugar
+  IPA: /refuˈɣaɾ/
+afagar
+  IPA: /afaˈɣaɾ/
+assimilado
+  IPA: /asimiˈlado/
+  IPA: [a.s̺i.miˈla.ð̞ʊ]
+assimilada
+  IPA: /asimiˈlada/
+  IPA: [a.s̺i.miˈla.ð̞ɐ]
+ameigar
+  IPA: [amejˈɣaɾ]
+amolentar
+  IPA: /amolenˈtaɾ/
+apoucar
+  IPA: [apou̯ˈkaɾ]
+arredar
+  IPA: /areˈðaɾ/
+arremedar
+  IPA: /aremeˈðaɾ/
+cismar
+  IPA: /θisˈmaɾ/
+  IPA: /sisˈmaɾ/ (Tags: Western)
+apegar
+  IPA: /apeˈɣaɾ/
+cavada
+  IPA: /kaˈβaða̝/
+aventar
+  IPA: [aβenˈtaɾ]
+aventar
+  IPA: [aβenˈtaɾ]
+decotar
+  IPA: /dekoˈtaɾ/
+finado
+  IPA: [fiˈnaðʊ]
+desfalecer
+  IPA: [desfaleˈθeɾ]
+  IPA: [desfaleˈseɾ] (Tags: Western)
+desfiar
+  IPA: [desfiˈaɾ]
+despregar
+  IPA: [despɾeˈɣaɾ]
+sinalizar
+  IPA: /sinaliˈθaɾ/
+  IPA: [s̺i.na.liˈθaɾ]
+  IPA: /sinaliˈθaɾ/ (Tags: standard)
+  IPA: [s̺i.na.liˈθaɾ] (Tags: standard)
+  IPA: /sinaliˈsaɾ/
+  IPA: [si.na.liˈsaɾ]
+raiar
+  IPA: /raˈjaɾ/
+raiar
+  IPA: /raˈjaɾ/
+entranhar
+  IPA: [enˈtraɲar]
+cear
+  IPA: /θeˈaɾ/
+  IPA: /seˈaɾ/ (Tags: Western)
+cear
+  IPA: /θeˈaɾ/
+  IPA: /seˈaɾ/ (Tags: Western)
+cear
+  IPA: /seˈaɾ/
+esburacar
+  IPA: /esbuɾaˈkaɾ/
+  IPA: [ez̺.β̞u.ɾɑˈkɑɾ]
+estalo
+  IPA: [esˈtalʊ]
+estalar
+  IPA: /estaˈlaɾ/
+garrido
+  IPA: [ɡaˈriðʊ]
+queixar
+  IPA: /kejˈʃaɾ/
+esgotar
+  IPA: /esɡoˈtaɾ/
+  IPA: [ez̺.ɣ̞oˈt̪aɾ]
+  IPA: /esɡoˈtaɾ/ (Tags: standard)
+  IPA: [ez̺.ɣ̞oˈt̪aɾ] (Tags: standard)
+  IPA: /esħoˈtaɾ/
+  IPA: [ez̺.ħoˈt̪aɾ]
+esfarelar
+  IPA: /esfaɾeˈlaɾ/
+encetar
+  IPA: /enθeˈtaɾ/
+  IPA: /enseˈtaɾ/ (Tags: Western)
+espichar
+  IPA: /espiˈt͡ʃaɾ/
+rebolar
+  IPA: [reβoˈlaɾ]
+fumegar
+  IPA: [fumeˈɣaɾ]
+pairar
+  IPA: /pajˈɾaɾ/
+teimado
+  IPA: /tejˈmaðo̝/
+teima
+  IPA: [ˈtejmɐ]
+fartar
+  IPA: /faɾˈtaɾ/
+teimar
+  IPA: [tejˈmaɾ]
+gorar
+  IPA: /ɡoˈɾaɾ/
+retrucar
+  IPA: /retɾuˈkaɾ/
+abotoar
+  IPA: [aβotoˈaɾ]
+recear
+  IPA: /reθeˈaɾ/
+  IPA: /reseˈaɾ/ (Tags: Western)
+engadir
+  IPA: [eŋɡaˈðiɾ]
+afiar
+  IPA: [afiˈaɾ]
+bagullar
+  IPA: [baɣuˈʎaɾ]
+esbagullar
+  IPA: [esbaɣuˈʎaɾ]
+alagar
+  IPA: [alaˈɣaɾ]
+mellorar
+  IPA: [meʎoˈɾaɾ] (Tags: standard)
+  IPA: [miʎoˈɾaɾ]
+esbirrar
+  IPA: [esβiˈraɾ]
+destruír
+  IPA: [destɾuˈiɾ]
+ameaza
+  IPA: /ameˈaθa/
+  IPA: [a.meˈa.θɐ]
+  IPA: /ameˈaθa/ (Tags: standard)
+  IPA: [a.meˈa.θɐ] (Tags: standard)
+  IPA: /ameˈasa/
+  IPA: [a.meˈa.sɐ]
+bradar
+  IPA: /bɾaˈðaɾ/
+degolar
+  IPA: /deɣoˈlaɾ/
+bulir
+  IPA: /buˈliɾ/
+dubidar
+  IPA: /duβiˈðaɾ/
+depenar
+  IPA: /depeˈnaɾ/
+ferrar
+  IPA: [feˈraɾ]
+rachar
+  IPA: /raˈt͡ʃaɾ/
+quentar
+  IPA: [kɛnˈtaɾ]
+escudriñar
+  IPA: /eskuðɾiˈɲaɾ/
+mergullar
+  IPA: /meɾɣuˈʎaɾ/
+mexada
+  IPA: /meˈʃaða̝/
+espallar
+  IPA: /espaˈʎaɾ/
+agochar
+  IPA: /aɣoˈt͡ʃaɾ/
+tascar
+  IPA: /tasˈkaɾ/
+xurar
+  IPA: [ʃuˈɾaɾ]
+trabada
+  IPA: /tɾaˈβaða/
+rebocar
+  IPA: /reboˈkaɾ/
+  IPA: [re.β̞oˈkɑɾ]
+amontoar
+  IPA: [amontoˈaɾ]
+amuar
+  IPA: [a.mu.ˈaɾ]
+afundir
+  IPA: [a.fun.ˈdiɾ]
+amurar
+  IPA: [amuˈɾaɾ]
+apalpar
+  IPA: /apalˈpaɾ/
+canga
+  IPA: /ˈkaŋɡa/
+  IPA: [ˈkɑŋ.ɡɐ]
+  IPA: /ˈkaŋɡa/ (Tags: standard)
+  IPA: [ˈkɑŋ.ɡɐ] (Tags: standard)
+  IPA: /ˈkaŋħa/
+  IPA: [ˈkɑŋ.ħɐ]
+  IPA: /ˈkaŋka/ (Tags: Western)
+  IPA: [ˈkɑŋ.kɐ] (Tags: Western)
+chapurrear
+  IPA: [t͡ʃapureˈaɾ]
+barallar
+  IPA: /baɾaˈʎaɾ/
+semellar
+  IPA: /semeˈʎaɾ/
+agardar
+  IPA: [aɣaɾˈðaɾ]
+xantar
+  IPA: /ʃanˈtaɾ/
+afalar
+  IPA: /afaˈlaɾ/
+alborecer
+  IPA: [alβoɾeˈθeɾ]
+afumar
+  IPA: /afuˈmaɾ/
+espertar
+  IPA: [es.peɾ.ˈtaɾ]
+desencadear
+  IPA: /deseŋkadeˈaɾ/
+  IPA: [d̪e.s̺eŋ.kɑ.ð̞eˈaɾ]
+badalar
+  IPA: /baðaˈlaɾ/
+beliscar
+  IPA: /belisˈkaɾ/
+conxugada
+  IPA: /konʃuˈɡada/
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ɐ]
+  IPA: /konʃuˈɡada/ (Tags: standard)
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ɐ] (Tags: standard)
+  IPA: /konʃuˈħada/
+  IPA: [konʲ.ʃuˈħɑ.ð̞ɐ]
+mercamos
+  IPA: /meɾˈkamʊs/
+merca
+  IPA: /ˈmɛɾka/
+  IPA: [ˈmɛɾ.kɐ]
+ferrada
+  IPA: /fɛˈraða̝/
+restrinxir
+  IPA: /restɾinˈʃiɾ/
+  IPA: [res̺.t̪ɾinʲˈʃiɾ]
+descabelado
+  IPA: [deskaβeˈlaðʊ]
+descascar
+  IPA: /deskasˈkaɾ/
+arrotar
+  IPA: /aroˈtaɾ/
+chuviscar
+  IPA: [t͡ʃuβisˈkaɾ]
+chifrar
+  IPA: [t͡ʃiˈfɾaɾ]
+comichar
+  IPA: [komiˈt͡ʃaɾ]
+empoleirar
+  IPA: /empolejˈɾaɾ/
+enfeitar
+  IPA: /eɱfejˈtaɾ/
+enfraquecer
+  IPA: [eɱfɾakeˈθeɾ]
+  IPA: [eɱfɾakeˈseɾ] (Tags: Western)
+encharcar
+  IPA: /ent͡ʃaɾˈkaɾ/
+  IPA: [enʲ.t͡ʃaɾˈkɑɾ]
+ensanguentar
+  IPA: /ensaŋɡenˈtaɾ/
+  IPA: /ensaŋɡɛnˈtaɾ/
+entupir
+  IPA: [entuˈpiɾ]
+esparramar
+  IPA: /esparaˈmaɾ/
+  IPA: [es̺.pa.raˈmaɾ]
+estrelar
+  IPA: [estɾeˈlaɾ]
+esganar
+  IPA: /esɣaˈnaɾ/
+ferrado
+  IPA: /feˈraðo̝/
+escarnecer
+  IPA: [es.kaɾ.ne.ˈθeɾ]
+esmerar
+  IPA: [esmeˈɾaɾ]
+fisgar
+  IPA: /fisˈɡaɾ/
+  IPA: [fiz̺ˈɣ̞ɑɾ]
+  IPA: /fisˈɡaɾ/ (Tags: standard)
+  IPA: [fiz̺ˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /fisˈħaɾ/
+  IPA: [fiz̺ˈħɑɾ]
+chuvisca
+  IPA: /t͡ʃuˈbiska/
+  IPA: [t͡ʃuˈβ̞is̺.kɐ]
+esvarar
+  IPA: /esβaˈɾaɾ/
+estrinxir
+  IPA: /estɾinˈʃiɾ/
+arrepiar
+  IPA: /areˈpjaɾ/
+  IPA: [a.reˈpjaɾ]
+fillar
+  IPA: /fiˈʎaɾ/
+fillar
+  IPA: /fiˈʎaɾ/
+mirrar
+  IPA: /mi.ˈraɾ/
+atrapallar
+  IPA: /a.tɾa.pa.ˈʎaɾ/
+malfeito
+  IPA: [malˈfejtʊ]
+despender
+  IPA: /despenˈdeɾ/
+cachada
+  IPA: [kaˈt͡ʃaðɐ]
+estrelado
+  IPA: [estɾeˈlaðʊ]
+masturbada
+  IPA: /mastuɾˈbada/
+  IPA: [mas̺.t̪uɾˈβ̞a.ð̞ɐ]
+soer
+  IPA: /soˈeɾ/
+folgar
+  IPA: [folˈɣaɾ]
+querelar
+  IPA: [keɾeˈlaɾ]
+requentar
+  IPA: [rekɛnˈtaɾ]
+vexar
+  IPA: /beˈʃaɾ/
+salgar
+  IPA: /salˈɣaɾ/
+trebellar
+  IPA: /tɾeˈβeʎaɾ/
+tosquiar
+  IPA: /toskiˈaɾ/
+espernear
+  IPA: /espeɾneˈaɾ/
+tallada
+  IPA: [taˈʎaðɐ]
+aferventar
+  IPA: /afeɾβenˈtaɾ/
+esmorecer
+  IPA: /esmoɾeˈθeɾ/
+  IPA: /esmoɾeˈseɾ/ (Tags: Western)
+folgado
+  IPA: /folˈɡado/
+  IPA: [foɫˈɣ̞ɑ.ð̞ʊ]
+  IPA: /folˈɡado/ (Tags: standard)
+  IPA: [foɫˈɣ̞ɑ.ð̞ʊ] (Tags: standard)
+  IPA: /folˈħado/
+  IPA: [foɫˈħɑ.ð̞ʊ]
+acrecer
+  IPA: [akɾeˈθeɾ]
+  IPA: [akɾeˈseɾ] (Tags: Western)
+minguar
+  IPA: [miŋˈɣwaɾ]
+abicar
+  IPA: [aβiˈkaɾ]
+rescaldar
+  IPA: [reskalˈdaɾ]
+ganir
+  IPA: /ɡaˈniɾ/
+estercar
+  IPA: /esteɾˈkaɾ/
+iscar
+  IPA: [isˈkaɾ]
+fretar
+  IPA: /fɾeˈtaɾ/
+fretar
+  IPA: /fɾeˈtaɾ/
+carpir
+  IPA: /kaɾˈpiɾ/
+dentar
+  IPA: [denˈtaɾ]
+  IPA: [dɛnˈtaɾ]
+cilindrar
+  IPA: /θilinˈdɾaɾ/
+  IPA: [θi.lin̪ˈd̪ɾaɾ]
+  IPA: /θilinˈdɾaɾ/ (Tags: standard)
+  IPA: [θi.lin̪ˈd̪ɾaɾ] (Tags: standard)
+  IPA: /silinˈdɾaɾ/
+  IPA: [si.lin̪ˈd̪ɾaɾ]
+estremar
+  IPA: /estɾeˈmaɾ/
+apupar
+  IPA: /apuˈpaɾ/
+petada
+  IPA: [peˈtaðɐ]
+descoser
+  IPA: [deskoˈseɾ]
+requirir
+  IPA: [rekiˈɾiɾ]
+sospeitar
+  IPA: [sospejˈtaɾ]
+ornear
+  IPA: /ɔɾneˈaɾ/
+  IPA: /oɾneˈaɾ/
+arfar
+  IPA: /aɾˈfaɾ/
+desbotar
+  IPA: /desβoˈtaɾ/
+escarnir
+  IPA: [es.kaɾ.ˈniɾ]
+remexer
+  IPA: /remeˈʃeɾ/
+aconchegar
+  IPA: [akont͡ʃeˈɣaɾ]
+muar
+  IPA: /muˈaɾ/
+acorrer
+  IPA: [a.ko.ˈreɾ]
+trabucar
+  IPA: /tɾaβuˈkaɾ/
+incardinar
+  IPA: /iŋkaɾdiˈnaɾ/
+  IPA: [iŋ.kɑɾ.ð̞iˈnaɾ]
+desvariar
+  IPA: [desβaɾiˈaɾ]
+  IPA: [desβaˈɾi̯aɾ]
+escoller
+  IPA: /eskoˈʎeɾ/
+coidar
+  IPA: /kojˈðaɾ/
+acadar
+  IPA: /akaˈdaɾ/
+desleixar
+  IPA: /deslejˈʃaɾ/
+termar
+  IPA: /teɾˈmaɾ/
+ranquear
+  IPA: /raŋkeˈaɾ/
+recadar
+  IPA: /rekaˈdaɾ/
+  IPA: [re.kɑˈð̞aɾ]
+sinalar
+  IPA: /sinaˈlaɾ/
+  IPA: [s̺i.naˈlaɾ]
+tinguir
+  IPA: /tiŋˈɡiɾ/
+  IPA: [t̪iŋˈɡiɾ]
+  IPA: /tiŋˈɡiɾ/ (Tags: standard)
+  IPA: [t̪iŋˈɡiɾ] (Tags: standard)
+  IPA: /tiŋˈħiɾ/
+  IPA: [t̪iŋˈħiɾ]
+bendicir
+  IPA: /bɛndiˈθiɾ/
+  IPA: [bɛn̪.d̪iˈθiɾ]
+  IPA: /bɛndiˈθiɾ/ (Tags: standard)
+  IPA: [bɛn̪.d̪iˈθiɾ] (Tags: standard)
+  IPA: /bɛndiˈsiɾ/
+  IPA: [bɛn̪.d̪iˈsiɾ]
+charrúa
+  IPA: /t͡ʃaˈrua/
+  IPA: [t͡ʃaˈru.ɐ]
+xiringar
+  IPA: /ʃiɾiŋˈɡaɾ/
+estañar
+  IPA: /estaˈɲaɾ/
+espigar
+  IPA: [espiˈɣaɾ]
+estarrecer
+  IPA: /estareˈθeɾ/
+  IPA: /estareˈseɾ/ (Tags: Western)
+festexar
+  IPA: [festeˈʃaɾ]
+reabastecer
+  IPA: /reabasteˈθeɾ/
+  IPA: [re.a.β̞as̺.t̪eˈθeɾ]
+  IPA: /reabasteˈθeɾ/ (Tags: standard)
+  IPA: [re.a.β̞as̺.t̪eˈθeɾ] (Tags: standard)
+  IPA: /reabasteˈseɾ/
+  IPA: [re.a.β̞as.t̪eˈseɾ]
+revirado
+  IPA: /reβiˈɾaðo̝/
+desafectar
+  IPA: /desafɛkˈtaɾ/
+  IPA: [d̪e.s̺a.fɛkˈt̪aɾ]
+embazar
+  IPA: [embaˈθaɾ]
+  IPA: [embaˈsaɾ] (Tags: Western)
+mollar
+  IPA: /moˈʎaɾ/
+acorar
+  IPA: /akoˈɾaɾ/
+acorar
+  IPA: /akoˈɾaɾ/
+empecer
+  IPA: /empɛˈθeɾ/
+eivar
+  IPA: /ejˈβaɾ/
+embelecar
+  IPA: [embeleˈkaɾ]
+aguisar
+  IPA: /aɣiˈsaɾ/
+verquer
+  IPA: /beɾˈkeɾ/
+escairar
+  IPA: /eskajˈɾaɾ/
+circunvalar
+  IPA: /θiɾkumbaˈlaɾ/
+  IPA: [θiɾ.kum.baˈlaɾ]
+  IPA: /θiɾkumbaˈlaɾ/ (Tags: standard)
+  IPA: [θiɾ.kum.baˈlaɾ] (Tags: standard)
+  IPA: /siɾkumbaˈlaɾ/
+  IPA: [siɾ.kum.baˈlaɾ]
+trallar
+  IPA: /tɾaˈʎaɾ/
+tralla
+  IPA: /ˈtɾaɟa/
+  IPA: [ˈt̪ɾa̠.ɟɐ]
+grallar
+  IPA: /ɡɾaˈʎaɾ/
+mesturar
+  IPA: /mestuˈɾaɾ/
+ralbar
+  IPA: /ralˈβaɾ/
+esfollar
+  IPA: /esfoˈʎaɾ/
+  IPA: /eɾfoˈʎaɾ/
+esfollada
+  IPA: [esfoˈʎaðɐ]
+coriscar
+  IPA: /koɾisˈkaɾ/
+faiado
+  IPA: /faˈjaðo̝/
+tillado
+  IPA: /tiˈʎaðo̝/
+xebrar
+  IPA: /ʃeˈβɾaɾ/
+tillar
+  IPA: /tiˈʎaɾ/
+tillar
+  IPA: /tiˈʎaɾ/
+faiar
+  IPA: /faˈjaɾ/
+enxoito
+  IPA: [enˈʃojtʊ]
+sachar
+  IPA: /saˈt͡ʃaɾ/
+chirlar
+  IPA: /t͡ʃiɾˈlaɾ/
+bruar
+  IPA: /bɾuˈaɾ/
+aniñar
+  IPA: [anĩˈɲaɾ]
+rinchar
+  IPA: /ˈrinˈt͡ʃaɾ/
+vezar
+  IPA: [beˈθaɾ]
+  IPA: [beˈsaɾ] (Tags: Western)
+encartar
+  IPA: /eŋkaɾˈtaɾ/
+liscar
+  IPA: /lisˈkaɾ/
+esculcar
+  IPA: /eskulˈkaɾ/
+renxer
+  IPA: /renˈʃeɾ/
+rosmar
+  IPA: /rosˈmaɾ/
+  IPA: /rɔsˈmaɾ/
+enfurruñar
+  IPA: [eɱ.fu.ru.ˈɲaɾ]
+enludrar
+  IPA: /enluˈðɾaɾ/
+bourar
+  IPA: /bowˈɾaɾ/
+agarimo
+  IPA: /aɡaˈɾimo/
+  IPA: [ɑ.ɣ̞ɑˈɾi.mʊ]
+  IPA: /aɡaˈɾimo/ (Tags: standard)
+  IPA: [ɑ.ɣ̞ɑˈɾi.mʊ] (Tags: standard)
+  IPA: /aħaˈɾimo/
+  IPA: [ɑ.ħɑˈɾi.mʊ]
+garimar
+  IPA: /ɡaɾiˈmaɾ/
+agarimar
+  IPA: /aɣaɾiˈmaɾ/
+esfamear
+  IPA: /esfameˈaɾ/
+choupar
+  IPA: /t͡ʃowˈpaɾ/
+enchoupar
+  IPA: /ent͡ʃowˈpaɾ/
+empreñar
+  IPA: /empɾeˈɲaɾ/
+  IPA: [em.pɾeˈɲaɾ]
+larpar
+  IPA: /laɾˈpaɾ/
+estricar
+  IPA: /estɾiˈkaɾ/
+estarricar
+  IPA: /estariˈkaɾ/
+enfeudar
+  IPA: /enfɛwˈdaɾ/
+  IPA: [eɱ.fɛwˈð̞aɾ]
+allear
+  IPA: /aʎeˈaɾ/
+agaitar
+  IPA: /aɣajˈtaɾ/
+engastallar
+  IPA: /eŋɡasˈtaʎaɾ/
+apandar
+  IPA: [apanˈdaɾ]
+nifrar
+  IPA: /niˈfɾaɾ/
+escarvar
+  IPA: /eskaɾˈβaɾ/
+devalar
+  IPA: /deβaˈlaɾ/
+dar ao demo
+  IPA: [ˈdar ɔˈðɛmʊ]
+rustrir
+  IPA: /rusˈtɾiɾ/
+asexar
+  IPA: /aseˈʃaɾ/
+choer
+  IPA: /t͡ʃoˈeɾ/
+proer
+  IPA: /pɾoˈeɾ/
+lousar
+  IPA: /lowˈsaɾ/
+acaramelar
+  IPA: /akaɾamɛˈlaɾ/
+  IPA: [ɑ.kɑ.ɾa.mɛˈlaɾ]
+  IPA: /akaɾameˈlaɾ/
+  IPA: [ɑ.kɑ.ɾa.meˈlaɾ]
+anazar
+  IPA: /anaˈθaɾ/
+arregazar
+  IPA: /reɡaˈθaɾ/
+  IPA: /reɡaˈsaɾ/ (Tags: Western)
+quecer
+  IPA: /kɛˈθeɾ/
+  IPA: /kɛˈseɾ/ (Tags: Western)
+tripar
+  IPA: /tɾiˈpaɾ/
+fedellar
+  IPA: /feðeˈʎaɾ/
+gornecer
+  IPA: /ɡoɾneˈθeɾ/
+  IPA: [ɡoɾ.neˈθeɾ]
+  IPA: /ɡoɾneˈθeɾ/ (Tags: standard)
+  IPA: [ɡoɾ.neˈθeɾ] (Tags: standard)
+  IPA: /ħoɾneˈθeɾ/
+  IPA: [ħoɾ.neˈθeɾ]
+  IPA: /ħoɾneˈseɾ/
+  IPA: [ħoɾ.neˈseɾ]
+decatar
+  IPA: /dekaˈtaɾ/
+  IPA: [d̪e.kɑˈt̪aɾ]
+aluscar
+  IPA: /alusˈkaɾ/
+zoscar
+  IPA: /θosˈkaɾ/
+  IPA: [θos̺ˈkɑɾ]
+  IPA: /θosˈkaɾ/ (Tags: standard)
+  IPA: [θos̺ˈkɑɾ] (Tags: standard)
+  IPA: /sosˈkaɾ/
+  IPA: [sosˈkɑɾ]
+lostregar
+  IPA: /lostɾeˈɣaɾ/
+  IPA: /lustɾiˈɣaɾ/
+orballar
+  IPA: /oɾβaˈʎaɾ/
+arrequeixar
+  IPA: /arekejˈʃaɾ/
+reluscar
+  IPA: /relusˈkaɾ/
+alustrar
+  IPA: /alusˈtɾaɾ/
+relustrar
+  IPA: /relusˈtɾaɾ/
+  IPA: /relisˈtɾaɾ/
+afungar
+  IPA: /afuŋˈɡaɾ/
+afuar
+  IPA: /afuˈaɾ/
+laiar
+  IPA: /laˈjaɾ/
+salaiar
+  IPA: /salaˈjaɾ/
+ceibar
+  IPA: /θejˈβaɾ/
+  IPA: /sejˈβaɾ/ (Tags: Western)
+vendimar
+  IPA: /bendiˈmaɾ/
+acougar
+  IPA: /akowˈɣaɾ/
+teitar
+  IPA: /tejˈtaɾ/
+enfoscar
+  IPA: /enfosˈkaɾ/
+  IPA: /enfusˈkaɾ/
+bobinar
+  IPA: /bɔbiˈnaɾ/
+  IPA: [bɔ.β̞iˈnaɾ]
+encabar
+  IPA: [eŋkaˈβaɾ]
+agasallar
+  IPA: /aɡasaˈɟaɾ/
+  IPA: [ɑ.ɣ̞ɑ.s̺aˈɟaɾ]
+  IPA: /aɡasaˈɟaɾ/ (Tags: standard)
+  IPA: [ɑ.ɣ̞ɑ.s̺aˈɟaɾ] (Tags: standard)
+  IPA: /aħasaˈɟaɾ/
+  IPA: [ɑ.ħɑ.s̺aˈɟaɾ]
+esbullar
+  IPA: /esβuˈʎaɾ/
+debullar
+  IPA: /deβuˈʎaɾ/
+esburgar
+  IPA: /esβuɾˈɣaɾ/
+recompilar
+  IPA: /rekompiˈlaɾ/
+  IPA: [re.kom.piˈlaɾ]
+devecer
+  IPA: /deβeˈθeɾ/
+chanto
+  IPA: /ˈt͡ʃantʊ/
+asubiar
+  IPA: /asuβiˈaɾ/
+anoxar
+  IPA: /anoˈʃaɾ/
+zucho
+  IPA: /ˈθut͡ʃo/
+  IPA: [ˈθu.t͡ʃʊ]
+  IPA: /ˈθut͡ʃo/ (Tags: standard)
+  IPA: [ˈθu.t͡ʃʊ] (Tags: standard)
+  IPA: /ˈsut͡ʃo/
+  IPA: [ˈsu.t͡ʃʊ]
+zuchar
+  IPA: /θuˈt͡ʃaɾ/
+  IPA: /suˈt͡ʃaɾ/
+cichar
+  IPA: /θiˈt͡ʃaɾ/
+  IPA: /siˈt͡ʃaɾ/ (Tags: Western)
+zugar
+  IPA: /θuˈɣaɾ/
+  IPA: /suˈɣaɾ/
+alumear
+  IPA: /alumeˈaɾ/
+chiscar
+  IPA: /t͡ʃisˈkaɾ/
+cadrar
+  IPA: /kaˈðɾaɾ/
+estiar
+  IPA: /estiˈaɾ/
+esbardallar
+  IPA: /esβaɾðaˈʎaɾ/
+asolagar
+  IPA: /asolaˈɡaɾ/
+  IPA: /asulaˈɡaɾ/
+guipar
+  IPA: [ɡiˈpaɾ]
+tilla
+  IPA: /ˈtiʎa̝/
+acaroar
+  IPA: /akaɾoˈar/
+bremar
+  IPA: /bɾeˈmaɾ/
+trouso
+  IPA: /ˈtɾowso̝/
+estampinar
+  IPA: /estampiˈnaɾ/
+derrear
+  IPA: /dereˈaɾ/
+trousar
+  IPA: /tɾowˈsaɾ/
+trousar
+  IPA: /tɾowˈsaɾ/
+acubillo
+  IPA: /akuˈbiɟo/
+  IPA: [ɑ.kuˈβ̞i.ɟʊ]
+acubillar
+  IPA: /akuˈβiʎaɾ/
+abranguer
+  IPA: /abɾaŋˈɡeɾ/
+  IPA: [a.β̞ɾɑŋˈɡeɾ]
+  IPA: /abɾaŋˈɡeɾ/ (Tags: standard)
+  IPA: [a.β̞ɾɑŋˈɡeɾ] (Tags: standard)
+  IPA: /abɾaŋˈħeɾ/
+  IPA: [a.β̞ɾɑŋˈħeɾ]
+aparvar
+  IPA: /apaɾˈβaɾ/
+choutar
+  IPA: /t͡ʃowˈtaɾ/
+tacoar
+  IPA: /takoˈaɾ/
+rexeitar
+  IPA: /reʃejˈtaɾ/
+xeitar
+  IPA: /ʃejˈtaɾ/
+enxeitar
+  IPA: /enʃejˈtaɾ/
+revirar
+  IPA: /reβiˈɾaɾ/
+espeluxar
+  IPA: /espeluˈʃaɾ/
+abouxar
+  IPA: /abowˈʃaɾ/
+  IPA: [a.β̞owˈʃaɾ]
+entrousar
+  IPA: /entɾowˈsaɾ/
+espir
+  IPA: /esˈpiɾ/
+randear
+  IPA: /randeˈaɾ/
+alporizar
+  IPA: /alpoɾiˈθaɾ/
+  IPA: /alpoɾiˈsaɾ/ (Tags: Western)
+asoballar
+  IPA: /asoβaˈʎaɾ/
+chanchar
+  IPA: /t͡ʃanˈt͡ʃaɾ/
+argallar
+  IPA: /aɾɣaˈʎaɾ/
+esmendrellar
+  IPA: /esmendɾeˈʎaɾ/
+escangallar
+  IPA: /eskaŋɡaˈʎaɾ/
+esnaquizar
+  IPA: /esnakiˈθaɾ/
+  IPA: /esnakiˈsaɾ/ (Tags: Western)
+rexurdir
+  IPA: /reʃuɾˈðiɾ/
+illar
+  IPA: /iˈʎaɾ/
+illar
+  IPA: /iˈʎaɾ/
+esnacar
+  IPA: /esnaˈkaɾ/
+escachar
+  IPA: /eskaˈt͡ʃaɾ/
+esfargallar
+  IPA: /esfaɾɣaˈʎaɾ/
+esfaragullar
+  IPA: /esfaɾaɣuˈʎaɾ/
+esfrangullar
+  IPA: /esfɾaŋɡuˈʎaɾ/
+apedrar
+  IPA: [apeˈðɾaɾ]
+amoado
+  IPA: [amoˈaðʊ]
+esnafrar
+  IPA: /esnaˈfɾaɾ/
+rabuñar
+  IPA: /raβuˈɲaɾ/
+derrafar
+  IPA: /deraˈfaɾ/
+gañar
+  IPA: /ɡaˈɲaɾ/
+rafar
+  IPA: /raˈfaɾ/
+bandear
+  IPA: [bandeˈaɾ]
+bandear
+  IPA: [bandeˈaɾ]
+aloumiñar
+  IPA: /alowmiˈɲaɾ/
+deluvar
+  IPA: /deluˈbaɾ/
+  IPA: [d̪e.luˈβ̞aɾ]
+depenicar
+  IPA: [depɪniˈkaɾ]
+repenicar
+  IPA: /repeniˈkaɾ/
+  IPA: /repiniˈkaɾ/
+fochicar
+  IPA: /fut͡ʃiˈkaɾ/
+adormentar
+  IPA: /aðoɾmenˈtaɾ/
+  IPA: /aðoɾmɛnˈtaɾ/
+esguizar
+  IPA: /esɣiˈθaɾ/
+abancar
+  IPA: [aβaŋˈkaɾ]
+gargallar
+  IPA: /ɡaɾɣaˈʎaɾ/
+troulear
+  IPA: /tɾowleˈaɾ/
+estrullar
+  IPA: /estɾuˈʎaɾ/
+aseitar
+  IPA: /asejˈtaɾ/
+bisbar
+  IPA: /bisˈβaɾ/
+ateigar
+  IPA: /atejˈɣaɾ/
+pispar
+  IPA: /pisˈpaɾ/
+babuxa
+  IPA: /baˈbuʃa/
+  IPA: [baˈβ̞u.ʃɐ]
+gorentar
+  IPA: /ɡoɾenˈtaɾ/
+  IPA: /ɡoɾɛnˈtaɾ/
+chimpar
+  IPA: /t͡ʃimˈpaɾ/
+guispar
+  IPA: /ɡisˈpaɾ/
+eslavar
+  IPA: /eslaˈβaɾ/
+enxaugar
+  IPA: [enʃawˈɣaɾ]
+miañar
+  IPA: /miaˈɲaɾ/
+abondar
+  IPA: /aβonˈdaɾ/
+espelido
+  IPA: /espeˈliðo̝/
+escarpear
+  IPA: /eskaɾpeˈaɾ/
+colleita
+  IPA: /koˈʎejta̝/
+carpear
+  IPA: /kaɾpeˈaɾ/
+achegar
+  IPA: /at͡ʃeˈɣaɾ/
+escarmear
+  IPA: /eskaɾmeˈaɾ/
+colleitar
+  IPA: /koʎejˈtaɾ/
+espelir
+  IPA: /espeˈliɾ/
+carmear
+  IPA: /kaɾmeˈaɾ/
+inzar
+  IPA: /inˈθaɾ/
+arrochar
+  IPA: /aroˈt͡ʃaɾ/
+gramar
+  IPA: /ɡɾaˈmaɾ/
+envorcallar
+  IPA: /emboɾkaˈʎaɾ/
+envurullar
+  IPA: /embuɾuˈʎaɾ/
+  IPA: /embɾuˈʎaɾ/
+envorcar
+  IPA: /embɔɾˈkaɾ/
+esmorir
+  IPA: /esmoˈɾiɾ/
+espido
+  IPA: /esˈpido/
+  IPA: [es̺ˈpi.ð̞ʊ]
+frixir
+  IPA: /fɾiˈʃiɾ/
+fritir
+  IPA: /fɾiˈtiɾ/
+ganduxar
+  IPA: /ɡanduˈʃaɾ/
+avesar
+  IPA: /aβeˈsaɾ/
+chorir
+  IPA: /t͡ʃoˈɾiɾ/
+roxar
+  IPA: /roˈʃaɾ/
+fozar
+  IPA: /foˈθaɾ/
+  IPA: /foˈsaɾ/ (Tags: Western)
+malparir
+  IPA: [malpaˈɾiɾ]
+remanecer
+  IPA: /remaneˈθeɾ/
+  IPA: /remaneˈseɾ/ (Tags: Western)
+engoumado
+  IPA: [eŋɡou̯ˈmaðʊ]
+rodrigar
+  IPA: /roðɾiˈɣaɾ/
+trasfegar
+  IPA: [tɾasfeˈɣaɾ]
+macizar
+  IPA: [maθiˈθaɾ]
+  IPA: [masiˈsaɾ] (Tags: Western)
+mariscar
+  IPA: [maɾisˈkaɾ]
+choiar
+  IPA: /t͡ʃɔˈjaɾ/
+esquipar
+  IPA: /eskiˈpaɾ/
+bourear
+  IPA: /bow.ɾeˈaɾ/
+esgazar
+  IPA: /esɣaˈθaɾ/
+abeberar
+  IPA: /abebeˈɾaɾ/
+  IPA: [a.β̞e.β̞eˈɾaɾ]
+socalcar
+  IPA: /sokalˈkaɾ/
+derregar
+  IPA: /dereˈɣaɾ/
+axear
+  IPA: /aʃeˈaɾ/
+xear
+  IPA: /ʃeˈaɾ/
+  IPA: /ʃiˈaɾ/
+enxerdar
+  IPA: /enʃeɾˈðaɾ/
+enxerir
+  IPA: /enʃeˈɾiɾ/
+  IPA: /inʃeˈɾiɾ/
+bafexar
+  IPA: /bafeˈʃaɾ/
+saloucar
+  IPA: /salowˈkaɾ/
+deostar
+  IPA: /deɔsˈtaɾ/
+amecer
+  IPA: /ameˈθeɾ/
+nubrar
+  IPA: /nuˈβɾaɾ/
+atuír
+  IPA: /atuˈiɾ/
+anubrar
+  IPA: /anuˈβɾaɾ/
+ouvear
+  IPA: /owβeˈaɾ/
+ergueito
+  IPA: /eɾˈɣejto̝/
+reburdiar
+  IPA: /rebuɾˈdjaɾ/
+  IPA: [re.β̞uɾˈð̞jaɾ]
+burdiar
+  IPA: /buɾˈdjaɾ/
+  IPA: [buɾˈð̞jaɾ]
+rebuldar
+  IPA: /reβulˈdaɾ/
+atoar
+  IPA: /atoˈaɾ/
+furrular
+  IPA: /furuˈlaɾ/
+pescudar
+  IPA: /peskuˈðaɾ/
+acañar
+  IPA: /akaˈɲaɾ/
+  IPA: [ɑ.kɑˈɲaɾ]
+apremer
+  IPA: /apɾeˈmeɾ/
+engalar
+  IPA: /eŋɡaˈlaɾ/
+cinchar
+  IPA: /θinˈt͡ʃaɾ/
+  IPA: /sinˈt͡ʃaɾ/ (Tags: Western)
+entrabar
+  IPA: [entɾaˈβaɾ]
+gabear
+  IPA: /ɡaβeˈaɾ/
+chuchar
+  IPA: /t͡ʃuˈt͡ʃaɾ/
+remoucar
+  IPA: /remowˈkaɾ/
+amoucar
+  IPA: /amowˈkaɾ/
+  IPA: [a.mowˈkɑɾ]
+fradar
+  IPA: /fɾaˈðaɾ/
+demoucar
+  IPA: /demowˈkaɾ/
+moucar
+  IPA: /mowˈkaɾ/
+esmoucar
+  IPA: /esmowˈkaɾ/
+abaloucar
+  IPA: [aβalowˈkaɾ]
+carretar
+  IPA: /kareˈtaɾ/
+xermolar
+  IPA: /ʃermoˈlaɾ/
+agromar
+  IPA: /aɣɾoˈmaɾ/
+colleito
+  IPA: /koˈʎejto̝/
+tolleito
+  IPA: [toˈʎejto̝]
+trasnoitar
+  IPA: /tɾasnojˈtaɾ/
+gorgolexar
+  IPA: /ɡoɾɣoleˈʃaɾ/
+somorgullar
+  IPA: /somoɾɣuˈʎaɾ/
+gurgullar
+  IPA: /ɡuɾɣuˈʎaɾ/
+burbullar
+  IPA: /buɾβuˈʎaɾ/
+cozar
+  IPA: /koˈθaɾ/
+  IPA: /koˈsaɾ/ (Tags: Western)
+abetar
+  IPA: /aβeˈtaɾ/
+gacear
+  IPA: /ɡaθeˈaɾ/
+encalcar
+  IPA: /eŋkalˈkaɾ/
+  IPA: [eŋ.kɑɫˈkɑɾ]
+encamiñar
+  IPA: [eŋkamĩˈɲaɾ]
+cercear
+  IPA: /θeɾθeˈaɾ/
+richar
+  IPA: /riˈt͡ʃaɾ/
+richar
+  IPA: /riˈt͡ʃaɾ/
+arroiar
+  IPA: /aroˈjaɾ/
+leriar
+  IPA: /lɛɾiˈaɾ/
+amencer
+  IPA: /amenˈθeɾ/
+  IPA: [a.mẽn̪ˈθeɾ]
+  IPA: /amenˈθeɾ/ (Tags: standard)
+  IPA: [a.mẽn̪ˈθeɾ] (Tags: standard)
+  IPA: /amenˈseɾ/
+  IPA: [a.mẽnˈseɾ]
+retrincar
+  IPA: /retriŋˈkaɾ/
+aldraxe
+  IPA: /alˈdɾaʃe/
+  IPA: [ɑl̪ˈd̪ɾa̠.ʃɪ]
+aguilloar
+  IPA: /aɣiʎoˈaɾ/
+aguillar
+  IPA: /aɣiˈʎaɾ/
+gornir
+  IPA: /ɡoɾˈniɾ/
+abetocar
+  IPA: /aβetɔˈkaɾ/
+sobradar
+  IPA: /soβɾaˈðaɾ/
+forxa
+  IPA: /ˈfɔɾʃa/
+  IPA: [ˈfɔɾ.ʃɐ]
+randar
+  IPA: /ranˈdaɾ/
+aturuxar
+  IPA: /atuɾuˈʃaɾ/
+escarolar
+  IPA: /eskaɾoˈlaɾ/
+gallado
+  IPA: /ɡaˈʎaðo̝/
+esgallar
+  IPA: /esɣaˈʎaɾ/
+albiscar
+  IPA: /alβisˈkaɾ/
+biscar
+  IPA: /bisˈkaɾ/
+amosegar
+  IPA: /amoseˈɣaɾ/
+deschoer
+  IPA: /dest͡ʃoˈeɾ/
+estear
+  IPA: /esteˈaɾ/
+estear
+  IPA: /esteˈaɾ/
+arrufado
+  IPA: /aruˈfaðo̝/
+recuncar
+  IPA: /rekuŋˈkaɾ/
+arrufar
+  IPA: /aruˈfaɾ/
+esmigallar
+  IPA: /esmiɣaˈʎaɾ/
+esmiuzar
+  IPA: /esmi.uˈθaɾ/
+  IPA: /esmi.uˈsaɾ/ (Tags: Western)
+escarallar
+  IPA: /eskaɾaˈʎaɾ/
+soutar
+  IPA: /sowˈtaɾ/
+  IPA: [s̺owˈt̪aɾ]
+denegrido
+  IPA: /deneˈɣɾiðo̝/
+escolleito
+  IPA: /eskoˈʎejto̝/
+esbellar
+  IPA: /esβeˈʎaɾ/
+frenxer
+  IPA: /frenˈʃeɾ/
+alabarar
+  IPA: /alaβaˈɾaɾ/
+trasvirar
+  IPA: /tɾasbiˈɾaɾ/
+escandear
+  IPA: /eskandeˈaɾ/
+eslumar
+  IPA: /esluˈmaɾ/
+migar
+  IPA: /miˈɣaɾ/
+rousar
+  IPA: /rowˈsaɾ/
+roucear
+  IPA: /rowθɛˈaɾ/
+redar
+  IPA: [reˈðaɾ]
+manquexar
+  IPA: [maŋkeˈʃaɾ]
+rillar
+  IPA: /riˈʎaɾ/
+escolmar
+  IPA: /eskolˈmaɾ/
+enfeitizar
+  IPA: /eɱfejtiˈθaɾ/
+  IPA: /eɱfejtiˈsaɾ/ (Tags: Western)
+rubir
+  IPA: /ruˈβiɾ/
+esbourar
+  IPA: /esβowˈɾaɾ/
+esboirar
+  IPA: /esβojˈɾaɾ/
+laretar
+  IPA: /laɾeˈtaɾ/
+boquexar
+  IPA: /bokeˈʃaɾ/
+desqueixar
+  IPA: /deskejˈʃaɾ/
+bocexar
+  IPA: /boθeˈʃaɾ/
+  IPA: [bo.θeˈʃaɾ]
+  IPA: /boθeˈʃaɾ/ (Tags: standard)
+  IPA: [bo.θeˈʃaɾ] (Tags: standard)
+  IPA: /boseˈʃaɾ/
+  IPA: [bo.seˈʃaɾ]
+desexar
+  IPA: /deseˈʃaɾ/
+cobizar
+  IPA: /koβiˈθaɾ/
+  IPA: /koβiˈsaɾ/ (Tags: Western)
+adiviñar
+  IPA: /aðiβiˈɲaɾ/
+unxir
+  IPA: /unˈʃiɾ/
+estercoar
+  IPA: /esteɾkoˈaɾ/
+cangar
+  IPA: /kaŋˈɡaɾ/
+rebulir
+  IPA: /rebuˈliɾ/
+buligar
+  IPA: /buliˈɡaɾ/
+debaer
+  IPA: /deβaˈeɾ/
+atinxir
+  IPA: /atiŋˈʃiɾ/
+atopar
+  IPA: /atoˈpaɾ/
+acaer
+  IPA: /akaˈeɾ/
+atanguer
+  IPA: /ataŋˈɡeɾ/
+arroupar
+  IPA: [arou̯ˈpaɾ]
+entrillar
+  IPA: /entɾiˈʎaɾ/
+engulir
+  IPA: /eŋɡuˈliɾ/
+debagar
+  IPA: /deβaˈɣaɾ/
+lañar
+  IPA: /laˈɲaɾ/
+bortelar
+  IPA: /boɾteˈlaɾ/
+barutar
+  IPA: /baɾuˈtaɾ/
+escaravellar
+  IPA: /eskaɾaβeˈʎaɾ/
+amaravallar
+  IPA: /amaɾaβaˈʎaɾ/
+marfollar
+  IPA: /amaɾfoˈʎaɾ/
+esmarfallar
+  IPA: /esmaɾfaˈʎaɾ/
+xacer
+  IPA: /ʃaˈθeɾ/
+arrecender
+  IPA: /areθenˈdeɾ/
+  IPA: /aresenˈdeɾ/ (Tags: Western)
+apancar
+  IPA: /apaŋˈkaɾ/
+aboar
+  IPA: /aˈβo.aɾ/
+aboar
+  IPA: /aˈβo.aɾ/
+zorregar
+  IPA: /θoreˈɡaɾ/
+  IPA: /soreˈɡaɾ/ (Tags: Western)
+apodrentar
+  IPA: /apodɾenˈtaɾ/
+  IPA: [a.po.ð̞ɾen̪ˈt̪aɾ]
+amolegar
+  IPA: /amoleˈɣaɾ/
+lousado
+  IPA: /lowˈsaðo̝/
+tellar
+  IPA: /teˈʎaɾ/
+zoupar
+  IPA: /θowˈpaɾ/
+  IPA: [θowˈpaɾ]
+  IPA: /θowˈpaɾ/ (Tags: standard)
+  IPA: [θowˈpaɾ] (Tags: standard)
+  IPA: /sowˈpaɾ/
+  IPA: [sowˈpaɾ]
+beberricar
+  IPA: /beβeriˈkaɾ/
+sarxar
+  IPA: /saɾˈʃaɾ/
+asollar
+  IPA: /asoˈʎaɾ/
+zopegar
+  IPA: /θopeˈɣaɾ/
+rebandar
+  IPA: /reβanˈdaɾ/
+cacarexar
+  IPA: /kakaɾeˈʃaɾ/
+estonar
+  IPA: /estoˈnaɾ/
+remelar
+  IPA: /remeˈlaɾ/
+vixiar
+  IPA: /biʃiˈaɾ/
+vesar
+  IPA: /beˈsaɾ/
+esparexer
+  IPA: /espaɾeˈʃeɾ/
+charruar
+  IPA: /t͡ʃaruˈaɾ/
+  IPA: [t͡ʃa.ruˈaɾ]
+dependurar
+  IPA: /dependuˈɾaɾ/
+axirxilar
+  IPA: /aʃiɾʃiˈlaɾ/
+esmechar
+  IPA: /esmeˈt͡ʃaɾ/
+desalgar
+  IPA: /desalˈɣaɾ/
+asinar
+  IPA: /asiˈnaɾ/
+asinar
+  IPA: /asiˈnaɾ/
+remollar
+  IPA: /remoˈʎaɾ/
+abraiar
+  IPA: [aβɾaˈjaɾ]
+cinguir
+  IPA: /θiŋˈɡiɾ/
+  IPA: /siˈɲiɾ/
+arrefriar
+  IPA: /arefɾiˈaɾ/
+recachar
+  IPA: [rekaˈt͡ʃaɾ]
+eslañar
+  IPA: /eslaˈɲaɾ/
+roñar
+  IPA: /roˈɲaɾ/
+refungar
+  IPA: /refuŋˈɡaɾ/
+  IPA: /refuŋˈkaɾ/ (Tags: Western)
+desferrado
+  IPA: /desfeˈraðo̝/
+aparellar
+  IPA: /apareˈʎaɾ/
+aparellar
+  IPA: /apareˈʎaɾ/
+desferrar
+  IPA: /desfeˈraɾ/
+enxexar
+  IPA: /enʃeˈʃaɾ/
+pelexar
+  IPA: /peleˈʃaɾ/
+latricar
+  IPA: /latɾiˈkaɾ/
+tronzar
+  IPA: /tɾonˈθaɾ/
+  IPA: /tɾonˈsaɾ/ (Tags: Western)
+entullar
+  IPA: /entuˈʎaɾ/
+antollar
+  IPA: [an.to.ˈʎaɾ]
+enguedellar
+  IPA: [eŋ.ɡe.ðe.ˈʎaɾ]
+acariñar
+  IPA: /akaɾiˈɲaɾ/
+  IPA: [ɑ.kɑ.ɾiˈɲaɾ]
+entestar
+  IPA: [en.ˈtes.taɾ]
+entestar
+  IPA: [en.ˈtes.taɾ]
+cofar
+  IPA: [ko.ˈfaɾ]
+gorir
+  IPA: [ɡo.ˈɾiɾ]
+seivar
+  IPA: [sej.ˈβaɾ]
+esleer
+  IPA: [es.le.ˈeɾ]
+aleixado
+  IPA: [a.lej.ˈʃa.ðʊ]
+rechumido
+  IPA: [re.t͡ʃu.ˈmi.ðʊ]
+aleixar
+  IPA: /alejˈʃaɾ/
+  IPA: [a.lejˈʃaɾ]
+apampar
+  IPA: [a.pam.ˈpaɾ]
+rechumir
+  IPA: /re.t͡ʃu.ˈmiɾ/
+esmirrar
+  IPA: /es.mi.ˈraɾ/
+esvaer
+  IPA: [es.βa.ˈeɾ]
+esvaecer
+  IPA: [es.βa.e.ˈθeɾ]
+  IPA: [es.βa.e.ˈseɾ] (Tags: Western)
+desleigar
+  IPA: [des.lej.ˈɣaɾ]
+achaiar
+  IPA: /at͡ʃaˈjaɾ/
+  IPA: [a̠.t͡ʃaˈjaɾ]
+achandar
+  IPA: /at͡ʃanˈdaɾ/
+  IPA: [a̠.t͡ʃan̪ˈd̪aɾ]
+desarranxar
+  IPA: /desaranˈʃaɾ/
+cotifar
+  IPA: [ko.ti.ˈfaɾ]
+encirrar
+  IPA: [en.θi.ˈraɾ]
+  IPA: [en.si.ˈraɾ] (Tags: Western)
+apurrar
+  IPA: [a.pu.ˈraɾ]
+envear
+  IPA: [em.be.ˈaɾ]
+turrar
+  IPA: [tu.ˈraɾ]
+debandar
+  IPA: /de.βan.ˈdaɾ/
+alcuñar
+  IPA: /alkuˈɲaɾ/
+  IPA: [ɑɫ.kuˈɲaɾ]
+estiñar
+  IPA: [estiˈɲaɾ]
+abeirar
+  IPA: [aβejˈɾaɾ]
+garrir
+  IPA: [ɡaˈriɾ]
+chantado
+  IPA: [t͡ʃanˈtaðʊ]
+arrincar
+  IPA: /ariŋˈkaɾ/
+  IPA: [a.riŋˈkɑɾ]
+sosubir
+  IPA: [sosuˈβiɾ]
+chagar
+  IPA: [t͡ʃaˈɣaɾ]
+agatuñar
+  IPA: /ɡatuˈɲaɾ/
+cavidar
+  IPA: [kɑβiˈðaɾ]
+esfuracar
+  IPA: [esfuɾaˈkaɾ]
+escarallado
+  IPA: [eskaɾaˈʎaðʊ]
+derreado
+  IPA: [dereˈaðʊ]
+destallar
+  IPA: /destaˈʎaɾ/
+esfarrapar
+  IPA: /esfaraˈpaɾ/
+farpar
+  IPA: /faɾˈpaɾ/
+cuberto
+  IPA: [kuˈβɛɾtʊ]
+requecer
+  IPA: /rekɛˈθeɾ/
+levedar
+  IPA: [leβeˈðaɾ]
+lambiscar
+  IPA: [lambisˈkaɾ]
+lagrimexar
+  IPA: [laɣɾimeˈʃaɾ]
+escudir
+  IPA: [eskuˈðiɾ]
+esvaír
+  IPA: /ez̺.β̞ɐˈiɾ/
+afervoar
+  IPA: /afeɾboˈaɾ/
+  IPA: [a.feɾ.β̞oˈaɾ]
+afillar
+  IPA: [afiˈʎaɾ]
+afillar
+  IPA: [afiˈʎaɾ]
+toar
+  IPA: /toˈaɾ/
+axeonllar
+  IPA: [aʃeonˈʎaɾ]
+achanzar
+  IPA: /at͡ʃanˈθaɾ/
+  IPA: [a̠.t͡ʃan̪ˈθaɾ]
+  IPA: /at͡ʃanˈθaɾ/ (Tags: standard)
+  IPA: [a̠.t͡ʃan̪ˈθaɾ] (Tags: standard)
+  IPA: /at͡ʃanˈsaɾ/
+  IPA: [a̠.t͡ʃanˈsaɾ]
+alindar
+  IPA: [alinˈdaɾ]
+esvirillar
+  IPA: [esβiɾiˈʎaɾ]
+esmilfar
+  IPA: /esmilˈfaɾ/
+esmilfallar
+  IPA: /esmilfaˈʎaɾ/
+esfiañar
+  IPA: [esfjaˈɲaɾ]
+esfiar
+  IPA: [esfiˈaɾ]
+esfiañado
+  IPA: [esfjaˈɲaðʊ]
+refertar
+  IPA: [refeɾˈtaɾ]
+apreixar
+  IPA: [apɾejˈʃaɾ]
+recruar
+  IPA: [rekɾuˈaɾ]
+arrolar
+  IPA: [aroˈlaɾ]
+arrolar
+  IPA: [aroˈlaɾ]
+decruar
+  IPA: [dekɾuˈaɾ]
+pedichar
+  IPA: [peðiˈt͡ʃaɾ]
+revirichar
+  IPA: [reβiɾiˈt͡ʃaɾ]
+ir fóra
+  IPA: [ˈiɾ ˈfɔɾɐ]
+adormiñar
+  IPA: /aðoɾmiˈɲaɾ/
+adurmiñar
+  IPA: /aðuɾmiˈɲaɾ/
+espeluxado
+  IPA: [espeluˈʃaðʊ]
+encrucillado
+  IPA: [enkɾuθiˈʎaðʊ]
+latexar
+  IPA: [lateˈʃaɾ]
+encrucillar
+  IPA: [enkɾuθiˈʎaɾ]
+  IPA: [enkɾusiˈʎaɾ] (Tags: Western)
+anchear
+  IPA: /ant͡ʃeˈaɾ/
+  IPA: [anʲ.t͡ʃeˈaɾ]
+esfameado
+  IPA: [esfameˈaðʊ]
+sarabiar
+  IPA: [saɾaβiˈaɾ]
+escarabanar
+  IPA: [eskɑɾaβaˈnaɾ]
+acantazar
+  IPA: [akɑntaˈθaɾ]
+acoiar
+  IPA: [akoˈjaɾ]
+chuviña
+  IPA: /t͡ʃuˈbiɲa/
+  IPA: [t͡ʃuˈβ̞i.ɲɐ]
+chuviñar
+  IPA: [t͡ʃuβiˈɲaɾ]
+amoestar
+  IPA: [amoesˈtaɾ]
+coañar
+  IPA: [kʊ̯aˈɲaɾ]
+louquear
+  IPA: [lowkeˈaɾ]
+estrelecer
+  IPA: [estɾeleˈθeɾ]
+  IPA: [estɾeleˈseɾ] (Tags: Western)
+alasar
+  IPA: [alaˈsaɾ]
+ampear
+  IPA: [ampeˈaɾ]
+anquear
+  IPA: [aŋkeˈaɾ]
+entrechantar
+  IPA: [entret͡ʃanˈtaɾ]
+embebedentar
+  IPA: [emβeβeðenˈtaɾ]
+entrecocer
+  IPA: /entɾekoˈθeɾ/
+avellentar
+  IPA: [aβeʎenˈtaɾ]
+  IPA: [aβɛʎenˈtaɾ]
+envellecer
+  IPA: [embeʎeˈθeɾ]
+  IPA: [embeʎeˈseɾ] (Tags: Western)
+envellentar
+  IPA: [embeʎenˈtaɾ]
+  IPA: [embɛʎenˈtaɾ]
+escofar
+  IPA: /eskoˈfaɾ/
+amentar
+  IPA: [amenˈtaɾ]
+endegar
+  IPA: [endeˈɣaɾ]
+zumegar
+  IPA: [θumeˈɣaɾ]
+  IPA: [sumeˈɣaɾ] (Tags: Western)
+decer
+  IPA: [deˈθeɾ]
+baleirar
+  IPA: [balejˈɾaɾ]
+esperrechar
+  IPA: /espereˈt͡ʃaɾ/
+atafegar
+  IPA: [atafeˈɣaɾ]
+espendoar
+  IPA: [espendoˈaɾ]
+escochar
+  IPA: /eskoˈt͡ʃaɾ/
+escarochar
+  IPA: /eskaɾɔˈt͡ʃaɾ/
+estribiar
+  IPA: [estɾiˈβjaɾ]
+achorentar
+  IPA: /at͡ʃoɾenˈtaɾ/
+  IPA: /at͡ʃoɾɛnˈtaɾ/
+tolear
+  IPA: [toleˈaɾ]
+boura
+  IPA: [ˈbowɾɐ]
+relouco
+  IPA: /reˈlowko/
+  IPA: [reˈlow.kʊ]
+encabuxar
+  IPA: [eŋkɑβuˈʃaɾ]
+reloucar
+  IPA: [relowˈkɑɾ]
+adoitar
+  IPA: [aðojˈtaɾ]
+enteimar
+  IPA: [entejˈmaɾ]
+encerretar
+  IPA: [enθereˈtaɾ]
+enturrar
+  IPA: [entuˈrɑɾ]
+apirolado
+  IPA: [apiɾɔˈlaðʊ]
+apirolar
+  IPA: [apiɾɔˈlaɾ]
+enxangar
+  IPA: [enʃaŋˈɡaɾ]
+ateigado
+  IPA: [atejˈɣaɾ]
+afillado
+  IPA: /afiˈɟado/
+  IPA: [a.fiˈɟa.ð̞ʊ]
+escorrentar
+  IPA: /eskorenˈtaɾ/
+amalloar
+  IPA: /amaʎoˈaɾ/
+agulletar
+  IPA: /aɣuʎeˈtaɾ/
+aferretar
+  IPA: /afereˈtaɾ/
+botar o ollo
+  IPA: [bɔˈtar ʊˈoʎʊ]
+peitear
+  IPA: [pejteˈaɾ]
+caer ben
+  IPA: [kɑˈer ˈβɛŋ]
+finchar
+  IPA: /finˈt͡ʃaɾ/
+  IPA: [finʲˈt͡ʃaɾ]
+aquelar
+  IPA: [akeˈlaɾ]
+asañar
+  IPA: [asaˈɲaɾ]
+chafallar
+  IPA: [t͡ʃafaˈʎaɾ]
+axuizar
+  IPA: [aʃujˈθaɾ] (Tags: Western)
+  IPA: [aʃujˈsaɾ]
+rechamar
+  IPA: /ret͡ʃaˈmaɾ/
+  IPA: [re.t͡ʃaˈmaɾ]
+osmar
+  IPA: [osˈmaɾ]
+abanear
+  IPA: [aβɑneˈaɾ]
+xulgado
+  IPA: [ʃulˈɣaðʊ]
+esmar
+  IPA: [esˈmaɾ]
+acanear
+  IPA: /akaneˈaɾ/
+  IPA: [ɑ.kɑ.neˈaɾ]
+esmolicar
+  IPA: [esmɔliˈkaɾ]
+choricar
+  IPA: [t͡ʃoɾiˈkaɾ]
+chorimicar
+  IPA: [t͡ʃoɾimiˈkaɾ]
+anicar
+  IPA: [aniˈkaɾ]
+carrexar
+  IPA: [kɑreˈʃaɾ]
+alborexar
+  IPA: [alβoɾeˈʃaɾ]
+lumbrigar
+  IPA: [lumbɾiˈɣaɾ]
+avogar
+  IPA: [aβoˈɣaɾ]
+encaiar
+  IPA: /eŋkɑˈjaɾ/
+narnexar
+  IPA: [naɾneˈʃaɾ]
+axotar
+  IPA: /aʃoˈtaɾ/
+espaxotar
+  IPA: /espaʃoˈtaɾ/
+arrequentar
+  IPA: /arekenˈtaɾ/
+enrequentar
+  IPA: /enrekenˈtaɾ/
+arrequecer
+  IPA: /arekeˈθeɾ/
+entanguiñar
+  IPA: [entaŋɡiˈɲaɾ]
+batuxo
+  IPA: /baˈtuʃo/
+  IPA: [baˈt̪u.ʃʊ]
+refucir
+  IPA: [refuˈθiɾ]
+babexar
+  IPA: [baβeˈʃaɾ]
+estralouzar
+  IPA: [estɾalowˈθaɾ]
+  IPA: [estɾalowˈsaɾ] (Tags: Western)
+batuxar
+  IPA: /batuˈʃaɾ/
+  IPA: [ba.t̪uˈʃaɾ]
+acarreirar
+  IPA: /akarejˈɾaɾ/
+  IPA: [ɑ.kɑ.rejˈɾaɾ]
+espurrir
+  IPA: [espuˈriɾ]
+espreguizar
+  IPA: [espɾeɣiˈθaɾ]
+  IPA: [espɾeɣiˈsaɾ] (Tags: Western)
+apurrir
+  IPA: [apuˈriɾ]
+espurriñar
+  IPA: [espuriˈɲaɾ]
+esbarrufar
+  IPA: [esbaruˈfaɾ]
+esbandallar
+  IPA: [esβandaˈʎaɾ]
+tarabelear
+  IPA: [taɾaβeleˈaɾ]
+aterecer
+  IPA: [ateɾeˈθeɾ]
+  IPA: [ateɾeˈseɾ] (Tags: Western)
+enfociñar
+  IPA: [eɱfoθiˈɲaɾ]
+enmeigar
+  IPA: [eŋmejˈɣaɾ]
+escrequenar
+  IPA: [eskɾekeˈnaɾ]
+espoldrexar
+  IPA: [espoldɾeˈʃaɾ]
+espoldriñar
+  IPA: [espoldɾiˈɲaɾ]
+lanxir
+  IPA: [lanˈʃiɾ]
+galdrumar
+  IPA: [ɡaldɾuˈmaɾ]
+espoltrar
+  IPA: [espolˈtɾaɾ]
+enmerdar
+  IPA: [eŋmerˈðaɾ]
+barballar
+  IPA: [baɾβaˈʎaɾ]
+relear
+  IPA: /releˈaɾ/
+enfoumar
+  IPA: [eɱfowˈmaɾ]
+encorar
+  IPA: [eŋkoˈɾaɾ]
+alangrear
+  IPA: [alaŋɡɾeˈaɾ]
+enlear
+  IPA: /enleˈaɾ/
+rechoer
+  IPA: /ret͡ʃoˈeɾ/
+cirrichar
+  IPA: /θiriˈt͡ʃaɾ/
+  IPA: [θi.riˈt͡ʃaɾ]
+  IPA: /θiriˈt͡ʃaɾ/ (Tags: standard)
+  IPA: [θi.riˈt͡ʃaɾ] (Tags: standard)
+  IPA: /siriˈt͡ʃaɾ/
+  IPA: [si.riˈt͡ʃaɾ]
+emporcallar
+  IPA: [empɔɾkaˈʎɐɾ]
+compangar
+  IPA: [kompaŋˈɡaɾ]
+aganchar
+  IPA: [aɣanˈt͡ʃaɾ]
+esbochar
+  IPA: [esβɔˈt͡ʃaɾ]
+ter mentes
+  IPA: [ˈtɛɾ ˈmentɪs]
+rebillar
+  IPA: [reβiˈʎaɾ]
+embruxar
+  IPA: [embɾuˈʃaɾ]
+aparvado
+  IPA: [apaɾˈβaðʊ]
+aficar
+  IPA: /afiˈkaɾ/
+touzar
+  IPA: [touˈθaɾ]
+arreitar
+  IPA: [arejˈtaɾ]
+arrizar
+  IPA: /ariˈθaɾ/
+  IPA: [a.riˈθaɾ]
+  IPA: /ariˈθaɾ/ (Tags: standard)
+  IPA: [a.riˈθaɾ] (Tags: standard)
+  IPA: /ariˈsaɾ/
+  IPA: [a.riˈsaɾ]
+adentar
+  IPA: [aðenˈtaɾ]
+  IPA: [aðɛnˈtaɾ]
+merexar
+  IPA: [mɛɾeˈʃaɾ]
+esmadroar
+  IPA: [esmaðɾoˈaɾ]
+espolar
+  IPA: [espɔˈlaɾ]
+palillar
+  IPA: [paliˈʎaɾ]
+apoutar
+  IPA: [apowˈtaɾ]
+apoudigar
+  IPA: [apowðiˈɣaɾ]
+apiegar
+  IPA: [apjeˈɣaɾ]
+desmellorar
+  IPA: [desmeʎoˈɾaɾ] (Tags: standard)
+  IPA: [desmiʎoˈɾaɾ]
+mocear
+  IPA: [moθeˈaɾ]
+  IPA: [moseˈaɾ] (Tags: Western)
+chamarse
+  IPA: /t͡ʃaˈmaɾsɪ/
+broucar
+  IPA: /bɾowˈkaɾ/
+emporcar
+  IPA: [empɔɾˈkaɾ]
+rexoubar
+  IPA: [reʃowˈβaɾ]
+tatexar
+  IPA: [tateˈʃaɾ]
+entremeter
+  IPA: [entɾemeˈteɾ]
+enferruxado
+  IPA: [eɱferuˈʃaðʊ]
+enferruxar
+  IPA: [eɱferuˈʃaɾ]
+malfacer
+  IPA: [malfaˈθeɾ]
+esfachar
+  IPA: /esfaˈt͡ʃaɾ/
+porfillar
+  IPA: [poɾfiˈʎaɾ]
+releixar
+  IPA: [relejˈʃaɾ]
+afoletar
+  IPA: [afoleˈtaɾ]
+degaxar
+  IPA: [deɣaˈʃaɾ]
+engoar
+  IPA: [eŋɡoˈaɾ]
+gueldear
+  IPA: [ɡɛldeˈaɾ]
+galdrir
+  IPA: [ɡalˈdɾiɾ]
+malferido
+  IPA: [malˈfeɾiðʊ]
+  IPA: [malˈfɾiðʊ]
+axaneirar
+  IPA: /aʃanejˈɾaɾ/
+axar
+  IPA: /aˈʃaɾ/
+atenzar
+  IPA: [atenˈθaɾ]
+chuspir
+  IPA: /t͡ʃusˈpiɾ/
+fanado
+  IPA: /faˈnado/
+  IPA: [faˈna.ð̞ʊ]
+fanicar
+  IPA: [faniˈkaɾ]
+amordicar
+  IPA: [amoɾðiˈkaɾ]
+macicar
+  IPA: /maθiˈkaɾ/
+  IPA: [ma.θiˈkɑɾ]
+  IPA: /maθiˈkaɾ/ (Tags: standard)
+  IPA: [ma.θiˈkɑɾ] (Tags: standard)
+  IPA: /masiˈkaɾ/
+  IPA: [ma.siˈkɑɾ]
+macico
+  IPA: /maˈθiko/
+  IPA: [maˈθi.kʊ]
+  IPA: /maˈθiko/ (Tags: standard)
+  IPA: [maˈθi.kʊ] (Tags: standard)
+  IPA: /maˈsiko/
+  IPA: [maˈsi.kʊ]
+amorear
+  IPA: [amoɾeˈaɾ]
+ameter
+  IPA: /ameˈteɾ/
+escarranchar
+  IPA: [eskaranˈt͡ʃaɾ]
+espiñar
+  IPA: [espiˈɲaɾ]
+esporear
+  IPA: [espoɾeˈaɾ]
+entoucar
+  IPA: [entowˈkaɾ]
+endereitar
+  IPA: [endeɾejˈtaɾ]
+empuxar
+  IPA: [empuˈʃaɾ]
+entalar
+  IPA: [entaˈlaɾ]
+desempenar
+  IPA: [desempeˈnaɾ]
+empenar
+  IPA: [empeˈnaɾ]
+ensarillar
+  IPA: [ensaɾiˈʎaɾ]
+enfouzar
+  IPA: [eɱfowˈθaɾ]
+  IPA: [eɱfowˈsaɾ] (Tags: Western)
+rechegar
+  IPA: [ret͡ʃeˈɣaɾ]
+avantar
+  IPA: [aβanˈtaɾ]
+tordear
+  IPA: [toɾðeˈaɾ]
+esnogar
+  IPA: [esnoˈɣaɾ]
+escordar
+  IPA: [eskɔɾˈðaɾ]
+estordegar
+  IPA: [estoɾðeˈɣaɾ]
+arrentar
+  IPA: [arenˈtaɾ]
+endrogar
+  IPA: [endɾoˈɣaɾ]
+acoitelar
+  IPA: [akojteˈlaɾ]
+aburar
+  IPA: [aβuˈɾaɾ]
+embeleñar
+  IPA: [embeleˈɲaɾ]
+domear
+  IPA: [domeˈaɾ]
+abarquilar
+  IPA: [aβaɾkiˈlaɾ]
+enrabiar
+  IPA: [enraˈβjaɾ]
+escomezar
+  IPA: [eskʊmeˈθaɾ]
+  IPA: [eskʊmeˈsaɾ] (Tags: Western)
+aduanar
+  IPA: [aðʊ̯aˈnaɾ]
+debruzar
+  IPA: [deβɾuˈθaɾ]
+  IPA: [deβɾuˈsaɾ] (Tags: Western)
+raspiñar
+  IPA: [raspiˈɲaɾ]
+cuincar
+  IPA: [kʊi̯ŋˈkaɾ]
+encaldar
+  IPA: [eŋkalˈdaɾ]
+avantaxar
+  IPA: [aβantaˈʃaɾ]
+bandexar
+  IPA: [bandeˈʃaɾ]
+arquexar
+  IPA: [aɾkeˈʃaɾ]
+engruñar
+  IPA: [eŋɡɾuˈɲaɾ]
+varexar
+  IPA: [baɾeˈʃaɾ]
+avagar
+  IPA: [aβaˈɣaɾ]
+folguexar
+  IPA: [folɣeˈʃaɾ]
+estomballar
+  IPA: [estombaˈʎaɾ]
+esmiolar
+  IPA: /esmioˈlaɾ/
+troupelear
+  IPA: [tɾoʊ̯peleˈaɾ]
+peteirar
+  IPA: /petejˈɾaɾ/
+mendar
+  IPA: [menˈdaɾ]
+engarrar
+  IPA: [eŋɡaˈraɾ]
+esfarnar
+  IPA: /esfaɾˈnaɾ/
+oufegar
+  IPA: [oʊ̯feˈɣaɾ]
+cantaruxar
+  IPA: [kɑntaɾuˈʃaɾ]
+aganar
+  IPA: [aɣaˈnaɾ]
+amortuxar
+  IPA: [amɔrtuˈʃaɾ]
+apedar
+  IPA: [apeˈðaɾ]
+apuxar
+  IPA: [apuˈʃaɾ]
+esbatuxar
+  IPA: [esβatuˈʃaɾ]
+esturruxar
+  IPA: [esturuˈʃaɾ]
+babuxar
+  IPA: [baβuˈʃaɾ]
+esparruñar
+  IPA: [esparuˈɲaɾ]
+apoleirar
+  IPA: [apolei̯ˈɾaɾ]
+acugular
+  IPA: [akuɣuˈlaɾ]
+esbigoar
+  IPA: [esβiɣoˈaɾ]
+amocar
+  IPA: [amoˈkaɾ]
+estrigar
+  IPA: [estɾiˈɣaɾ]
+pampear
+  IPA: /pampeˈaɾ/
+poallar
+  IPA: [poaˈʎaɾ]
+zarzallar
+  IPA: [θaɾθaˈʎaɾ]
+estemorecer
+  IPA: [estemoɾeˈθeɾ]
+acurtar
+  IPA: [akuɾˈtaɾ]
+barruzar
+  IPA: [baruˈθaɾ]
+espalecer
+  IPA: [espaleˈθeɾ]
+mulir
+  IPA: /muˈliɾ/
+esmelgar
+  IPA: [esmelˈɣaɾ]
+encoirar
+  IPA: /eŋkoi̯ˈɾaɾ/
+encruar
+  IPA: /eŋkɾuˈaɾ/
+amiudar
+  IPA: [amiuˈðaɾ]
+aboiar
+  IPA: /aboˈjaɾ/
+  IPA: [a.β̞oˈjaɾ]
+  IPA: /abɔˈjaɾ/
+  IPA: [a.β̞ɔˈjaɾ]
+aboiar
+  IPA: /aboˈjaɾ/
+  IPA: [a.β̞oˈjaɾ]
+atragoar
+  IPA: [atɾaɣoˈaɾ]
+eneixar
+  IPA: [enei̯ˈʃaɾ]
+  IPA: [eŋei̯ˈʃaɾ]
+alancar
+  IPA: [alaŋˈkaɾ]
+eixar
+  IPA: [ei̯ˈʃaɾ]
+remoscar
+  IPA: [remosˈkaɾ]
+malvar
+  IPA: [malˈβaɾ]
+rouquear
+  IPA: [rou̯keˈar]
+enlagar
+  IPA: [enlaˈɣaɾ]
+brandear
+  IPA: [bɾandeˈaɾ]
+rispar
+  IPA: [risˈpaɾ]
+atrouxar
+  IPA: [atɾoʊ̯ˈʃaɾ]
+roldar
+  IPA: [rolˈdaɾ]
+aformigar
+  IPA: /afoɾmiˈɣaɾ/
+envexigar
+  IPA: [embeʃiˈɣaɾ]
+corrixir
+  IPA: /koriˈʃiɾ/
+  IPA: [ko.riˈʃiɾ]
+embuligar
+  IPA: [embuliˈɣaɾ]
+fustrigar
+  IPA: [fustɾiˈɣaɾ]
+acoller
+  IPA: /akoˈʎeɾ/
+apousentar
+  IPA: [apou̯senˈtaɾ]
+asucar
+  IPA: [asuˈkaɾ]
+anovar
+  IPA: [anoˈβaɾ]
+esbarrancar
+  IPA: [esβaraŋˈkaɾ]
+esporoar
+  IPA: [espoɾoˈaɾ]
+encampecer
+  IPA: [eŋkampeˈθeɾ]
+torar
+  IPA: [toˈɾaɾ]
+apadriñar
+  IPA: [apaðɾiˈɲaɾ]
+amantar
+  IPA: /amanˈtaɾ/
+  IPA: [a.mãn̪ˈt̪aɾ]
+recebar
+  IPA: [reθeˈbaɾ]
+  IPA: [reseˈbaɾ] (Tags: Western)
+larfar
+  IPA: [laɾˈfaɾ]
+furricar
+  IPA: [furiˈkaɾ]
+enfestar
+  IPA: [eɱfesˈtaɾ]
+chorido
+  IPA: [t͡ʃoˈɾiðʊ]
+escallar
+  IPA: [eskɑˈʎaɾ]
+abiñar
+  IPA: /abiˈɲaɾ/
+  IPA: [a.β̞iˈɲaɾ]
+bimar
+  IPA: [biˈmaɾ]
+cuspiñar
+  IPA: /kuspiˈɲaɾ/
+terrexar
+  IPA: [tɛreˈʃaɾ]
+verdexar
+  IPA: /beɾdeˈʃaɾ/
+  IPA: [beɾ.ð̞eˈʃaɾ]
+esbroar
+  IPA: [esβɾoˈaɾ]
+despexar
+  IPA: [despeˈʃaɾ]
+encrechar
+  IPA: [eŋkɾeˈt͡ʃaɾ]
+ter fame
+  IPA: [ˈter ˈfamɪ]
+acantoar
+  IPA: /akantoˈaɾ/
+  IPA: [ɑ.kɑn̪.t̪oˈaɾ]
+coutado
+  IPA: [kou̯ˈtaðʊ]
+enxordar
+  IPA: [enʃoɾˈðaɾ]
+axordar
+  IPA: [aʃoɾˈðaɾ]
+torgar
+  IPA: [toɾˈɣaɾ]
+engoumiñar
+  IPA: [eŋɡou̯miˈɲaɾ]
+engoumar
+  IPA: [eŋɡou̯ˈmaɾ]
+farfallar
+  IPA: [faɾfaˈʎaɾ]
+esborrallar
+  IPA: [esβoraˈʎaɾ]
+choscar
+  IPA: [t͡ʃosˈkaɾ]
+bambear
+  IPA: [bambeˈaɾ]
+borrear
+  IPA: [boreˈaɾ]
+escavichar
+  IPA: [eskaβiˈt͡ʃaɾ]
+emboutar
+  IPA: [embou̯ˈtaɾ]
+xenar
+  IPA: /ʃeˈnaɾ/
+escarnar
+  IPA: [eskaɾˈnaɾ]
+abullar
+  IPA: /abuˈɟaɾ/
+  IPA: [a.β̞uˈɟaɾ]
+empezoñar
+  IPA: [empeθoˈɲaɾ]
+  IPA: [empesoˈɲaɾ] (Tags: Western)
+marabillar
+  IPA: [maɾaβiˈʎaɾ]
+argüír
+  IPA: /aɾɡuˈiɾ/
+  IPA: [aɾ.ɣ̞uˈiɾ]
+  IPA: /aɾɡuˈiɾ/ (Tags: standard)
+  IPA: [aɾ.ɣ̞uˈiɾ] (Tags: standard)
+  IPA: /aɾħuˈiɾ/
+  IPA: [aɾ.ħuˈiɾ]
+reboutar
+  IPA: [reβou̯ˈtaɾ]
+escochado
+  IPA: [eskoˈt͡ʃaðʊ]
+facer fillos
+  IPA: [faˈθeɾ ˈfiʎo̝s] (Tags: standard)
+  IPA: [faˈseɾ ˈfiʎo̝s] (Tags: Western, dialectal)
+deprender
+  IPA: [depɾenˈdeɾ]
+degrañar
+  IPA: /deɣɾaˈɲaɾ/
+vorcar
+  IPA: [boɾˈkaɾ]
+morrer o conto
+  IPA: [moˈreɾ ʊˈkontʊ]
+azoroñar
+  IPA: [aθoɾoˈɲaɾ]
+  IPA: [asoɾoˈɲaɾ] (Tags: Western)
+atricar
+  IPA: [atɾiˈkaɾ]
+facer o parvo
+  IPA: [faˈθelʊ ˈpaɾβʊ]
+  IPA: [faˈselʊ ˈpaɾβʊ] (Tags: Western)
+carexar
+  IPA: /kaɾeˈʃaɾ/
+desmacelar
+  IPA: [desmaθeˈlaɾ]
+amornar
+  IPA: [amoɾˈnaɾ]
+achairar
+  IPA: [a.t͡ʃajˈɾaɾ]
+enxaugado
+  IPA: [enʃawˈɣaðʊ]
+anubiar
+  IPA: [anuβiˈaɾ]
+  IPA: [anuˈβjaɾ]
+constrinxir
+  IPA: [konstɾinˈʃiɾ]
+abduciu
+  IPA: /abduˈθiw/
+  IPA: [aβ̞.ð̞uˈθiw]
+  IPA: /abduˈθiw/ (Tags: standard)
+  IPA: [aβ̞.ð̞uˈθiw] (Tags: standard)
+  IPA: /abduˈsiw/
+  IPA: [aβ̞.ð̞uˈsiw]
+aduciu
+  IPA: /aduˈθiw/
+  IPA: [a.ð̞uˈθiw]
+  IPA: /aduˈθiw/ (Tags: standard)
+  IPA: [a.ð̞uˈθiw] (Tags: standard)
+  IPA: /aduˈsiw/
+  IPA: [a.ð̞uˈsiw]
+asistiu
+  IPA: /asisˈtiw/
+  IPA: [a.s̺is̺ˈt̪iw]
+choupa
+  IPA: /ˈt͡ʃɔupa/
+  IPA: [ˈt͡ʃɔu.pɐ]
+conxugado
+  IPA: /konʃuˈɡado/
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ʊ]
+  IPA: /konʃuˈɡado/ (Tags: standard)
+  IPA: [konʲ.ʃuˈɣ̞ɑ.ð̞ʊ] (Tags: standard)
+  IPA: /konʃuˈħado/
+  IPA: [konʲ.ʃuˈħɑ.ð̞ʊ]
+escolle
+  IPA: /esˈkɔʎɪ/
+escollen
+  IPA: /esˈkɔɟeŋ/
+  IPA: [es̺ˈkɔ.ɟeŋ]
+mulido
+  IPA: /muˈlido/
+  IPA: [muˈli.ð̞ʊ]
+pertencen
+  IPA: [peɾˈtɛnθɪŋ] (Tags: standard)
+  IPA: [peɾˈtɛnsɪŋ] (Tags: Western, dialectal)
+rabuña
+  IPA: /raˈbuɲa/
+  IPA: [raˈβ̞u.ɲɐ]
+rexouba
+  IPA: [reˈʃowβɐ]
+rincho
+  IPA: /ˈrint͡ʃo/
+  IPA: [ˈrinʲ.t͡ʃʊ]
+traduciu
+  IPA: /tɾaduˈθiw/
+  IPA: [t̪ɾa.ð̞uˈθiw]
+  IPA: /tɾaduˈθiw/ (Tags: standard)
+  IPA: [t̪ɾa.ð̞uˈθiw] (Tags: standard)
+  IPA: /tɾaduˈsiw/
+  IPA: [t̪ɾa.ð̞uˈsiw]
+ourear
+  IPA: /owɾeˈaɾ/
+  IPA: [ow.ɾeˈaɾ]
+cucar
+  IPA: /kuˈkaɾ/
+  IPA: [kuˈkɑɾ]
+derrucar
+  IPA: /deruˈkaɾ/
+  IPA: [d̪e.ruˈkɑɾ]
+cotobelar
+  IPA: /kotoβ̞eˈlaɾ/
+sobrazar
+  IPA: /sobɾaˈθaɾ/
+  IPA: [s̺o.β̞ɾaˈθaɾ]
+  IPA: /sobɾaˈθaɾ/ (Tags: standard)
+  IPA: [s̺o.β̞ɾaˈθaɾ] (Tags: standard)
+  IPA: /sobɾaˈsaɾ/
+  IPA: [so.β̞ɾaˈsaɾ]
+guichar
+  IPA: /ɡiˈt͡ʃaɾ/
+  IPA: [ɡiˈt͡ʃaɾ]
+  IPA: /ɡiˈt͡ʃaɾ/ (Tags: standard)
+  IPA: [ɡiˈt͡ʃaɾ] (Tags: standard)
+  IPA: /ħiˈt͡ʃaɾ/
+  IPA: [ħiˈt͡ʃaɾ]
+curuxar
+  IPA: /kuɾuˈʃaɾ/
+  IPA: [ku.ɾuˈʃaɾ]
+amoxetar
+  IPA: /amoʃeˈtaɾ/

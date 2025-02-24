@@ -1,0 +1,6066 @@
+gratis
+  IPA: /ɡʁa.tis/
+PM
+  IPA: /pe.ɛm/
+andante
+  IPA: /ɑ̃.dɑ̃t/
+point
+  IPA: /pwɛ̃/
+  IPA: [pwɛ̃ɪ̃] (Tags: Quebec)
+ci
+  IPA: /si/
+or
+  IPA: /ɔʁ/
+non
+  IPA: /nɔ̃/
+tout de suite
+  IPA: /tu də sɥit/
+  IPA: /tut.sɥit/
+éventuellement
+  IPA: /e.vɑ̃.tɥɛl.mɑ̃/
+voir
+  IPA: /vwaʁ/
+  IPA: [(v)wɒ(ɾ)] (Tags: Louisiana)
+hier
+  IPA: /jɛʁ/
+  IPA: /i.jɛʁ/
+sic
+  IPA: /sik/
+bien entendu
+  IPA: /bjɛ̃.n‿ɑ̃.tɑ̃.dy/
+tout
+  IPA: /tu/
+  IPA: /tu.t‿/
+  IPA: /tʊt/ (Tags: Quebec)
+bien
+  IPA: /bjɛ̃/
+mal
+  IPA: /mal/
+back
+  IPA: /bak/
+de facto
+  IPA: /de fak.to/
+a cappella
+  IPA: /a ka.pɛ.la/
+  IPA: /a ka.pe.la/
+full
+  IPA: /ful/
+jamais
+  IPA: /ʒa.mɛ/
+  IPA: /ʒa.me/ (Tags: Paris)
+  IPA: [ʒɑ̃me] (Tags: Louisiana)
+  IPA: [hɑ̃mɛ̃] (Tags: Louisiana)
+  IPA: [ʒɔ̃mɛ̃] (Tags: Louisiana)
+premier
+  IPA: /pʁə.mje/
+  IPA: /pʁə.mje.ʁ‿/
+tant pis
+  IPA: /tɑ̃ pi/
+pis
+  IPA: /pi/
+pu
+  IPA: /py/
+mini
+  IPA: /mi.ni/
+cash
+  IPA: /kaʃ/
+etc.
+  IPA: /ɛt.se.te.ʁa/
+  IPA: /ɛk.se.te.ʁa/
+  IPA: /ɛt.se.te.ʁa/ (Tags: Quebec)
+  IPA: /ɛt.ʃe.te.ʁa/ (Tags: Quebec)
+maestoso
+  IPA: /ma.ɛs.to.zo/
+abruptement
+  IPA: /a.bʁyp.tə.mɑ̃/
+autour
+  IPA: /o.tuʁ/
+beau
+  IPA: /bo/
+si
+  IPA: /si/
+lento
+  IPA: /lɛn.to/
+direct
+  IPA: /di.ʁɛkt/
+presto
+  IPA: /pʁɛs.to/
+allegro
+  IPA: /a.le.ɡʁo/
+top
+  IPA: /tɔp/
+alias
+  IPA: /a.ljas/
+au four
+  IPA: /o fuʁ/
+anticonstitutionnellement
+  IPA: /ɑ̃.ti.kɔ̃s.ti.ty.sjɔ.nɛl.mɑ̃/
+possible
+  IPA: /pɔ.sibl/
+moderato
+  IPA: /mɔ.de.ʁa.to/
+ainsi
+  IPA: /ɛ̃.si/
+fortissimo
+  IPA: /fɔʁ.ti.si.mo/
+pianissimo
+  IPA: /pja.ni.si.mo/
+allegretto
+  IPA: /a.le.ɡʁɛ.to/
+  IPA: /a.le.ɡʁe.to/
+crescendo
+  IPA: /kʁe.ʃɛn.do/
+  IPA: /kʁɛ.ʃɛn.do/
+bien sûr
+  IPA: /bjɛ̃ syʁ/
+bientôt
+  IPA: /bjɛ̃.to/
+adagio
+  IPA: /a.da(d)ʒ.jo/
+faux
+  IPA: /fo/
+  IPA: /fo.z‿/
+au-dessus
+  IPA: /o.d(ə).sy/
+cher
+  IPA: /ʃɛʁ/
+  IPA: [ʃæ] (Tags: Louisiana)
+super
+  IPA: /sy.pɛʁ/
+clair
+  IPA: /klɛʁ/
+où
+  IPA: /u/
+doux
+  IPA: /du/
+vite
+  IPA: /vit/
+haut
+  IPA: /o/
+  IPA: [ho] (Tags: Alsace, Louisiana)
+peu
+  IPA: /pø/
+avant
+  IPA: /a.vɑ̃/
+sec
+  IPA: /sɛk/
+pile
+  IPA: /pil/
+loin
+  IPA: /lwɛ̃/
+grave
+  IPA: /ɡʁav/
+là
+  IPA: /la/
+  IPA: /la/ (Tags: formal)
+  IPA: /lɑ/ (Tags: formal)
+  IPA: /lɔ/ (Tags: formal)
+beaucoup
+  IPA: /bo.ku/
+  IPA: /bo.ku/ (Tags: Louisiana)
+  IPA: /bu.ku/ (Tags: Louisiana)
+comment
+  IPA: /kɔ.mɑ̃/
+nan
+  IPA: /nɑ̃/
+dehors
+  IPA: /də.ɔʁ/
+pas
+  IPA: /pa/
+  IPA: /pɑ/
+bonbon
+  IPA: /bɔ̃.bɔ̃/
+salement
+  IPA: /sal.mɑ̃/
+mieux
+  IPA: /mjø/
+subito
+  IPA: /sy.bi.to/
+p. ex.
+  IPA: /pa.ʁ‿ɛɡ.zɑ̃pl/
+a priori
+  IPA: /a pʁi.jɔ.ʁi/
+item
+  IPA: /i.tɛm/
+a posteriori
+  IPA: /a pɔs.te.ʁjɔ.ʁi/
+in memoriam
+  IPA: /in me.mɔ.ʁjam/
+fort
+  IPA: /fɔːʁ/
+plus
+  IPA: /ply/
+  IPA: /plyz‿/
+  IPA: /plys/
+  IPA: /py/ (Tags: Quebec, informal)
+même
+  IPA: /mɛm/
+  IPA: /mɛːm/
+oui
+  IPA: /wi/
+  IPA: /ɥi/ (Tags: colloquial, humorous)
+assez
+  IPA: /a.se/
+  IPA: /a.se.z‿/
+néanmoins
+  IPA: /ne.ɑ̃.mwɛ̃/
+mutatis mutandis
+  IPA: /my.ta.tis my.tɑ̃.dis/
+hyper
+  IPA: /i.pɛʁ/
+quasi
+  IPA: /ka.zi/
+à tue-tête
+  IPA: /a ty.tɛt/
+là-haut
+  IPA: /la.o/
+là-bas
+  IPA: /la.ba/
+  IPA: /la.bɑ/
+dito
+  IPA: /di.to/
+en masse
+  IPA: /ɑ̃ mas/
+trop
+  IPA: /tʁo/
+  IPA: /tʁɔ.p‿/
+  IPA: /tʁo.p‿/
+  IPA: /tʁɔ/
+peut-être
+  IPA: /pø.t‿ɛtʁ/
+  IPA: [pø.ˈt‿ɛ.tʁə]
+  IPA: [pœ.t‿aɪ̯t(ʁ)] (Tags: informal)
+  IPA: [pøt‿ɛt(ɾ)] (Tags: Louisiana)
+  IPA: /p.t‿ɛtʁ/ (Tags: colloquial)
+  IPA: [pt‿aɪ̯t(ʁ)] (Tags: colloquial)
+maintenant
+  IPA: /mɛ̃t.nɑ̃/
+  IPA: /mɛ̃.tə.nɑ̃/
+toujours
+  IPA: /tu.ʒuʁ/
+aussi
+  IPA: /o.si/
+toute
+  IPA: /tut/
+  IPA: /tʊt/ (Tags: Quebec)
+alors
+  IPA: /a.lɔʁ/
+plein
+  IPA: /plɛ̃/
+entièrement
+  IPA: /ɑ̃.tjɛʁ.mɑ̃/
+bas
+  IPA: /ba/
+  IPA: /bɑ/
+ici
+  IPA: /i.si/
+tard
+  IPA: /taʁ/ (Tags: France)
+  IPA: /tɑːʁ/ (Tags: Quebec, formal)
+  IPA: /tɑɔ̯ʁ̥/ (Tags: Gaspésie, Quebec, informal)
+d'accord
+  IPA: /d‿a.kɔʁ/
+aussitôt
+  IPA: /o.si.to/
+en train de
+  IPA: /ɑ̃ tʁɛ̃ də/
+sexto
+  IPA: /sɛk.sto/
+moult
+  IPA: /mu/
+  IPA: /mu.t‿/
+  IPA: /mult/
+  IPA: /mul/
+çà
+  IPA: /sa/
+a fortiori
+  IPA: /a fɔʁ.sjɔ.ʁi/
+quoi
+  IPA: /kwa/
+primo
+  IPA: /pʁi.mo/
+incognito
+  IPA: /ɛ̃.kɔ.ɲi.to/
+par ailleurs
+  IPA: /pa.ʁ‿a.jœʁ/
+ailleurs
+  IPA: /a.jœʁ/
+  IPA: /aljɔr/ (Tags: Louisiana)
+  IPA: /aljœr/ (Tags: Louisiana)
+d'ailleurs
+  IPA: /d‿a.jœʁ/
+vrai
+  IPA: /vʁɛ/
+jaja
+  IPA: /ʒa.ʒa/
+bis
+  IPA: /bis/
+vis-à-vis
+  IPA: /vi.za.vi/
+déjà
+  IPA: /de.ʒa/
+  IPA: /dʒa/
+à la carte
+  IPA: /a la kaʁt/
+mie
+  IPA: /mi/
+combien
+  IPA: /kɔ̃.bjɛ̃/
+désormais
+  IPA: /de.zɔʁ.mɛ/
+dorénavant
+  IPA: /dɔ.ʁe.na.vɑ̃/
+tôt
+  IPA: /to/
+après
+  IPA: /a.pʁɛ/
+  IPA: /a.pʁɛ.z‿/
+avec
+  IPA: /a.vɛk/
+maxi
+  IPA: /mak.si/
+encore
+  IPA: /ɑ̃.kɔʁ/
+en effet
+  IPA: /ɑ̃.n‿e.fɛ/
+moins
+  IPA: /mwɛ̃/
+en passant
+  IPA: /ɑ̃ pa.sɑ̃/
+puis
+  IPA: /pɥi/
+hui
+  IPA: /ɥi/
+jusqu'ici
+  IPA: /ʒys.k‿i.si/
+voire
+  IPA: /vwaʁ/
+donc
+  IPA: /dɔ̃k/
+  IPA: /dɔ̃/
+depuis
+  IPA: /də.pɥi/
+  IPA: /de.pi/ (Tags: Louisiana)
+  IPA: /dɑ̃.pɥi/ (Tags: Louisiana)
+  IPA: /dɑ̃.py/ (Tags: Louisiana)
+  IPA: /də.py/ (Tags: Louisiana)
+  IPA: /də.pwi/ (Tags: Wallonia)
+à terme
+  IPA: /a tɛʁm/
+devant
+  IPA: /də.vɑ̃/
+environ
+  IPA: /ɑ̃.vi.ʁɔ̃/
+presque
+  IPA: /pʁɛsk/
+quand les poules auront des dents
+  IPA: /kɑ̃ le pu.l‿ɔ.ʁɔ̃ de dɑ̃/
+  IPA: /kɑ̃ le pu.l‿o.ʁɔ̃ de dɑ̃/
+très
+  IPA: /tʁɛ/
+  IPA: /tʁɛ.z‿/
+  IPA: /tʁe.z‿/
+enfin
+  IPA: /ɑ̃.fɛ̃/
+tant
+  IPA: /tɑ̃/
+  IPA: /tã/ (Tags: Canada)
+longtemps
+  IPA: /lɔ̃.tɑ̃/
+peine
+  IPA: /pɛn/
+toutes
+  IPA: /tut/
+  IPA: /tʊt/ (Tags: Quebec)
+demain
+  IPA: /də.mɛ̃/
+  IPA: /dmɛ̃/
+au naturel
+  IPA: /o na.ty.ʁɛl/
+non plus
+  IPA: /nɔ̃ ply/
+à ras bord
+  IPA: /a ʁa bɔʁ/
+  IPA: /a ʁɑ bɔʁ/
+comme marée en carême
+  IPA: /kɔm ma.ʁe ɑ̃ ka.ʁɛm/
+à toute allure
+  IPA: /a tu.t‿a.lyʁ/
+seulement
+  IPA: /sœl.mɑ̃/
+au contraire
+  IPA: /o kɔ̃.tʁɛːʁ/
+  IPA: /o kõ.tʁaɛ̯ʁ/ (Tags: Quebec)
+au fait
+  IPA: /o fɛt/
+sus
+  IPA: /sy/
+souvent
+  IPA: /su.vɑ̃/
+HT
+  IPA: /aʃ.te/
+droit
+  IPA: /dʁwa/
+  IPA: /dʁwɑ/
+vachement
+  IPA: /vaʃ.mɑ̃/
+goutte
+  IPA: /ɡut/
+à cloche-pied
+  IPA: /a klɔʃ.pje/
+à peine
+  IPA: /a pɛn/
+ensemble
+  IPA: /ɑ̃.sɑ̃bl/
+  IPA: [ɔ̃sɔ̃m] (Tags: Louisiana)
+actuellement
+  IPA: /ak.tɥɛl.mɑ̃/
+aujourd'hui
+  IPA: /o.ʒuʁ.d‿ɥi/
+  IPA: /o.ʒɔʁ.d‿ɥi/
+  IPA: /o.ʒɔ(ɾ).d‿ɥɪ/ (Tags: Louisiana)
+  IPA: /a.ʒɔ(ɾ).d‿ɥi/ (Tags: Louisiana)
+notamment
+  IPA: /nɔ.ta.mɑ̃/
+tout à coup
+  IPA: /tu.t‿a ku/
+idem
+  IPA: /i.dɛm/
+ores
+  IPA: /ɔʁ/
+à la dérobée
+  IPA: /a la de.ʁɔ.be/
+à bras ouverts
+  IPA: /a bʁa.z‿u.vɛʁ/
+  IPA: /a bʁɑ.z‿u.vɛʁ/
+au violon
+  IPA: /o vjɔ.lɔ̃/
+incontinent
+  IPA: /ɛ̃.kɔ̃.ti.nɑ̃/
+a capella
+  IPA: /a ka.pɛ.la/
+  IPA: /a ka.pe.la/
+ensuite
+  IPA: /ɑ̃.sɥit/
+également
+  IPA: /e.ɡal.mɑ̃/
+petit à petit
+  IPA: /pə.ti.t‿a p(ə).ti/
+diable
+  IPA: /djabl/
+  IPA: /djɑbl/
+  IPA: /dʒɔb/ (Tags: Louisiana, also)
+  IPA: /dʒawb/ (Tags: Louisiana, also)
+  IPA: /dʒa.bul/ (Tags: Louisiana, also)
+pourquoi
+  IPA: /puʁ.kwa/
+derrière
+  IPA: /dɛ.ʁjɛʁ/
+  IPA: /de.ʁjɛʁ/
+cependant
+  IPA: /sə.pɑ̃.dɑ̃/
+simplement
+  IPA: /sɛ̃.plə.mɑ̃/
+secundo
+  IPA: /sə.ɡɔ̃.do/
+évidemment
+  IPA: /e.vi.da.mɑ̃/
+parfois
+  IPA: /paʁ.fwa/
+lors
+  IPA: /lɔʁ/
+surtout
+  IPA: /syʁ.tu/
+à l'infini
+  IPA: /a l‿ɛ̃.fi.ni/
+schuss
+  IPA: /ʃus/
+incommunicado
+  IPA: /in.kɔ.my.ni.ka.do/
+dur
+  IPA: /dyʁ/ (Tags: Europe)
+  IPA: /d͡zʏʁ/ (Tags: Canada)
+rapide
+  IPA: /ʁa.pid/
+peu ou prou
+  IPA: /pø u pʁu/
+carrément
+  IPA: /ka.ʁe.mɑ̃/
+tout d'abord
+  IPA: /tu d‿a.bɔʁ/
+à pas de loup
+  IPA: /a pa d(ə) lu/
+  IPA: /a pɑ d(ə) lu/
+vraiment
+  IPA: /vʁɛ.mɑ̃/
+  IPA: /vʁe.mɑ̃/
+épais
+  IPA: /e.pɛ/
+juste
+  IPA: /ʒyst/
+près
+  IPA: /pʁɛ/
+partout
+  IPA: /paʁ.tu/
+dru
+  IPA: /dʁy/
+conditionnellement
+  IPA: /kɔ̃.di.sjɔ.nɛl.mɑ̃/
+amoroso
+  IPA: /a.mɔ.ʁo.zo/
+&c.
+  IPA: /ɛt se.te.ʁa/
+dedans
+  IPA: /də.dɑ̃/
+nécessairement
+  IPA: /ne.se.sɛʁ.mɑ̃/
+patiemment
+  IPA: /pa.sja.mɑ̃/
+autrefois
+  IPA: /o.tʁə.fwa/
+debout
+  IPA: /də.bu/
+autant
+  IPA: /o.tɑ̃/
+attentivement
+  IPA: /a.tɑ̃.tiv.mɑ̃/
+facilement
+  IPA: /fa.sil.mɑ̃/
+probablement
+  IPA: /pʁɔ.ba.blə.mɑ̃/
+quant
+  IPA: /kɑ̃/
+lentement
+  IPA: /lɑ̃t.mɑ̃/
+parfaitement
+  IPA: /paʁ.fɛt.mɑ̃/
+absolument
+  IPA: /ap.sɔ.ly.mɑ̃/
+doucement
+  IPA: /dus.mɑ̃/
+guère
+  IPA: /ɡɛʁ/
+tantôt
+  IPA: /tɑ̃.to/
+rapidement
+  IPA: /ʁa.pid.mɑ̃/
+certes
+  IPA: /sɛʁt/
+auparavant
+  IPA: /o.pa.ʁa.vɑ̃/
+exactement
+  IPA: /ɛɡ.zak.tə.mɑ̃/
+complètement
+  IPA: /kɔ̃.plɛt.mɑ̃/
+précisément
+  IPA: /pʁe.si.ze.mɑ̃/
+davantage
+  IPA: /da.vɑ̃.taʒ/
+immédiatement
+  IPA: /i.me.djat.mɑ̃/
+brioso
+  IPA: /bʁi.jo.zo/
+violemment
+  IPA: /vjɔ.la.mɑ̃/
+à propos
+  IPA: /a pʁɔ.po/
+manière
+  IPA: /ma.njɛʁ/
+  IPA: [ma.njɛʁ] (Tags: Paris)
+  IPA: [mɔ̃jæ(ɾ)] (Tags: Louisiana)
+de haut en bas
+  IPA: /də o.t‿ɑ̃ ba/
+  IPA: /də o.t‿ɑ̃ bɑ/
+clairement
+  IPA: /klɛʁ.mɑ̃/
+rarement
+  IPA: /ʁaʁ.mɑ̃/
+  IPA: /ʁɑʁ.mɑ̃/
+ordinairement
+  IPA: /ɔʁ.di.nɛʁ.mɑ̃/
+d'ores et déjà
+  IPA: /dɔʁ.z‿e de.ʒa/
+en gros
+  IPA: /ɑ̃ ɡʁo/
+vainement
+  IPA: /vɛn.mɑ̃/
+malheureusement
+  IPA: /ma.lœ.ʁøz.mɑ̃/
+tristement
+  IPA: /tʁis.tə.mɑ̃/
+particulièrement
+  IPA: /paʁ.ti.ky.ljɛʁ.mɑ̃/
+totalement
+  IPA: /tɔ.tal.mɑ̃/
+pourtant
+  IPA: /puʁ.tɑ̃/
+généralement
+  IPA: /ʒe.ne.ʁal.mɑ̃/
+heureusement
+  IPA: /œ.ʁøz.mɑ̃/
+  IPA: /ø.ʁøz.mɑ̃/
+constamment
+  IPA: /kɔ̃s.ta.mɑ̃/
+plutôt
+  IPA: /ply.to/
+quelquefois
+  IPA: /kɛl.kə.fwa/
+cul sec
+  IPA: /ky sɛk/
+pareil
+  IPA: /pa.ʁɛj/
+par hasard
+  IPA: /pa.ʁ‿a.zaʁ/
+jadis
+  IPA: /ʒa.dis/
+  IPA: /ʒa.di/
+autrement
+  IPA: /o.tʁə.mɑ̃/
+habilement
+  IPA: /a.bil.mɑ̃/
+à quatre pattes
+  IPA: /a ka.tʁə pat/
+d'abord
+  IPA: /d‿a.bɔʁ/
+naturellement
+  IPA: /na.ty.ʁɛl.mɑ̃/
+en chien de fusil
+  IPA: /ɑ̃ ʃjɛ̃ d(ə) fy.zi/
+tête-bêche
+  IPA: /tɛt.bɛʃ/
+arrière
+  IPA: /a.ʁjɛʁ/
+grosso modo
+  IPA: /ɡʁo.so mo.do/
+bref
+  IPA: /bʁɛf/
+à peu près
+  IPA: /a pø pʁɛ/
+tout droit
+  IPA: /tu dʁwa/
+à gogo
+  IPA: /a ɡɔ.ɡo/
+strictement
+  IPA: /stʁik.tə.mɑ̃/
+des masses
+  IPA: /de mas/
+entre chien et loup
+  IPA: /ɑ̃.tʁə ʃjɛ̃ e lu/
+perso
+  IPA: /pɛʁ.so/
+dessus
+  IPA: /də.sy/
+  IPA: /tsy/ (Tags: Louisiana)
+  IPA: /desyr/ (Tags: Louisiana)
+dessous
+  IPA: /də.su/
+peut être
+  IPA: /pø.t‿ɛtʁ/
+avant-hier
+  IPA: /a.vɑ̃.t‿jɛʁ/
+  IPA: /a.vɑ̃.jɛʁ/
+sûrement
+  IPA: /syʁ.mɑ̃/
+comme un éléphant dans un magasin de porcelaine
+  IPA: /kɔ.m‿œ̃.n‿e.le.fɑ̃ dɑ̃.z‿œ̃ ma.ɡa.zɛ̃ d(ə) pɔʁ.sə.lɛn/
+comme ci comme ça
+  IPA: /kɔm si kɔm sa/
+à la grecque
+  IPA: /a la ɡʁɛk/
+typiquement
+  IPA: /ti.pik.mɑ̃/
+en banc
+  IPA: /ɑ̃ bɑ̃/
+de nouveau
+  IPA: /də nu.vo/
+tellement
+  IPA: /tɛl.mɑ̃/
+comme il faut
+  IPA: /kɔ.m‿il fo/
+  IPA: /kɔ.mi.fo/
+à contre-cœur
+  IPA: /a kɔ̃.tʁə.kœʁ/
+à contrecœur
+  IPA: /a kɔ̃.tʁə.kœʁ/
+auprès
+  IPA: /o.pʁɛ/
+TTC
+  IPA: /te.te.se/
+bénévolement
+  IPA: /be.ne.vɔl.mɑ̃/
+exprès
+  IPA: /ɛk.spʁɛ/
+fifty-fifty
+  IPA: /fif.ti.fif.ti/
+prochainement
+  IPA: /pʁɔ.ʃɛn.mɑ̃/
+suffisamment
+  IPA: /sy.fi.za.mɑ̃/
+relativement
+  IPA: /ʁə.la.tiv.mɑ̃/
+possiblement
+  IPA: /pɔ.si.blə.mɑ̃/
+et ainsi de suite
+  IPA: /e ɛ̃.si də sɥit/
+finalement
+  IPA: /fi.nal.mɑ̃/
+technologiquement
+  IPA: /tɛk.nɔ.lɔ.ʒik.mɑ̃/
+peu à peu
+  IPA: /pø a pø/
+fissa
+  IPA: /fi.sa/
+archi
+  IPA: /aʁ.ʃi/
+par cœur
+  IPA: /paʁ kœʁ/
+récemment
+  IPA: /ʁe.sa.mɑ̃/
+directement
+  IPA: /di.ʁɛk.tə.mɑ̃/
+uniquement
+  IPA: /y.nik.mɑ̃/
+au moins
+  IPA: /o mwɛ̃/
+extrêmement
+  IPA: /ɛk.stʁɛm.mɑ̃/
+partiellement
+  IPA: /paʁ.sjɛl.mɑ̃/
+en général
+  IPA: /ɑ̃ ʒe.ne.ʁal/
+en résumé
+  IPA: /ɑ̃ ʁe.zy.me/
+tout d'un coup
+  IPA: /tu d‿œ̃ ku/
+1o
+  IPA: /pʁi.mo/
+faute de mieux
+  IPA: /fot də mjø/
+proprement
+  IPA: /pʁɔ.pʁə.mɑ̃/
+immanquablement
+  IPA: /ɛ̃.mɑ̃.ka.blə.mɑ̃/
+texto
+  IPA: /tɛk.sto/
+à la bonne heure
+  IPA: /a la bɔn œʁ/
+par exemple
+  IPA: /paʁ ɛɡ.zɑ̃pl/
+mollo
+  IPA: /mɔ.lo/
+oïl
+  IPA: /ɔjl/
+onzièmement
+  IPA: /ɔ̃.zjɛm.mɑ̃/
+à bouche que veux-tu
+  IPA: /a buʃ kə vø.ty/
+à la queue leu leu
+  IPA: /a la kø lø lø/
+par ici
+  IPA: /pa.ʁ‿i.si/
+hebdomadairement
+  IPA: /ɛb.dɔ.ma.dɛʁ.mɑ̃/
+à bas
+  IPA: /a ba/
+  IPA: /a bɑ/
+en bas
+  IPA: /ɑ̃ ba/
+  IPA: /ɑ̃ bɑ/
+à la maison
+  IPA: /a la mɛ.zɔ̃/
+  IPA: /a la me.zɔ̃/
+quotidiennement
+  IPA: /kɔ.ti.djɛn.mɑ̃/
+journellement
+  IPA: /ʒuʁ.nɛl.mɑ̃/
+vaguement
+  IPA: /vaɡ.mɑ̃/
+librement
+  IPA: /li.bʁə.mɑ̃/
+le cas échéant
+  IPA: /lə ka e.ʃe.ɑ̃/
+  IPA: /lə kɑ e.ʃe.ɑ̃/
+  IPA: /lə ka.z‿e.ʃe.ɑ̃/
+  IPA: /lə kɑ.z‿e.ʃe.ɑ̃/
+amicalement
+  IPA: /a.mi.kal.mɑ̃/
+aimablement
+  IPA: /ɛ.ma.blə.mɑ̃/
+  IPA: /e.ma.blə.mɑ̃/
+gentiment
+  IPA: /ʒɑ̃.ti.mɑ̃/
+d'où
+  IPA: /d‿u/
+à brûle-pourpoint
+  IPA: /a bʁyl.puʁ.pwɛ̃/
+gratos
+  IPA: /ɡʁa.tos/
+au minimum
+  IPA: /o mi.ni.mɔm/
+fichtre
+  IPA: /fiʃtʁ/
+de même
+  IPA: /də mɛm/
+intentionnellement
+  IPA: /ɛ̃.tɑ̃.sjɔ.nɛl.mɑ̃/
+raisonnablement
+  IPA: /ʁɛ.zɔ.na.blə.mɑ̃/
+  IPA: /ʁe.zɔ.na.blə.mɑ̃/
+toutes voiles dehors
+  IPA: /tut vwal də.ɔʁ/
+à tout bout de champ
+  IPA: /a tu bu d(ə) ʃɑ̃/
+entre le marteau et l'enclume
+  IPA: /ɑ̃.tʁə l(ə) maʁ.to e l‿ɑ̃.klym/
+entre l'arbre et l'écorce
+  IPA: /ɑ̃.tʁə l‿aʁ.bʁ‿e l‿e.kɔʁs/
+par là
+  IPA: /paʁ la/
+soudain
+  IPA: /su.dɛ̃/
+de toute façon
+  IPA: /də tut fa.sɔ̃/
+  IPA: /tfa.sɔ̃/
+érotiquement
+  IPA: /e.ʁɔ.tik.mɑ̃/
+douzièmement
+  IPA: /du.zjɛm.mɑ̃/
+décidément
+  IPA: /de.si.de.mɑ̃/
+exclusivement
+  IPA: /ɛk.skly.ziv.mɑ̃/
+essentiellement
+  IPA: /e.sɑ̃.sjɛl.mɑ̃/
+apparemment
+  IPA: /a.pa.ʁa.mɑ̃/
+chimiquement
+  IPA: /ʃi.mik.mɑ̃/
+idéalement
+  IPA: /i.de.al.mɑ̃/
+soudainement
+  IPA: /su.dɛn.mɑ̃/
+certainement
+  IPA: /sɛʁ.tɛn.mɑ̃/
+soigneusement
+  IPA: /swa.ɲøz.mɑ̃/
+inévitablement
+  IPA: /i.ne.vi.ta.blə.mɑ̃/
+ci-dessous
+  IPA: /si.d(ə).su/
+de temps en temps
+  IPA: /də tɑ̃.z‿ɑ̃ tɑ̃/
+à pied
+  IPA: /a pje/
+brutalement
+  IPA: /bʁy.tal.mɑ̃/
+légèrement
+  IPA: /le.ʒɛʁ.mɑ̃/
+délicatement
+  IPA: /de.li.kat.mɑ̃/
+de pire en pire
+  IPA: /də pi.ʁ‿ɑ̃ piʁ/
+de mieux en mieux
+  IPA: /də mjø.z‿ɑ̃ mjø/
+quand même
+  IPA: /kɑ̃ mɛm/
+ouah
+  IPA: /wa/
+emmi
+  IPA: /ɑ̃.mi/
+comptant
+  IPA: /kɔ̃.tɑ̃/
+progressivement
+  IPA: /pʁɔ.ɡʁɛ.siv.mɑ̃/
+  IPA: /pʁɔ.ɡʁe.siv.mɑ̃/
+ouaille
+  IPA: /waj/
+automagiquement
+  IPA: /o.tɔ.ma.ʒik.mɑ̃/
+  IPA: /ɔ.tɔ.ma.ʒik.mɑ̃/
+tout seul
+  IPA: /tu sœl/
+av. J.-C.
+  IPA: /a.vɑ̃ ʒe.zy.kʁi/
+fortement
+  IPA: /fɔʁ.tə.mɑ̃/
+indubitablement
+  IPA: /ɛ̃.dy.bi.ta.blə.mɑ̃/
+occasionnellement
+  IPA: /ɔ.ka.zjɔ.nɛl.mɑ̃/
+superbement
+  IPA: /sy.pɛʁ.bə.mɑ̃/
+nulle part
+  IPA: /nyl paʁ/
+effectivement
+  IPA: /e.fɛk.tiv.mɑ̃/
+toutefois
+  IPA: /tu.tə.fwa/
+  IPA: /tut.fwa/
+au milieu de
+  IPA: /o mi.ljø də/
+courageusement
+  IPA: /ku.ʁa.ʒøz.mɑ̃/
+régulièrement
+  IPA: /ʁe.ɡy.ljɛʁ.mɑ̃/
+soi-disant
+  IPA: /swa.di.zɑ̃/
+temporairement
+  IPA: /tɑ̃.pɔ.ʁɛʁ.mɑ̃/
+principalement
+  IPA: /pʁɛ̃.si.pal.mɑ̃/
+largement
+  IPA: /laʁ.ʒə.mɑ̃/
+exceptionnellement
+  IPA: /ɛk.sɛp.sjɔ.nɛl.mɑ̃/
+favorablement
+  IPA: /fa.vɔ.ʁa.blə.mɑ̃/
+à cheval
+  IPA: /a ʃ(ə).val/
+franchement
+  IPA: /fʁɑ̃ʃ.mɑ̃/
+comme un chien dans un jeu de quilles
+  IPA: /kɔm œ̃ ʃjɛ̃ dɑ̃.z‿œ̃ ʒø d(ə) kij/
+fabuleusement
+  IPA: /fa.by.løz.mɑ̃/
+jusqu'
+  IPA: /ʒysk‿/
+dos à dos
+  IPA: /do.z‿a do/
+  IPA: /do a do/
+en tout cas
+  IPA: /ɑ̃ tu ka/
+  IPA: /ɑ̃ tu kɑ/
+tout à fait
+  IPA: /tu.t‿a fɛ/
+à deux pas
+  IPA: /a dø pa/
+  IPA: /a dø pɑ/
+consécutivement
+  IPA: /kɔ̃.se.ky.tiv.mɑ̃/
+accidentellement
+  IPA: /ak.si.dɑ̃.tɛl.mɑ̃/
+efficacement
+  IPA: /e.fi.kas.mɑ̃/
+vraisemblablement
+  IPA: /vʁɛ.sɑ̃.bla.blə.mɑ̃/
+  IPA: /vʁe.sɑ̃.bla.blə.mɑ̃/
+réellement
+  IPA: /ʁe.ɛl.mɑ̃/
+remarquablement
+  IPA: /ʁə.maʁ.ka.blə.mɑ̃/
+subitement
+  IPA: /sy.bit.mɑ̃/
+comme un dératé
+  IPA: /kɔm œ̃ de.ʁa.te/
+n'importe
+  IPA: /n‿ɛ̃.pɔʁt/
+à grand-peine
+  IPA: /a ɡʁɑ̃.pɛn/
+à califourchon
+  IPA: /a ka.li.fuʁ.ʃɔ̃/
+alentour
+  IPA: /a.lɑ̃.tuʁ/
+à l'entour
+  IPA: /a l‿ɑ̃.tuʁ/
+chronologiquement
+  IPA: /kʁɔ.nɔ.lɔ.ʒik.mɑ̃/
+comme des petits pains
+  IPA: /kɔm de p(ə).ti pɛ̃/
+à outrance
+  IPA: /a u.tʁɑ̃s/
+par mégarde
+  IPA: /paʁ me.ɡaʁd/
+pêle-mêle
+  IPA: /pɛl.mɛl/
+démocratiquement
+  IPA: /de.mɔ.kʁa.tik.mɑ̃/
+différemment
+  IPA: /di.fe.ʁa.mɑ̃/
+implicitement
+  IPA: /ɛ̃.pli.sit.mɑ̃/
+qualitativement
+  IPA: /ka.li.ta.tiv.mɑ̃/
+grièvement
+  IPA: /ɡʁi.jɛv.mɑ̃/
+consciemment
+  IPA: /kɔ̃.sja.mɑ̃/
+sciemment
+  IPA: /sja.mɑ̃/
+sexuellement
+  IPA: /sɛk.sɥɛl.mɑ̃/
+çà et là
+  IPA: /sa e la/
+macache
+  IPA: /ma.kaʃ/
+tout compte fait
+  IPA: /tu kɔ̃t fɛ/
+delà
+  IPA: /də.la/
+quasiment
+  IPA: /ka.zi.mɑ̃/
+quatrièmement
+  IPA: /ka.tʁi.jɛm.mɑ̃/
+treizièmement
+  IPA: /tʁɛ.zjɛm.mɑ̃/
+  IPA: /tʁe.zjɛm.mɑ̃/
+seizièmement
+  IPA: /sɛ.zjɛm.mɑ̃/
+  IPA: /se.zjɛm.mɑ̃/
+quatorzièmement
+  IPA: /ka.tɔʁ.zjɛm.mɑ̃/
+dixièmement
+  IPA: /di.zjɛm.mɑ̃/
+quinzièmement
+  IPA: /kɛ̃.zjɛm.mɑ̃/
+troisièmement
+  IPA: /tʁwa.zjɛm.mɑ̃/
+deuxièmement
+  IPA: /dø.zjɛm.mɑ̃/
+sixièmement
+  IPA: /si.zjɛm.mɑ̃/
+septièmement
+  IPA: /sɛ.tjɛm.mɑ̃/
+  IPA: /se.tjɛm.mɑ̃/
+vingtièmement
+  IPA: /vɛ̃.tjɛm.mɑ̃/
+cinquièmement
+  IPA: /sɛ̃.kjɛm.mɑ̃/
+respectivement
+  IPA: /ʁɛs.pɛk.tiv.mɑ̃/
+couramment
+  IPA: /ku.ʁa.mɑ̃/
+dernièrement
+  IPA: /dɛʁ.njɛʁ.mɑ̃/
+en revanche
+  IPA: /ɑ̃ ʁ(ə).vɑ̃ʃ/
+crapaudine
+  IPA: /kʁa.po.din/
+jour pour jour
+  IPA: /ʒuʁ puʁ ʒuʁ/
+mensuellement
+  IPA: /mɑ̃.sɥɛl.mɑ̃/
+tour à tour
+  IPA: /tu.ʁ‿a tuʁ/
+correctement
+  IPA: /kɔ.ʁɛk.tə.mɑ̃/
+inexorablement
+  IPA: /i.nɛɡ.zɔ.ʁa.blə.mɑ̃/
+malgré tout
+  IPA: /mal.ɡʁe tu/
+de plein fouet
+  IPA: /də plɛ̃ fwɛ/
+de plus en plus
+  IPA: /də ply.z‿ɑ̃ plys/
+  IPA: /də ply.z‿ɑ̃ ply/
+chaleureusement
+  IPA: /ʃa.lœ.ʁøz.mɑ̃/
+énormément
+  IPA: /e.nɔʁ.me.mɑ̃/
+nerveusement
+  IPA: /nɛʁ.vøz.mɑ̃/
+simultanément
+  IPA: /si.myl.ta.ne.mɑ̃/
+individuellement
+  IPA: /ɛ̃.di.vi.dɥɛl.mɑ̃/
+en travers
+  IPA: /ɑ̃ tʁa.vɛʁ/
+de travers
+  IPA: /də tʁa.vɛʁ/
+à juste titre
+  IPA: /a ʒys.t(ə) titʁ/
+impatiemment
+  IPA: /ɛ̃.pa.sja.mɑ̃/
+vigoureusement
+  IPA: /vi.ɡu.ʁøz.mɑ̃/
+indument
+  IPA: /ɛ̃.dy.mɑ̃/
+pas à pas
+  IPA: /pa.z‿a pa/
+  IPA: /pɑ.z‿a pɑ/
+machinalement
+  IPA: /ma.ʃi.nal.mɑ̃/
+préalablement
+  IPA: /pʁe.a.la.blə.mɑ̃/
+outre-Manche
+  IPA: /u.tʁə.mɑ̃ʃ/
+économiquement
+  IPA: /e.kɔ.nɔ.mik.mɑ̃/
+plus que jamais
+  IPA: /ply k(ə) ʒa.mɛ/
+  IPA: /plys kə ʒa.mɛ/
+illico
+  IPA: /i.li.ko/
+uniformément
+  IPA: /y.ni.fɔʁ.me.mɑ̃/
+sur-le-champ
+  IPA: /syʁ.lə.ʃɑ̃/
+resp.
+  IPA: /ʁɛs.pɛk.tiv.mɑ̃/
+lourdement
+  IPA: /luʁ.də.mɑ̃/
+définitivement
+  IPA: /de.fi.ni.tiv.mɑ̃/
+forcément
+  IPA: /fɔʁ.se.mɑ̃/
+par terre
+  IPA: /paʁ tɛʁ/
+profondément
+  IPA: /pʁɔ.fɔ̃.de.mɑ̃/
+en haut
+  IPA: /ɑ̃ o/
+d'habitude
+  IPA: /d‿a.bi.tyd/
+quelque part
+  IPA: /kɛl.k(ə) paʁ/
+à l'heure
+  IPA: /a l‿œʁ/
+systématiquement
+  IPA: /sis.te.ma.tik.mɑ̃/
+difficilement
+  IPA: /di.fi.sil.mɑ̃/
+habituellement
+  IPA: /a.bi.tɥɛl.mɑ̃/
+en profil
+  IPA: /ɑ̃ pʁɔ.fil/
+mielleusement
+  IPA: /mjɛ.løz.mɑ̃/
+  IPA: /mje.løz.mɑ̃/
+en fin de compte
+  IPA: /ɑ̃ fɛ̃ d(ə) kɔ̃t/
+normalement
+  IPA: /nɔʁ.mal.mɑ̃/
+sitôt
+  IPA: /si.to/
+directos
+  IPA: /di.ʁɛk.to/
+orthographiquement
+  IPA: /ɔʁ.to.ɡʁa.fik.mɑ̃/
+fondamentalement
+  IPA: /fɔ̃.da.mɑ̃.tal.mɑ̃/
+gratuitement
+  IPA: /ɡʁa.tɥit.mɑ̃/
+aisément
+  IPA: /ɛ.ze.mɑ̃/
+  IPA: /e.ze.mɑ̃/
+drôlement
+  IPA: /dʁol.mɑ̃/
+affreusement
+  IPA: /a.fʁøz.mɑ̃/
+universellement
+  IPA: /y.ni.vɛʁ.sɛl.mɑ̃/
+affablement
+  IPA: /a.fa.blə.mɑ̃/
+activement
+  IPA: /ak.tiv.mɑ̃/
+pratiquement
+  IPA: /pʁa.tik.mɑ̃/
+pleinement
+  IPA: /plɛn.mɑ̃/
+bellement
+  IPA: /bɛl.mɑ̃/
+ambigument
+  IPA: /ɑ̃.bi.ɡy.mɑ̃/
+continuellement
+  IPA: /kɔ̃.ti.nɥɛl.mɑ̃/
+alphabétiquement
+  IPA: /al.fa.be.tik.mɑ̃/
+adéquatement
+  IPA: /a.de.kwat.mɑ̃/
+longuement
+  IPA: /lɔ̃ɡ.mɑ̃/
+adhésivement
+  IPA: /a.de.ziv.mɑ̃/
+en fait
+  IPA: /ɑ̃ fɛ(t)/
+contrairement
+  IPA: /kɔ̃.tʁɛʁ.mɑ̃/
+gravement
+  IPA: /ɡʁav.mɑ̃/
+légalement
+  IPA: /le.ɡal.mɑ̃/
+absurdement
+  IPA: /ap.syʁ.də.mɑ̃/
+contractuellement
+  IPA: /kɔ̃.tʁak.tɥɛl.mɑ̃/
+pacifiquement
+  IPA: /pa.si.fik.mɑ̃/
+harmonieusement
+  IPA: /aʁ.mɔ.njøz.mɑ̃/
+psychologiquement
+  IPA: /psi.kɔ.lɔ.ʒik.mɑ̃/
+prou
+  IPA: /pʁu/
+sérieusement
+  IPA: /se.ʁjøz.mɑ̃/
+spécialement
+  IPA: /spe.sjal.mɑ̃/
+véritablement
+  IPA: /ve.ʁi.ta.blə.mɑ̃/
+justement
+  IPA: /ʒys.tə.mɑ̃/
+démesurément
+  IPA: /de.mə.zy.ʁe.mɑ̃/
+  IPA: /dem.zy.ʁe.mɑ̃/
+très bien
+  IPA: /tʁɛ bjɛ̃/
+automatiquement
+  IPA: /o.tɔ.ma.tik.mɑ̃/
+  IPA: /ɔ.tɔ.ma.tik.mɑ̃/
+purement
+  IPA: /pyʁ.mɑ̃/
+fréquemment
+  IPA: /fʁe.ka.mɑ̃/
+résolument
+  IPA: /ʁe.zɔ.ly.mɑ̃/
+en avant
+  IPA: /ɑ̃.n‿a.vɑ̃/
+en tailleur
+  IPA: /ɑ̃ ta.jœʁ/
+littéralement
+  IPA: /li.te.ʁal.mɑ̃/
+annuellement
+  IPA: /a.nɥɛl.mɑ̃/
+visiblement
+  IPA: /vi.zi.blə.mɑ̃/
+incontestablement
+  IPA: /ɛ̃.kɔ̃.tɛs.ta.blə.mɑ̃/
+massivement
+  IPA: /ma.siv.mɑ̃/
+spécifiquement
+  IPA: /spe.si.fik.mɑ̃/
+luxurieusement
+  IPA: /lyk.sy.ʁjøz.mɑ̃/
+terriblement
+  IPA: /tɛ.ʁi.blə.mɑ̃/
+  IPA: /te.ʁi.blə.mɑ̃/
+intelligemment
+  IPA: /ɛ̃.tɛ.li.ʒa.mɑ̃/
+  IPA: /ɛ̃.te.li.ʒa.mɑ̃/
+logiquement
+  IPA: /lɔ.ʒik.mɑ̃/
+précédemment
+  IPA: /pʁe.se.da.mɑ̃/
+assurément
+  IPA: /a.sy.ʁe.mɑ̃/
+agréablement
+  IPA: /a.ɡʁe.a.blə.mɑ̃/
+abondamment
+  IPA: /a.bɔ̃.da.mɑ̃/
+obligatoirement
+  IPA: /ɔ.bli.ɡa.twaʁ.mɑ̃/
+indépendamment
+  IPA: /ɛ̃.de.pɑ̃.da.mɑ̃/
+provisoirement
+  IPA: /pʁɔ.vi.zwaʁ.mɑ̃/
+initialement
+  IPA: /i.ni.sjal.mɑ̃/
+conformément
+  IPA: /kɔ̃.fɔʁ.me.mɑ̃/
+vivement
+  IPA: /viv.mɑ̃/
+manifestement
+  IPA: /ma.ni.fɛs.tə.mɑ̃/
+nullement
+  IPA: /nyl.mɑ̃/
+volontiers
+  IPA: /vɔ.lɔ̃.tje/
+techniquement
+  IPA: /tɛk.nik.mɑ̃/
+ouvertement
+  IPA: /u.vɛʁ.tə.mɑ̃/
+silencieusement
+  IPA: /si.lɑ̃.sjøz.mɑ̃/
+cordialement
+  IPA: /kɔʁ.djal.mɑ̃/
+arithmétiquement
+  IPA: /a.ʁit.me.tik.mɑ̃/
+confortablement
+  IPA: /kɔ̃.fɔʁ.ta.blə.mɑ̃/
+objectivement
+  IPA: /ɔb.ʒɛk.tiv.mɑ̃/
+en abondance
+  IPA: /ɑ̃.n‿a.bɔ̃.dɑ̃s/
+aux abonnés absents
+  IPA: /o.z‿a.bɔ.ne ap.sɑ̃/
+cdlt
+  IPA: /kɔʁ.djal.mɑ̃/
+au premier abord
+  IPA: /o pʁə.mjɛ.ʁ‿a.bɔʁ/
+de prime abord
+  IPA: /də pʁi.m‿a.bɔʁ/
+un peu
+  IPA: /œ̃ pø/
+en partie
+  IPA: /ɑ̃ paʁ.ti/
+impudemment
+  IPA: /ɛ̃.py.da.mɑ̃/
+cruellement
+  IPA: /kʁy.ɛl.mɑ̃/
+fatalement
+  IPA: /fa.tal.mɑ̃/
+anxieusement
+  IPA: /ɑ̃k.sjøz.mɑ̃/
+a tempo
+  IPA: /a tɑ̃.po/
+tout à l'heure
+  IPA: /tu.t‿a l‿œʁ/
+illégalement
+  IPA: /i.le.ɡal.mɑ̃/
+prosaïquement
+  IPA: /pʁo.za.ik.mɑ̃/
+deçà
+  IPA: /də.sa/
+ci-dessus
+  IPA: /si.d(ə).sy/
+ingénument
+  IPA: /ɛ̃.ʒe.ny.mɑ̃/
+génétiquement
+  IPA: /ʒe.ne.tik.mɑ̃/
+fiscalement
+  IPA: /fis.kal.mɑ̃/
+couci-couça
+  IPA: /ku.si.ku.sa/
+parallèlement
+  IPA: /pa.ʁa.lɛl.mɑ̃/
+prestement
+  IPA: /pʁɛs.tə.mɑ̃/
+clandestinement
+  IPA: /klɑ̃.dɛs.tin.mɑ̃/
+pour le coup
+  IPA: /puʁ lə ku/
+par contre
+  IPA: /paʁ kɔ̃tʁ/
+prétendument
+  IPA: /pʁe.tɑ̃.dy.mɑ̃/
+magnifiquement
+  IPA: /ma.ɲi.fik.mɑ̃/
+successivement
+  IPA: /syk.sɛ.siv.mɑ̃/
+  IPA: /syk.se.siv.mɑ̃/
+ultérieurement
+  IPA: /yl.te.ʁjœʁ.mɑ̃/
+céans
+  IPA: /se.ɑ̃/
+de justesse
+  IPA: /də ʒys.tɛs/
+par contumace
+  IPA: /paʁ kɔ̃.ty.mas/
+joliment
+  IPA: /ʒɔ.li.mɑ̃/
+hautement
+  IPA: /ot.mɑ̃/
+doublement
+  IPA: /du.blə.mɑ̃/
+conjointement
+  IPA: /kɔ̃.ʒwɛ̃t.mɑ̃/
+antérieurement
+  IPA: /ɑ̃.te.ʁjœʁ.mɑ̃/
+explicitement
+  IPA: /ɛk.spli.sit.mɑ̃/
+brusquement
+  IPA: /bʁys.kə.mɑ̃/
+prudemment
+  IPA: /pʁy.da.mɑ̃/
+véhémentement
+  IPA: /ve.e.mɑ̃t.mɑ̃/
+  IPA: /ve.e.mɑ̃.tə.mɑ̃/
+àmha
+  IPA: /a mɔ̃.n‿œ̃.bl‿a.vi/
+artificiellement
+  IPA: /aʁ.ti.fi.sjɛl.mɑ̃/
+amha
+  IPA: /a mɔ̃.n‿œ̃.bl‿a.vi/
+tous les 36 du mois
+  IPA: /tu le tʁɑ̃t.sis dy mwa/
+localement
+  IPA: /lɔ.kal.mɑ̃/
+incidemment
+  IPA: /ɛ̃.si.da.mɑ̃/
+effrontément
+  IPA: /e.fʁɔ̃.te.mɑ̃/
+traîtreusement
+  IPA: /tʁɛ.tʁøz.mɑ̃/
+  IPA: /tʁe.tʁøz.mɑ̃/
+2o
+  IPA: /sə.ɡɔ̃.do/
+au reste
+  IPA: /o ʁɛst/
+transitivement
+  IPA: /tʁɑ̃.zi.tiv.mɑ̃/
+intransitivement
+  IPA: /ɛ̃.tʁɑ̃.zi.tiv.mɑ̃/
+sensuellement
+  IPA: /sɑ̃.sɥɛl.mɑ̃/
+du moins
+  IPA: /dy mwɛ̃/
+scientifiquement
+  IPA: /sjɑ̃.ti.fik.mɑ̃/
+en somme
+  IPA: /ɑ̃ sɔm/
+avec la lettre
+  IPA: /a.vɛk la lɛtʁ/
+méga
+  IPA: /me.ɡa/
+catégoriquement
+  IPA: /ka.te.ɡɔ.ʁik.mɑ̃/
+brièvement
+  IPA: /bʁi.jɛv.mɑ̃/
+géographiquement
+  IPA: /ʒe.ɔ.ɡʁa.fik.mɑ̃/
+financièrement
+  IPA: /fi.nɑ̃.sjɛʁ.mɑ̃/
+au lit
+  IPA: /o li/
+d'affilée
+  IPA: /d‿a.fi.le/
+secrètement
+  IPA: /sə.kʁɛt.mɑ̃/
+içi
+  IPA: /i.si/
+désespérément
+  IPA: /de.zɛs.pe.ʁe.mɑ̃/
+approximativement
+  IPA: /a.pʁɔk.si.ma.tiv.mɑ̃/
+subrepticement
+  IPA: /sy.bʁɛp.tis.mɑ̃/
+indéfiniment
+  IPA: /ɛ̃.de.fi.ni.mɑ̃/
+manuellement
+  IPA: /ma.nɥɛl.mɑ̃/
+mathématiquement
+  IPA: /ma.te.ma.tik.mɑ̃/
+dûment
+  IPA: /dy.mɑ̃/
+verticalement
+  IPA: /vɛʁ.ti.kal.mɑ̃/
+laborieusement
+  IPA: /la.bɔ.ʁjøz.mɑ̃/
+notoirement
+  IPA: /nɔ.twaʁ.mɑ̃/
+scrupuleusement
+  IPA: /skʁy.py.løz.mɑ̃/
+pas mal
+  IPA: /pa mal/
+  IPA: /pɑ mal/
+d'arrache-pied
+  IPA: /d‿a.ʁaʃ.pje/
+merveilleusement
+  IPA: /mɛʁ.vɛ.jøz.mɑ̃/
+  IPA: /mɛʁ.ve.jøz.mɑ̃/
+mortellement
+  IPA: /mɔʁ.tɛl.mɑ̃/
+stoïquement
+  IPA: /stɔ.ik.mɑ̃/
+à l'oreille
+  IPA: /a l‿ɔ.ʁɛj/
+grammaticalement
+  IPA: /ɡʁa.ma.ti.kal.mɑ̃/
+  IPA: /ɡʁam.ma.ti.kal.mɑ̃/
+symboliquement
+  IPA: /sɛ̃.bɔ.lik.mɑ̃/
+stupidement
+  IPA: /sty.pid.mɑ̃/
+ridiculement
+  IPA: /ʁi.di.kyl.mɑ̃/
+asexuellement
+  IPA: /a.sɛk.sɥɛl.mɑ̃/
+joyeusement
+  IPA: /ʒwa.jøz.mɑ̃/
+jalousement
+  IPA: /ʒa.luz.mɑ̃/
+tendrement
+  IPA: /tɑ̃.dʁə.mɑ̃/
+horriblement
+  IPA: /ɔ.ʁi.blə.mɑ̃/
+impossiblement
+  IPA: /ɛ̃.pɔ.si.blə.mɑ̃/
+anachroniquement
+  IPA: /a.na.kʁɔ.nik.mɑ̃/
+abusivement
+  IPA: /a.by.ziv.mɑ̃/
+agilement
+  IPA: /a.ʒil.mɑ̃/
+aléatoirement
+  IPA: /a.le.a.twaʁ.mɑ̃/
+authentiquement
+  IPA: /ɔ.tɑ̃.tik.mɑ̃/
+  IPA: /o.tɑ̃.tik.mɑ̃/
+ardemment
+  IPA: /aʁ.da.mɑ̃/
+autoritairement
+  IPA: /o.tɔ.ʁi.tɛʁ.mɑ̃/
+  IPA: /ɔ.tɔ.ʁi.tɛʁ.mɑ̃/
+adjectivement
+  IPA: /a.dʒɛk.tiv.mɑ̃/
+autocratiquement
+  IPA: /o.tɔ.kʁa.tik.mɑ̃/
+  IPA: /ɔ.tɔ.kʁa.tik.mɑ̃/
+autobiographiquement
+  IPA: /o.tɔ.bjɔ.ɡʁa.fik.mɑ̃/
+  IPA: /ɔ.tɔ.bjɔ.ɡʁa.fik.mɑ̃/
+abrégément
+  IPA: /a.bʁe.ʒe.mɑ̃/
+artistiquement
+  IPA: /aʁ.tis.tik.mɑ̃/
+aucunement
+  IPA: /o.kyn.mɑ̃/
+asymétriquement
+  IPA: /a.si.me.tʁik.mɑ̃/
+agressivement
+  IPA: /a.ɡʁe.siv.mɑ̃/
+alternativement
+  IPA: /al.tɛʁ.na.tiv.mɑ̃/
+antécédemment
+  IPA: /ɑ̃.te.se.da.mɑ̃/
+aveuglément
+  IPA: /a.vœ.ɡle.mɑ̃/
+bruyamment
+  IPA: /bʁɥi.ja.mɑ̃/
+zoologiquement
+  IPA: /zɔ.ɔ.lɔ.ʒik.mɑ̃/
+bibliquement
+  IPA: /bi.blik.mɑ̃/
+bourgeoisement
+  IPA: /buʁ.ʒwaz.mɑ̃/
+ahurissamment
+  IPA: /a.y.ʁi.sa.mɑ̃/
+bouffonnement
+  IPA: /bu.fɔn.mɑ̃/
+affectueusement
+  IPA: /a.fɛk.tɥøz.mɑ̃/
+bravement
+  IPA: /bʁav.mɑ̃/
+aigument
+  IPA: /ɛ.ɡy.mɑ̃/
+  IPA: /e.ɡy.mɑ̃/
+affectionnément
+  IPA: /a.fɛk.sjɔ.ne.mɑ̃/
+allégro
+  IPA: /a.le.ɡʁo/
+allégretto
+  IPA: /a.le.ɡʁɛ.to/
+  IPA: /a.le.ɡʁe.to/
+balistiquement
+  IPA: /ba.lis.tik.mɑ̃/
+moralement
+  IPA: /mɔ.ʁal.mɑ̃/
+barbarement
+  IPA: /baʁ.baʁ.mɑ̃/
+chèrement
+  IPA: /ʃɛʁ.mɑ̃/
+catastrophiquement
+  IPA: /ka.tas.tʁɔ.fik.mɑ̃/
+cellulairement
+  IPA: /sɛ.ly.lɛʁ.mɑ̃/
+  IPA: /se.ly.lɛʁ.mɑ̃/
+chirurgicalement
+  IPA: /ʃi.ʁyʁ.ʒi.kal.mɑ̃/
+chaotiquement
+  IPA: /ka.ɔ.tik.mɑ̃/
+chaudement
+  IPA: /ʃod.mɑ̃/
+cohéremment
+  IPA: /kɔ.e.ʁa.mɑ̃/
+connement
+  IPA: /kɔn.mɑ̃/
+confidemment
+  IPA: /kɔ̃.fi.da.mɑ̃/
+constitutionnellement
+  IPA: /kɔ̃s.ti.ty.sjɔ.nɛl.mɑ̃/
+chrétiennement
+  IPA: /kʁe.tjɛn.mɑ̃t/
+craintivement
+  IPA: /kʁɛ̃.tiv.mɑ̃/
+charnellement
+  IPA: /ʃaʁ.nɛl.mɑ̃/
+concisément
+  IPA: /kɔ̃.si.ze.mɑ̃/
+couardement
+  IPA: /kwaʁ.də.mɑ̃/
+concurremment
+  IPA: /kɔ̃.ky.ʁa.mɑ̃/
+cycliquement
+  IPA: /si.klik.mɑ̃/
+complémentairement
+  IPA: /kɔ̃.ple.mɑ̃.tɛʁ.mɑ̃/
+colériquement
+  IPA: /kɔ.le.ʁik.mɑ̃/
+copieusement
+  IPA: /kɔ.pjøz.mɑ̃/
+conséquemment
+  IPA: /kɔ̃.se.ka.mɑ̃/
+courtoisement
+  IPA: /kuʁ.twaz.mɑ̃/
+continûment
+  IPA: /kɔ̃.ti.ny.mɑ̃/
+crûment
+  IPA: /kʁy.mɑ̃/
+à la main
+  IPA: /a la mɛ̃/
+discutablement
+  IPA: /dis.ky.ta.blə.mɑ̃/
+indiscutablement
+  IPA: /ɛ̃.dis.ky.ta.blə.mɑ̃/
+délibérément
+  IPA: /de.li.be.ʁe.mɑ̃/
+dangereusement
+  IPA: /dɑ̃ʒ.ʁøz.mɑ̃/
+dextrement
+  IPA: /dɛk.stʁə.mɑ̃/
+discrètement
+  IPA: /dis.kʁɛt.mɑ̃/
+diligemment
+  IPA: /di.li.ʒa.mɑ̃/
+diplomatiquement
+  IPA: /di.plɔ.ma.tik.mɑ̃/
+à vrai dire
+  IPA: /a vʁɛ diʁ/
+imprécisément
+  IPA: /ɛ̃.pʁe.si.ze.mɑ̃/
+diamétralement
+  IPA: /dja.me.tʁal.mɑ̃/
+distinctement
+  IPA: /dis.tɛ̃k.tə.mɑ̃/
+dix-huitièmement
+  IPA: /di.z‿ɥi.tjɛm.mɑ̃/
+dix-neuvièmement
+  IPA: /diz‿.nœ.vjɛm.mɑ̃/
+dix-septièmement
+  IPA: /di.sɛ.tjɛm.mɑ̃/
+  IPA: /di.se.tjɛm.mɑ̃/
+en direct
+  IPA: /ɑ̃ di.ʁɛkt/
+empiriquement
+  IPA: /ɑ̃.pi.ʁik.mɑ̃/
+élégamment
+  IPA: /e.le.ɡa.mɑ̃/
+ecclésiastiquement
+  IPA: /e.kle.zjas.tik.mɑ̃/
+énergiquement
+  IPA: /e.nɛʁ.ʒik.mɑ̃/
+émotionnellement
+  IPA: /e.mɔ.sjɔ.nɛl.mɑ̃/
+itou
+  IPA: /i.tu/
+verbalement
+  IPA: /vɛʁ.bal.mɑ̃/
+ennuyeusement
+  IPA: /ɑ̃.nɥi.jøz.mɑ̃/
+équitablement
+  IPA: /e.ki.ta.blə.mɑ̃/
+excellemment
+  IPA: /ɛk.sɛ.la.mɑ̃/
+  IPA: /ɛk.se.la.mɑ̃/
+erronément
+  IPA: /e.ʁɔ.ne.mɑ̃/
+expérimentalement
+  IPA: /ɛk.spe.ʁi.mɑ̃.tal.mɑ̃/
+inexcusablement
+  IPA: /i.nɛk.sky.za.blə.mɑ̃/
+calamiteusement
+  IPA: /ka.la.mi.tøz.mɑ̃/
+cagotement
+  IPA: /ka.ɡɔt.mɑ̃/
+calomnieusement
+  IPA: /ka.lɔm.njøz.mɑ̃/
+canonialement
+  IPA: /ka.nɔ.njal.mɑ̃/
+canoniquement
+  IPA: /ka.nɔ.nik.mɑ̃/
+fièrement
+  IPA: /fjɛʁ.mɑ̃/
+fonctionnellement
+  IPA: /fɔ̃k.sjɔ.nɛl.mɑ̃/
+faussement
+  IPA: /fos.mɑ̃/
+fidèlement
+  IPA: /fi.dɛl.mɑ̃/
+fanatiquement
+  IPA: /fa.na.tik.mɑ̃/
+fémininement
+  IPA: /fe.mi.nin.mɑ̃/
+fautivement
+  IPA: /fo.tiv.mɑ̃/
+fertilement
+  IPA: /fɛʁ.til.mɑ̃/
+hâtivement
+  IPA: /a.tiv.mɑ̃/
+  IPA: /ɑ.tiv.mɑ̃/
+futilement
+  IPA: /fy.til.mɑ̃/
+flexiblement
+  IPA: /flɛk.si.blə.mɑ̃/
+finement
+  IPA: /fin.mɑ̃/
+frivolement
+  IPA: /fʁi.vɔl.mɑ̃/
+figurativement
+  IPA: /fi.ɡy.ʁa.tiv.mɑ̃/
+furieusement
+  IPA: /fy.ʁjøz.mɑ̃/
+fragilement
+  IPA: /fʁa.ʒil.mɑ̃/
+froidement
+  IPA: /fʁwad.mɑ̃/
+  IPA: /fʁwɑd.mɑ̃/
+formidablement
+  IPA: /fɔʁ.mi.da.blə.mɑ̃/
+fictivement
+  IPA: /fik.tiv.mɑ̃/
+follement
+  IPA: /fɔl.mɑ̃/
+fantastiquement
+  IPA: /fɑ̃.tas.tik.mɑ̃/
+amphigouriquement
+  IPA: /ɑ̃.fi.ɡu.ʁik.mɑ̃/
+glorieusement
+  IPA: /ɡlɔ.ʁjøz.mɑ̃/
+euphoniquement
+  IPA: /ø.fɔ.nik.mɑ̃/
+éphémèrement
+  IPA: /e.fe.mɛʁ.mɑ̃/
+apertement
+  IPA: /a.pɛʁ.tə.mɑ̃/
+chattement
+  IPA: /ʃat.mɑ̃/
+grandement
+  IPA: /ɡʁɑ̃d.mɑ̃/
+étymologiquement
+  IPA: /e.ti.mɔ.lɔ.ʒik.mɑ̃/
+de bonne heure
+  IPA: /də bɔn œʁ/
+de nos jours
+  IPA: /də no ʒuʁ/
+approbativement
+  IPA: /a.pʁɔ.ba.tiv.mɑ̃/
+fermement
+  IPA: /fɛʁ.mə.mɑ̃/
+au juste
+  IPA: /o ʒyst/
+oncques
+  IPA: /ɔ̃k/
+onc
+  IPA: /ɔ̃k/
+onques
+  IPA: /ɔ̃k/
+en outre
+  IPA: /ɑ̃.n‿utʁ/
+calmos
+  IPA: /kal.mɔs/
+alogiquement
+  IPA: /a.lɔ.ʒik.mɑ̃/
+à voix haute
+  IPA: /a vwa ot/
+malencontreusement
+  IPA: /ma.lɑ̃.kɔ̃.tʁøz.mɑ̃/
+non-stop
+  IPA: /nɔn.stɔp/
+fallacieusement
+  IPA: /fa.la.sjøz.mɑ̃/
+entre guillemets
+  IPA: /ɑ̃.tʁə ɡij.mɛ/
+négativement
+  IPA: /ne.ɡa.tiv.mɑ̃/
+au fur et à mesure
+  IPA: /o fy.ʁ‿e a m(ə).zyʁ/
+mutuellement
+  IPA: /my.tɥɛl.mɑ̃/
+irrespectueusement
+  IPA: /i.ʁɛs.pɛk.tɥøz.mɑ̃/
+respectablement
+  IPA: /ʁɛs.pɛk.ta.blə.mɑ̃/
+premièrement
+  IPA: /pʁə.mjɛʁ.mɑ̃/
+à donf
+  IPA: /a dɔ̃f/
+à fond
+  IPA: /a fɔ̃/
+éminemment
+  IPA: /e.mi.na.mɑ̃/
+ex æquo
+  IPA: /ɛɡ.z‿e.ko/
+ex-aequo
+  IPA: /ɛɡ.ze.ko/
+ex-æquo
+  IPA: /ɛɡ.ze.ko/
+ex aequo
+  IPA: /ɛɡ.z‿e.ko/
+au jour d'aujourd'hui
+  IPA: /o ʒuʁ d‿o.ʒuʁ.d‿ɥi/
+instantanément
+  IPA: /ɛ̃s.tɑ̃.ta.ne.mɑ̃/
+au hasard
+  IPA: /o a.zaʁ/
+orgueilleusement
+  IPA: /ɔʁ.ɡœ.jøz.mɑ̃/
+occultement
+  IPA: /ɔ.kyl.tə.mɑ̃/
+tout le temps
+  IPA: /tu l(ə) tɑ̃/
+honnêtement
+  IPA: /ɔ.nɛt.mɑ̃/
+richement
+  IPA: /ʁiʃ.mɑ̃/
+tempétueusement
+  IPA: /tɑ̃.pe.tɥøz.mɑ̃/
+sèchement
+  IPA: /sɛʃ.mɑ̃/
+à merveille
+  IPA: /a mɛʁ.vɛj/
+tranquillement
+  IPA: /tʁɑ̃.kil.mɑ̃/
+nuitamment
+  IPA: /nɥi.ta.mɑ̃/
+à l'écart
+  IPA: /a l‿e.kaʁ/
+goulument
+  IPA: /ɡu.ly.mɑ̃/
+périodiquement
+  IPA: /pe.ʁjɔ.dik.mɑ̃/
+sur la pointe des pieds
+  IPA: /syʁ la pwɛ̃t de pje/
+mal à propos
+  IPA: /ma.l‿a pʁɔ.po/
+d'emblée
+  IPA: /d‿ɑ̃.ble/
+goulûment
+  IPA: /ɡu.ly.mɑ̃/
+derechef
+  IPA: /də.ʁə.ʃɛf/
+linguistiquement
+  IPA: /lɛ̃.ɡɥis.tik.mɑ̃/
+péniblement
+  IPA: /pe.ni.blə.mɑ̃/
+suavement
+  IPA: /sɥav.mɑ̃/
+substantiellement
+  IPA: /syp.stɑ̃.sjɛl.mɑ̃/
+solennellement
+  IPA: /sɔ.la.nɛl.mɑ̃/
+peureusement
+  IPA: /pœ.ʁøz.mɑ̃/
+à mi-chemin
+  IPA: /a mi.ʃ(ə).mɛ̃/
+précieusement
+  IPA: /pʁe.sjøz.mɑ̃/
+précocement
+  IPA: /pʁe.kɔs.mɑ̃/
+précautionneusement
+  IPA: /pʁe.ko.sjɔ.nøz.mɑ̃/
+éperdument
+  IPA: /e.pɛʁ.dy.mɑ̃/
+dans les faits
+  IPA: /dɑ̃ le fɛ(t)/
+par conséquent
+  IPA: /paʁ kɔ̃.se.kɑ̃/
+jusqu'au bout
+  IPA: /ʒys.k‿o bu/
+à l'arrache
+  IPA: /a l‿a.ʁaʃ/
+un jour
+  IPA: /œ̃ ʒuʁ/
+en berne
+  IPA: /ɑ̃ bɛʁn/
+de A à Z
+  IPA: /də a a zɛd/
+à cet effet
+  IPA: /a sɛ.t‿e.fɛ/
+grand maximum
+  IPA: /ɡʁɑ̃ mak.si.mɔm/
+pour l'instant
+  IPA: /puʁ l‿ɛ̃s.tɑ̃/
+sans conteste
+  IPA: /sɑ̃ kɔ̃.tɛst/
+en particulier
+  IPA: /ɑ̃ paʁ.ti.ky.lje/
+préférentiellement
+  IPA: /pʁe.fe.ʁɑ̃.sjɛl.mɑ̃/
+une fois
+  IPA: /yn fwa/
+en ce moment
+  IPA: /ɑ̃ s(ə) mɔ.mɑ̃/
+à nouveau
+  IPA: /a nu.vo/
+impitoyablement
+  IPA: /ɛ̃.pi.twa.ja.blə.mɑ̃/
+en ami
+  IPA: /ɑ̃.n‿a.mi/
+de rang
+  IPA: /də ʁɑ̃/
+légitimement
+  IPA: /le.ʒi.tim.mɑ̃/
+mélodiquement
+  IPA: /me.lɔ.dik.mɑ̃/
+sur place
+  IPA: /syʁ plas/
+seul à seul
+  IPA: /sœ.l‿a sœl/
+p'tet
+  IPA: /p‿tɛt/
+à la fois
+  IPA: /a la fwa/
+infiniment
+  IPA: /ɛ̃.fi.ni.mɑ̃/
+inutilement
+  IPA: /i.ny.til.mɑ̃/
+fixement
+  IPA: /fik.sə.mɑ̃/
+singulièrement
+  IPA: /sɛ̃.ɡy.ljɛʁ.mɑ̃/
+incessamment
+  IPA: /ɛ̃.sɛ.sa.mɑ̃/
+  IPA: /ɛ̃.se.sa.mɑ̃/
+au compte-goutte
+  IPA: /o kɔ̃t.ɡut/
+sur le fil
+  IPA: /syʁ lə fil/
+à la suite
+  IPA: /a la sɥit/
+au compte-gouttes
+  IPA: /o kɔ̃t.ɡut/
+à sec
+  IPA: /a sɛk/
+nommément
+  IPA: /nɔ.me.mɑ̃/
+uniment
+  IPA: /y.ni.mɑ̃/
+plus ou moins
+  IPA: /ply.z‿u mwɛ̃/
+inadmissiblement
+  IPA: /i.nad.mi.si.blə.mɑ̃/
+en vain
+  IPA: /ɑ̃ vɛ̃/
+à tout hasard
+  IPA: /a tu a.zaʁ/
+  IPA: /a tu.t‿a.zaʁ/
+syntaxiquement
+  IPA: /sɛ̃.tak.sik.mɑ̃/
+in fine
+  IPA: /in fi.ne/
+en même temps
+  IPA: /ɑ̃ mɛm tɑ̃/
+dans le même temps
+  IPA: /dɑ̃ l(ə) mɛm tɑ̃/
+à part
+  IPA: /a paʁ/
+à la tâche
+  IPA: /a la taʃ/
+  IPA: /a la tɑʃ/
+horizontalement
+  IPA: /ɔ.ʁi.zɔ̃.tal.mɑ̃/
+contre toute attente
+  IPA: /kɔ̃.tʁə tu.t‿a.tɑ̃t/
+tout court
+  IPA: /tu kuʁ/
+étonnamment
+  IPA: /e.tɔ.na.mɑ̃/
+impensablement
+  IPA: /ɛ̃.pɑ̃.sa.blə.mɑ̃/
+d'un poil
+  IPA: /d‿œ̃ pwal/
+d'office
+  IPA: /d‿ɔ.fis/
+précipitamment
+  IPA: /pʁe.si.pi.ta.mɑ̃/
+pour l'heure
+  IPA: /puʁ l‿œʁ/
+miraculeusement
+  IPA: /mi.ʁa.ky.løz.mɑ̃/
+à proximité
+  IPA: /a pʁɔk.si.mi.te/
+de toute évidence
+  IPA: /də tu.t‿e.vi.dɑ̃s/
+au fond
+  IPA: /o fɔ̃/
+à bout portant
+  IPA: /a bu pɔʁ.tɑ̃/
+sexyment
+  IPA: /sɛk.si.mɑ̃/
+cursivement
+  IPA: /kyʁ.siv.mɑ̃/
+docilement
+  IPA: /dɔ.sil.mɑ̃/
+maladroitement
+  IPA: /ma.la.dʁwat.mɑ̃/
+du tout au tout
+  IPA: /dy tu.t‿o tu/
+sans doute
+  IPA: /sɑ̃ dut/
+à craquer
+  IPA: /a kʁa.ke/
+sans cesse
+  IPA: /sɑ̃ sɛs/
+du tout
+  IPA: /dy tu/
+humblement
+  IPA: /œ̃.blə.mɑ̃/
+d'ordinaire
+  IPA: /d‿ɔʁ.di.nɛʁ/
+comme un cheveu sur la soupe
+  IPA: /kɔ.m‿œ̃ ʃ(ə).vø syʁ la sup/
+sans aucun doute
+  IPA: /sɑ̃.z‿o.kœ̃ dut/
+croyez-le ou non
+  IPA: /kʁwa.je.lə u nɔ̃/
+obséquieusement
+  IPA: /ɔp.se.kjøz.mɑ̃/
+oisivement
+  IPA: /wa.ziv.mɑ̃/
+au grand jour
+  IPA: /o ɡʁɑ̃ ʒuʁ/
+à contre-courant
+  IPA: /a kɔ̃.tʁə.ku.ʁɑ̃/
+étrangement
+  IPA: /e.tʁɑ̃ʒ.mɑ̃/
+une fois pour toutes
+  IPA: /yn fwa puʁ tut/
+sympathiquement
+  IPA: /sɛ̃.pa.tik.mɑ̃/
+de naissance
+  IPA: /də nɛ.sɑ̃s/
+  IPA: /də ne.sɑ̃s/
+rhétoriquement
+  IPA: /ʁe.tɔ.ʁik.mɑ̃/
+du fond du cœur
+  IPA: /dy fɔ̃ dy kœʁ/
+à la virgule près
+  IPA: /a la viʁ.ɡyl pʁɛ/
+fastidieusement
+  IPA: /fas.ti.djøz.mɑ̃/
+fébrilement
+  IPA: /fe.bʁil.mɑ̃/
+fervemment
+  IPA: /fɛʁ.va.mɑ̃/
+fiévreusement
+  IPA: /fje.vʁøz.mɑ̃/
+frénétiquement
+  IPA: /fʁe.ne.tik.mɑ̃/
+funèbrement
+  IPA: /fy.nɛ.bʁə.mɑ̃/
+  IPA: /fy.ne.bʁə.mɑ̃/
+funestement
+  IPA: /fy.nɛs.tə.mɑ̃/
+assidûment
+  IPA: /a.si.dy.mɑ̃/
+à l'aise
+  IPA: /a l‿ɛz/
+gaîment
+  IPA: /ɡɛ.mɑ̃/
+  IPA: /ɡe.mɑ̃/
+gaiement
+  IPA: /ɡɛ.mɑ̃/
+  IPA: /ɡe.mɑ̃/
+géodésiquement
+  IPA: /ʒe.ɔ.de.zik.mɑ̃/
+géologiquement
+  IPA: /ʒe.ɔ.lɔ.ʒik.mɑ̃/
+galamment
+  IPA: /ɡa.la.mɑ̃/
+grotesquement
+  IPA: /ɡʁɔ.tɛs.kə.mɑ̃/
+graphiquement
+  IPA: /ɡʁa.fik.mɑ̃/
+gracieusement
+  IPA: /ɡʁa.sjøz.mɑ̃/
+géométriquement
+  IPA: /ʒe.ɔ.me.tʁik.mɑ̃/
+gyroscopiquement
+  IPA: /ʒi.ʁos.kɔ.pik.mɑ̃/
+identiquement
+  IPA: /i.dɑ̃.tik.mɑ̃/
+impulsivement
+  IPA: /ɛ̃.pyl.siv.mɑ̃/
+irrésistiblement
+  IPA: /i.ʁe.zis.ti.blə.mɑ̃/
+irrégulièrement
+  IPA: /i.ʁe.ɡy.ljɛʁ.mɑ̃/
+interchangeablement
+  IPA: /ɛ̃.tɛʁ.ʃɑ̃.ʒa.blə.mɑ̃/
+isolément
+  IPA: /i.zɔ.le.mɑ̃/
+innocemment
+  IPA: /i.nɔ.sa.mɑ̃/
+infructueusement
+  IPA: /ɛ̃.fʁyk.tɥøz.mɑ̃/
+infidèlement
+  IPA: /ɛ̃.fi.dɛl.mɑ̃/
+interactivement
+  IPA: /ɛ̃.tɛ.ʁak.tiv.mɑ̃/
+  IPA: /ɛ̃.te.ʁak.tiv.mɑ̃/
+inhabituellement
+  IPA: /i.na.bi.tɥɛl.mɑ̃/
+inintelligemment
+  IPA: /i.nɛ̃.tɛ.li.ʒa.mɑ̃/
+  IPA: /i.nɛ̃.te.li.ʒa.mɑ̃/
+inintelligiblement
+  IPA: /i.nɛ̃.tɛ.li.ʒi.blə.mɑ̃/
+  IPA: /i.nɛ̃.te.li.ʒi.blə.mɑ̃/
+infréquemment
+  IPA: /ɛ̃.fʁe.ka.mɑ̃/
+intimement
+  IPA: /ɛ̃.tim.mɑ̃/
+impertinemment
+  IPA: /ɛ̃.pɛʁ.ti.na.mɑ̃/
+incisivement
+  IPA: /ɛ̃.si.ziv.mɑ̃/
+invisiblement
+  IPA: /ɛ̃.vi.zi.blə.mɑ̃/
+inconsciemment
+  IPA: /ɛ̃.kɔ̃.sja.mɑ̃/
+indéniablement
+  IPA: /ɛ̃.de.nja.blə.mɑ̃/
+indisputablement
+  IPA: /ɛ̃.dis.py.ta.blə.mɑ̃/
+impec
+  IPA: /ɛ̃.pɛk/
+injustement
+  IPA: /ɛ̃.ʒys.tə.mɑ̃/
+indûment
+  IPA: /ɛ̃.dy.mɑ̃/
+inhabilement
+  IPA: /i.na.bil.mɑ̃/
+imperceptiblement
+  IPA: /ɛ̃.pɛʁ.sɛp.ti.blə.mɑ̃/
+inefficacement
+  IPA: /i.nɛ.fi.kas.mɑ̃/
+  IPA: /i.ne.fi.kas.mɑ̃/
+justifiablement
+  IPA: /ʒys.ti.fja.blə.mɑ̃/
+indistinctement
+  IPA: /ɛ̃.dis.tɛ̃k.tə.mɑ̃/
+ineffaçablement
+  IPA: /i.nɛ.fa.sa.blə.mɑ̃/
+  IPA: /i.ne.fa.sa.blə.mɑ̃/
+incorrectement
+  IPA: /ɛ̃.kɔ.ʁɛk.tə.mɑ̃/
+insensiblement
+  IPA: /ɛ̃.sɑ̃.si.blə.mɑ̃/
+inexplicablement
+  IPA: /i.nɛk.spli.ka.blə.mɑ̃/
+irrésolument
+  IPA: /i.ʁe.zɔ.ly.mɑ̃/
+incomparablement
+  IPA: /ɛ̃.kɔ̃.pa.ʁa.blə.mɑ̃/
+inéquitablement
+  IPA: /i.ne.ki.ta.blə.mɑ̃/
+incompétemment
+  IPA: /ɛ̃.kɔ̃.pe.ta.mɑ̃/
+irrévéremment
+  IPA: /i.ʁe.ve.ʁa.mɑ̃/
+invariablement
+  IPA: /ɛ̃.va.ʁja.blə.mɑ̃/
+instinctivement
+  IPA: /ɛ̃s.tɛ̃k.tiv.mɑ̃/
+journalistiquement
+  IPA: /ʒuʁ.na.lis.tik.mɑ̃/
+lucrativement
+  IPA: /ly.kʁa.tiv.mɑ̃/
+linéairement
+  IPA: /li.ne.ɛʁ.mɑ̃/
+long-temps
+  IPA: /lɔ̃.tɑ̃/
+séance tenante
+  IPA: /se.ɑ̃s tə.nɑ̃t/
+insalubrement
+  IPA: /ɛ̃.sa.ly.bʁə.mɑ̃/
+d'abord et avant tout
+  IPA: /d‿a.bɔʁ e a.vɑ̃ tu/
+hypothétiquement
+  IPA: /i.pɔ.te.tik.mɑ̃/
+harmoniquement
+  IPA: /aʁ.mɔ.nik.mɑ̃/
+moyennement
+  IPA: /mwa.jɛn.mɑ̃/
+modérément
+  IPA: /mɔ.de.ʁe.mɑ̃/
+mollement
+  IPA: /mɔl.mɑ̃/
+magnétiquement
+  IPA: /ma.ɲe.tik.mɑ̃/
+mêmement
+  IPA: /mɛm.mɑ̃/
+modestement
+  IPA: /mɔ.dɛs.tə.mɑ̃/
+méthodiquement
+  IPA: /me.tɔ.dik.mɑ̃/
+militairement
+  IPA: /mi.li.tɛʁ.mɑ̃/
+méticuleusement
+  IPA: /me.ti.ky.løz.mɑ̃/
+mignonnement
+  IPA: /mi.ɲɔn.mɑ̃/
+métaphoriquement
+  IPA: /me.ta.fɔ.ʁik.mɑ̃/
+triplement
+  IPA: /tʁi.plə.mɑ̃/
+urgemment
+  IPA: /yʁ.ʒa.mɑ̃/
+unilatéralement
+  IPA: /y.ni.la.te.ʁal.mɑ̃/
+nûment
+  IPA: /ny.mɑ̃/
+naïvement
+  IPA: /na.iv.mɑ̃/
+nuement
+  IPA: /ny.mɑ̃/
+imminemment
+  IPA: /i.mi.na.mɑ̃/
+icitte
+  IPA: /i.sit/
+  IPA: /iˈsɪt/ (Tags: Quebec)
+  IPA: /i.sit/ (Tags: Louisiana)
+vaillamment
+  IPA: /va.ja.mɑ̃/
+visuellement
+  IPA: /vi.zɥɛl.mɑ̃/
+virulemment
+  IPA: /vi.ʁy.la.mɑ̃/
+vieillement
+  IPA: /vjɛj.mɑ̃/
+vilainement
+  IPA: /vi.lɛn.mɑ̃/
+voui
+  IPA: /vwi/
+obscènement
+  IPA: /ɔp.sɛn.mɑ̃/
+noir sur blanc
+  IPA: /nwaʁ syʁ blɑ̃/
+jà
+  IPA: /ʒa/
+sereinement
+  IPA: /sə.ʁɛn.mɑ̃/
+inoubliablement
+  IPA: /i.nu.bli.ja.blə.mɑ̃/
+au pif
+  IPA: /o pif/
+chouïa
+  IPA: /ʃu.ja/
+avec des bouts de ficelle
+  IPA: /a.vɛk de bu d(ə) fi.sɛl/
+passivement
+  IPA: /pa.siv.mɑ̃/
+à bras-le-corps
+  IPA: /a bʁa.l(ə).kɔʁ/
+  IPA: /a bʁɑ.l(ə).kɔʁ/
+lapidairement
+  IPA: /la.pi.dɛʁ.mɑ̃/
+du reste
+  IPA: /dy ʁɛst/
+du coup
+  IPA: /dy ku/
+de fait
+  IPA: /də fɛ(t)/
+à savoir
+  IPA: /a sa.vwaʁ/
+paisiblement
+  IPA: /pe.zi.blə.mɑ̃/
+d'autant plus
+  IPA: /d‿o.tɑ̃ ply(s)/
+après-demain
+  IPA: /a.pʁɛ.d(ə).mɛ̃/
+irréellement
+  IPA: /i.ʁe.ɛl.mɑ̃/
+naguère
+  IPA: /na.ɡɛʁ/
+sur la sellette
+  IPA: /syʁ la sɛ.lɛt/
+  IPA: /syʁ la se.lɛt/
+avec brio
+  IPA: /a.vɛk bʁi.jo/
+par tous les temps
+  IPA: /paʁ tu le tɑ̃/
+à tort
+  IPA: /a tɔʁ/
+foncièrement
+  IPA: /fɔ̃.sjɛʁ.mɑ̃/
+savamment
+  IPA: /sa.va.mɑ̃/
+royalement
+  IPA: /ʁwa.jal.mɑ̃/
+tardivement
+  IPA: /taʁ.div.mɑ̃/
+convenablement
+  IPA: /kɔ̃v.na.blə.mɑ̃/
+pareillement
+  IPA: /pa.ʁɛj.mɑ̃/
+en amont
+  IPA: /ɑ̃.n‿a.mɔ̃/
+tout de même
+  IPA: /tu d(ə) mɛm/
+en rang
+  IPA: /ɑ̃ ʁɑ̃/
+sagement
+  IPA: /saʒ.mɑ̃/
+ici-bas
+  IPA: /i.si.ba/
+  IPA: /i.si.bɑ/
+à tout jamais
+  IPA: /a tu ʒa.mɛ/
+usuellement
+  IPA: /y.zɥɛl.mɑ̃/
+dare-dare
+  IPA: /daʁ.daʁ/
+nonobstant
+  IPA: /nɔ.nɔp.stɑ̃/
+tout de go
+  IPA: /tu d(ə) ɡo/
+de temps à autre
+  IPA: /də tɑ̃.z‿a otʁ/
+c'est ça
+  IPA: /s‿ɛ sa/
+  IPA: /s‿e sɔ/ (Tags: Quebec, informal)
+à demi-mot
+  IPA: /a d(ə).mi.mo/
+puissamment
+  IPA: /pɥi.sa.mɑ̃/
+au ralenti
+  IPA: /o ʁa.lɑ̃.ti/
+encor
+  IPA: /ɑ̃.kɔʁ/
+magnanimement
+  IPA: /ma.ɲa.nim.mɑ̃/
+facétieusement
+  IPA: /fa.se.sjøz.mɑ̃/
+dans les clous
+  IPA: /dɑ̃ le klu/
+à la cantonade
+  IPA: /a la kɑ̃.tɔ.nad/
+insidieusement
+  IPA: /ɛ̃.si.djøz.mɑ̃/
+minutieusement
+  IPA: /mi.ny.sjøz.mɑ̃/
+sens devant derrière
+  IPA: /sɑ̃ d(ə).vɑ̃ dɛ.ʁjɛʁ/
+  IPA: /sɑ̃ d(ə).vɑ̃ de.ʁjɛʁ/
+pudiquement
+  IPA: /py.dik.mɑ̃/
+à l'ancienne
+  IPA: /a l‿ɑ̃.sjɛn/
+sans artifice
+  IPA: /sɑ̃.z‿aʁ.ti.fis/
+sévèrement
+  IPA: /se.vɛːʁ.mɑ̃/
+intensément
+  IPA: /ɛ̃.tɑ̃.se.mɑ̃/
+jusqu'alors
+  IPA: /ʒys.k‿a.lɔʁ/
+par-dessus bord
+  IPA: /paʁ.də.sy bɔʁ/
+en catimini
+  IPA: /ɑ̃ ka.ti.mi.ni/
+à l'occasion
+  IPA: /a l‿ɔ.ka.zjɔ̃/
+d'un iota
+  IPA: /d‿œ̃ jɔ.ta/
+aussi sec
+  IPA: /o.si sɛk/
+à mi-voix
+  IPA: /a mi.vwa/
+inversement
+  IPA: /ɛ̃.vɛʁ.sə.mɑ̃/
+étroitement
+  IPA: /e.tʁwat.mɑ̃/
+entre-temps
+  IPA: /ɑ̃.tʁə.tɑ̃/
+entretemps
+  IPA: /ɑ̃.tʁə.tɑ̃/
+bonnement
+  IPA: /bɔn.mɑ̃/
+de fond en comble
+  IPA: /də fɔ̃.t‿ɑ̃ kɔ̃bl/
+schématiquement
+  IPA: /ʃe.ma.tik.mɑ̃/
+ægalement
+  IPA: /e.ɡal.mɑ̃/
+et cétéra
+  IPA: /ɛt se.te.ʁa/
+à long terme
+  IPA: /a lɔ̃ tɛʁm/
+impunément
+  IPA: /ɛ̃.py.ne.mɑ̃/
+à la Saint-Glinglin
+  IPA: /a la sɛ̃.ɡlɛ̃.ɡlɛ̃/
+à la hâte
+  IPA: /a la at/
+  IPA: /a la ɑt/
+à l'extérieur
+  IPA: /a l‿ɛk.ste.ʁjœʁ/
+à l'intérieur
+  IPA: /a l‿ɛ̃.te.ʁjœʁ/
+pathétiquement
+  IPA: /pa.te.tik.mɑ̃/
+subtilement
+  IPA: /syp.til.mɑ̃/
+à l'envi
+  IPA: /a l‿ɑ̃.vi/
+à tort et à travers
+  IPA: /a tɔ.ʁ‿e a tʁa.vɛʁ/
+à rebours
+  IPA: /a ʁ(ə).buʁ/
+voici que
+  IPA: /vwa.si kə/
+que de
+  IPA: /kə də/
+majestueusement
+  IPA: /ma.ʒɛs.tɥøz.mɑ̃/
+expressément
+  IPA: /ɛk.spʁɛ.se.mɑ̃/
+  IPA: /ɛk.spʁe.se.mɑ̃/
+intérieurement
+  IPA: /ɛ̃.te.ʁjœʁ.mɑ̃/
+pieusement
+  IPA: /pjøz.mɑ̃/
+réciproquement
+  IPA: /ʁe.si.pʁɔk.mɑ̃/
+promptement
+  IPA: /pʁɔ̃t.mɑ̃/
+  IPA: /pʁɔ̃p.tə.mɑ̃/
+secondement
+  IPA: /sə.ɡɔ̃d.mɑ̃/
+spirituellement
+  IPA: /spi.ʁi.tɥɛl.mɑ̃/
+sincèrement
+  IPA: /sɛ̃.sɛʁ.mɑ̃/
+en plein air
+  IPA: /ɑ̃ plɛ.n‿ɛʁ/
+  IPA: /ɑ̃ ple.n‿ɛʁ/
+à la pige
+  IPA: /a la piʒ/
+à l'improviste
+  IPA: /a l‿ɛ̃.pʁɔ.vist/
+de part et d'autre
+  IPA: /də paʁ e d‿otʁ/
+  IPA: /də paʁ.t‿e d‿otʁ/
+souverainement
+  IPA: /su.vʁɛn.mɑ̃/
+fugacement
+  IPA: /fy.ɡas.mɑ̃/
+semestriellement
+  IPA: /sə.mɛs.tʁi.jɛl.mɑ̃/
+bel et bien
+  IPA: /bɛ.l‿e bjɛ̃/
+  IPA: /be.l‿e bjɛ̃/
+purement et simplement
+  IPA: /pyʁ.mɑ̃ e sɛ̃.plə.mɑ̃/
+en feu
+  IPA: /ɑ̃ fø/
+à deux doigts
+  IPA: /a dø dwa/
+au berceau
+  IPA: /o bɛʁ.so/
+en aval
+  IPA: /ɑ̃.n‿a.val/
+rien que
+  IPA: /ʁjɛ̃ kə/
+au bout du compte
+  IPA: /o bu dy kɔ̃t/
+n'empêche
+  IPA: /n‿ɑ̃.pɛʃ/
+à titre indicatif
+  IPA: /a ti.tʁ‿ɛ̃.di.ka.tif/
+maigrement
+  IPA: /mɛ.ɡʁə.mɑ̃/
+  IPA: /me.ɡʁə.mɑ̃/
+astucieusement
+  IPA: /as.ty.sjøz.mɑ̃/
+bassement
+  IPA: /bas.mɑ̃/
+  IPA: /bɑs.mɑ̃/
+diable vauvert
+  IPA: /dja.blə vo.vɛʁ/
+censément
+  IPA: /sɑ̃.se.mɑ̃/
+communément
+  IPA: /kɔ.my.ne.mɑ̃/
+crissement
+  IPA: /kʁis.mɑ̃/
+décemment
+  IPA: /de.sa.mɑ̃/
+diablement
+  IPA: /dja.blə.mɑ̃/
+effroyablement
+  IPA: /e.fʁwa.ja.blə.mɑ̃/
+à la russe
+  IPA: /a la ʁys/
+à tout moment
+  IPA: /a tu mɔ.mɑ̃/
+élogieusement
+  IPA: /e.lɔ.ʒjøz.mɑ̃/
+sans l'ombre d'un doute
+  IPA: /sɑ̃ l‿ɔ̃.bʁə d‿œ̃ dut/
+épisodiquement
+  IPA: /e.pi.zɔ.dik.mɑ̃/
+étourdiment
+  IPA: /e.tuʁ.di.mɑ̃/
+avant peu
+  IPA: /a.vɑ̃ pø/
+dans un sens
+  IPA: /dɑ̃.z‿œ̃ sɑ̃s/
+fastueusement
+  IPA: /fas.tɥøz.mɑ̃/
+superficiellement
+  IPA: /sy.pɛʁ.fi.sjɛl.mɑ̃/
+fougueusement
+  IPA: /fu.ɡøz.mɑ̃/
+à la bonne franquette
+  IPA: /a la bɔn fʁɑ̃.kɛt/
+hiérarchiquement
+  IPA: /je.ʁaʁ.ʃik.mɑ̃/
+immensément
+  IPA: /i(m).mɑ̃.se.mɑ̃/
+immodérément
+  IPA: /i.mɔ.de.ʁe.mɑ̃/
+implacablement
+  IPA: /ɛ̃.pla.ka.blə.mɑ̃/
+imprudemment
+  IPA: /ɛ̃.pʁy.da.mɑ̃/
+indissociablement
+  IPA: /ɛ̃.di.sɔ.sja.blə.mɑ̃/
+indifféremment
+  IPA: /ɛ̃.di.fe.ʁa.mɑ̃/
+indécemment
+  IPA: /ɛ̃.de.sa.mɑ̃/
+inéluctablement
+  IPA: /i.ne.lyk.ta.blə.mɑ̃/
+inextricablement
+  IPA: /i.nɛk.stʁi.ka.blə.mɑ̃/
+inlassablement
+  IPA: /ɛ̃.la.sa.blə.mɑ̃/
+intensivement
+  IPA: /ɛ̃.tɑ̃.siv.mɑ̃/
+intrinsèquement
+  IPA: /ɛ̃.tʁɛ̃.sɛk.mɑ̃/
+langoureusement
+  IPA: /lɑ̃.ɡu.ʁøz.mɑ̃/
+en gang
+  IPA: /ɑ̃ ɡaŋ/
+magistralement
+  IPA: /ma.ʒis.tʁal.mɑ̃/
+tous les quatre matins
+  IPA: /tu le ka.tʁə ma.tɛ̃/
+un de ces quatre matins
+  IPA: /œ̃ d(ə) se ka.tʁə ma.tɛ̃/
+mécaniquement
+  IPA: /me.ka.nik.mɑ̃/
+sans ménagement
+  IPA: /sɑ̃ me.naʒ.mɑ̃/
+moindrement
+  IPA: /mwɛ̃.dʁə.mɑ̃/
+négligemment
+  IPA: /ne.ɡli.ʒa.mɑ̃/
+nonchalamment
+  IPA: /nɔ̃.ʃa.la.mɑ̃/
+originellement
+  IPA: /ɔ.ʁi.ʒi.nɛl.mɑ̃/
+ostensiblement
+  IPA: /ɔs.tɑ̃.si.blə.mɑ̃/
+outrageusement
+  IPA: /u.tʁa.ʒøz.mɑ̃/
+partialement
+  IPA: /paʁ.sjal.mɑ̃/
+passablement
+  IPA: /pa.sa.blə.mɑ̃/
+  IPA: /pɑ.sa.blə.mɑ̃/
+passionnément
+  IPA: /pa.sjɔ.ne.mɑ̃/
+passagèrement
+  IPA: /pa.sa.ʒɛʁ.mɑ̃/
+  IPA: /pɑ.sa.ʒɛʁ.mɑ̃/
+pauvrement
+  IPA: /po.vʁə.mɑ̃/
+pertinemment
+  IPA: /pɛʁ.ti.na.mɑ̃/
+phénoménalement
+  IPA: /fe.nɔ.me.nal.mɑ̃/
+pompeusement
+  IPA: /pɔ̃.pøz.mɑ̃/
+posément
+  IPA: /po.ze.mɑ̃/
+postérieurement
+  IPA: /pɔs.te.ʁjœʁ.mɑ̃/
+préventivement
+  IPA: /pʁe.vɑ̃.tiv.mɑ̃/
+rétrospectivement
+  IPA: /ʁe.tʁɔs.pɛk.tiv.mɑ̃/
+préférablement
+  IPA: /pʁe.fe.ʁa.blə.mɑ̃/
+marginalement
+  IPA: /maʁ.ʒi.nal.mɑ̃/
+présentement
+  IPA: /pʁe.zɑ̃t.mɑ̃/
+transitoirement
+  IPA: /tʁɑ̃.zi.twaʁ.mɑ̃/
+de nuit
+  IPA: /də nɥi/
+à cor et à cri
+  IPA: /a kɔ.ʁ‿e a kʁi/
+sommairement
+  IPA: /sɔ.mɛʁ.mɑ̃/
+æsthétiquement
+  IPA: /ɛs.te.tik.mɑ̃/
+cristallographiquement
+  IPA: /kʁis.ta.lɔ.ɡʁa.fik.mɑ̃/
+ænigmatiquement
+  IPA: /e.niɡ.ma.tik.mɑ̃/
+præsentement
+  IPA: /pʁe.zɑ̃t.mɑ̃/
+symétriquement
+  IPA: /si.me.tʁik.mɑ̃/
+sans problème
+  IPA: /sɑ̃ pʁɔ.blɛm/
+structurellement
+  IPA: /stʁyk.ty.ʁɛl.mɑ̃/
+à l'œil nu
+  IPA: /a l‿œj ny/
+homœopathiquement
+  IPA: /ɔ.me.ɔ.pa.tik.mɑ̃/
+rondement
+  IPA: /ʁɔ̃d.mɑ̃/
+benoîtement
+  IPA: /bə.nwat.mɑ̃/
+somptueusement
+  IPA: /sɔ̃p.tɥøz.mɑ̃/
+à la va-vite
+  IPA: /a la va.vit/
+à la pelle
+  IPA: /a la pɛl/
+à bon escient
+  IPA: /a bɔ.n‿e.sjɑ̃/
+sainement
+  IPA: /sɛn.mɑ̃/
+à mauvais escient
+  IPA: /a mo.vɛ.z‿ɛ.sjɑ̃/
+  IPA: /a mo.vɛ.z‿e.sjɑ̃/
+  IPA: /a mɔ.vɛ.z‿ɛ.sjɑ̃/
+  IPA: /a mɔ.vɛ.z‿e.sjɑ̃/
+tantinet
+  IPA: /tɑ̃.ti.nɛ/
+à la volée
+  IPA: /a la vɔ.le/
+géotechniquement
+  IPA: /ʒe.ɔ.tɛk.nik.mɑ̃/
+radiochronologiquement
+  IPA: /ʁa.djɔ.kʁɔ.nɔ.lɔ.ʒik.mɑ̃/
+  IPA: /ʁa.djo.kʁɔ.nɔ.lɔ.ʒik.mɑ̃/
+tyranniquement
+  IPA: /ti.ʁa.nik.mɑ̃/
+surement
+  IPA: /syʁ.mɑ̃/
+oùsque
+  IPA: /usk/
+astheure
+  IPA: /as.tœʁ/
+  IPA: [astœ(ɾ)] (Tags: Louisiana)
+à c't'heure
+  IPA: /a stœʁ/
+comme il se doit
+  IPA: /kɔ.m‿il sə dwa/
+à présent
+  IPA: /a pʁe.zɑ̃/
+solidairement
+  IPA: /sɔ.li.dɛʁ.mɑ̃/
+de bout en bout
+  IPA: /də bu.t‿ɑ̃ bu/
+à tout va
+  IPA: /a tu va/
+à tout-va
+  IPA: /a tu.va/
+sottement
+  IPA: /sɔt.mɑ̃/
+sourdement
+  IPA: /suʁ.də.mɑ̃/
+sournoisement
+  IPA: /suʁ.nwaz.mɑ̃/
+sportivement
+  IPA: /spɔʁ.tiv.mɑ̃/
+studieusement
+  IPA: /sty.djøz.mɑ̃/
+subjectivement
+  IPA: /syb.ʒɛk.tiv.mɑ̃/
+succinctement
+  IPA: /syk.sɛ̃k.tə.mɑ̃/
+supérieurement
+  IPA: /sy.pe.ʁjœʁ.mɑ̃/
+suprêmement
+  IPA: /sy.pʁɛm.mɑ̃/
+viscéralement
+  IPA: /vi.se.ʁal.mɑ̃/
+en tapinois
+  IPA: /ɑ̃ ta.pi.nwa/
+textuellement
+  IPA: /tɛk.stɥɛl.mɑ̃/
+en un tournemain
+  IPA: /ɑ̃.n‿œ̃ tuʁ.nə.mɛ̃/
+en creux
+  IPA: /ɑ̃ kʁø/
+à la sauvette
+  IPA: /a la so.vɛt/
+  IPA: /a la sɔ.vɛt/
+vertement
+  IPA: /vɛʁ.tə.mɑ̃/
+rugueusement
+  IPA: /ʁy.ɡøz.mɑ̃/
+réglementairement
+  IPA: /ʁɛ.ɡlə.mɑ̃.tɛʁ.mɑ̃/
+  IPA: /ʁe.ɡlə.mɑ̃.tɛʁ.mɑ̃/
+mesquinement
+  IPA: /mɛs.kin.mɑ̃/
+ousque
+  IPA: /usk/
+après tout
+  IPA: /a.pʁɛ tu/
+éloquemment
+  IPA: /e.lɔ.ka.mɑ̃/
+indulgemment
+  IPA: /ɛ̃.dyl.ʒa.mɑ̃/
+malaisément
+  IPA: /ma.lɛ.ze.mɑ̃/
+  IPA: /ma.le.ze.mɑ̃/
+processionnellement
+  IPA: /pʁɔ.sɛ.sjɔ.nɛl.mɑ̃/
+  IPA: /pʁɔ.se.sjɔ.nɛl.mɑ̃/
+subséquemment
+  IPA: /syp.se.ka.mɑ̃/
+insolemment
+  IPA: /ɛ̃.sɔ.la.mɑ̃/
+succulemment
+  IPA: /sy.ky.la.mɑ̃/
+pantoute
+  IPA: /pɑ̃.tut/
+  IPA: /pɑ̃.tʊt/ (Tags: Quebec)
+chastement
+  IPA: /ʃas.tə.mɑ̃/
+chiquement
+  IPA: /ʃik.mɑ̃/
+saintement
+  IPA: /sɛ̃t.mɑ̃/
+tôt ou tard
+  IPA: /to u taʁ/
+  IPA: /to.t‿u taʁ/
+niaisement
+  IPA: /njɛz.mɑ̃/
+péremptoirement
+  IPA: /pe.ʁɑ̃p.twaʁ.mɑ̃/
+cybernétiquement
+  IPA: /si.bɛʁ.ne.tik.mɑ̃/
+au cas où
+  IPA: /o ka u/
+  IPA: /o kɑ u/
+  IPA: /o ka.z‿u/
+  IPA: /o kɑ.z‿u/
+philologiquement
+  IPA: /fi.lɔ.lɔ.ʒik.mɑ̃/
+sous peu
+  IPA: /su pø/
+voirement
+  IPA: /vwaʁ.mɑ̃/
+de jour
+  IPA: /də ʒuʁ/
+à tâtons
+  IPA: /a ta.tɔ̃/
+  IPA: /a tɑ.tɔ̃/
+d'un autre côté
+  IPA: /d‿œ̃.n‿o.tʁə ko.te/
+au demeurant
+  IPA: /o d(ə).mœ.ʁɑ̃/
+envers et contre tous
+  IPA: /ɑ̃.vɛ.ʁ‿e kɔ̃.tʁə tus/
+  IPA: /ɑ̃.ve.ʁ‿e kɔ̃.tʁə tus/
+en dur
+  IPA: /ɑ̃ dyʁ/
+couci-couci
+  IPA: /ku.si.ku.si/
+de visu
+  IPA: /de vi.zy/
+bon an, mal an
+  IPA: /bɔ.n‿ɑ̃ | ma.l‿ɑ̃/
+bon an mal an
+  IPA: /bɔ.n‿ɑ̃ ma.l‿ɑ̃/
+à mesure
+  IPA: /a m(ə).zyʁ/
+par-ci, par-là
+  IPA: /paʁ.si | paʁ.la/
+souterrainement
+  IPA: /su.tɛ.ʁɛn.mɑ̃/
+  IPA: /su.te.ʁɛn.mɑ̃/
+en trombe
+  IPA: /ɑ̃ tʁɔ̃b/
+comme d'hab
+  IPA: /kɔm d‿ab/
+à la belle étoile
+  IPA: /a la bɛ.l‿e.twal/
+un coup
+  IPA: /œ̃ ku/
+rarissimement
+  IPA: /ʁa.ʁi.sim.mɑ̃/
+encore une fois
+  IPA: /ɑ̃.kɔʁ yn fwa/
+en commun
+  IPA: /ɑ̃ kɔ.mœ̃/
+à reculons
+  IPA: /a ʁ(ə).ky.lɔ̃/
+acoustiquement
+  IPA: /a.kus.tik.mɑ̃/
+aprin
+  IPA: /a.pʁɛ̃/
+ardûment
+  IPA: /aʁ.dy.mɑ̃/
+archaïquement
+  IPA: /aʁ.ka.ik.mɑ̃/
+asteur
+  IPA: /as.tœʁ/
+  IPA: [astœ(ɾ)] (Tags: Louisiana)
+aseptiquement
+  IPA: /a.sɛp.tik.mɑ̃/
+asymptotiquement
+  IPA: /a.sɛ̃p.tɔ.tik.mɑ̃/
+asteure
+  IPA: /as.tœʁ/
+aussitte
+  IPA: /o.sit/
+ayoù
+  IPA: /a.ju/
+autonomement
+  IPA: /o.tɔ.nɔm.mɑ̃/
+  IPA: /ɔ.tɔ.nɔm.mɑ̃/
+basiquement
+  IPA: /ba.zik.mɑ̃/
+  IPA: /bɑ.zik.mɑ̃/
+belliqueusement
+  IPA: /bɛ.li.køz.mɑ̃/
+  IPA: /be.li.køz.mɑ̃/
+subconsciemment
+  IPA: /syp.kɔ̃.sja.mɑ̃/
+bienveillamment
+  IPA: /bjɛ̃.vɛ.ja.mɑ̃/
+  IPA: /bjɛ̃.ve.ja.mɑ̃/
+béatement
+  IPA: /be.at.mɑ̃/
+caricaturalement
+  IPA: /ka.ʁi.ka.ty.ʁal.mɑ̃/
+bézef
+  IPA: /be.zɛf/
+chouillat
+  IPA: /ʃu.ja/
+chimériquement
+  IPA: /ʃi.me.ʁik.mɑ̃/
+choralement
+  IPA: /kɔ.ʁal.mɑ̃/
+chromatiquement
+  IPA: /kʁɔ.ma.tik.mɑ̃/
+chroniquement
+  IPA: /kʁɔ.nik.mɑ̃/
+chiralement
+  IPA: /ki.ʁal.mɑ̃/
+chouettement
+  IPA: /ʃwɛt.mɑ̃/
+coniquement
+  IPA: /kɔ.nik.mɑ̃/
+conjonctivement
+  IPA: /kɔ̃.ʒɔ̃k.tiv.mɑ̃/
+coïncidemment
+  IPA: /kɔ.ɛ̃.si.da.mɑ̃/
+deuzio
+  IPA: /dø.zjo/
+deusio
+  IPA: /dø.zjo/
+despotiquement
+  IPA: /dɛs.pɔ.tik.mɑ̃/
+dichotomiquement
+  IPA: /di.kɔ.tɔ.mik.mɑ̃/
+douillettement
+  IPA: /du.jɛt.mɑ̃/
+méshui
+  IPA: /me.zɥi/
+dolemment
+  IPA: /dɔ.la.mɑ̃/
+effrénément
+  IPA: /e.fʁe.ne.mɑ̃/
+efféminément
+  IPA: /e.fe.mi.ne.mɑ̃/
+elliptiquement
+  IPA: /e.lip.tik.mɑ̃/
+éhontément
+  IPA: /e.ɔ̃.te.mɑ̃/
+exhaustivement
+  IPA: /ɛɡ.zos.tiv.mɑ̃/
+fascistement
+  IPA: /fa.ʃis.tə.mɑ̃/
+fielleusement
+  IPA: /fjɛ.løz.mɑ̃/
+  IPA: /fje.løz.mɑ̃/
+foutument
+  IPA: /fu.ty.mɑ̃/
+familialement
+  IPA: /fa.mi.ljal.mɑ̃/
+équivalemment
+  IPA: /e.ki.va.la.mɑ̃/
+goujatement
+  IPA: /ɡu.ʒat.mɑ̃/
+géocentriquement
+  IPA: /ʒe.ɔ.sɑ̃.tʁik.mɑ̃/
+homéopathiquement
+  IPA: /ɔ.me.ɔ.pa.tik.mɑ̃/
+hyperboliquement
+  IPA: /i.pɛʁ.bɔ.lik.mɑ̃/
+iatrogéniquement
+  IPA: /ja.tʁɔ.ʒe.nik.mɑ̃/
+ichnographiquement
+  IPA: /ik.nɔ.ɡʁa.fik.mɑ̃/
+ignoramment
+  IPA: /i.ɲɔ.ʁa.mɑ̃/
+ignominieusement
+  IPA: /i.ɲɔ.mi.njøz.mɑ̃/
+imaginairement
+  IPA: /i.ma.ʒi.nɛʁ.mɑ̃/
+importunément
+  IPA: /ɛ̃.pɔʁ.ty.ne.mɑ̃/
+imparablement
+  IPA: /ɛ̃.pa.ʁa.blə.mɑ̃/
+inchrétiennement
+  IPA: /ɛ̃.kʁe.tjɛn.mɑ̃/
+incongrûment
+  IPA: /ɛ̃.kɔ̃.ɡʁy.mɑ̃/
+indiligemment
+  IPA: /ɛ̃.di.li.ʒa.mɑ̃/
+incontinemment
+  IPA: /ɛ̃.kɔ̃.ti.na.mɑ̃/
+inconséquemment
+  IPA: /ɛ̃.kɔ̃.se.ka.mɑ̃/
+industrieusement
+  IPA: /ɛ̃.dys.tʁi.jøz.mɑ̃/
+ineffablement
+  IPA: /i.nɛ.fa.blə.mɑ̃/
+  IPA: /i.ne.fa.blə.mɑ̃/
+indolemment
+  IPA: /ɛ̃.dɔ.la.mɑ̃/
+inhéremment
+  IPA: /i.ne.ʁa.mɑ̃/
+inharmonieusement
+  IPA: /i.naʁ.mɔ.njøz.mɑ̃/
+inintentionnellement
+  IPA: /i.nɛ̃.tɑ̃.sjɔ.nɛl.mɑ̃/
+injurieusement
+  IPA: /ɛ̃.ʒy.ʁjøz.mɑ̃/
+inquisitivement
+  IPA: /ɛ̃.ki.zi.tiv.mɑ̃/
+insolitement
+  IPA: /ɛ̃.sɔ.lit.mɑ̃/
+insaisissablement
+  IPA: /ɛ̃.sɛ.zi.sa.blə.mɑ̃/
+  IPA: /ɛ̃.se.zi.sa.blə.mɑ̃/
+inostensiblement
+  IPA: /i.nɔs.tɑ̃.si.blə.mɑ̃/
+insciemment
+  IPA: /ɛ̃.sja.mɑ̃/
+ignoblement
+  IPA: /i.ɲɔ.blə.mɑ̃/
+inversément
+  IPA: /ɛ̃.vɛʁ.se.mɑ̃/
+intermittemment
+  IPA: /ɛ̃.tɛʁ.mi.ta.mɑ̃/
+inégalablement
+  IPA: /i.ne.ɡa.la.blə.mɑ̃/
+isochroniquement
+  IPA: /i.zɔ.kʁɔ.nik.mɑ̃/
+laïquement
+  IPA: /la.ik.mɑ̃/
+lointainement
+  IPA: /lwɛ̃.tɛn.mɑ̃/
+lumineusement
+  IPA: /ly.mi.nøz.mɑ̃/
+inconstitutionnellement
+  IPA: /ɛ̃.kɔ̃s.ti.ty.sjɔ.nɛl.mɑ̃/
+machiavéliquement
+  IPA: /ma.kja.ve.lik.mɑ̃/
+maïeutiquement
+  IPA: /ma.jø.tik.mɑ̃/
+malgracieusement
+  IPA: /mal.ɡʁa.sjøz.mɑ̃/
+mauvaisement
+  IPA: /mo.vɛz.mɑ̃/
+  IPA: /mɔ.vɛz.mɑ̃/
+kilométriquement
+  IPA: /ki.lɔ.me.tʁik.mɑ̃/
+mignardement
+  IPA: /mi.ɲaʁ.də.mɑ̃/
+moelleusement
+  IPA: /mwa.løz.mɑ̃/
+monacalement
+  IPA: /mɔ.na.kal.mɑ̃/
+monarchiquement
+  IPA: /mɔ.naʁ.ʃik.mɑ̃/
+mnémoniquement
+  IPA: /mne.mɔ.nik.mɑ̃/
+morbidement
+  IPA: /mɔʁ.bid.mɑ̃/
+mièvrement
+  IPA: /mjɛ.vʁə.mɑ̃/
+  IPA: /mje.vʁə.mɑ̃/
+neurologiquement
+  IPA: /nø.ʁɔ.lɔ.ʒik.mɑ̃/
+muettement
+  IPA: /mɥɛt.mɑ̃/
+obtusement
+  IPA: /ɔp.tyz.mɑ̃/
+nigaudement
+  IPA: /ni.ɡod.mɑ̃/
+métalinguistiquement
+  IPA: /me.ta.lɛ̃.ɡɥis.tik.mɑ̃/
+opulemment
+  IPA: /ɔ.py.la.mɑ̃/
+outrancièrement
+  IPA: /u.tʁɑ̃.sjɛʁ.mɑ̃/
+papelardement
+  IPA: /pa.plaʁ.də.mɑ̃/
+passionnellement
+  IPA: /pa.sjɔ.nɛl.mɑ̃/
+névrotiquement
+  IPA: /ne.vʁɔ.tik.mɑ̃/
+patemment
+  IPA: /pa.ta.mɑ̃/
+permanemment
+  IPA: /pɛʁ.ma.na.mɑ̃/
+platement
+  IPA: /plat.mɑ̃/
+poignamment
+  IPA: /pwa.ɲa.mɑ̃/
+piquamment
+  IPA: /pi.ka.mɑ̃/
+picturalement
+  IPA: /pik.ty.ʁal.mɑ̃/
+pointilleusement
+  IPA: /pwɛ̃.ti.jøz.mɑ̃/
+princièrement
+  IPA: /pʁɛ̃.sjɛʁ.mɑ̃/
+plastiquement
+  IPA: /plas.tik.mɑ̃/
+profitablement
+  IPA: /pʁɔ.fi.ta.blə.mɑ̃/
+pitoyablement
+  IPA: /pi.twa.ja.blə.mɑ̃/
+piètrement
+  IPA: /pjɛ.tʁə.mɑ̃/
+  IPA: /pje.tʁə.mɑ̃/
+polysémiquement
+  IPA: /pɔ.li.se.mik.mɑ̃/
+poussivement
+  IPA: /pu.siv.mɑ̃/
+printanièrement
+  IPA: /pʁɛ̃.ta.njɛʁ.mɑ̃/
+posthumément
+  IPA: /pɔs.ty.me.mɑ̃/
+prohibitivement
+  IPA: /pʁɔ.i.bi.tiv.mɑ̃/
+providentiellement
+  IPA: /pʁɔ.vi.dɑ̃.sjɛl.mɑ̃/
+pâlement
+  IPA: /pal.mɑ̃/
+  IPA: /pɑl.mɑ̃/
+proportionnément
+  IPA: /pʁɔ.pɔʁ.sjɔ.ne.mɑ̃/
+présomptueusement
+  IPA: /pʁe.zɔ̃p.tɥøz.mɑ̃/
+psychiquement
+  IPA: /psi.ʃik.mɑ̃/
+psychédéliquement
+  IPA: /psi.ke.de.lik.mɑ̃/
+pédestrement
+  IPA: /pe.dɛs.tʁə.mɑ̃/
+quadruplement
+  IPA: /ka.dʁy.plə.mɑ̃/
+  IPA: /kwa.dʁy.plə.mɑ̃/
+quadridimensionnellement
+  IPA: /kwa.dʁi.di.mɑ̃.sjɔ.nɛl.mɑ̃/
+  IPA: /ka.dʁi.di.mɑ̃.sjɔ.nɛl.mɑ̃/
+redondamment
+  IPA: /ʁə.dɔ̃.da.mɑ̃/
+sphériquement
+  IPA: /sfe.ʁik.mɑ̃/
+risiblement
+  IPA: /ʁi.zi.blə.mɑ̃/
+récurremment
+  IPA: /ʁe.ky.ʁa.mɑ̃/
+sordidement
+  IPA: /sɔʁ.did.mɑ̃/
+sagacement
+  IPA: /sa.ɡas.mɑ̃/
+superstitieusement
+  IPA: /sy.pɛʁ.sti.tjøz.mɑ̃/
+réalistement
+  IPA: /ʁe.a.lis.tə.mɑ̃/
+résineusement
+  IPA: /ʁe.zi.nøz.mɑ̃/
+répréhensiblement
+  IPA: /ʁe.pʁe.ɑ̃.si.blə.mɑ̃/
+réservément
+  IPA: /ʁe.zɛʁ.ve.mɑ̃/
+révéremment
+  IPA: /ʁe.ve.ʁa.mɑ̃/
+salubrement
+  IPA: /sa.ly.bʁə.mɑ̃/
+savoureusement
+  IPA: /sa.vu.ʁøz.mɑ̃/
+salutairement
+  IPA: /sa.ly.tɛʁ.mɑ̃/
+sempiternellement
+  IPA: /sɑ̃.pi.tɛʁ.nɛl.mɑ̃/
+secondairement
+  IPA: /sə.ɡɔ̃.dɛʁ.mɑ̃/
+sceptiquement
+  IPA: /sɛp.tik.mɑ̃/
+spacieusement
+  IPA: /spa.sjøz.mɑ̃/
+semblablement
+  IPA: /sɑ̃.bla.blə.mɑ̃/
+sensément
+  IPA: /sɑ̃.se.mɑ̃/
+résolûment
+  IPA: /ʁe.zɔ.ly.mɑ̃/
+stochastiquement
+  IPA: /stɔ.kas.tik.mɑ̃/
+suicidairement
+  IPA: /sɥi.si.dɛʁ.mɑ̃/
+soucieusement
+  IPA: /su.sjøz.mɑ̃/
+superlativement
+  IPA: /sy.pɛʁ.la.tiv.mɑ̃/
+surhumainement
+  IPA: /sy.ʁy.mɛn.mɑ̃/
+surprenamment
+  IPA: /syʁ.pʁə.na.mɑ̃/
+sérendipiteusement
+  IPA: /se.ʁɑ̃.di.pi.tøz.mɑ̃/
+subsidiairement
+  IPA: /syp.si.djɛʁ.mɑ̃/
+syntactiquement
+  IPA: /sɛ̃.tak.tik.mɑ̃/
+synchroniquement
+  IPA: /sɛ̃.kʁɔ.nik.mɑ̃/
+sardoniquement
+  IPA: /saʁ.dɔ.nik.mɑ̃/
+séculièrement
+  IPA: /se.ky.ljɛʁ.mɑ̃/
+tendancieusement
+  IPA: /tɑ̃.dɑ̃.sjøz.mɑ̃/
+théâtralement
+  IPA: /te.a.tʁal.mɑ̃/
+  IPA: /te.ɑ.tʁal.mɑ̃/
+ténuement
+  IPA: /te.ny.mɑ̃/
+tachygraphiquement
+  IPA: /ta.ki.ɡʁa.fik.mɑ̃/
+traitrement
+  IPA: /tʁɛ.tʁə.mɑ̃/
+  IPA: /tʁe.tʁə.mɑ̃/
+tristounettement
+  IPA: /tʁis.tu.nɛt.mɑ̃/
+tortueusement
+  IPA: /tɔʁ.tɥøz.mɑ̃/
+trisannuellement
+  IPA: /tʁi.za.nɥɛl.mɑ̃/
+unièmement
+  IPA: /y.njɛm.mɑ̃/
+turbulemment
+  IPA: /tyʁ.by.la.mɑ̃/
+trimestriellement
+  IPA: /tʁi.mɛs.tʁi.jɛl.mɑ̃/
+ténébreusement
+  IPA: /te.ne.bʁøz.mɑ̃/
+verbeusement
+  IPA: /vɛʁ.bøz.mɑ̃/
+viralement
+  IPA: /vi.ʁal.mɑ̃/
+vilement
+  IPA: /vil.mɑ̃/
+voltaïquement
+  IPA: /vɔl.ta.ik.mɑ̃/
+volubilement
+  IPA: /vɔ.ly.bil.mɑ̃/
+zénithalement
+  IPA: /ze.ni.tal.mɑ̃/
+vespéralement
+  IPA: /vɛs.pe.ʁal.mɑ̃/
+toûjours
+  IPA: /tu.ʒuʁ/
+naguères
+  IPA: /na.ɡɛʁ/
+ouiménon
+  IPA: /wi.me.nɔ̃/
+pitête
+  IPA: /pi.tɛt/
+fdpin
+  IPA: /fʁɛ d(ə) pɔʁ ɛ̃.kly/
+commac
+  IPA: /kɔ.mak/
+undecies
+  IPA: /œ̃.de.sjɛs/
+rasibus
+  IPA: /ʁa.zi.bys/
+fdpout
+  IPA: /fʁɛ d(ə) pɔʁ ɛk.skly/
+jésuitiquement
+  IPA: /ʒe.zɥi.tik.mɑ̃/
+géolinguistiquement
+  IPA: /ʒe.ɔ.lɛ̃.ɡɥis.tik.mɑ̃/
+récursivement
+  IPA: /ʁe.kyʁ.siv.mɑ̃/
+pentavalentement
+  IPA: /pɛ̃.ta.va.lɑ̃t.mɑ̃/
+quadratiquement
+  IPA: /ka.dʁa.tik.mɑ̃/
+  IPA: /kwa.dʁa.tik.mɑ̃/
+clitoridiennement
+  IPA: /kli.tɔ.ʁi.djɛn.mɑ̃/
+à la serpe
+  IPA: /a la sɛʁp/
+bras dessus, bras dessous
+  IPA: /bʁa də.sy | bʁa də.su/
+  IPA: /bʁɑ də.sy | bʁɑ də.su/
+en sus
+  IPA: /ɑ̃ sys/
+  IPA: /ɑ̃ sy/
+beseff
+  IPA: /be.zɛf/
+pas encore
+  IPA: /pa.z‿ɑ̃.kɔʁ/
+  IPA: /pɑ.z‿ɑ̃.kɔʁ/
+  IPA: /pa ɑ̃.kɔʁ/
+  IPA: /pɑ ɑ̃.kɔʁ/
+dans le temps
+  IPA: /dɑ̃ l(ə) tɑ̃/
+à cette heure
+  IPA: /a sɛ.t‿œʁ/
+  IPA: /a se.t‿œʁ/
+n'importe où
+  IPA: /n‿ɛ̃.pɔʁ.t‿u/
+p't'êt'
+  IPA: /p‿t‿ɛt/
+coude à coude
+  IPA: /ku.d‿a kud/
+au-deçà
+  IPA: /o.d(ə).sa/
+advienne que pourra
+  IPA: /ad.vjɛn kə pu.ʁa/
+à coup sûr
+  IPA: /a ku syʁ/
+à pas de géant
+  IPA: /a pa d(ə) ʒe.ɑ̃/
+  IPA: /a pɑ d(ə) ʒe.ɑ̃/
+ces jours-ci
+  IPA: /se ʒuʁ.si/
+avec le temps
+  IPA: /a.vɛk lə tɑ̃/
+pour de bon
+  IPA: /puʁ də bɔ̃/
+de suite
+  IPA: /də sɥit/
+sans crier gare
+  IPA: /sɑ̃ kʁi.je ɡaʁ/
+là-dessus
+  IPA: /la.d(ə).sy/
+whatmille
+  IPA: /wat.mil/
+sérénissimement
+  IPA: /se.ʁe.ni.sim.mɑ̃/
+rinque
+  IPA: /ʁɛ̃k/
+  IPA: /ʁẽɪ̯̃k/ (Tags: Acadian, Quebec)
+  IPA: /rẽɪ̯̃k/ (Tags: Acadian, Quebec)
+bcp
+  IPA: /bo.ku/
+excellentissimement
+  IPA: /ɛk.sɛ.lɑ̃.ti.sim.mɑ̃/
+  IPA: /ɛk.se.lɑ̃.ti.sim.mɑ̃/
+tout au moins
+  IPA: /tu.t‿o mwɛ̃/
+dès lors
+  IPA: /dɛ lɔʁ/
+entre quat'z'yeux
+  IPA: /ɑ̃.tʁə kat.z‿jø/
+entre quatre-z-yeux
+  IPA: /ɑ̃.tʁə ka.tʁə.z‿jø/
+entre quatre yeux
+  IPA: /ɑ̃.tʁə ka.tʁə.z‿jø/
+  IPA: /ɑ̃.tʁə kat.z‿jø/
+  IPA: /ɑ̃.tʁə ka.tʁ‿jø/
+  IPA: /ɑ̃.tʁə ka.tʁə jø/
+au pire
+  IPA: /o piʁ/
+3o
+  IPA: /tɛʁ.sjo/
+toril
+  IPA: /tɔ.ʁil/
+sur l'ongle
+  IPA: /syʁ l‿ɔ̃ɡl/
+à l'œil
+  IPA: /a l‿œj/
+pour un oui ou pour un non
+  IPA: /pu.ʁ‿œ̃ wi u pu.ʁ‿œ̃ nɔ̃/
+quels que soient
+  IPA: /kɛl kə swa/
+quelles que soient
+  IPA: /kɛl kə swa/
+quelle que soit
+  IPA: /kɛl kə swa/
+au besoin
+  IPA: /o bə.zwɛ̃/
+si besoin est
+  IPA: /si bə.zwɛ̃ ɛ/
+alablement
+  IPA: /a.la.blə.mɑ̃/
+somme toute
+  IPA: /sɔm tut/
+au-dedans
+  IPA: /o.də.dɑ̃/
+au-devant
+  IPA: /o.d(ə).vɑ̃/
+au-dehors
+  IPA: /o.də.ɔʁ/
+par à-coups
+  IPA: /pa.ʁ‿a.ku/
+même pas
+  IPA: /mɛm pa/
+  IPA: /mɛm pɑ/
+algorithmiquement
+  IPA: /al.ɡɔ.ʁit.mik.mɑ̃/
+productivement
+  IPA: /pʁɔ.dyk.tiv.mɑ̃/
+au diable-vauvert
+  IPA: /o dja.blə.vo.vɛʁ/
+à sa connaissance
+  IPA: /a sa kɔ.nɛ.sɑ̃s/
+  IPA: /a sa kɔ.ne.sɑ̃s/
+avant-avant-hier
+  IPA: /a.vɑ̃ a.vɑ̃.t‿jɛʁ/
+ci-joint
+  IPA: /si.ʒwɛ̃/
+pour rien
+  IPA: /puʁ ʁjɛ̃/
+à croquer
+  IPA: /a kʁɔ.ke/
+à bloc
+  IPA: /a blɔk/
+comme ça
+  IPA: /kɔm sa/
+outre-mer
+  IPA: /u.tʁə.mɛʁ/
+au surplus
+  IPA: /o syʁ.ply/
+en secret
+  IPA: /ɑ̃ sə.kʁɛ/
+au pied de la lettre
+  IPA: /o pje d(ə) la lɛtʁ/
+quinter
+  IPA: /kɛ̃.tɛʁ/
+à tout prix
+  IPA: /a tu pʁi/
+coûte que coûte
+  IPA: /kut kə kut/
+en primeur
+  IPA: /ɑ̃ pʁi.mœʁ/
+bouche bée
+  IPA: /buʃ be/
+un de ces quatre
+  IPA: /œ̃ d(ə) se katʁ/
+  IPA: /ɛ̃ d(ə) se katʁ/
+par-dessus la jambe
+  IPA: /paʁ.də.sy la ʒɑ̃b/
+en douce
+  IPA: /ɑ̃ dus/
+ce faisant
+  IPA: /sə f(ə).zɑ̃/
+pile-poil
+  IPA: /pil.pwal/
+à vol d'oiseau
+  IPA: /a vɔl d‿wa.zo/
+pornographiquement
+  IPA: /pɔʁ.nɔ.ɡʁa.fik.mɑ̃/
+grimaçamment
+  IPA: /ɡʁi.ma.sa.mɑ̃/
+claviculairement
+  IPA: /kla.vi.ky.lɛʁ.mɑ̃/
+de près
+  IPA: /də pʁɛ/
+zoogéographiquement
+  IPA: /zɔ.ɔ.ʒe.ɔ.ɡʁa.fik.mɑ̃/
+en principe
+  IPA: /ɑ̃ pʁɛ̃.sip/
+en pratique
+  IPA: /ɑ̃ pʁa.tik/
+en théorie
+  IPA: /ɑ̃ te.ɔ.ʁi/
+à plat ventre
+  IPA: /a pla vɑ̃tʁ/
+guèze
+  IPA: /ɡɛz/
+  IPA: /ɡɛʒ/
+au petit bonheur
+  IPA: /o p(ə).ti bɔ.nœʁ/
+à l'aveuglette
+  IPA: /a l‿a.vœ.ɡlɛt/
+comme sur des roulettes
+  IPA: /kɔm syʁ de ʁu.lɛt/
+cela dit
+  IPA: /sə.la di/
+quoi faire
+  IPA: /kwa fɛʁ/
+entre autres
+  IPA: /ɑ̃.tʁ‿otʁ/
+en aucun cas
+  IPA: /ɑ̃.n‿o.kœ̃ ka/
+  IPA: /ɑ̃.n‿o.kœ̃ kɑ/
+de surcroît
+  IPA: /də syʁ.kʁwa/
+en plus
+  IPA: /ɑ̃ plys/
+en quelque sorte
+  IPA: /ɑ̃ kɛl.k(ə) sɔʁt/
+pour ainsi dire
+  IPA: /pu.ʁ‿ɛ̃.si diʁ/
+à tous les coups
+  IPA: /a tu le ku/
+pas le moins du monde
+  IPA: /pa lə mwɛ̃ dy mɔ̃d/
+  IPA: /pɑ lə mwɛ̃ dy mɔ̃d/
+du jour au lendemain
+  IPA: /dy ʒu.ʁ‿o lɑ̃.d(ə).mɛ̃/
+pas du tout
+  IPA: /pa dy tu/
+  IPA: /pɑ dy tu/
+à mort
+  IPA: /a mɔʁ/
+comme deux gouttes d'eau
+  IPA: /kɔm dø ɡut d‿o/
+comme tout
+  IPA: /kɔm tu/
+comme un manche
+  IPA: /kɔ.m‿œ̃ mɑ̃ʃ/
+comme un pied
+  IPA: /kɔ.m‿œ̃ pje/
+comme un pet sur une toile cirée
+  IPA: /kɔ.m‿œ̃ pɛ sy.ʁ‿yn twal si.ʁe/
+à l'étranger
+  IPA: /a l‿e.tʁɑ̃.ʒe/
+cent sept ans
+  IPA: /sɑ̃ sɛ.t‿ɑ̃/
+en série
+  IPA: /ɑ̃ se.ʁi/
+mine de rien
+  IPA: /min də ʁjɛ̃/
+bon gré mal gré
+  IPA: /bɔ̃ ɡʁe mal ɡʁe/
+comme si de rien n'était
+  IPA: /kɔm si də ʁjɛ̃ n‿e.tɛ/
+comme un rat mort
+  IPA: /kɔ.m‿œ̃ ʁa mɔʁ/
+en un rien de temps
+  IPA: /ɑ̃.n‿œ̃ ʁjɛ̃ də tɑ̃/
+en moins de temps qu'il ne faut pour le dire
+  IPA: /ɑ̃ mwɛ̃ də tɑ̃ k‿il nə fo puʁ lə diʁ/
+en deux temps trois mouvements
+  IPA: /ɑ̃ dø tɑ̃ tʁwa muv.mɑ̃/
+tant bien que mal
+  IPA: /tɑ̃ bjɛ̃ k(ə) mal/
+entre de bonnes mains
+  IPA: /ɑ̃.tʁə d(ə) bɔn mɛ̃/
+additionnellement
+  IPA: /a.di.sjɔ.nɛl.mɑ̃/
+assertivement
+  IPA: /a.sɛʁ.tiv.mɑ̃/
+autoptiquement
+  IPA: /o.tɔp.tik.mɑ̃/
+  IPA: /ɔ.tɔp.tik.mɑ̃/
+chronophagement
+  IPA: /kʁɔ.nɔ.faʒ.mɑ̃/
+climatiquement
+  IPA: /kli.ma.tik.mɑ̃/
+civiquement
+  IPA: /si.vik.mɑ̃/
+cliquablement
+  IPA: /kli.ka.blə.mɑ̃/
+comptablement
+  IPA: /kɔ̃.ta.blə.mɑ̃/
+chenument
+  IPA: /ʃə.ny.mɑ̃/
+climatologiquement
+  IPA: /kli.ma.tɔ.lɔ.ʒik.mɑ̃/
+chorologiquement
+  IPA: /kɔ.ʁɔ.lɔ.ʒik.mɑ̃/
+chorégraphiquement
+  IPA: /kɔ.ʁe.ɡʁa.fik.mɑ̃/
+comptabiliairement
+  IPA: /kɔ̃.ta.bi.ljɛʁ.mɑ̃/
+computationnellement
+  IPA: /kɔ̃.py.ta.sjɔ.nɛl.mɑ̃/
+citoyennement
+  IPA: /si.twa.jɛn.mɑ̃/
+conservatoirement
+  IPA: /kɔ̃.sɛʁ.va.twaʁ.mɑ̃/
+considérément
+  IPA: /kɔ̃.si.de.ʁe.mɑ̃/
+consulairement
+  IPA: /kɔ̃.sy.lɛʁ.mɑ̃/
+asynchroniquement
+  IPA: /a.sɛ̃.kʁɔ.nik.mɑ̃/
+contingemment
+  IPA: /kɔ̃.tɛ̃.ʒa.mɑ̃/
+contributoirement
+  IPA: /kɔ̃.tʁi.by.twaʁ.mɑ̃/
+corollairement
+  IPA: /kɔ.ʁɔ.lɛʁ.mɑ̃/
+contumélieusement
+  IPA: /kɔ̃.ty.me.ljøz.mɑ̃/
+coulamment
+  IPA: /ku.la.mɑ̃/
+cotonneusement
+  IPA: /kɔ.tɔ.nøz.mɑ̃/
+culinairement
+  IPA: /ky.li.nɛʁ.mɑ̃/
+croustilleusement
+  IPA: /kʁus.ti.jøz.mɑ̃/
+critiquement
+  IPA: /kʁi.tik.mɑ̃/
+cuisamment
+  IPA: /kɥi.za.mɑ̃/
+cryptographiquement
+  IPA: /kʁip.tɔ.ɡʁa.fik.mɑ̃/
+crânialement
+  IPA: /kʁa.njal.mɑ̃/
+  IPA: /kʁɑ.njal.mɑ̃/
+corporativement
+  IPA: /kɔʁ.pɔ.ʁa.tiv.mɑ̃/
+criardement
+  IPA: /kʁi.jaʁ.də.mɑ̃/
+confessionnellement
+  IPA: /kɔ̃.fɛ.sjɔ.nɛl.mɑ̃/
+  IPA: /kɔ̃.fe.sjɔ.nɛl.mɑ̃/
+disgracieusement
+  IPA: /dis.ɡʁa.sjøz.mɑ̃/
+deleuzement
+  IPA: /də.løz.mɑ̃/
+disertement
+  IPA: /di.zɛʁ.tə.mɑ̃/
+distiquement
+  IPA: /dis.tik.mɑ̃/
+défectiblement
+  IPA: /de.fɛk.ti.blə.mɑ̃/
+docimastiquement
+  IPA: /dɔ.si.mas.tik.mɑ̃/
+dynamométriquement
+  IPA: /di.na.mɔ.me.tʁik.mɑ̃/
+déréglément
+  IPA: /de.ʁe.ɡle.mɑ̃/
+dissemblablement
+  IPA: /di.sɑ̃.bla.blə.mɑ̃/
+déshonorablement
+  IPA: /de.zɔ.nɔ.ʁa.blə.mɑ̃/
+doctrinairement
+  IPA: /dɔk.tʁi.nɛʁ.mɑ̃/
+désharmonieusement
+  IPA: /de.zaʁ.mɔ.njøz.mɑ̃/
+déclamatoirement
+  IPA: /de.kla.ma.twaʁ.mɑ̃/
+déterministiquement
+  IPA: /de.tɛʁ.mi.nis.tik.mɑ̃/
+démiurgiquement
+  IPA: /de.mjyʁ.ʒik.mɑ̃/
+ergonomiquement
+  IPA: /ɛʁ.ɡɔ.nɔ.mik.mɑ̃/
+emblématiquement
+  IPA: /ɑ̃.ble.ma.tik.mɑ̃/
+eidétiquement
+  IPA: /ɛ.de.tik.mɑ̃/
+  IPA: /e.de.tik.mɑ̃/
+ethnomusicologiquement
+  IPA: /ɛt.nɔ.my.zi.kɔ.lɔ.ʒik.mɑ̃/
+espécialement
+  IPA: /ɛs.pe.sjal.mɑ̃/
+extravagamment
+  IPA: /ɛk.stʁa.va.ɡa.mɑ̃/
+encyclopédiquement
+  IPA: /ɑ̃.si.klɔ.pe.dik.mɑ̃/
+françaisement
+  IPA: /fʁɑ̃.sɛz.mɑ̃/
+fantochement
+  IPA: /fɑ̃.tɔʃ.mɑ̃/
+faunistiquement
+  IPA: /fo.nis.tik.mɑ̃/
+féériquement
+  IPA: /fe.e.ʁik.mɑ̃/
+friandement
+  IPA: /fʁi.jɑ̃d.mɑ̃/
+freudiennement
+  IPA: /fʁœ.djɛn.mɑ̃/
+féeriquement
+  IPA: /fe.ʁik.mɑ̃/
+fictionnellement
+  IPA: /fik.sjɔ.nɛl.mɑ̃/
+fantasmagoriquement
+  IPA: /fɑ̃.tas.ma.ɡɔ.ʁik.mɑ̃/
+forestièrement
+  IPA: /fɔ.ʁɛs.tjɛʁ.mɑ̃/
+féodalement
+  IPA: /fe.ɔ.dal.mɑ̃/
+fauvement
+  IPA: /fov.mɑ̃/
+divisément
+  IPA: /di.vi.ze.mɑ̃/
+coïncidentiellement
+  IPA: /kɔ.ɛ̃.si.dɑ̃.sjɛl.mɑ̃/
+convoiteusement
+  IPA: /kɔ̃.vwa.tøz.mɑ̃/
+gaminement
+  IPA: /ɡa.min.mɑ̃/
+dendrochronologiquement
+  IPA: /dɑ̃.dʁɔ.kʁɔ.nɔ.lɔ.ʒik.mɑ̃/
+  IPA: /dɑ̃.dʁo.kʁɔ.nɔ.lɔ.ʒik.mɑ̃/
+granitiquement
+  IPA: /ɡʁa.ni.tik.mɑ̃/
+gourdement
+  IPA: /ɡuʁ.də.mɑ̃/
+grisement
+  IPA: /ɡʁiz.mɑ̃/
+génésiquement
+  IPA: /ʒe.ne.zik.mɑ̃/
+glauquement
+  IPA: /ɡlok.mɑ̃/
+gravimétriquement
+  IPA: /ɡʁa.vi.me.tʁik.mɑ̃/
+géométralement
+  IPA: /ʒe.ɔ.me.tʁal.mɑ̃/
+herméneutiquement
+  IPA: /ɛʁ.me.nø.tik.mɑ̃/
+histologiquement
+  IPA: /is.tɔ.lɔ.ʒik.mɑ̃/
+hippiquement
+  IPA: /i.pik.mɑ̃/
+hypothécairement
+  IPA: /i.pɔ.te.kɛʁ.mɑ̃/
+hypodermiquement
+  IPA: /i.pɔ.dɛʁ.mik.mɑ̃/
+horisontalement
+  IPA: /ɔ.ʁi.zɔ̃.tal.mɑ̃/
+idiomatiquement
+  IPA: /i.djɔ.ma.tik.mɑ̃/
+illibéralement
+  IPA: /i.li.be.ʁal.mɑ̃/
+immémorablement
+  IPA: /i.me.mɔ.ʁa.blə.mɑ̃/
+imméthodiquement
+  IPA: /i.me.tɔ.dik.mɑ̃/
+impareillement
+  IPA: /ɛ̃.pa.ʁɛj.mɑ̃/
+sur le tas
+  IPA: /syʁ lə ta/
+  IPA: /syʁ lə tɑ/
+improportionnellement
+  IPA: /ɛ̃.pʁɔ.pɔʁ.sjɔ.nɛl.mɑ̃/
+inauthentiquement
+  IPA: /i.no.tɑ̃.tik.mɑ̃/
+inciviquement
+  IPA: /ɛ̃.si.vik.mɑ̃/
+importamment
+  IPA: /ɛ̃.pɔʁ.ta.mɑ̃/
+indisertement
+  IPA: /ɛ̃.di.zɛʁ.tə.mɑ̃/
+indivisément
+  IPA: /ɛ̃.di.vi.ze.mɑ̃/
+indélibérément
+  IPA: /ɛ̃.de.li.be.ʁe.mɑ̃/
+indélogeablement
+  IPA: /ɛ̃.de.lɔ.ʒa.blə.mɑ̃/
+inconvenablement
+  IPA: /ɛ̃.kɔ̃v.na.blə.mɑ̃/
+indémontrablement
+  IPA: /ɛ̃.de.mɔ̃.tʁa.blə.mɑ̃/
+indéterminément
+  IPA: /ɛ̃.de.tɛʁ.mi.ne.mɑ̃/
+indépassablement
+  IPA: /ɛ̃.de.pa.sa.blə.mɑ̃/
+côte à côte
+  IPA: /ko.t‿a kot/
+humiliamment
+  IPA: /y.mi.lja.mɑ̃/
+à double tour
+  IPA: /a du.blə tuʁ/
+inimaginablement
+  IPA: /i.ni.ma.ʒi.na.blə.mɑ̃/
+indévotement
+  IPA: /ɛ̃.de.vɔt.mɑ̃/
+informatiquement
+  IPA: /ɛ̃.fɔʁ.ma.tik.mɑ̃/
+insolidement
+  IPA: /ɛ̃.sɔ.lid.mɑ̃/
+insincèrement
+  IPA: /ɛ̃.sɛ̃.sɛʁ.mɑ̃/
+incomparativement
+  IPA: /ɛ̃.kɔ̃.pa.ʁa.tiv.mɑ̃/
+incrédulement
+  IPA: /ɛ̃.kʁe.dyl.mɑ̃/
+incongrument
+  IPA: /ɛ̃.kɔ̃.ɡʁy.mɑ̃/
+insoucieusement
+  IPA: /ɛ̃.su.sjøz.mɑ̃/
+intempérément
+  IPA: /ɛ̃.tɑ̃.pe.ʁe.mɑ̃/
+lancinamment
+  IPA: /lɑ̃.si.na.mɑ̃/
+languidement
+  IPA: /lɑ̃.ɡid.mɑ̃/
+logarithmiquement
+  IPA: /lɔ.ɡa.ʁit.mik.mɑ̃/
+logistiquement
+  IPA: /lɔ.ʒis.tik.mɑ̃/
+leptoniquement
+  IPA: /lɛp.tɔ.nik.mɑ̃/
+lithologiquement
+  IPA: /li.tɔ.lɔ.ʒik.mɑ̃/
+latemment
+  IPA: /la.ta.mɑ̃/
+légalistement
+  IPA: /le.ɡa.lis.tə.mɑ̃/
+lolement
+  IPA: /lɔl.mɑ̃/
+lichénologiquement
+  IPA: /li.ke.nɔ.lɔ.ʒik.mɑ̃/
+légendairement
+  IPA: /le.ʒɑ̃.dɛʁ.mɑ̃/
+louisphilippement
+  IPA: /lwi.fi.lip.mɑ̃/
+loisiblement
+  IPA: /lwa.zi.blə.mɑ̃/
+luisamment
+  IPA: /lɥi.za.mɑ̃/
+macabrement
+  IPA: /ma.ka.bʁə.mɑ̃/
+macroscopiquement
+  IPA: /ma.kʁɔs.kɔ.pik.mɑ̃/
+malherbologiquement
+  IPA: /ma.lɛʁ.bɔ.lɔ.ʒik.mɑ̃/
+maquerellement
+  IPA: /ma.kʁɛl.mɑ̃/
+marxologiquement
+  IPA: /maʁk.sɔ.lɔ.ʒik.mɑ̃/
+maturément
+  IPA: /ma.ty.ʁe.mɑ̃/
+manufacturièrement
+  IPA: /ma.ny.fak.ty.ʁjɛʁ.mɑ̃/
+mercantilement
+  IPA: /mɛʁ.kɑ̃.til.mɑ̃/
+millionnairement
+  IPA: /mij.jɔ.nɛʁ.mɑ̃/
+monétairement
+  IPA: /mɔ.ne.tɛʁ.mɑ̃/
+mornement
+  IPA: /mɔʁ.nə.mɑ̃/
+minoritairement
+  IPA: /mi.nɔ.ʁi.tɛʁ.mɑ̃/
+moutonnièrement
+  IPA: /mu.tɔ.njɛʁ.mɑ̃/
+mochement
+  IPA: /mɔʃ.mɑ̃/
+modifiablement
+  IPA: /mɔ.di.fja.blə.mɑ̃/
+miltoniquement
+  IPA: /mil.tɔ.nik.mɑ̃/
+mimétiquement
+  IPA: /mi.me.tik.mɑ̃/
+mythiquement
+  IPA: /mi.tik.mɑ̃/
+moyenâgeusement
+  IPA: /mwaj.na.ʒøz.mɑ̃/
+  IPA: /mwaj.nɑ.ʒøz.mɑ̃/
+mâlement
+  IPA: /mal.mɑ̃/
+  IPA: /mɑl.mɑ̃/
+médiamétriquement
+  IPA: /me.dja.me.tʁik.mɑ̃/
+métropolitainement
+  IPA: /me.tʁɔ.pɔ.li.tɛn.mɑ̃/
+méthodologiquement
+  IPA: /me.tɔ.dɔ.lɔ.ʒik.mɑ̃/
+myrmécologiquement
+  IPA: /miʁ.me.kɔ.lɔ.ʒik.mɑ̃/
+nuancément
+  IPA: /nɥɑ̃.se.mɑ̃/
+népotiquement
+  IPA: /ne.pɔ.tik.mɑ̃/
+nickellement
+  IPA: /ni.kɛl.mɑ̃/
+nombreusement
+  IPA: /nɔ̃.bʁøz.mɑ̃/
+onéreusement
+  IPA: /ɔ.ne.ʁøz.mɑ̃/
+ombreusement
+  IPA: /ɔ̃.bʁøz.mɑ̃/
+opothérapiquement
+  IPA: /ɔ.pɔ.te.ʁa.pik.mɑ̃/
+nétiquettement
+  IPA: /ne.ti.kɛt.mɑ̃/
+orbiculairement
+  IPA: /ɔʁ.bi.ky.lɛʁ.mɑ̃/
+opératiquement
+  IPA: /ɔ.pe.ʁa.tik.mɑ̃/
+opératoirement
+  IPA: /ɔ.pe.ʁa.twaʁ.mɑ̃/
+ordonnément
+  IPA: /ɔʁ.dɔ.ne.mɑ̃/
+nuncupativement
+  IPA: /nɔ̃.ky.pa.tiv.mɑ̃/
+osseusement
+  IPA: /ɔ.søz.mɑ̃/
+outrément
+  IPA: /u.tʁe.mɑ̃/
+oiseusement
+  IPA: /wa.zøz.mɑ̃/
+orientalement
+  IPA: /ɔ.ʁjɑ̃.tal.mɑ̃/
+obrepticement
+  IPA: /ɔ.bʁɛp.tis.mɑ̃/
+origamiquement
+  IPA: /ɔ.ʁi.ɡa.mik.mɑ̃/
+médicinalement
+  IPA: /me.di.si.nal.mɑ̃/
+palethnologiquement
+  IPA: /pa.lɛt.nɔ.lɔ.ʒik.mɑ̃/
+pallidement
+  IPA: /pa.lid.mɑ̃/
+paléographiquement
+  IPA: /pa.le.ɔ.ɡʁa.fik.mɑ̃/
+pancréatiquement
+  IPA: /pɑ̃.kʁe.a.tik.mɑ̃/
+parlementairement
+  IPA: /paʁ.lə.mɑ̃.tɛʁ.mɑ̃/
+paléontologiquement
+  IPA: /pa.le.ɔ̃.tɔ.lɔ.ʒik.mɑ̃/
+participialement
+  IPA: /paʁ.ti.si.pjal.mɑ̃/
+participativement
+  IPA: /paʁ.ti.si.pa.tiv.mɑ̃/
+pharmacologiquement
+  IPA: /faʁ.ma.kɔ.lɔ.ʒik.mɑ̃/
+persuasivement
+  IPA: /pɛʁ.sɥa.ziv.mɑ̃/
+pastoralement
+  IPA: /pas.tɔ.ʁal.mɑ̃/
+photochromatiquement
+  IPA: /fɔ.tɔ.kʁɔ.ma.tik.mɑ̃/
+perdurablement
+  IPA: /pɛʁ.dy.ʁa.blə.mɑ̃/
+pharisaïquement
+  IPA: /fa.ʁi.za.ik.mɑ̃/
+photométriquement
+  IPA: /fɔ.tɔ.me.tʁik.mɑ̃/
+plénièrement
+  IPA: /ple.njɛʁ.mɑ̃/
+pithécanthropiquement
+  IPA: /pi.te.kɑ̃.tʁɔ.pik.mɑ̃/
+photosynthétiquement
+  IPA: /fɔ.to.zɛ̃.te.tik.mɑ̃/
+pluriquotidiennement
+  IPA: /ply.ʁi.kɔ.ti.djɛn.mɑ̃/
+plessimétriquement
+  IPA: /plɛ.si.me.tʁik.mɑ̃/
+  IPA: /ple.si.me.tʁik.mɑ̃/
+poltronnement
+  IPA: /pɔl.tʁɔn.mɑ̃/
+postalement
+  IPA: /pɔs.tal.mɑ̃/
+possessoirement
+  IPA: /pɔ.sɛ.swaʁ.mɑ̃/
+  IPA: /pɔ.se.swaʁ.mɑ̃/
+proactivement
+  IPA: /pʁɔ.ak.tiv.mɑ̃/
+prodiguement
+  IPA: /pʁɔ.diɡ.mɑ̃/
+prolétairement
+  IPA: /pʁɔ.le.tɛʁ.mɑ̃/
+proportionnablement
+  IPA: /pʁɔ.pɔʁ.sjɔ.na.blə.mɑ̃/
+précisement
+  IPA: /pʁe.siz.mɑ̃/
+prototypiquement
+  IPA: /pʁɔ.tɔ.ti.pik.mɑ̃/
+propédeutiquement
+  IPA: /pʁɔ.pe.dø.tik.mɑ̃/
+prouvablement
+  IPA: /pʁu.va.blə.mɑ̃/
+présidialement
+  IPA: /pʁe.zi.djal.mɑ̃/
+provisionnellement
+  IPA: /pʁɔ.vi.zjɔ.nɛl.mɑ̃/
+présumément
+  IPA: /pʁe.zy.me.mɑ̃/
+prévôtalement
+  IPA: /pʁe.vo.tal.mɑ̃/
+propriétairement
+  IPA: /pʁɔ.pʁi.je.tɛʁ.mɑ̃/
+présumablement
+  IPA: /pʁe.zy.ma.blə.mɑ̃/
+pénétramment
+  IPA: /pe.ne.tʁa.mɑ̃/
+pâteusement
+  IPA: /pa.tøz.mɑ̃/
+  IPA: /pɑ.tøz.mɑ̃/
+publicitairement
+  IPA: /py.bli.si.tɛʁ.mɑ̃/
+pyramidalement
+  IPA: /pi.ʁa.mi.dal.mɑ̃/
+pénardement
+  IPA: /pe.naʁ.də.mɑ̃/
+préjudiciellement
+  IPA: /pʁe.ʒy.di.sjɛl.mɑ̃/
+profanement
+  IPA: /pʁɔ.fan.mɑ̃/
+périphériquement
+  IPA: /pe.ʁi.fe.ʁik.mɑ̃/
+péripatétiquement
+  IPA: /pe.ʁi.pa.te.tik.mɑ̃/
+quèsement
+  IPA: /kɛz.mɑ̃/
+quinzomadairement
+  IPA: /kɛ̃.zɔ.ma.dɛʁ.mɑ̃/
+pénétrativement
+  IPA: /pe.ne.tʁa.tiv.mɑ̃/
+présocratiquement
+  IPA: /pʁe.sɔ.kʁa.tik.mɑ̃/
+quadrangulairement
+  IPA: /kwa.dʁɑ̃.ɡy.lɛʁ.mɑ̃/
+  IPA: /ka.dʁɑ̃.ɡy.lɛʁ.mɑ̃/
+rentablement
+  IPA: /ʁɑ̃.ta.blə.mɑ̃/
+rectilignement
+  IPA: /ʁɛk.ti.liɲ.mɑ̃/
+raidement
+  IPA: /ʁɛd.mɑ̃/
+resplendissamment
+  IPA: /ʁɛs.plɑ̃.di.sa.mɑ̃/
+rectangulairement
+  IPA: /ʁɛk.tɑ̃.ɡy.lɛʁ.mɑ̃/
+roidement
+  IPA: /ʁwad.mɑ̃/
+récalcitramment
+  IPA: /ʁe.kal.si.tʁa.mɑ̃/
+romainement
+  IPA: /ʁɔ.mɛn.mɑ̃/
+résolutivement
+  IPA: /ʁe.zɔ.ly.tiv.mɑ̃/
+romanesquement
+  IPA: /ʁɔ.ma.nɛs.kə.mɑ̃/
+rogatoirement
+  IPA: /ʁɔ.ɡa.twaʁ.mɑ̃/
+réitérément
+  IPA: /ʁe.i.te.ʁe.mɑ̃/
+recommandablement
+  IPA: /ʁə.kɔ.mɑ̃.da.blə.mɑ̃/
+railleusement
+  IPA: /ʁa.jøz.mɑ̃/
+réactivement
+  IPA: /ʁe.ak.tiv.mɑ̃/
+sexistement
+  IPA: /sɛk.sis.tə.mɑ̃/
+sacramentalement
+  IPA: /sa.kʁa.mɑ̃.tal.mɑ̃/
+sinueusement
+  IPA: /si.nɥøz.mɑ̃/
+sibyllinement
+  IPA: /si.bi.lin.mɑ̃/
+souriamment
+  IPA: /su.ʁja.mɑ̃/
+sataniquement
+  IPA: /sa.ta.nik.mɑ̃/
+socioéconomiquement
+  IPA: /sɔ.sjɔ.e.kɔ.nɔ.mik.mɑ̃/
+sociétairement
+  IPA: /sɔ.sje.tɛʁ.mɑ̃/
+salopement
+  IPA: /sa.lɔp.mɑ̃/
+satyriquement
+  IPA: /sa.ti.ʁik.mɑ̃/
+saisonnièrement
+  IPA: /sɛ.zɔ.njɛʁ.mɑ̃/
+  IPA: /se.zɔ.njɛʁ.mɑ̃/
+sororalement
+  IPA: /sɔ.ʁɔ.ʁal.mɑ̃/
+prestigieusement
+  IPA: /pʁɛs.ti.ʒjøz.mɑ̃/
+soutenablement
+  IPA: /sut.na.blə.mɑ̃/
+stomacalement
+  IPA: /stɔ.ma.kal.mɑ̃/
+sourcilleusement
+  IPA: /suʁ.si.jøz.mɑ̃/
+stéréotypiquement
+  IPA: /ste.ʁe.ɔ.ti.pik.mɑ̃/
+rostralement
+  IPA: /ʁɔs.tʁal.mɑ̃/
+subliminalement
+  IPA: /sy.bli.mi.nal.mɑ̃/
+roturièrement
+  IPA: /ʁɔ.ty.ʁjɛʁ.mɑ̃/
+synergétiquement
+  IPA: /si.nɛʁ.ʒe.tik.mɑ̃/
+tractativement
+  IPA: /tʁak.ta.tiv.mɑ̃/
+taxonomiquement
+  IPA: /tak.sɔ.nɔ.mik.mɑ̃/
+taxidermiquement
+  IPA: /tak.si.dɛʁ.mik.mɑ̃/
+tautologiquement
+  IPA: /tɔ.tɔ.lɔ.ʒik.mɑ̃/
+testimonialement
+  IPA: /tɛs.ti.mɔ.njal.mɑ̃/
+tendanciellement
+  IPA: /tɑ̃.dɑ̃.sjɛl.mɑ̃/
+théologalement
+  IPA: /te.ɔ.lɔ.ɡal.mɑ̃/
+tonitrument
+  IPA: /tɔ.ni.tʁy.mɑ̃/
+ténûment
+  IPA: /te.ny.mɑ̃/
+tortionnairement
+  IPA: /tɔʁ.sjɔ.nɛʁ.mɑ̃/
+urbainement
+  IPA: /yʁ.bɛn.mɑ̃/
+téléologiquement
+  IPA: /te.le.ɔ.lɔ.ʒik.mɑ̃/
+turellement
+  IPA: /ty.ʁɛl.mɑ̃/
+unipersonnellement
+  IPA: /y.ni.pɛʁ.sɔ.nɛl.mɑ̃/
+toxicologiquement
+  IPA: /tɔk.si.kɔ.lɔ.ʒik.mɑ̃/
+vocaliquement
+  IPA: /vɔ.ka.lik.mɑ̃/
+vélocement
+  IPA: /ve.lɔs.mɑ̃/
+vestimentairement
+  IPA: /vɛs.ti.mɑ̃.tɛʁ.mɑ̃/
+vinciblement
+  IPA: /vɛ̃.si.blə.mɑ̃/
+épiphytiquement
+  IPA: /e.pi.fi.tik.mɑ̃/
+zodiacalement
+  IPA: /zɔ.dja.kal.mɑ̃/
+écuméniquement
+  IPA: /e.ky.me.nik.mɑ̃/
+épaissement
+  IPA: /e.pɛs.mɑ̃/
+vitreusement
+  IPA: /vi.tʁøz.mɑ̃/
+vexillologiquement
+  IPA: /vɛk.si.lɔ.lɔ.ʒik.mɑ̃/
+édaphiquement
+  IPA: /e.da.fik.mɑ̃/
+épistémologiquement
+  IPA: /e.pis.te.mɔ.lɔ.ʒik.mɑ̃/
+étonnablement
+  IPA: /e.tɔ.na.blə.mɑ̃/
+sérothérapiquement
+  IPA: /se.ʁɔ.te.ʁa.pik.mɑ̃/
+systémiquement
+  IPA: /sis.te.mik.mɑ̃/
+égoïstiquement
+  IPA: /e.ɡɔ.is.tik.mɑ̃/
+économétriquement
+  IPA: /e.kɔ.nɔ.me.tʁik.mɑ̃/
+au plus tard
+  IPA: /o ply taʁ/
+autant que faire se peut
+  IPA: /o.tɑ̃ k(ə) fɛʁ sə pø/
+dès que possible
+  IPA: /dɛ k(ə) pɔ.sibl/
+au plus tôt
+  IPA: /o ply to/
+quoi qu'il en soit
+  IPA: /kwa k‿i.l‿ɑ̃ swa/
+en tout et pour tout
+  IPA: /ɑ̃ tu e puʁ tu/
+en tout état de cause
+  IPA: /ɑ̃ tu.t‿e.ta d(ə) koz/
+pour info
+  IPA: /puʁ ɛ̃.fo/
+les doigts dans le nez
+  IPA: /le dwa dɑ̃ l(ə) ne/
+haut la main
+  IPA: /o la mɛ̃/
+sans nul doute
+  IPA: /sɑ̃ nyl dut/
+à ce que je sache
+  IPA: /a s(ə) kə ʒ(ə) saʃ/
+à quel point
+  IPA: /a kɛl pwɛ̃/
+auquel cas
+  IPA: /o.kɛl ka/
+  IPA: /o.kɛl kɑ/
+depuis lors
+  IPA: /də.pɥi lɔʁ/
+au possible
+  IPA: /o pɔ.sibl/
+mot pour mot
+  IPA: /mo puʁ mo/
+dans un premier temps
+  IPA: /dɑ̃.z‿œ̃ pʁə.mje tɑ̃/
+à l'origine
+  IPA: /a l‿ɔ.ʁi.ʒin/
+pour le moment
+  IPA: /puʁ lə mɔ.mɑ̃/
+à l'air libre
+  IPA: /a l‿ɛʁ libʁ/
+à la dure
+  IPA: /a la dyʁ/
+comme un voleur
+  IPA: /kɔ.m‿œ̃ vɔ.lœʁ/
+d'aventure
+  IPA: /d‿a.vɑ̃.tyʁ/
+à cœur joie
+  IPA: /a kœʁ ʒwa/
+à fond la caisse
+  IPA: /a fɔ̃ la kɛs/
+sur les chapeaux de roue
+  IPA: /syʁ le ʃa.po d(ə) ʁu/
+là-dedans
+  IPA: /la.də.dɑ̃/
+pour autant
+  IPA: /pu.ʁ‿o.tɑ̃/
+à toutes les sauces
+  IPA: /a tut le sos/
+en moins de deux
+  IPA: /ɑ̃ mwɛ̃ də dø/
+au mieux
+  IPA: /o mjø/
+pour une fois
+  IPA: /puʁ yn fwa/
+blague à part
+  IPA: /bla.ɡ‿a paʁ/
+une bonne fois pour toutes
+  IPA: /yn bɔn fwa puʁ tut/
+à haute voix
+  IPA: /a ot vwa/
+sur un coup de tête
+  IPA: /sy.ʁ‿œ̃ ku də tɛt/
+dans un cas comme dans l'autre
+  IPA: /dɑ̃.z‿œ̃ ka kɔm dɑ̃ l‿otʁ/
+  IPA: /dɑ̃.z‿œ̃ kɑ kɔm dɑ̃ l‿otʁ/
+pour ma part
+  IPA: /puʁ ma paʁ/
+en un mot
+  IPA: /ɑ̃.n‿œ̃ mo/
+vaille que vaille
+  IPA: /vaj kə vaj/
+à la limite
+  IPA: /a la li.mit/
+à la rigueur
+  IPA: /a la ʁi.ɡœʁ/
+en connaissance de cause
+  IPA: /ɑ̃ kɔ.nɛ.sɑ̃s də koz/
+  IPA: /ɑ̃ kɔ.ne.sɑ̃s də koz/
+sans compter
+  IPA: /sɑ̃ kɔ̃.te/
+sauf votre respect
+  IPA: /sof vɔ.tʁə ʁɛs.pɛ/
+après coup
+  IPA: /a.pʁɛ ku/
+contre vents et marées
+  IPA: /kɔ̃.tʁə vɑ̃.z‿e ma.ʁe/
+à proprement parler
+  IPA: /a pʁɔ.pʁə.mɑ̃ paʁ.le/
+avec tout le respect que je vous dois
+  IPA: /a.vɛk tu l(ə) ʁɛs.pɛ kə ʒ(ə) vu dwa/
+à tout le moins
+  IPA: /a tu lə mwɛ̃/
+pour le moins
+  IPA: /puʁ lə mwɛ̃/
+de moins en moins
+  IPA: /də mwɛ̃.z‿ɑ̃ mwɛ̃/
+à première vue
+  IPA: /a pʁə.mjɛʁ vy/
+pour le reste
+  IPA: /puʁ lə ʁɛst/
+à vue de nez
+  IPA: /a vy d(ə) ne/
+à vue d'œil
+  IPA: /a vy d‿œj/
+en quatrième vitesse
+  IPA: /ɑ̃ ka.tʁi.jɛm vi.tɛs/
+en personne
+  IPA: /ɑ̃ pɛʁ.sɔn/
+à peu de choses près
+  IPA: /a pø d(ə) ʃoz pʁɛ/
+éprouvamment
+  IPA: /e.pʁu.va.mɑ̃/
+en attendant
+  IPA: /ɑ̃.n‿a.tɑ̃.dɑ̃/
+addictivement
+  IPA: /a.dik.tiv.mɑ̃/
+de la tête aux pieds
+  IPA: /də la tɛ.t‿o pje/
+  IPA: /də la te.t‿o pje/
+en tort
+  IPA: /ɑ̃ tɔʁ/
+en soi
+  IPA: /ɑ̃ swa/
+dans l'absolu
+  IPA: /dɑ̃ l‿ap.sɔ.ly/
+au début
+  IPA: /o de.by/
+au final
+  IPA: /o fi.nal/
+en vitesse
+  IPA: /ɑ̃ vi.tɛs/
+sur ce
+  IPA: /syʁ sə/
+en deuspi
+  IPA: /ɑ̃ dœs.pi/
+de ce pas
+  IPA: /də sə pa/
+  IPA: /də sə pɑ/
+par-dessus le marché
+  IPA: /paʁ.də.sy l(ə) maʁ.ʃe/
+l'un dans l'autre
+  IPA: /l‿œ̃ dɑ̃ l‿otʁ/
+en permanence
+  IPA: /ɑ̃ pɛʁ.ma.nɑ̃s/
+on ne peut plus
+  IPA: /ɔ̃ n(ə) pø ply/
+à dessein
+  IPA: /a de.sɛ̃/
+jusqu'à pas d'heure
+  IPA: /ʒys.k‿a pa d‿œʁ/
+  IPA: /ʒys.k‿a pɑ d‿œʁ/
+en d'autres termes
+  IPA: /ɑ̃ d‿o.tʁə tɛʁm/
+tout haut
+  IPA: /tu o/
+à tire-larigot
+  IPA: /a tiʁ.la.ʁi.ɡo/
+sur toute la ligne
+  IPA: /syʁ tut la liɲ/
+à travers champs
+  IPA: /a tʁa.vɛʁ ʃɑ̃/
+jusqu'à nouvel ordre
+  IPA: /ʒys.k‿a nu.vɛ.l‿ɔʁdʁ/
+  IPA: /ʒys.k‿a nu.ve.l‿ɔʁdʁ/
+dans la même veine
+  IPA: /dɑ̃ la mɛm vɛn/
+lentement mais sûrement
+  IPA: /lɑ̃t.mɑ̃ mɛ syʁ.mɑ̃/
+m'est avis
+  IPA: /m‿ɛ.t‿a.vi/
+en échange
+  IPA: /ɑ̃.n‿e.ʃɑ̃ʒ/
+à la longue
+  IPA: /a la lɔ̃ɡ/
+à perte de vue
+  IPA: /a pɛʁ.t(ə) də vy/
+à l'instant
+  IPA: /a l‿ɛ̃s.tɑ̃/
+en moyenne
+  IPA: /ɑ̃ mwa.jɛn/
+un poil
+  IPA: /œ̃ pwal/
+tout plein
+  IPA: /tu plɛ̃/
+éyoù
+  IPA: /e.ju/
+de plus belle
+  IPA: /də ply bɛl/
+en l'occurrence
+  IPA: /ɑ̃ l‿ɔ.ky.ʁɑ̃s/
+de tout cœur
+  IPA: /də tu kœʁ/
+sans coup férir
+  IPA: /sɑ̃ ku fe.ʁiʁ/
+sans arrêt
+  IPA: /sɑ̃.z‿a.ʁɛ/
+cent pour cent
+  IPA: /sɑ̃ puʁ sɑ̃/
+à point nommé
+  IPA: /a pwɛ̃ nɔ.me/
+dans le mille
+  IPA: /dɑ̃ l(ə) mil/
+à crever
+  IPA: /a kʁə.ve/
+à chier
+  IPA: /a ʃje/
+à la fin
+  IPA: /a la fɛ̃/
+en trop
+  IPA: /ɑ̃ tʁo/
+soit dit en passant
+  IPA: /swa di.t‿ɑ̃ pa.sɑ̃/
+à ma connaissance
+  IPA: /a ma kɔ.nɛ.sɑ̃s/
+  IPA: /a ma kɔ.ne.sɑ̃s/
+du tonnerre
+  IPA: /dy tɔ.nɛʁ/
+pour autant que je sache
+  IPA: /pu.ʁ‿o.tɑ̃ kə ʒ(ə) saʃ/
+au plus
+  IPA: /o plys/
+au milieu de nulle part
+  IPA: /o mi.ljø d(ə) nyl paʁ/
+du feu de Dieu
+  IPA: /dy fø də djø/
+tout au plus
+  IPA: /tu.t‿o plys/
+à tout casser
+  IPA: /a tu ka.se/
+à contresens
+  IPA: /a kɔ̃.tʁə.sɑ̃s/
+à rebrousse-poil
+  IPA: /a ʁə.bʁus.pwal/
+d'entrée de jeu
+  IPA: /d‿ɑ̃.tʁe d(ə) ʒø/
+au préalable
+  IPA: /o pʁe.a.labl/
+à l'article de la mort
+  IPA: /a l‿aʁ.ti.klə d(ə) la mɔʁ/
+à la légère
+  IPA: /a la le.ʒɛʁ/
+à la tête du client
+  IPA: /a la tɛt dy kli.jɑ̃/
+par bonheur
+  IPA: /paʁ bɔ.nœʁ/
+par chance
+  IPA: /paʁ ʃɑ̃s/
+en réalité
+  IPA: /ɑ̃ ʁe.a.li.te/
+en vérité
+  IPA: /ɑ̃ ve.ʁi.te/
+à dire vrai
+  IPA: /a diʁ vʁɛ/
+à tour de rôle
+  IPA: /a tuʁ də ʁol/
+à la ronde
+  IPA: /a la ʁɔ̃d/
+en cours de route
+  IPA: /ɑ̃ kuʁ də ʁut/
+à vue
+  IPA: /a vy/
+pour de vrai
+  IPA: /puʁ də vʁɛ/
+à perte
+  IPA: /a pɛʁt/
+en plein essor
+  IPA: /ɑ̃ plɛ.n‿e.sɔʁ/
+  IPA: /ɑ̃ ple.n‿e.sɔʁ/
+à fond de balle
+  IPA: /a fɔ̃ d(ə) bal/
+en chœur
+  IPA: /ɑ̃ kœʁ/
+ric-rac
+  IPA: /ʁi.kʁak/
+de tout temps
+  IPA: /də tu tɑ̃/
+main dans la main
+  IPA: /mɛ̃ dɑ̃ la mɛ̃/
+sur le tard
+  IPA: /syʁ lə taʁ/
+à petit feu
+  IPA: /a p(ə).ti fø/
+d'un seul coup
+  IPA: /d‿œ̃ sœl ku/
+à la lettre
+  IPA: /a la lɛtʁ/
+pour mémoire
+  IPA: /puʁ me.mwaʁ/
+sur le papier
+  IPA: /syʁ lə pa.pje/
+en deux coups de cuillère à pot
+  IPA: /ɑ̃ dø ku də kɥi.jɛ.ʁ‿a po/
+  IPA: /ɑ̃ dø ku də kɥi.je.ʁ‿a po/
+d'une traite
+  IPA: /d‿yn tʁɛt/
+d'une seule traite
+  IPA: /d‿yn sœl tʁɛt/
+jour et nuit
+  IPA: /ʒu.ʁ‿e nɥi/
+nuit et jour
+  IPA: /nɥi.t‿e ʒuʁ/
+à la louche
+  IPA: /a la luʃ/
+au quart de tour
+  IPA: /o kaʁ də tuʁ/
+en un clin d'œil
+  IPA: /ɑ̃.n‿œ̃ klɛ̃ d‿œj/
+comme suit
+  IPA: /kɔm sɥi/
+au pas de course
+  IPA: /o pa d(ə) kuʁs/
+  IPA: /o pɑ d(ə) kuʁs/
+au pied levé
+  IPA: /o pje l(ə).ve/
+de main de maître
+  IPA: /də mɛ̃ d(ə) mɛtʁ/
+à l'avenir
+  IPA: /a l‿av.niʁ/
+de son propre chef
+  IPA: /də sɔ̃ pʁɔ.pʁə ʃɛf/
+ce me semble
+  IPA: /sə mə sɑ̃bl/
+à partir de dorénavant
+  IPA: /a paʁ.tiʁ də dɔ.ʁe.na.vɑ̃/
+en l'état
+  IPA: /ɑ̃ l‿e.ta/
+en quel honneur
+  IPA: /ɑ̃ kɛl ɔ.nœʁ/
+à toute vitesse
+  IPA: /a tut vi.tɛs/
+à bâtons rompus
+  IPA: /a ba.tɔ̃ ʁɔ̃.py/
+  IPA: /a bɑ.tɔ̃ ʁɔ̃.py/
+à la vitesse grand V
+  IPA: /a la vi.tɛs ɡʁɑ̃ ve/
+en tout bien tout honneur
+  IPA: /ɑ̃ tu bjɛ̃ tu.t‿ɔ.nœʁ/
+à la place
+  IPA: /a la plas/
+à l'inverse
+  IPA: /a l‿ɛ̃.vɛʁs/
+à profusion
+  IPA: /a pʁɔ.fy.zjɔ̃/
+à foison
+  IPA: /a fwa.zɔ̃/
+sous la main
+  IPA: /su la mɛ̃/
+à la perfection
+  IPA: /a la pɛʁ.fɛk.sjɔ̃/
+de pied en cap
+  IPA: /də pje.t‿ɑ̃ kap/
+à la base
+  IPA: /a la baz/
+au départ
+  IPA: /o de.paʁ/
+à l'unisson
+  IPA: /a l‿y.ni.sɔ̃/
+bout à bout
+  IPA: /bu.t‿a bu/
+des pieds à la tête
+  IPA: /de pje.z‿a la tɛt/
+  IPA: /de pje a la tɛt/
+à toutes fins utiles
+  IPA: /a tut fɛ̃.z‿y.til/
+et pour cause
+  IPA: /e puʁ koz/
+en cachette
+  IPA: /ɑ̃ ka.ʃɛt/
+en privé
+  IPA: /ɑ̃ pʁi.ve/
+en douceur
+  IPA: /ɑ̃ du.sœʁ/
+avec les moyens du bord
+  IPA: /a.vɛk le mwa.jɛ̃ dy bɔʁ/
+en public
+  IPA: /ɑ̃ py.blik/
+dans l'immédiat
+  IPA: /dɑ̃ l‿i.me.dja/
+à toutes jambes
+  IPA: /a tut ʒɑ̃b/
+de coutume
+  IPA: /də ku.tym/
+comme par hasard
+  IPA: /kɔm paʁ a.zaʁ/
+au plus haut point
+  IPA: /o ply o pwɛ̃/
+à bride abattue
+  IPA: /a bʁi.d‿a.ba.ty/
+de bon cœur
+  IPA: /də bɔ̃ kœʁ/
+de mauvaise grâce
+  IPA: /də mo.vɛz ɡʁas/
+  IPA: /də mo.vɛz ɡʁɑs/
+de concert
+  IPA: /də kɔ̃.sɛʁ/
+de bonne grâce
+  IPA: /də bɔn ɡʁas/
+  IPA: /də bɔn ɡʁɑs/
+de mémoire d'homme
+  IPA: /də me.mwaʁ d‿ɔm/
+d'un commun accord
+  IPA: /d‿œ̃ kɔ.mœ̃.n‿a.kɔʁ/
+sur le coup
+  IPA: /syʁ lə ku/
+avant toutes choses
+  IPA: /a.vɑ̃ tut ʃoz/
+avant tout
+  IPA: /a.vɑ̃ tu/
+de la sorte
+  IPA: /də la sɔʁt/
+de préférence
+  IPA: /də pʁe.fe.ʁɑ̃s/
+à ce stade
+  IPA: /a sə stad/
+d'une main de maître
+  IPA: /d‿yn mɛ̃ d(ə) mɛtʁ/
+de main de maitre
+  IPA: /də mɛ̃ d(ə) mɛtʁ/
+jusqu'à preuve du contraire
+  IPA: /ʒys.k‿a pʁœv dy kɔ̃.tʁɛʁ/
+par monts et par vaux
+  IPA: /paʁ mɔ̃ e paʁ vo/
+  IPA: /paʁ mɔ̃.z‿e paʁ vo/
+en temps utile
+  IPA: /ɑ̃ tɑ̃.z‿y.til/
+en temps voulu
+  IPA: /ɑ̃ tɑ̃ vu.ly/
+de un
+  IPA: /də œ̃/
+sans réserve
+  IPA: /sɑ̃ ʁe.zɛʁv/
+incessamment sous peu
+  IPA: /ɛ̃.sɛ.sa.mɑ̃ su pø/
+  IPA: /ɛ̃.se.sa.mɑ̃ su pø/
+montre en main
+  IPA: /mɔ̃.tʁ‿ɑ̃ mɛ̃/
+d'un moment à l'autre
+  IPA: /d‿œ̃ mɔ.mɑ̃.t‿a l‿otʁ/
+  IPA: /d‿œ̃ mɔ.mɑ̃ a l‿otʁ/
+d'un instant à l'autre
+  IPA: /d‿œ̃.n‿ɛ̃s.tɑ̃.t‿a l‿otʁ/
+  IPA: /d‿œ̃.n‿ɛ̃s.tɑ̃ a l‿otʁ/
+en premier lieu
+  IPA: /ɑ̃ pʁə.mje ljø/
+à l'époque
+  IPA: /a l‿e.pɔk/
+pour commencer
+  IPA: /puʁ kɔ.mɑ̃.se/
+de deux
+  IPA: /də dø/
+en retour
+  IPA: /ɑ̃ ʁ(ə).tuʁ/
+si je ne m'abuse
+  IPA: /si ʒə n(ə) m‿a.byz/
+en contrepartie
+  IPA: /ɑ̃ kɔ̃.tʁə.paʁ.ti/
+vacillamment
+  IPA: /va.si.ja.mɑ̃/
+à tour de bras
+  IPA: /a tuʁ də bʁa/
+  IPA: /a tuʁ də bʁɑ/
+tout bien considéré
+  IPA: /tu bjɛ̃ kɔ̃.si.de.ʁe/
+en temps et en heure
+  IPA: /ɑ̃ tɑ̃ e ɑ̃ œʁ/
+bec et ongles
+  IPA: /bɛ.k‿e ɔ̃ɡl/
+  IPA: /be.k‿e ɔ̃ɡl/
+étincelamment
+  IPA: /e.tɛ̃.sla.mɑ̃/
+en temps et lieu
+  IPA: /ɑ̃ tɑ̃.z‿e ljø/
+en nage
+  IPA: /ɑ̃ naʒ/
+à jamais
+  IPA: /a ʒa.mɛ/
+au grand jamais
+  IPA: /o ɡʁɑ̃ ʒa.mɛ/
+jamais au grand jamais
+  IPA: /ʒa.mɛ o ɡʁɑ̃ ʒa.mɛ/
+trait pour trait
+  IPA: /tʁɛ puʁ tʁɛ/
+loin de là
+  IPA: /lwɛ̃ d(ə) la/
+tant s'en faut
+  IPA: /tɑ̃ s‿ɑ̃ fo/
+loin s'en faut
+  IPA: /lwɛ̃ s‿ɑ̃ fo/
+de mémoire
+  IPA: /də me.mwaʁ/
+si ma mémoire est bonne
+  IPA: /si ma me.mwaʁ ɛ bɔn/
+à qui mieux mieux
+  IPA: /a ki mjø mjø/
+en veux-tu en voilà
+  IPA: /ɑ̃ vø.ty ɑ̃ vwa.la/
+qui plus est
+  IPA: /ki ply.z‿ɛ/
+par acquit de conscience
+  IPA: /pa.ʁ‿a.ki d(ə) kɔ̃.sjɑ̃s/
+par principe
+  IPA: /paʁ pʁɛ̃.sip/
+tête baissée
+  IPA: /tɛt bɛ.se/
+  IPA: /tɛt be.se/
+tant qu'à faire
+  IPA: /tɑ̃ k‿a fɛʁ/
+foutu pour foutu
+  IPA: /fu.ty puʁ fu.ty/
+c'est pas pour dire
+  IPA: /s‿ɛ pa puʁ diʁ/
+  IPA: /s‿ɛ pɑ puʁ diʁ/
+si je puis dire
+  IPA: /si ʒə pɥi diʁ/
+ce n'est pas pour dire
+  IPA: /sə n‿ɛ pa puʁ diʁ/
+  IPA: /sə n‿ɛ pɑ puʁ diʁ/
+pour la forme
+  IPA: /puʁ la fɔʁm/
+dès à présent
+  IPA: /dɛ.z‿a pʁe.zɑ̃/
+par parenthèse
+  IPA: /paʁ pa.ʁɑ̃.tɛz/
+tous les trente-six du mois
+  IPA: /tu le tʁɑ̃t.sis dy mwa/
+en pure perte
+  IPA: /ɑ̃ pyʁ pɛʁt/
+pour un rien
+  IPA: /pu.ʁ‿œ̃ ʁjɛ̃/
+sur les chapeaux de roues
+  IPA: /syʁ le ʃa.po d(ə) ʁu/
+une fois toutes les lunes
+  IPA: /yn fwa tut le lyn/
+de conserve
+  IPA: /də kɔ̃.sɛʁv/
+par la suite
+  IPA: /paʁ la sɥit/
+pas pour un sou
+  IPA: /pa puʁ œ̃ su/
+  IPA: /pɑ puʁ œ̃ su/
+à son corps défendant
+  IPA: /a sɔ̃ kɔʁ de.fɑ̃.dɑ̃/
+pas pour deux sous
+  IPA: /pa puʁ dø su/
+  IPA: /pɑ puʁ dø su/
+au cas par cas
+  IPA: /o ka paʁ ka/
+  IPA: /o kɑ paʁ kɑ/
+au jour le jour
+  IPA: /o ʒuʁ lə ʒuʁ/
+à corps perdu
+  IPA: /a kɔʁ pɛʁ.dy/
+de fil en aiguille
+  IPA: /də fi.l‿ɑ̃.n‿e.ɡɥij/
+de gré à gré
+  IPA: /də ɡʁe a ɡʁe/
+de gré ou de force
+  IPA: /də ɡʁe u d(ə) fɔʁs/
+à belles dents
+  IPA: /a bɛl dɑ̃/
+dans la mesure du possible
+  IPA: /dɑ̃ la m(ə).zyʁ dy pɔ.sibl/
+à pleines dents
+  IPA: /a plɛn dɑ̃/
+en moins de rien
+  IPA: /ɑ̃ mwɛ̃ də ʁjɛ̃/
+à tire-d'aile
+  IPA: /a tiʁ.d‿ɛl/
+à tête reposée
+  IPA: /a tɛt ʁə.po.ze/
+à la one again
+  IPA: /a la wan ə.ɡɛn/
+par trop
+  IPA: /paʁ tʁo/
+en main propre
+  IPA: /ɑ̃ mɛ̃ pʁɔpʁ/
+en prime
+  IPA: /ɑ̃ pʁim/
+de ce fait
+  IPA: /də s(ə) fɛ/
+à la réflexion
+  IPA: /a la ʁe.flɛk.sjɔ̃/
+réflexion faite
+  IPA: /ʁe.flɛk.sjɔ̃ fɛt/
+à n'en pas douter
+  IPA: /a n‿ɑ̃ pa du.te/
+  IPA: /a n‿ɑ̃ pɑ du.te/
+sans relâche
+  IPA: /sɑ̃ ʁ(ə).laʃ/
+  IPA: /sɑ̃ ʁ(ə).lɑʃ/
+dans toute sa splendeur
+  IPA: /dɑ̃ tut sa splɑ̃.dœʁ/
+en perspective
+  IPA: /ɑ̃ pɛʁ.spɛk.tiv/
+à fond de train
+  IPA: /a fɔ̃ də tʁɛ̃/
+de toute éternité
+  IPA: /də tut e.tɛʁ.ni.te/
+par endroits
+  IPA: /paʁ ɑ̃.dʁwa/
+les yeux fermés
+  IPA: /le.z‿jø fɛʁ.me/
+dans les grandes lignes
+  IPA: /dɑ̃ le ɡʁɑ̃d liɲ/
+dans les plus brefs délais
+  IPA: /dɑ̃ le ply bʁɛf de.lɛ/
+comme un seul homme
+  IPA: /kɔ.m‿œ̃ sœ.l‿ɔm/
+en bref
+  IPA: /ɑ̃ bʁɛf/
+en crabe
+  IPA: /ɑ̃ kʁab/
+de base
+  IPA: /də baz/
+au bas mot
+  IPA: /o ba mo/
+  IPA: /o bɑ mo/
+dans l'ensemble
+  IPA: /dɑ̃ l‿ɑ̃.sɑ̃bl/
+en coup de vent
+  IPA: /ɑ̃ ku d(ə) vɑ̃/
+en règle générale
+  IPA: /ɑ̃ ʁɛ.ɡlə ʒe.ne.ʁal/
+  IPA: /ɑ̃ ʁe.ɡlə ʒe.ne.ʁal/
+au quotidien
+  IPA: /o kɔ.ti.djɛ̃/
+à plein nez
+  IPA: /a plɛ̃ ne/
+les mains vides
+  IPA: /le mɛ̃ vid/
+coup sur coup
+  IPA: /ku syʁ ku/
+les mains dans les poches
+  IPA: /le mɛ̃ dɑ̃ le pɔʃ/
+corps et âme
+  IPA: /kɔʁ.z‿e am/
+  IPA: /kɔʁ.z‿e ɑm/
+  IPA: /kɔʁ e am/
+  IPA: /kɔʁ e ɑm/
+envers et contre tout
+  IPA: /ɑ̃.vɛ.ʁ‿e kɔ̃.tʁə tu/
+  IPA: /ɑ̃.ve.ʁ‿e kɔ̃.tʁə tu/
+en long et en large
+  IPA: /ɑ̃ lɔ̃ e ɑ̃ laʁʒ/
+de toutes pièces
+  IPA: /də tut pjɛs/
+sans faute
+  IPA: /sɑ̃ fot/
+terre-à-terre
+  IPA: /tɛ.ʁa.tɛʁ/
+  IPA: /te.ʁa.tɛʁ/
+à loisir
+  IPA: /a lwa.ziʁ/
+au premier chef
+  IPA: /o pʁə.mje ʃɛf/
+mot à mot
+  IPA: /mo.t‿a mo/
+  IPA: /mɔ.t‿a mo/
+au beau milieu de
+  IPA: /o bo mi.ljø də/
+de pied ferme
+  IPA: /də pje fɛʁm/
+à l'envers
+  IPA: /a l‿ɑ̃.vɛʁ/
+à l'endroit
+  IPA: /a l‿ɑ̃.dʁwa/
+jusqu'à plus soif
+  IPA: /ʒys.k‿a ply swaf/
+aux petits oignons
+  IPA: /o p(ə).ti.z‿ɔ.ɲɔ̃/
+à regret
+  IPA: /a ʁə.ɡʁɛ/
+de bon gré
+  IPA: /də bɔ̃ ɡʁe/
+outre mesure
+  IPA: /u.tʁə m(ə).zyʁ/
+à raison
+  IPA: /a ʁɛ.zɔ̃/
+  IPA: /a ʁe.zɔ̃/
+en nombre
+  IPA: /ɑ̃ nɔ̃bʁ/
+en force
+  IPA: /ɑ̃ fɔʁs/
+de force
+  IPA: /də fɔʁs/
+en conséquence
+  IPA: /ɑ̃ kɔ̃.se.kɑ̃s/
+de gaieté de cœur
+  IPA: /də ɡɛ.te d(ə) kœʁ/
+  IPA: /də ɡe.te d(ə) kœʁ/
+à l'excès
+  IPA: /a l‿ɛk.sɛ/
+de but en blanc
+  IPA: /də by.t‿ɑ̃ blɑ̃/
+à la sueur de son front
+  IPA: /a la sɥœʁ də sɔ̃ fʁɔ̃/
+askip
+  IPA: /as.kip/
+cela étant
+  IPA: /sə.la e.tɑ̃/
+ceci étant
+  IPA: /sə.si e.tɑ̃/
+autre part
+  IPA: /o.tʁə paʁ/
+ceci dit
+  IPA: /sə.si di/
+pour ce faire
+  IPA: /puʁ sə fɛʁ/
+si le cœur vous en dit
+  IPA: /si l(ə) kœʁ vu.z‿ɑ̃ di/
+à pic
+  IPA: /a pik/
+à bras raccourcis
+  IPA: /a bʁa ʁa.kuʁ.si/
+  IPA: /a bʁɑ ʁa.kuʁ.si/
+à ce qu'on dit
+  IPA: /a s(ə) k‿ɔ̃ di/
+cela étant dit
+  IPA: /sə.la e.tɑ̃ di/
+d'ici peu
+  IPA: /d‿i.si pø/
+à ce que l'on dit
+  IPA: /a sə k(ə) l‿ɔ̃ di/
+ceci étant dit
+  IPA: /sə.si e.tɑ̃ di/
+avant longtemps
+  IPA: /a.vɑ̃ lɔ̃.tɑ̃/
+vite fait
+  IPA: /vit fɛ/
+en catastrophe
+  IPA: /ɑ̃ ka.tas.tʁɔf/
+chemin faisant
+  IPA: /ʃə.mɛ̃ f(ə).zɑ̃/
+droit au but
+  IPA: /dʁwa.t‿o byt/
+à souhait
+  IPA: /a swɛ/
+pour des prunes
+  IPA: /puʁ de pʁyn/
+à ravir
+  IPA: /a ʁa.viʁ/
+à qui veut l'entendre
+  IPA: /a ki vø l‿ɑ̃.tɑ̃dʁ/
+par-dessous la jambe
+  IPA: /paʁ.də.su la ʒɑ̃b/
+en son âme et conscience
+  IPA: /ɑ̃ sɔ̃.n‿am e kɔ̃.sjɑ̃s/
+  IPA: /ɑ̃ sɔ̃.n‿ɑm e kɔ̃.sjɑ̃s/
+la mort dans l'âme
+  IPA: /la mɔʁ dɑ̃ l‿am/
+  IPA: /la mɔʁ dɑ̃ l‿ɑm/
+avec des pieds de plomb
+  IPA: /a.vɛk de pje də plɔ̃/
+de toute manière
+  IPA: /də tut ma.njɛʁ/
+par défaut
+  IPA: /paʁ de.fo/
+en grande pompe
+  IPA: /ɑ̃ ɡʁɑ̃d pɔ̃p/
+dans les grandes largeurs
+  IPA: /dɑ̃ le ɡʁɑ̃d laʁ.ʒœʁ/
+à grands pas
+  IPA: /a ɡʁɑ̃ pa/
+  IPA: /a ɡʁɑ̃ pɑ/
+en détail
+  IPA: /ɑ̃ de.taj/
+à cru
+  IPA: /a kʁy/
+par le menu
+  IPA: /paʁ lə mə.ny/
+grand max
+  IPA: /ɡʁɑ̃ maks/
+au doigt et à l'œil
+  IPA: /o dwa e a l‿œj/
+avant Jésus-Christ
+  IPA: /a.vɑ̃ ʒe.zy.kʁi/
+bille en tête
+  IPA: /bi.j‿ɑ̃ tɛt/
+à l'abri
+  IPA: /a l‿a.bʁi/
+sans autre forme de procès
+  IPA: /sɑ̃.z‿o.tʁə fɔʁ.m(ə) də pʁɔ.sɛ/
+dans le feu de l'action
+  IPA: /dɑ̃ l(ə) fø d(ə) l‿ak.sjɔ̃/
+à plein régime
+  IPA: /a plɛ̃ ʁe.ʒim/
+plein pot
+  IPA: /plɛ̃ po/
+au large
+  IPA: /o laʁʒ/
+au plus vite
+  IPA: /o ply vit/
+en apparence
+  IPA: /ɑ̃.n‿a.pa.ʁɑ̃s/
+en beauté
+  IPA: /ɑ̃ bo.te/
+à tout prendre
+  IPA: /a tu pʁɑ̃dʁ/
+de bon matin
+  IPA: /də bɔ̃ ma.tɛ̃/
+sans mot dire
+  IPA: /sɑ̃ mo diʁ/
+la tête la première
+  IPA: /la tɛt la pʁə.mjɛʁ/
+à tout rompre
+  IPA: /a tu ʁɔ̃pʁ/
+à un jet de pierre
+  IPA: /a œ̃ ʒɛ də pjɛʁ/
+à pleurer
+  IPA: /a plœ.ʁe/
+à cœur ouvert
+  IPA: /a kœ.ʁ‿u.vɛʁ/
+à pleins poumons
+  IPA: /a plɛ̃ pu.mɔ̃/
+à gros flocons
+  IPA: /a ɡʁo flɔ.kɔ̃/
+à perdre haleine
+  IPA: /a pɛʁdʁ a.lɛn/
+n'importe quand
+  IPA: /n‿ɛ̃.pɔʁ.t(ə) kɑ̃/
+à plus forte raison
+  IPA: /a ply fɔʁ.t(ə) ʁɛ.zɔ̃/
+  IPA: /a ply fɔʁ.t(ə) ʁe.zɔ̃/
+sans bourse délier
+  IPA: /sɑ̃ buʁ.s(ə) de.lje/
+de guerre lasse
+  IPA: /də ɡɛʁ las/
+pour ta gouverne
+  IPA: /puʁ ta ɡu.vɛʁn/
+pour votre gouverne
+  IPA: /puʁ vɔ.tʁə ɡu.vɛʁn/
+ce pourquoi
+  IPA: /sə puʁ.kwa/
+comme une traînée de poudre
+  IPA: /kɔm yn tʁɛ.ne d(ə) pudʁ/
+  IPA: /kɔm yn tʁe.ne d(ə) pudʁ/
+à longueur de journée
+  IPA: /a lɔ̃.ɡœʁ də ʒuʁ.ne/
+à longueur de temps
+  IPA: /a lɔ̃.ɡœʁ də tɑ̃/
+toutes proportions gardées
+  IPA: /tut pʁɔ.pɔʁ.sjɔ̃ ɡaʁ.de/
+d'autre part
+  IPA: /d‿o.tʁə paʁ/
+à mouchoir que veux-tu
+  IPA: /a mu.ʃwaʁ kə vø.ty/
+depuis le temps
+  IPA: /də.pɥi l(ə) tɑ̃/
+dans ce cas
+  IPA: /dɑ̃ s(ə) ka/
+  IPA: /dɑ̃ s(ə) kɑ/
+et encore
+  IPA: /e ɑ̃.kɔʁ/
+à réveiller un mort
+  IPA: /a ʁe.vɛ.je œ̃ mɔʁ/
+  IPA: /a ʁe.ve.je œ̃ mɔʁ/
+toute affaire cessante
+  IPA: /tut a.fɛʁ sɛ.sɑ̃t/
+  IPA: /tut a.fɛʁ se.sɑ̃t/
+toutes affaires cessantes
+  IPA: /tut a.fɛʁ sɛ.sɑ̃t/
+  IPA: /tut a.fɛʁ se.sɑ̃t/
+  IPA: /tut.z‿a.fɛʁ sɛ.sɑ̃t/
+  IPA: /tut.z‿a.fɛʁ se.sɑ̃t/
+encore et encore
+  IPA: /ɑ̃.kɔ.ʁ‿e ɑ̃.kɔʁ/
+en tout
+  IPA: /ɑ̃ tu/
+au total
+  IPA: /o tɔ.tal/
+à ce jour
+  IPA: /a s(ə) ʒuʁ/
+un par un
+  IPA: /œ̃ paʁ œ̃/
+homériquement
+  IPA: /ɔ.me.ʁik.mɑ̃/
+goyesquement
+  IPA: /ɡɔ.jɛs.kə.mɑ̃/
+à temps
+  IPA: /a tɑ̃/
+sans encombre
+  IPA: /sɑ̃.z‿ɑ̃.kɔ̃bʁ/
+comme un coq en pâte
+  IPA: /kɔm œ̃ kɔk ɑ̃ pat/
+  IPA: /kɔm œ̃ kɔk ɑ̃ pɑt/
+avant l'heure
+  IPA: /a.vɑ̃ l‿œʁ/
+sur l'heure
+  IPA: /syʁ l‿œʁ/
+cinq sur cinq
+  IPA: /sɛ̃k syʁ sɛ̃k/
+à se damner
+  IPA: /a s(ə) da.ne/
+à pas feutrés
+  IPA: /a pa fø.tʁe/
+  IPA: /a pɑ fø.tʁe/
+au débotté
+  IPA: /o de.bɔ.te/
+à franc étrier
+  IPA: /a fʁɑ̃ e.tʁi.je/
+la fleur au fusil
+  IPA: /la flœʁ o fy.zi/
+tambour battant
+  IPA: /tɑ̃.buʁ ba.tɑ̃/
+de haute lutte
+  IPA: /də ot lyt/
+par après
+  IPA: /paʁ a.pʁɛ/
+à fond les manettes
+  IPA: /a fɔ̃ le ma.nɛt/
+jusqu'au sang
+  IPA: /ʒys.k‿o sɑ̃/
+au petit bonheur la chance
+  IPA: /o p(ə).ti bɔ.nœʁ la ʃɑ̃s/
+sauf erreur
+  IPA: /sof e.ʁœʁ/
+au coin
+  IPA: /o kwɛ̃/
+du tac au tac
+  IPA: /dy tak o tak/
+sur les bords
+  IPA: /syʁ le bɔʁ/
+de part en part
+  IPA: /də pa.ʁ‿ɑ̃ paʁ/
+un rien
+  IPA: /œ̃ ʁjɛ̃/
+à ce propos
+  IPA: /a s(ə) pʁɔ.po/
+à hue et à dia
+  IPA: /a y e a dja/
+rubis sur l'ongle
+  IPA: /ʁy.bi syʁ l‿ɔ̃ɡl/
+anticipativement
+  IPA: /ɑ̃.ti.si.pa.tiv.mɑ̃/
+en désespoir de cause
+  IPA: /ɑ̃ de.zɛs.pwaʁ də koz/
+les trois quarts du temps
+  IPA: /le tʁwa kaʁ dy tɑ̃/
+que je sache
+  IPA: /kə ʒ(ə) saʃ/
+sur mesure
+  IPA: /syʁ mə.zyʁ/
+en vase clos
+  IPA: /ɑ̃ vaz klo/
+vogue la galère
+  IPA: /vɔɡ la ɡa.lɛʁ/
+dans la joie et la bonne humeur
+  IPA: /dɑ̃ la ʒwa e la bɔ.n‿y.mœʁ/
+en aucune façon
+  IPA: /ɑ̃.n‿o.kyn fa.sɔ̃/
+en aucune manière
+  IPA: /ɑ̃.n‿o.kyn ma.njɛʁ/
+ci-après
+  IPA: /si.a.pʁɛ/
+ajeuve
+  IPA: /a.ʒœv/
+à faire peur
+  IPA: /a fɛʁ pœʁ/
+comme qui dirait
+  IPA: /kɔm ki di.ʁɛ/
+par le passé
+  IPA: /paʁ lə pa.se/
+à voix basse
+  IPA: /a vwa bas/
+dans sa barbe
+  IPA: /dɑ̃ sa baʁb/
+de vive voix
+  IPA: /də viv vwa/
+au pas de charge
+  IPA: /o pa d(ə) ʃaʁʒ/
+  IPA: /o pɑ d(ə) ʃaʁʒ/
+un de ces jours
+  IPA: /œ̃ d(ə) se ʒuʁ/
+à tout instant
+  IPA: /a tu.t‿ɛ̃s.tɑ̃/
+à froid
+  IPA: /a fʁwa/
+quoi qu'il en coûte
+  IPA: /kwa k‿i.l‿ɑ̃ kut/
+à s'y méprendre
+  IPA: /a s‿i me.pʁɑ̃dʁ/
+jusqu'à présent
+  IPA: /ʒys.k‿a pʁe.zɑ̃/
+au pas de gymnastique
+  IPA: /o pa d(ə) ʒim.nas.tik/
+  IPA: /o pɑ d(ə) ʒim.nas.tik/
+à ses risques et périls
+  IPA: /a se ʁis.k(ə).z‿e pe.ʁil/
+en ce temps-là
+  IPA: /ɑ̃ s(ə) tɑ̃.la/
+du premier coup
+  IPA: /dy pʁə.mje ku/
+par erreur
+  IPA: /paʁ e.ʁœʁ/
+comme si sa vie en dépendait
+  IPA: /kɔm si sa vi ɑ̃ de.pɑ̃.dɛ/
+à contre-mont
+  IPA: /a kɔ̃.tʁə.mɔ̃/
+exquisement
+  IPA: /ɛk.skiz.mɑ̃/
+à l'heure actuelle
+  IPA: /a l‿œʁ ak.tɥɛl/
+dans un second temps
+  IPA: /dɑ̃.z‿œ̃ s(ə).ɡɔ̃ tɑ̃/
+dans une certaine mesure
+  IPA: /dɑ̃.z‿yn sɛʁ.tɛn mə.zyʁ/
+de plain-pied
+  IPA: /də plɛ̃.pje/
+à vau-l'eau
+  IPA: /a vo.l‿o/
+à tout propos
+  IPA: /a tu pʁɔ.po/
+comme pas deux
+  IPA: /kɔm pa dø/
+  IPA: /kɔm pɑ dø/
+de long en large
+  IPA: /də lɔ̃ ɑ̃ laʁʒ/
+en ordre de bataille
+  IPA: /ɑ̃ ɔʁ.dʁə d(ə) ba.taj/
+de manière générale
+  IPA: /də ma.njɛʁ ʒe.ne.ʁal/
+comme ci, comme ça
+  IPA: /kɔm si | kɔm sa/
+l'un après l'autre
+  IPA: /l‿œ̃.n‿a.pʁɛ l‿otʁ/
+dans les règles
+  IPA: /dɑ̃ le ʁɛɡl/
+à la régulière
+  IPA: /a la ʁe.ɡy.ljɛʁ/
+les quatre fers en l'air
+  IPA: /le ka.tʁə fɛʁ ɑ̃ l‿ɛʁ/
+tout bien réfléchi
+  IPA: /tu bjɛ̃ ʁe.fle.ʃi/
+jusque-là
+  IPA: /ʒys.k(ə).la/
+si possible
+  IPA: /si pɔ.sibl/
+comme prévu
+  IPA: /kɔm pʁe.vy/
+si le cœur t'en dit
+  IPA: /si l(ə) kœʁ t‿ɑ̃ di/
+à ce sujet
+  IPA: /a s(ə) sy.ʒɛ/
+comme pas un
+  IPA: /kɔm pa.z‿œ̃/
+  IPA: /kɔm pɑ.z‿œ̃/
+comme si c'était hier
+  IPA: /kɔm si s‿e.tɛ je/
+8o
+  IPA: /ɔk.ta.vo/
+7o
+  IPA: /sɛp.ti.mo/
+4o
+  IPA: /kwaʁ.to/
+6o
+  IPA: /sɛk.sto/
+5o
+  IPA: /kɛ̃.to/
+10o
+  IPA: /de.si.mo/
+9o
+  IPA: /nɔ.no/
+plus que de raison
+  IPA: /ply kə d(ə) ʁɛ.zɔ̃/
+  IPA: /ply kə d(ə) ʁe.zɔ̃/
+le diable aux trousses
+  IPA: /lə djabl o tʁus/
+en tout point
+  IPA: /ɑ̃ tu pwɛ̃/
+de proche en proche
+  IPA: /də pʁɔʃ ɑ̃ pʁɔʃ/
+au péril de sa vie
+  IPA: /o pe.ʁil də sa vi/
+ni plus ni moins
+  IPA: /ni ply ni mwɛ̃/
+comme si de rien
+  IPA: /kɔm si də ʁjɛ̃/
+entre la poire et le fromage
+  IPA: /ɑ̃.tʁə la pwaʁ e lə fʁɔ.maʒ/
+sur le terrain
+  IPA: /syʁ lə tɛ.ʁɛ̃/
+  IPA: /syʁ lə te.ʁɛ̃/
+corps et biens
+  IPA: /kɔʁ e bjɛ̃/
+  IPA: /kɔʁ.z‿e bjɛ̃/
+à nouveaux frais
+  IPA: /a nu.vo fʁɛ/
+en un mot comme en cent
+  IPA: /ɑ̃.n‿œ̃ mo kɔm ɑ̃ sɑ̃/
+quelque peu
+  IPA: /kɛl.kə pø/
+en temps normal
+  IPA: /ɑ̃ tɑ̃ nɔʁ.mal/
+pour faire court
+  IPA: /puʁ fɛʁ kuʁ/
+par voie de conséquence
+  IPA: /paʁ vwa d(ə) kɔ̃.se.kɑ̃s/
+avec armes et bagages
+  IPA: /a.vɛk aʁm e ba.ɡaʒ/
+  IPA: /a.vɛk aʁ.m(ə).z‿e ba.ɡaʒ/
+encore et toujours
+  IPA: /ɑ̃.kɔ.ʁ‿e tu.ʒuʁ/
+dans le passé
+  IPA: /dɑ̃ l(ə) pa.se/
+  IPA: /dɑ̃ l(ə) pɑ.se/
+sur ces entrefaites
+  IPA: /syʁ se.z‿ɑ̃.tʁə.fɛt/
+sans histoire
+  IPA: /sɑ̃.z‿is.twaʁ/
+de toutes ses forces
+  IPA: /də tut se fɔʁs/
+en profondeur
+  IPA: /ɑ̃ pʁɔ.fɔ̃.dœʁ/
+pour la petite histoire
+  IPA: /puʁ la p(ə).tit is.twaʁ/
+sans piper mot
+  IPA: /sɑ̃ pi.pe mo/
+après réflexion
+  IPA: /a.pʁɛ ʁe.flɛk.sjɔ̃/
+un à un
+  IPA: /œ̃.n‿a œ̃/
+en silence
+  IPA: /ɑ̃ si.lɑ̃s/
+à moyen terme
+  IPA: /a mwa.jɛ̃ tɛʁm/
+toute la sainte journée
+  IPA: /tut la sɛ̃t ʒuʁ.ne/
+tous les jours que Dieu fait
+  IPA: /tu le ʒuʁ kə djø fɛ/
+d'égal à égal
+  IPA: /d‿e.ɡal a e.ɡal/
+depuis toujours
+  IPA: /də.pɥi tu.ʒuʁ/
+pour tout potage
+  IPA: /puʁ tu pɔ.taʒ/
+à l'évidence
+  IPA: /a l‿e.vi.dɑ̃s/
+par la force des choses
+  IPA: /paʁ la fɔʁ.s(ə) de ʃoz/
+à bas bruit
+  IPA: /a ba bʁɥi/
+  IPA: /a bɑ bʁɥi/
+quoi qu'il en ait été
+  IPA: /kwa k‿i.l‿ɑ̃.n‿ɛ.t‿e.te/
+quoi qu'il en fût
+  IPA: /kwa k‿i.l‿ɑ̃ fy/
+quoi qu'il en eût été
+  IPA: /kwa k‿i.l‿ɑ̃.n‿y.t‿e.te/
+ni vu ni connu
+  IPA: /ni vy ni kɔ.ny/
+à genouillons
+  IPA: /a ʒ(ə).nu.jɔ̃/
+en bonnes mains
+  IPA: /ɑ̃ bɔn mɛ̃/
+à l'unanimité
+  IPA: /a l‿y.na.ni.mi.te/
+ce nonobstant
+  IPA: /sə nɔ.nɔp.stɑ̃/
+comme jamais
+  IPA: /kɔm ʒa.mɛ/
+de longtemps
+  IPA: /də lɔ̃.tɑ̃/
+haut et fort
+  IPA: /o e fɔʁ/
+de longue main
+  IPA: /də lɔ̃ɡ mɛ̃/
+à chaud
+  IPA: /a ʃo/
+même si sa vie en dépendait
+  IPA: /mɛm si sa vi ɑ̃ de.pɑ̃.dɛ/
+drette
+  IPA: /dʁɛt/
+la queue entre les jambes
+  IPA: /la kø ɑ̃.tʁə le ʒɑ̃b/
+selon toute vraisemblance
+  IPA: /sə.lɔ̃ tut vʁɛ.sɑ̃.blɑ̃s/
+la main sur le cœur
+  IPA: /la mɛ̃ syʁ lə kœʁ/
+a contrario
+  IPA: /a kɔ̃.tʁa.ʁjo/
+à giorno
+  IPA: /a ʒjɔʁ.no/
+a giorno
+  IPA: /a ʒjɔʁ.no/
+à fortiori
+  IPA: /a fɔʁ.tjɔ.ʁi/
+à postériori
+  IPA: /a pɔs.te.ʁjɔ.ʁi/
+par malheur
+  IPA: /paʁ ma.lœʁ/
+comme personne
+  IPA: /kɔm pɛʁ.sɔn/
+comme pas possible
+  IPA: /kɔm pa pɔ.sibl/
+  IPA: /kɔm pɑ pɔ.sibl/
+comme c'est pas permis
+  IPA: /kɔm s‿ɛ pa pɛʁ.mi/
+  IPA: /kɔm s‿ɛ pɑ pɛʁ.mi/
+à la dernière minute
+  IPA: /a la dɛʁ.njɛʁ mi.nyt/
+sans exception
+  IPA: /sɑ̃.z‿ɛk.sɛp.sjɔ̃/
+deuxio
+  IPA: /dø.zjo/
+la gueule enfarinée
+  IPA: /la ɡœl ɑ̃.fa.ʁi.ne/
+comme pas permis
+  IPA: /kɔm pa pɛʁ.mi/
+  IPA: /kɔm pɑ pɛʁ.mi/
+sous le vent
+  IPA: /su l(ə) vɑ̃/
+dur comme fer
+  IPA: /dyʁ kɔm fɛʁ/
+s'entend
+  IPA: /s‿ɑ̃.tɑ̃/
+cela s'entend
+  IPA: /sə.la s‿ɑ̃.tɑ̃/
+en bon père de famille
+  IPA: /ɑ̃ bɔ̃ pɛʁ də fa.mij/
+polynomialement
+  IPA: /pɔ.li.nɔ.mjal.mɑ̃/
+embas
+  IPA: /ɑ̃.ba/
+  IPA: /ɑ̃.bɑ/
+autant que possible
+  IPA: /o.tɑ̃ k(ə) pɔ.sibl/
+démoniaquement
+  IPA: /de.mɔ.njak.mɑ̃/
+dans le coin
+  IPA: /dɑ̃ lə kwɛ̃/
+sabre au clair
+  IPA: /sa.bʁ‿o klɛʁ/
+pour tout dire
+  IPA: /puʁ tu diʁ/
+pour rappel
+  IPA: /puʁ‿.ʁa.pɛl/
+à dire la vérité
+  IPA: /a diʁ la ve.ʁi.te/
+du bon pied
+  IPA: /dy bɔ̃ pje/
+sur le carreau
+  IPA: /syʁ lə ka.ʁo/
+au grand galop
+  IPA: /o ɡʁɑ̃ ɡa.lo/
+d'expérience
+  IPA: /d‿ɛk.spe.ʁjɑ̃s/
+ventre à terre
+  IPA: /vɑ̃tʁ a tɛʁ/
+par les temps qui courent
+  IPA: /paʁ le tɑ̃ ki kuʁ/
+par surcroît
+  IPA: /paʁ syʁ.kʁwa/
+sur commande
+  IPA: /syʁ kɔ.mɑ̃d/
+d'un coup
+  IPA: /d‿œ̃ ku/
+à bon compte
+  IPA: /a bɔ̃ kɔ̃t/
+à mots couverts
+  IPA: /a mo ku.vɛʁ/
+à livre ouvert
+  IPA: /a livʁ u.vɛʁ/
+à armes égales
+  IPA: /a aʁm.z‿e.ɡal/
+  IPA: /a aʁ.mə.z‿e.ɡal/
+à la première heure
+  IPA: /a la pʁə.mjɛʁ œʁ/
+dans le meilleur des cas
+  IPA: /dɑ̃ l(ə) mɛ.jœʁ de ka/
+  IPA: /dɑ̃ l(ə) mɛ.jœʁ de kɑ/
+  IPA: /dɑ̃ l(ə) me.jœʁ de ka/
+  IPA: /dɑ̃ l(ə) me.jœʁ de kɑ/
+jusqu'aujourd'hui
+  IPA: /ʒys.k‿o.ʒuʁ.dɥi/
+serpentinement
+  IPA: /sɛʁ.pɑ̃.tin.mɑ̃/
+sirupeusement
+  IPA: /si.ʁy.pøz.mɑ̃/
+soyeusement
+  IPA: /swa.jøz.mɑ̃/
+suzerainement
+  IPA: /syz.ʁɛn.mɑ̃/
+traitreusement
+  IPA: /tʁɛ.tʁøz.mɑ̃/
+  IPA: /tʁe.tʁøz.mɑ̃/
+tennistiquement
+  IPA: /tɛ.nis.tik.mɑ̃/
+  IPA: /te.nis.tik.mɑ̃/
+yinque
+  IPA: /jɛ̃k/
+vachtement
+  IPA: /vaʃ.tə.mɑ̃/
+viagèrement
+  IPA: /vja.ʒɛʁ.mɑ̃/
+zootechniquement
+  IPA: /zɔ.o.tɛk.nik.mɑ̃/
+à moitié
+  IPA: /a mwa.tje/
+illico presto
+  IPA: /i.li.ko pʁɛs.to/
+en diable
+  IPA: /ɑ̃ djabl/
+au poil
+  IPA: /o pwal/
+sur la touche
+  IPA: /syʁ la tuʃ/
+à toute vapeur
+  IPA: /a tut va.pœʁ/
+par accident
+  IPA: /pa.ʁ‿ak.si.dɑ̃/
+en lieu sûr
+  IPA: /ɑ̃ ljø syʁ/
+par miracle
+  IPA: /paʁ mi.ʁakl/
+toutes choses égales par ailleurs
+  IPA: /tut ʃoz.z‿e.ɡal pa.ʁ‿a.jœʁ/
+comme par magie
+  IPA: /kɔm paʁ ma.ʒi/
+par le menu détail
+  IPA: /paʁ lə mə.ny de.taj/
+en tant que tel
+  IPA: /ɑ̃ tɑ̃ k(ə) tɛl/
+par la même occasion
+  IPA: /paʁ la mɛm ɔ.ka.zjɔ̃/
+de toute part
+  IPA: /də tut paʁ/
+de toutes parts
+  IPA: /də tut paʁ/
+en suspens
+  IPA: /ɑ̃ sys.pɑ̃/
+par tête de pipe
+  IPA: /paʁ tɛt də pip/
+dans son ensemble
+  IPA: /dɑ̃ sɔ̃.n‿ɑ̃.sɑ̃bl/
+en retrait
+  IPA: /ɑ̃ ʁə.tʁɛ/
+de cette façon
+  IPA: /də sɛt fa.sɔ̃/
+outre-Rhin
+  IPA: /u.tʁə.ʁɛ̃/
+outre-Atlantique
+  IPA: /u.tʁa.tlɑ̃.tik/
+outre-Quiévrain
+  IPA: /u.tʁə.kje.vʁɛ̃/
+à pas de tortue
+  IPA: /a pa də tɔʁ.ty/
+  IPA: /a pɑ də tɔʁ.ty/
+de tous côtés
+  IPA: /də tu ko.te/
+à tous les coins de rue
+  IPA: /a tu le kwɛ̃ d(ə) ʁy/
+à maintes reprises
+  IPA: /a mɛ̃t ʁə.pʁiz/
+pied au plancher
+  IPA: /pje o plɑ̃.ʃe/
+de près ou de loin
+  IPA: /də pʁɛ u də lwɛ̃/
+  IPA: /də pʁɛ.z‿u də lwɛ̃/
+à l'avenant
+  IPA: /a l‿av.nɑ̃/
+le ventre vide
+  IPA: /lə vɑ̃.tʁə vid/
+à prix d'or
+  IPA: /a pʁi d‿ɔʁ/
+à tombeau ouvert
+  IPA: /a tɔ̃.bo u.vɛʁ/
+à pieds joints
+  IPA: /a pje ʒwɛ̃/
+l'espace d'un instant
+  IPA: /l‿ɛs.pas d‿œ̃.n‿ɛ̃s.tɑ̃/
+tant que tu y es
+  IPA: /tɑ̃ k(ə) ty i ɛ/
+tant qu'on y est
+  IPA: /tɑ̃ k‿ɔ̃.n‿i ɛ/
+au prix fort
+  IPA: /o pʁi fɔʁ/
+en dernière analyse
+  IPA: /ɑ̃ dɛʁ.njɛʁ a.na.liz/
+au pas
+  IPA: /o pa/
+  IPA: /o pɑ/
+parler comme un aveugle des couleurs
+  IPA: /paʁ.le kɔm œ̃.n‿a.vœ.ɡlə de ku.lœʁ/
+en vrai
+  IPA: /ɑ̃ vʁɛ/
+à contre-jour
+  IPA: /a kɔ̃.tʁə.ʒuʁ/
+imprévisiblement
+  IPA: /ɛ̃.pʁe.vi.zi.blə.mɑ̃/
+à la portée de
+  IPA: /a la pɔʁ.te də/
+de grand matin
+  IPA: /də ɡʁɑ̃ ma.tɛ̃/
+de bas en haut
+  IPA: /də ba.z‿ɑ̃ o/
+  IPA: /də bɑ.z‿ɑ̃ o/
+au choix
+  IPA: /o ʃwa/
+bite à cul
+  IPA: /bi.t‿a ky/
+à l'heure du laitier
+  IPA: /a l‿œʁ dy lɛ.tje/
+  IPA: /a l‿œʁ dy le.tje/
+au vol
+  IPA: /o vɔl/
+à un moment donné
+  IPA: /a œ̃ mɔ.mɑ̃ dɔ.ne/
+à tout vent
+  IPA: /a tu vɑ̃/
+au jugé
+  IPA: /o ʒy.ʒe/
+au feeling
+  IPA: /o fi.liŋ/
+  IPA: /o fi.liŋɡ/
+de jour en jour
+  IPA: /də ʒu.ʁ‿ɑ̃ ʒuʁ/
+d'heure en heure
+  IPA: /d‿œ.ʁ‿ɑ̃.n‿œʁ/
+avec la meilleure volonté du monde
+  IPA: /a.vɛk la mɛ.jœʁ vɔ.lɔ̃.te dy mɔ̃d/
+  IPA: /a.vɛk la me.jœʁ vɔ.lɔ̃.te dy mɔ̃d/
+avec toute la bonne volonté du monde
+  IPA: /a.vɛk tut la bɔn vɔ.lɔ̃.te dy mɔ̃d/
+pour un régiment
+  IPA: /pu.ʁ‿œ̃ ʁe.ʒi.mɑ̃/
+pour tout un régiment
+  IPA: /puʁ tu.t‿œ̃ ʁe.ʒi.mɑ̃/
+si nécessaire
+  IPA: /si ne.sɛ.sɛʁ/
+  IPA: /si ne.se.sɛʁ/
+hors de contrôle
+  IPA: /ɔʁ də kɔ̃.tʁol/
+hors des sentiers battus
+  IPA: /ɔʁ de sɑ̃.tje ba.ty/
+à force
+  IPA: /a fɔʁs/
+à damner un saint
+  IPA: /a da.ne œ̃ sɛ̃/
+à mon avis
+  IPA: /a mɔ̃.n‿a.vi/
+à ton avis
+  IPA: /a tɔ̃.n‿a.vi/
+pour être honnête
+  IPA: /pu.ʁ‿ɛ.tʁ‿ɔ.nɛt/
+à part soi
+  IPA: /a paʁ swa/
+à mon humble avis
+  IPA: /a mɔ̃.n‿œ̃.bl‿a.vi/
+à bureaux ouverts
+  IPA: /a by.ʁo u.vɛʁ/
+à bureaux fermés
+  IPA: /a by.ʁo fɛʁ.me/
+en toute honnêteté
+  IPA: /ɑ̃ tu.t‿ɔ.nɛt.te/
+en toute franchise
+  IPA: /ɑ̃ tut fʁɑ̃.ʃiz/
+pour être franc
+  IPA: /puʁ ɛ.tʁə fʁɑ̃/
+  IPA: /puʁ e.tʁə fʁɑ̃/
+à visage découvert
+  IPA: /a vi.zaʒ de.ku.vɛʁ/
+jour après jour
+  IPA: /ʒu.ʁ‿a.pʁɛ ʒuʁ/
+en ce cas
+  IPA: /ɑ̃ s(ə) ka/
+  IPA: /ɑ̃ s(ə) kɑ/
+au galop
+  IPA: /o ɡa.lo/
+en l'espèce
+  IPA: /ɑ̃ l‿ɛs.pɛs/
+sous toutes les coutures
+  IPA: /su tut le ku.tyʁ/
+à ce que je vois
+  IPA: /a s(ə) kə ʒ(ə) vwa/
+sous toutes ses coutures
+  IPA: /su tut se ku.tyʁ/
+sur toutes les coutures
+  IPA: /syʁ tut le ku.tyʁ/
+dans une moindre mesure
+  IPA: /dɑ̃.z‿yn mwɛ̃.dʁə m(ə).zyʁ/
+dans une large mesure
+  IPA: /dɑ̃.z‿yn laʁ.ʒ(ə) mə.zyʁ/
+pour l'anecdote
+  IPA: /puʁ l‿a.nɛk.dɔt/
+en rien
+  IPA: /ɑ̃ ʁjɛ̃/
+de tout son long
+  IPA: /də tu sɔ̃ lɔ̃/
+l'autre jour
+  IPA: /l‿o.tʁə ʒuʁ/
+depuis peu
+  IPA: /də.pɥi pø/
+technocratiquement
+  IPA: /tɛk.nɔ.kʁa.tik.mɑ̃/
+par définition
+  IPA: /paʁ de.fi.ni.sjɔ̃/
+cofaire
+  IPA: /kɔ.fɛʁ/
+quintessentiellement
+  IPA: /kɛ̃.tɛ.sɑ̃.sjɛl.mɑ̃/
+  IPA: /kɛ̃.te.sɑ̃.sjɛl.mɑ̃/
+tous frais payés
+  IPA: /tu fʁɛ pɛ.je/
+  IPA: /tu fʁɛ pe.je/
+l'air de-ne-pas-y-toucher
+  IPA: /l‿ɛʁ də.n(ə).pa.z‿i.tu.ʃe/
+  IPA: /l‿ɛʁ də.n(ə).pɑ.z‿i.tu.ʃe/
+encore moins
+  IPA: /ɑ̃.kɔʁ mwɛ̃/
+et encore moins
+  IPA: /e ɑ̃.kɔʁ mwɛ̃/
+l'air de rien
+  IPA: /l‿ɛʁ də ʁjɛ̃/
+tant qu'à y être
+  IPA: /tɑ̃ k‿a i ɛtʁ/
+dans la lancée
+  IPA: /dɑ̃ la lɑ̃.se/
+treize à la douzaine
+  IPA: /tʁɛz a la du.zɛn/
+rien de tel que
+  IPA: /ʁjɛ̃ də tɛl kə/
+à la vitesse de l'éclair
+  IPA: /a la vi.tɛs də l‿e.klɛʁ/
+de par le monde
+  IPA: /də paʁ lə mɔ̃d/
+comble de malheur
+  IPA: /kɔ̃.blə d(ə) ma.lœʁ/
+sur un coin de table
+  IPA: /syʁ œ̃ kwɛ̃ də tabl/
+au maximum
+  IPA: /o mak.si.mɔm/
+à cet égard
+  IPA: /a sɛ.t‿e.ɡaʁ/
+l'arme au pied
+  IPA: /l‿aʁm o pje/
+ni vu, ni connu
+  IPA: /ni vy | ni kɔ.ny/
+pour la plupart
+  IPA: /puʁ la ply.paʁ/
+tant soit peu
+  IPA: /tɑ̃ swa pø/
+d'autre
+  IPA: /d‿otʁ/
+maintes fois
+  IPA: /mɛ̃t fwa/
+dans le pire des cas
+  IPA: /dɑ̃ l(ə) piʁ de ka/
+  IPA: /dɑ̃ l(ə) piʁ de kɑ/
+à votre avis
+  IPA: /a vɔ.tʁ‿a.vi/
+d'jà
+  IPA: /dʒa/
+dans les parages
+  IPA: /dɑ̃ le pa.ʁaʒ/
+jusqu'où
+  IPA: /ʒys.k‿u/
+comme harengs en caque
+  IPA: /kɔm a.ʁɑ̃ ɑ̃ kak/
+comme des harengs en caque
+  IPA: /kɔm de a.ʁɑ̃ ɑ̃ kak/
+comme des sardines
+  IPA: /kɔm de saʁ.din/
+en mauvaise part
+  IPA: /ɑ̃ mo.vɛz paʁ/
+en bonne part
+  IPA: /ɑ̃ bɔn paʁ/
+à ce titre
+  IPA: /a s(ə) titʁ/
+comme dirait l'autre
+  IPA: /kɔm di.ʁɛ l‿otʁ/
+dans le cas contraire
+  IPA: /dɑ̃ l(ə) ka kɔ̃.tʁɛʁ/
+  IPA: /dɑ̃ l(ə) kɑ kɔ̃.tʁɛʁ/
+à la force du poignet
+  IPA: /a la fɔʁ.s(ə) dy pwa.ɲɛ/
+censé tel
+  IPA: /sɑ̃.se tɛl/
+toutes distances gardées
+  IPA: /tut dis.tɑ̃s ɡaʁ.de/
+à bout de bras
+  IPA: /a bu də bʁa/
+  IPA: /a bu də bʁɑ/
+au chant du coq
+  IPA: /o ʃɑ̃ dy kɔk/
+aux aurores
+  IPA: /o.z‿o.ʁɔʁ/
+  IPA: /o.z‿ɔ.ʁɔʁ/
+à bon droit
+  IPA: /a bɔ̃ dʁwa/
+tout bien pesé
+  IPA: /tu bjɛ̃ pə.ze/
+presqu'
+  IPA: /pʁɛsk/
+de commun
+  IPA: /də kɔ.mœ̃/
+sept jours sur sept
+  IPA: /sɛt.ʒuʁ syʁ sɛt/
+à titre exceptionnel
+  IPA: /a ti.tʁ‿ɛk.sɛp.sjɔ.nɛl/
+clé en main
+  IPA: /kle ɑ̃ mɛ̃/
+vingt-quatre heures sur vingt-quatre
+  IPA: /vɛ̃t.ka.tʁ‿œʁ syʁ vɛ̃t.katʁ/
+à ne savoir qu'en faire
+  IPA: /a n(ə) sa.vwaʁ k‿ɑ̃ fɛʁ/
+de source sûre
+  IPA: /də suʁ.s(ə) syʁ/
+en tant que telle
+  IPA: /ɑ̃ tɑ̃ k(ə) tɛl/
+en tant que telles
+  IPA: /ɑ̃ tɑ̃ k(ə) tɛl/
+en tant que tels
+  IPA: /ɑ̃ tɑ̃ k(ə) tɛl/
+par retour de courrier
+  IPA: /paʁ ʁə.tuʁ də ku.ʁje/
+par retour du courrier
+  IPA: /paʁ ʁə.tuʁ dy ku.ʁje/
+d'ici là
+  IPA: /d‿i.si la/
+relationnellement
+  IPA: /ʁə.la.sjɔ.nɛl.mɑ̃/
+sauf mention contraire
+  IPA: /sof mɑ̃.sjɔ̃ kɔ̃.tʁɛʁ/
+sauf indication contraire
+  IPA: /sof ɛ̃.di.ka.sjɔ̃ kɔ̃.tʁɛʁ/
+par la force
+  IPA: /paʁ la fɔʁs/
+mi-décembre
+  IPA: /mi.de.sɑ̃bʁ/
+par amour
+  IPA: /pa.ʁ‿a.muʁ/
+jusqu'à lors
+  IPA: /ʒys.k‿a lɔʁ/
+à petites doses
+  IPA: /a p(ə).tit doz/
+en toute modestie
+  IPA: /ɑ̃ tut mɔ.dɛs.ti/
+au figuré
+  IPA: /o fi.ɡy.ʁe/
+de propos délibéré
+  IPA: /də pʁɔ.po de.li.be.ʁe/
+à son de trompe
+  IPA: /a sɔ̃ də tʁɔ̃p/
+pour toujours
+  IPA: /puʁ tu.ʒuʁ/
+à plein tube
+  IPA: /a plɛ̃ tyb/
+sans histoires
+  IPA: /sɑ̃.z‿is.twaʁ/
+pour finir
+  IPA: /puʁ fi.niʁ/
+en conclusion
+  IPA: /ɑ̃ kɔ̃.kly.zjɔ̃/
+en définitive
+  IPA: /ɑ̃ de.fi.ni.tiv/
+tout bas
+  IPA: /tu ba/
+  IPA: /tu bɑ/
+au radar
+  IPA: /o ʁa.daʁ/
+dans les moindres détails
+  IPA: /dɑ̃ le mwɛ̃.dʁə de.taj/
+à un moment ou à un autre
+  IPA: /a œ̃ mɔ.mɑ̃ u a œ̃.n‿otʁ/
+pour les siècles des siècles
+  IPA: /puʁ le sjɛ.klə de sjɛkl/
+sous tous rapports
+  IPA: /su tu ʁa.pɔʁ/
+à flots
+  IPA: /a flo/
+de père en fils
+  IPA: /də pɛ.ʁ‿ɑ̃ fis/
+de mère en fille
+  IPA: /də mɛ.ʁ‿ɑ̃ fij/
+  IPA: /də me.ʁ‿ɑ̃ fij/
+tarpin
+  IPA: /taʁ.pɛ̃/
+de front
+  IPA: /də fʁɔ̃/
+sur ces belles paroles
+  IPA: /syʁ se bɛl pa.ʁɔl/
+pour bien faire
+  IPA: /puʁ bjɛ̃ fɛʁ/
+en second lieu
+  IPA: /ɑ̃ s(ə).kɔ̃ ljø/
+d'avance
+  IPA: /d‿a.vɑ̃s/
+à profit
+  IPA: /a pʁɔ.fi/
+à date
+  IPA: /a dat/
+sur ces mots
+  IPA: /syʁ se mo/
+à titre gracieux
+  IPA: /a ti.tʁə ɡʁa.sjø/
+à sa guise
+  IPA: /a sa ɡiz/
+à ce moment-là
+  IPA: /a s(ə) mɔ.mɑ̃.la/
+en fanfare
+  IPA: /ɑ̃ fɑ̃.faʁ/
+fleur au fusil
+  IPA: /flœ.ʁ‿o fy.zi/
+en bien
+  IPA: /ɑ̃ bjɛ̃/
+en mal
+  IPA: /ɑ̃ mal/
+à la française
+  IPA: /a la fʁɑ̃.sɛz/
+à la fraîche
+  IPA: /a la fʁɛʃ/
+à un poil
+  IPA: /a œ̃ pwal/
+à suffisance
+  IPA: /a sy.fi.zɑ̃s/
+de main en main
+  IPA: /də mɛ̃ ɑ̃ mɛ̃/
+pour un peu
+  IPA: /pu.ʁ‿œ̃ pø/
+pour le même prix
+  IPA: /puʁ lə mɛm pʁi/
+ainsi donc
+  IPA: /ɛ̃.si dɔ̃k/
+tant que faire se peut
+  IPA: /tɑ̃ k(ə) fɛʁ sə pø/
+à sa sauce
+  IPA: /a sa sos/
+par la présente
+  IPA: /paʁ la pʁe.zɑ̃t/
+avant notre ère
+  IPA: /a.vɑ̃ nɔ.tʁ‿ɛʁ/
+depuis A jusqu'à Z
+  IPA: /də.pɥi a ʒys.k‿a zɛd/
+pour du beurre
+  IPA: /puʁ dy bœʁ/
+de bric et de broc
+  IPA: /də bʁik e də bʁɔk/
+pour des haricots
+  IPA: /puʁ de a.ʁi.ko/
+en un tour de main
+  IPA: /ɑ̃.n‿œ̃ tuʁ də mɛ̃/
+un jour ou l'autre
+  IPA: /œ̃ ʒuʁ u l‿otʁ/
+d'une manière ou d'une autre
+  IPA: /d‿yn ma.njɛ.ʁ‿u d‿y.n‿otʁ/
+d'un côté
+  IPA: /d‿œ̃ ko.te/
+la tête haute
+  IPA: /la tɛt ot/
+de pis en pis
+  IPA: /də pi.z‿ɑ̃ pi/
+d'urgence
+  IPA: /d‿yʁ.ʒɑ̃s/
+en urgence
+  IPA: /ɑ̃.n‿yʁ.ʒɑ̃s/
+à prix d'argent
+  IPA: /a pʁi d‿aʁ.ʒɑ̃/
+loin du compte
+  IPA: /lwɛ̃ dy kɔ̃t/
+comme on dit
+  IPA: /kɔ.m‿ɔ̃ di/
+à pleine lancée
+  IPA: /a plɛn lɑ̃.se/
+d'une seule voix
+  IPA: /d‿yn sœl vwa/
+au nom de la loi
+  IPA: /o nɔ̃ d(ə) la lwa/
+pour de faux
+  IPA: /puʁ də fo/
+pour du vrai
+  IPA: /puʁ dy vʁɛ/
+pour du faux
+  IPA: /puʁ dy fo/
+en arrière
+  IPA: /ɑ̃.n‿a.ʁjɛʁ/
+hors de saison
+  IPA: /ɔʁ də sɛ.zɔ̃/
+  IPA: /ɔʁ də se.zɔ̃/
+dans les meilleurs délais
+  IPA: /dɑ̃ le mɛ.jœʁ de.lɛ/
+  IPA: /dɑ̃ le me.jœʁ de.lɛ/
+pour un plat de lentilles
+  IPA: /pu.ʁ‿œ̃ pla d(ə) lɑ̃.tij/
+plus outre
+  IPA: /ply.z‿utʁ/
+d'outre en outre
+  IPA: /d‿utʁ ɑ̃.n‿utʁ/
+depuis que le monde est monde
+  IPA: /də.pɥi kə l(ə) mɔ̃.d‿ɛ mɔ̃d/
+en sous-main
+  IPA: /ɑ̃ su.mɛ̃/
+perdu pour perdu
+  IPA: /pɛʁ.dy puʁ pɛʁ.dy/
+à pied sec
+  IPA: /a pje sɛk/
+à la muette
+  IPA: /a la mɥɛt/
+à visière ouverte
+  IPA: /a vi.zjɛ.ʁ‿u.vɛʁt/
+à grandes journées
+  IPA: /a ɡʁɑ̃d ʒuʁ.ne/
+à petits pas
+  IPA: /a p(ə).ti pa/
+  IPA: /a p(ə).ti pɑ/
+à petites journées
+  IPA: /a p(ə).tit ʒuʁ.ne/
+à pleines mains
+  IPA: /a plɛn mɛ̃/
+à main que veux-tu
+  IPA: /a mɛ̃ k(ə) vø.ty/
+à grands frais
+  IPA: /a ɡʁɑ̃ fʁɛ/
+à grandes gorgées
+  IPA: /a ɡʁɑ̃d ɡɔʁ.ʒe/
+à bon marché
+  IPA: /a bɔ̃ maʁ.ʃe/
+à la va comme je te pousse
+  IPA: /a la va kɔm ʒə t(ə) pus/
+à parler franc
+  IPA: /a paʁ.le fʁɑ̃/
+à l'heure qu'il est
+  IPA: /a l‿œʁ k‿il ɛ/
+à longs traits
+  IPA: /a lɔ̃ tʁɛ/
+sur le moment
+  IPA: /syʁ lə mɔ.mɑ̃/
+pour la bonne règle
+  IPA: /puʁ la bɔn ʁɛɡl/
+dans son coin
+  IPA: /dɑ̃ sɔ̃ kwɛ̃/
+dans le fond
+  IPA: /dɑ̃ l(ə) fɔ̃/
+sur le fond
+  IPA: /syʁ lə fɔ̃/
+en substance
+  IPA: /ɑ̃ syp.stɑ̃s/
+sur la forme
+  IPA: /syʁ la fɔʁm/
+qui mieux est
+  IPA: /ki mjø.z‿ɛ/
+qui pis est
+  IPA: /ki pi.z‿ɛ/
+de compte à demi
+  IPA: /də kɔ̃.t‿a d(ə).mi/
+à tort ou à raison
+  IPA: /a tɔ.ʁ‿u a ʁɛ.zɔ̃/
+  IPA: /a tɔ.ʁ‿u a ʁe.zɔ̃/
+touristiquement
+  IPA: /tu.ʁis.tik.mɑ̃/
+guez
+  IPA: /ɡe/
+d'autant moins
+  IPA: /d‿o.tɑ̃ mwɛ̃/
+en vrai de vrai
+  IPA: /ɑ̃ vʁɛ də vʁɛ/
+en un sens
+  IPA: /ɑ̃.n‿œ̃ sɑ̃s/
+c'est pourquoi
+  IPA: /s‿ɛ puʁ.kwa/
+journalièrement
+  IPA: /ʒuʁ.na.ljɛʁ.mɑ̃/
+dès l'abord
+  IPA: /dɛ l‿a.bɔʁ/
+dans un deuxième temps
+  IPA: /dɑ̃.z‿œ̃ dø.zjɛm tɑ̃/
+sans souci
+  IPA: /sɑ̃ su.si/
+après-après-demain
+  IPA: /a.pʁɛ.a.pʁɛ.d(ə).mɛ̃/
+rauquement
+  IPA: /ʁok.mɑ̃/
+sans tambour ni trompette
+  IPA: /sɑ̃ tɑ̃.buʁ ni tʁɔ̃.pɛt/
+avec tambour et trompette
+  IPA: /a.vɛk tɑ̃.bu.ʁ‿e tʁɔ̃.pɛt/
+sans mal
+  IPA: /sɑ̃ mal/
+dans ces eaux-là
+  IPA: /dɑ̃.se.zo.la/
+d'Ève ni d'Adam
+  IPA: /d‿ɛv ni d‿a.dɑ̃/
+jusqu'à la moelle
+  IPA: /ʒys.k‿a la mwal/
+de traviole
+  IPA: /də tʁa.vjɔl/
+entre couilles
+  IPA: /ɑ̃.tʁə kuj/
+fort et clair
+  IPA: /fɔ.ʁ‿e klɛʁ/
+tout à la fois
+  IPA: /tu.t‿a la fwa/
+poc à poc
+  IPA: /pɔk a pɔk/
+à l'étage
+  IPA: /a l‿e.taʒ/
+à la Du Barry
+  IPA: /a la dy ba.ʁi/
+du même coup
+  IPA: /dy mɛm ku/
+au passage
+  IPA: /o pa.saʒ/
+comme même
+  IPA: /kɔm mɛm/
+au train où vont les choses
+  IPA: /o tʁɛ̃ u vɔ̃ le ʃoz/
+jusqu'à l'os
+  IPA: /ʒys.k‿a l‿ɔs/
+avec l'énergie du désespoir
+  IPA: /a.vɛk l‿e.nɛʁ.ʒi dy de.zɛs.pwaʁ/
+dans la pratique
+  IPA: /dɑ̃ la pʁa.tik/
+à la vitesse de la lumière
+  IPA: /a la vi.tɛs də la ly.mjɛʁ/
+à la nuit tombante
+  IPA: /a la nɥi tɔ̃.bɑ̃t/
+en dernière extrémité
+  IPA: /ɑ̃ dɛʁ.njɛ.ʁ‿ɛk.stʁe.mi.te/
+d'ici
+  IPA: /d‿i.si/
+en garçon
+  IPA: /ɑ̃ ɡaʁ.sɔ̃/
+à ce qu'il paraît
+  IPA: /a s(ə) k‿il pa.ʁɛ/
+un max
+  IPA: /œ̃ maks/
+en ordre de marche
+  IPA: /ɑ̃ ɔʁ.dʁə d(ə) maʁʃ/
+le moment venu
+  IPA: /lə mɔ.mɑ̃ v(ə).ny/
+centralement
+  IPA: /sɑ̃.tʁal.mɑ̃/
+à la turque
+  IPA: /a la tyʁk/
+au fil de l'eau
+  IPA: /o fil də l‿o/
+comme par enchantement
+  IPA: /kɔm pa.ʁ‿ɑ̃.ʃɑ̃t.mɑ̃/
+à la corde
+  IPA: /a la kɔʁd/
+en ville
+  IPA: /ɑ̃.vil/
+sur la fin
+  IPA: /syʁ la fɛ̃/
+où que
+  IPA: /u kə/
+dans la réalité
+  IPA: /dɑ̃ la ʁe.a.li.te/
+au plus juste
+  IPA: /o ply ʒyst/
+géopolitiquement
+  IPA: /ʒe.ɔ.pɔ.li.tik.mɑ̃/
+pleins gaz
+  IPA: /plɛ̃ ɡaz/
+à moitié prix
+  IPA: /a mwa.tje pʁi/
+par moments
+  IPA: /paʁ mɔ.mɑ̃/
+de cette manière
+  IPA: /də sɛt ma.njɛʁ/
+comme s'il en pleuvait
+  IPA: /kɔm s‿il ɑ̃ plœ.vɛ/
+en son temps
+  IPA: /ɑ̃ sɔ̃ tɑ̃/
+d'une minute à l'autre
+  IPA: /d‿yn mi.ny.t‿a l‿otʁ/
+en un éclair
+  IPA: /ɑ̃.n‿œ̃.n‿e.klɛʁ/
+d'une façon ou d'une autre
+  IPA: /d‿yn fa.sɔ̃ u d‿y.n‿otʁ/
+de par
+  IPA: /də paʁ/
+d'année en année
+  IPA: /d‿a.ne ɑ̃.n‿a.ne/
+d'un jour à l'autre
+  IPA: /d‿œ̃ ʒu.ʁ‿a l‿otʁ/
+d'un coup d'un seul
+  IPA: /d‿œ̃ ku d‿œ̃ sœl/
+en surface
+  IPA: /ɑ̃ syʁ.fas/
+dans tous les cas
+  IPA: /dɑ̃ tu le ka/
+  IPA: /dɑ̃ tu le kɑ/
+des fois
+  IPA: /de fwa/
+ap. J.-C.
+  IPA: /a.pʁɛ ʒe.zy.kʁi/

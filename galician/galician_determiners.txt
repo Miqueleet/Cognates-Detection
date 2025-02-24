@@ -1,0 +1,64 @@
+mi
+  IPA: [mi]
+ese
+  IPA: /ˈesɪ/
+este
+  IPA: [ˈestɪ]
+outro
+  IPA: [ˈoʊ̯tɾʊ]
+estas
+  IPA: /ˈɛstɐs/
+esa
+  IPA: /ˈɛsɐ/
+esta
+  IPA: /ˈɛstɐ/
+esas
+  IPA: /ˈɛsɐs/
+aquel
+  IPA: /aˈkel/
+  IPA: [ɑˈkeɫ]
+algún
+  IPA: [alˈɣuŋ]
+ningún
+  IPA: [niŋˈɡuŋ]
+algúns
+  IPA: /alˈɣuŋs/
+algunha
+  IPA: /alˈɡuŋa/
+  IPA: [ɑɫˈɣ̞u.ŋɐ]
+  IPA: /alˈɡuŋa/ (Tags: standard)
+  IPA: [ɑɫˈɣ̞u.ŋɐ] (Tags: standard)
+  IPA: /alˈħuŋa/
+  IPA: [ɑɫˈħu.ŋɐ]
+voso
+  IPA: [ˈbɔsʊ]
+abondo
+  IPA: /aˈbondo/
+  IPA: [aˈβ̞on̪.d̪ʊ]
+máis
+  IPA: /ˈmajs/
+ningunha
+  IPA: /niŋˈɡuŋa/
+  IPA: [nĩŋˈɡu.ŋɐ]
+  IPA: /niŋˈɡuŋa/ (Tags: standard)
+  IPA: [nĩŋˈɡu.ŋɐ] (Tags: standard)
+  IPA: /niŋˈħuŋa/
+  IPA: [nĩŋˈħu.ŋɐ]
+estes
+  IPA: /ˈestɪs/
+eses
+  IPA: /ˈesɪs/
+aquela
+  IPA: [aˈkelɐ]
+  IPA: [aˈkɛlɐ] (Tags: Western)
+aqueles
+  IPA: /aˈkelɪs/
+aquelas
+  IPA: /aˈkɛlɐs/
+pouca
+  IPA: /ˈpowkɐ/
+senllo
+  IPA: /ˈsenʎo̝/
+senllos
+  IPA: /ˈsenɟos/
+  IPA: [ˈs̺en.ɟos̺]

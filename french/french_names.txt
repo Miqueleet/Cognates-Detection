@@ -1,0 +1,12421 @@
+Fanny
+  IPA: /fa.ni/
+CIA
+  IPA: /se.i.a/
+KGB
+  IPA: /ka.ʒe.be/
+BCE
+  IPA: /be.se.ø/
+FBI
+  IPA: /ɛf.bi.aj/
+NASA
+  IPA: /na.za/
+HTML
+  IPA: /tml/
+Eurovision
+  IPA: /ø.ʁɔ.vi.zjɔ̃/
+Mexico
+  IPA: /mɛk.si.ko/
+Bahamas
+  IPA: /ba.a.mas/
+Burundi
+  IPA: /bu.ʁun.di/
+Belize
+  IPA: /be.liz/
+Gabon
+  IPA: /ɡa.bɔ̃/
+Ghana
+  IPA: /ɡa.na/
+Philippines
+  IPA: /fi.li.pin/
+Honduras
+  IPA: /ɔ̃.dy.ʁas/
+Bangladesh
+  IPA: /bɑ̃.ɡla.dɛʃ/
+Guyana
+  IPA: /ɡɥi.ja.na/
+Maldives
+  IPA: /mal.div/
+Kenya
+  IPA: /ke.nja/
+Botswana
+  IPA: /bɔt.swa.na/
+Djibouti
+  IPA: /dʒi.bu.ti/
+Afghanistan
+  IPA: /af.ɡa.nis.tɑ̃/
+Nigeria
+  IPA: /ni.ʒe.ʁja/
+Kiribati
+  IPA: /ki.ʁi.ba.ti/
+Monaco
+  IPA: /mɔ.na.ko/
+Angola
+  IPA: /ɑ̃.ɡɔ.la/
+France
+  IPA: /fʁɑ̃s/
+  IPA: /fʁãⁿsə/
+  IPA: /fʁãs/ (Tags: Quebec)
+  IPA: /fɾɑ̃s/ (Tags: Louisiana)
+Guatemala
+  IPA: /ɡwa.te.ma.la/
+Qatar
+  IPA: /ka.taʁ/
+Uruguay
+  IPA: /y.ʁy.ɡwɛ/
+  IPA: /y.ʁy.ɡwe/
+Mozambique
+  IPA: /mo.zɑ̃.bik/
+Madagascar
+  IPA: /ma.da.ɡas.kaʁ/
+Rwanda
+  IPA: /ʁwɑ̃.da/
+Ukraine
+  IPA: /y.kʁɛn/
+Laos
+  IPA: /la.ɔs/
+URSS
+  IPA: /y.ɛ.ʁɛ.sɛs/
+  IPA: /y.e.ʁe.sɛs/
+Venezuela
+  IPA: /ve.ne.zɥe.la/
+Mali
+  IPA: /ma.li/
+Cuba
+  IPA: /ky.ba/
+Niger
+  IPA: /ni.ʒɛʁ/
+Luxembourg
+  IPA: /lyk.sɑ̃.buʁ/
+Pakistan
+  IPA: /pa.kis.tɑ̃/
+Paraguay
+  IPA: /pa.ʁa.ɡwɛ/
+  IPA: /pa.ʁa.ɡwe/
+  IPA: /pa.ʁa.ɡwaj/
+Togo
+  IPA: /to.ɡo/
+Réunion
+  IPA: /ʁe.y.njɔ̃/
+Brunei
+  IPA: /bʁy.nɛj/
+  IPA: /bʁy.nej/
+Zaïre
+  IPA: /za.iʁ/
+Martinique
+  IPA: /maʁ.ti.nik/
+Seychelles
+  IPA: /se.ʃɛl/
+Vanuatu
+  IPA: /va.nɥa.ty/
+FIFA
+  IPA: /fi.fa/
+Iran
+  IPA: /i.ʁɑ̃/
+Mayotte
+  IPA: /ma.jɔt/
+Romania
+  IPA: /ʁɔ.ma.nja/
+Liechtenstein
+  IPA: /liʃ.tən.ʃtajn/
+Burkina Faso
+  IPA: /buʁ.ki.na fa.so/
+Kazakhstan
+  IPA: /ka.zak.stɑ̃/
+Guadeloupe
+  IPA: /ɡwa.dlup/
+  IPA: /ɡwa.də.lup/
+Costa Rica
+  IPA: /kɔs.ta ʁi.ka/
+Sri Lanka
+  IPA: /sʁi lɑ̃.ka/
+Portugal
+  IPA: /pɔʁ.ty.ɡal/
+  IPA: /pɔʁ.t͡sʏ.ɡal/ (Tags: Quebec)
+Canada
+  IPA: /ka.na.da/
+  IPA: /ka.na.da/ (Tags: Canada)
+  IPA: /ka.na.dɑ/ (Tags: Canada)
+Congo
+  IPA: /kɔ̃.ɡo/
+Myanmar
+  IPA: /mjan.maʁ/
+Samoa
+  IPA: /sa.mɔ.a/
+Samoa
+  IPA: /sa.mɔ.a/
+Vietnam
+  IPA: /vjɛt.nam/
+Jordan
+  IPA: /ʒɔʁ.dan/
+  IPA: /dʒɔʁ.dan/
+Jupiter
+  IPA: /ʒy.pi.tɛʁ/
+Jupiter
+  IPA: /ʒy.pi.tɛʁ/
+SI
+  IPA: /ɛ.si/
+  IPA: /e.si/
+CH
+  IPA: /se.aʃ/
+Victoria
+  IPA: /vik.tɔ.ʁja/
+São Paulo
+  IPA: /sa.o po.lo/
+Manitoba
+  IPA: /ma.ni.tɔ.ba/
+  IPA: /ma.ni.to.bɑ/ (Tags: Canada)
+  IPA: /ma.ni.to.bɔ/ (Tags: Canada)
+Nunavut
+  IPA: /nu.na.vut/ (Tags: Belgium, France)
+  IPA: /ny.na.vyt/ (Tags: Belgium, France)
+  IPA: /nu.na.vut/
+  IPA: /nu.na.vʊt/
+  IPA: /ny.na.vʏt/
+Saskatchewan
+  IPA: /sas.ka.tʃə.wan/ (Tags: Canada)
+  IPA: /sas.ka.tʃo.wan/ (Tags: Canada)
+  IPA: /sas.ka.tʃe.wan/ (Tags: Europe)
+Paraná
+  IPA: /pa.ʁa.na/
+Fredericton
+  IPA: /fʁe.de.ʁik.tɔn/ (Tags: Belgium, France)
+  IPA: /fʁe.de.ʁik.tœn/ (Tags: Belgium, France)
+Rajasthan
+  IPA: /ʁa.ʒas.tɑ̃/
+Yellowknife
+  IPA: /jɛ.lo.najf/
+  IPA: /je.lo.najf/
+Iqaluit
+  IPA: /i.ka.lwit/
+Alberta
+  IPA: /al.bɛʁ.ta/
+  IPA: /al.bɛʁ.tɑ/ (Tags: Quebec)
+  IPA: /al.bɛʁ.tɔ/ (Tags: Quebec)
+Winnipeg
+  IPA: /wi.ni.pɛɡ/
+Ontario
+  IPA: /ɔ̃.ta.ʁjo/
+Perth
+  IPA: /pœʁs/ (Tags: France)
+  IPA: /pɛʁs/ (Tags: France)
+  IPA: /pɚːt/ (Tags: Quebec)
+Edmonton
+  IPA: /ɛd.mœn.tœn/ (Tags: Canada)
+  IPA: /ɛd.mɔn.tɔn/ (Tags: France)
+Melbourne
+  IPA: /mɛl.buʁn/
+  IPA: /mɛlbɚn/
+Canberra
+  IPA: /kɑ̃.bɛ.ʁa/
+  IPA: /kɑ̃.be.ʁa/
+  IPA: /kan.bɛ.ʁa/
+  IPA: /kan.be.ʁa/
+Toronto
+  IPA: /tɔ.ʁɔ̃.to/
+Sydney
+  IPA: /sid.nɛ/
+  IPA: /sid.ne/
+Salvador
+  IPA: /sal.va.dɔʁ/
+Calcutta
+  IPA: /kal.ky.ta/
+pays du Soleil Levant
+  IPA: /pɛ.i dy sɔ.lɛj lə.vɑ̃/
+  IPA: /pe.i dy sɔ.lɛj lə.vɑ̃/
+Ottawa
+  IPA: /ɔ.ta.wa/
+  IPA: /ɔ.ta.wɑ/
+Kuala Lumpur
+  IPA: /kwa.la lum.puʁ/
+Bombay
+  IPA: /bɔ̃.bɛ/
+Hong Kong
+  IPA: /ɔ̃ɡ.kɔ̃ɡ/
+  IPA: /ɔŋ.kɔŋ/
+Islam
+  IPA: /i.slam/
+Serbie-et-Monténégro
+  IPA: /sɛʁ.bi.e.mɔ̃.te.ne.ɡʁo/
+Europe
+  IPA: /ø.ʁɔp/
+Christian
+  IPA: /kʁis.tjɑ̃/
+Tibet
+  IPA: /ti.bɛ/
+Laura
+  IPA: /lɔ.ʁa/
+Amsterdam
+  IPA: /am.stɛʁ.dam/
+Palestine
+  IPA: /pa.lɛs.tin/
+Condé-sur-Sarthe
+  IPA: /kɔ̃.de.syʁ.saʁt/
+Alençon
+  IPA: /a.lɑ̃.sɔ̃/
+PS
+  IPA: /pe.ɛs/
+Naples
+  IPA: /napl/
+Stockholm
+  IPA: /stɔ.kɔlm/
+Ankara
+  IPA: /ɑ̃.ka.ʁa/
+Madrid
+  IPA: /ma.dʁid/
+Paris
+  IPA: /pa.ʁi/
+Paris
+  IPA: /pa.ʁi/
+Roumanie
+  IPA: /ʁu.ma.ni/
+PC
+  IPA: /pe.se/
+Orne
+  IPA: /ɔʁn/
+Toscane
+  IPA: /tɔs.kan/
+Albert
+  IPA: /al.bɛʁ/
+PLC
+  IPA: /pe.ɛl.se/
+Budapest
+  IPA: /by.da.pɛst/
+Michelle
+  IPA: /mi.ʃɛl/
+Michael
+  IPA: /mi.ka.ɛl/
+  IPA: /maj.kœl/
+Charles
+  IPA: /ʃaʁl/
+Christopher
+  IPA: /kʁis.tɔ.fɛʁ/
+Christ
+  IPA: /kʁist/
+  IPA: /kʁi/
+Cologne
+  IPA: /kɔ.lɔɲ/
+Juneau
+  IPA: /ʒy.no/
+Lagos
+  IPA: /la.ɡɔs/
+  IPA: /la.ɡos/
+Lagos
+  IPA: /la.ɡɔs/
+  IPA: /la.ɡos/
+Piedmont
+  IPA: /pje.mɔ̃/
+Kiev
+  IPA: /kjɛv/
+  IPA: /kjɛf/
+Saint-Pierre
+  IPA: /sɛ̃.pjɛʁ/
+  IPA: /sẽ pjaɛ̯ʁ/ (Tags: Quebec)
+Munich
+  IPA: /my.nik/
+Nairobi
+  IPA: /nɛ.ʁɔ.bi/
+  IPA: /ne.ʁɔ.bi/
+  IPA: /na.i.ʁɔ.bi/
+Surinam
+  IPA: /sy.ʁi.nam/
+Quito
+  IPA: /ki.to/
+Helsinki
+  IPA: /ɛl.siŋ.ki/
+Rhodes
+  IPA: /ʁɔd/
+Turin
+  IPA: /ty.ʁɛ̃/
+San Francisco
+  IPA: /sɑ̃ fʁɑ̃.sis.ko/
+Los Angeles
+  IPA: /lɔ.s‿ɑ̃.dʒə.lɛs/ (Tags: France)
+  IPA: /lo.s‿ɑ̃.dʒə.lɛs/ (Tags: France)
+  IPA: /lɔ.s‿an.dʒə.lɛs/ (Tags: Canada)
+  IPA: /lɔ.s‿ã.ʒɛl/ (Tags: Canada)
+Syracuse
+  IPA: /si.ʁa.kyz/
+Bangkok
+  IPA: /bɑ̃.kɔk/
+  IPA: /baŋ.kɔk/
+Vancouver
+  IPA: /vɑ̃.ku.vɛʁ/ (Tags: France)
+  IPA: /vã.ku.vaɛ̯ʁ/ (Tags: Canada)
+Milan
+  IPA: /mi.lɑ̃/
+Zagreb
+  IPA: /za.ɡʁɛb/
+Zurich
+  IPA: /zy.ʁik/
+Dublin
+  IPA: /dy.blɛ̃/
+Tunis
+  IPA: /ty.nis/
+Vientiane
+  IPA: /vjɛ̃.tjan/
+Molise
+  IPA: /mɔ.liz/
+Maine
+  IPA: /mɛn/
+Maine
+  IPA: /mɛn/
+Oslo
+  IPA: /ɔ.slo/
+Marche
+  IPA: /maʁʃ/
+Tokyo
+  IPA: /to.kjo/
+Latium
+  IPA: /la.sjɔm/
+  IPA: /la.sjœm/
+Florence
+  IPA: /flɔ.ʁɑ̃s/
+Liverpool
+  IPA: /li.vœʁ.pul/
+  IPA: /li.vɛʁ.pul/
+Isernia
+  IPA: /i.zɛʁ.nja/
+Java
+  IPA: /ʒa.va/
+Java
+  IPA: /ʒa.va/
+Matera
+  IPA: /ma.te.ʁa/
+Potenza
+  IPA: /pɔ.tɛn.za/
+New York
+  IPA: /nju jɔʁk/
+  IPA: /nu jɔʁk/
+  IPA: /nu jɔɹk/
+Udine
+  IPA: /y.din/
+Sassari
+  IPA: /sa.sa.ʁi/
+Prato
+  IPA: /pʁa.to/
+Pordenone
+  IPA: /pɔʁ.dɛ.nɔn/
+  IPA: /pɔʁ.de.nɔn/
+Thrace
+  IPA: /tʁas/
+Pistoia
+  IPA: /pis.tɔ.ja/
+Terni
+  IPA: /tɛʁ.ni/
+Pescara
+  IPA: /pɛs.ka.ʁa/
+Rieti
+  IPA: /ʁjɛ.ti/
+  IPA: /ʁje.ti/
+Rimini
+  IPA: /ʁi.mi.ni/
+Teramo
+  IPA: /tɛ.ʁa.mo/
+  IPA: /te.ʁa.mo/
+Cyclades
+  IPA: /si.klad/
+Trapani
+  IPA: /tʁa.pa.ni/
+Berlin
+  IPA: /bɛʁ.lɛ̃/
+Trieste
+  IPA: /tʁi.jɛst/
+Larissa
+  IPA: /la.ʁi.sa/
+Nicolas
+  IPA: /ni.kɔ.la/
+  IPA: /ni.kɔ.lɑ/
+Rome
+  IPA: /ʁɔm/
+Arlon
+  IPA: /aʁ.lɔ̃/
+Charleroi
+  IPA: /ʃaʁ.lə.ʁwa/
+Daniel
+  IPA: /da.njɛl/
+Hainaut
+  IPA: /ɛ.no/
+  IPA: /e.no/
+Bruges
+  IPA: /bʁyʒ/
+Bruges
+  IPA: /bʁyʒ/
+Namur
+  IPA: /na.myʁ/
+Brabant
+  IPA: /bʁa.bɑ̃/
+Pori
+  IPA: /pɔ.ʁi/
+Tampere
+  IPA: /tɑ̃.pe.ʁe/
+Schleswig-Holstein
+  IPA: /ʃlɛs.vi.ɡɔlʃ.tajn/
+Turku
+  IPA: /tuʁ.ku/
+Sarajevo
+  IPA: /sa.ʁa.je.vo/
+Prague
+  IPA: /pʁaɡ/
+Hesse
+  IPA: /ɛs/
+Alexandrie
+  IPA: /a.lɛk.sɑ̃.dʁi/
+Nuuk
+  IPA: /nuk/
+Python
+  IPA: /pi.tɔ̃/
+Lamia
+  IPA: /la.mja/
+Lamia
+  IPA: /la.mja/
+ido
+  IPA: /i.do/
+Zeus
+  IPA: /dzøs/
+  IPA: /zøs/
+Bretagne
+  IPA: /bʁə.taɲ/
+Sofia
+  IPA: /sɔ.fja/
+Malte
+  IPA: /malt/
+Flevoland
+  IPA: /fle.vɔ.lɑ̃d/
+Drenthe
+  IPA: /dʁɑ̃t/
+Reykjavík
+  IPA: /ʁɛ.kja.vik/
+  IPA: /ʁe.kja.vik/
+Skopje
+  IPA: /skɔ.pje/
+Overijssel
+  IPA: /ɔ.ve.ʁiʒ.sɛl/
+Utrecht
+  IPA: /y.tʁɛkt/
+Sarah
+  IPA: /sa.ʁa/
+Tel Aviv-Jaffa
+  IPA: /tɛ.la.viv.ʒa.fa/
+  IPA: /te.la.viv.ʒa.fa/
+Bucarest
+  IPA: /by.ka.ʁɛst/
+Mongolie
+  IPA: /mɔ̃.ɡɔ.li/
+Asie
+  IPA: /a.zi/
+Cambridge
+  IPA: /kɑ̃.bʁidʒ/ (Tags: France)
+  IPA: /kam.bʁidʒ/ (Tags: France)
+  IPA: /kam.bʁidʒ/ (Tags: Belgium)
+Aaron
+  IPA: /a.a.ʁɔ̃/
+Afar
+  IPA: /a.faʁ/
+Apache
+  IPA: /a.paʃ/
+Valais
+  IPA: /va.lɛ/
+Berne
+  IPA: /bɛʁn/
+Grisons
+  IPA: /ɡʁi.zɔ̃/
+Vaud
+  IPA: /vo/
+Fribourg
+  IPA: /fʁi.buʁ/
+Uri
+  IPA: /y.ʁi/
+Xavier
+  IPA: /ɡza.vje/
+  IPA: /ksa.vje/
+Neuchâtel
+  IPA: /nø.ʃa.tɛl/
+  IPA: /nø.ʃɑ.tɛl/
+  IPA: /nø.ʃa.tɛl/
+  IPA: /nɘʃatel/
+Lucerne
+  IPA: /ly.sɛʁn/
+Jura
+  IPA: /ʒy.ʁa/
+Neptune
+  IPA: /nɛp.tyn/
+Thomas
+  IPA: /tɔ.ma/
+  IPA: /tɔ.mɑ/
+Joseph
+  IPA: /ʒo.zɛf/
+Uranus
+  IPA: /y.ʁa.nys/
+Uranus
+  IPA: /y.ʁa.nys/
+Belgrade
+  IPA: /bɛl.ɡʁad/
+Alpes
+  IPA: /alp/
+  IPA: /alpə/
+Paul
+  IPA: /pɔl/
+Claudia
+  IPA: /klo.dja/
+Abdallah
+  IPA: /ab.da.la/
+Kentucky
+  IPA: /kɛn.ty.ki/ (Tags: Europe)
+  IPA: /kɛn.tœ.ki/ (Tags: Europe)
+  IPA: /kɛn.tɔ.ki/ (Tags: Canada)
+Pologne
+  IPA: /pɔ.lɔɲ/
+Abbeville
+  IPA: /ab.vil/
+  IPA: /be.vil/ (Tags: Louisiana)
+Frankenstein
+  IPA: /fʁɑ̃.kɑ̃s.tɛ̃/
+Le Caire
+  IPA: /lə kɛʁ/
+SCART
+  IPA: /skaʁt/
+Jérusalem
+  IPA: /ʒe.ʁy.za.lɛm/
+Texas
+  IPA: /tɛk.sas/ (Tags: France)
+  IPA: /tɛɡ.zɑs/ (Tags: Canada)
+  IPA: /tɛɡ.zɑ/ (Tags: Canada)
+Avignon
+  IPA: /a.vi.ɲɔ̃/
+web
+  IPA: /wɛb/
+Italie
+  IPA: /i.ta.li/
+Brian
+  IPA: /bʁa.jan/
+Richard
+  IPA: /ʁi.ʃaʁ/
+Chypre
+  IPA: /ʃipʁ/
+Alice
+  IPA: /a.lis/
+Adam
+  IPA: /a.dɑ̃/
+Francie
+  IPA: /fʁɑ̃.si/
+James
+  IPA: /dʒɛms/
+  IPA: /ʒam/
+Jacob
+  IPA: /ʒa.kɔb/
+Rachel
+  IPA: /ʁa.ʃɛl/
+Jones
+  IPA: /ʒɔn/
+David
+  IPA: /da.vid/
+  IPA: /da.vi/
+EI
+  IPA: /ø.i/
+Alexandra
+  IPA: /a.lɛk.sɑ̃.dʁa/
+Labrador
+  IPA: /la.bʁa.dɔʁ/
+Robert
+  IPA: /ʁɔ.bɛʁ/
+Alex
+  IPA: /a.lɛks/
+Aphrodite
+  IPA: /a.fʁɔ.dit/
+Gaby
+  IPA: /ɡa.bi/
+Gaby
+  IPA: /ɡa.bi/
+Scylla
+  IPA: /si.la/
+Big Apple
+  IPA: /bi.ɡ‿a.pœl/
+Odin
+  IPA: /ɔ.dɛ̃/
+Bristol
+  IPA: /bʁis.tol/
+Floride
+  IPA: /flɔ.ʁid/
+Durex
+  IPA: /dy.ʁɛks/
+Jason
+  IPA: /ʒa.zɔ̃/
+  IPA: /dʒɛ.zɔn/
+Marian
+  IPA: /ma.ʁjɑ̃/
+La Mecque
+  IPA: /la mɛk/
+Thessalonique
+  IPA: /tɛ.sa.lɔ.nik/
+  IPA: /te.sa.lɔ.nik/
+Lucifer
+  IPA: /ly.si.fɛʁ/
+Anne
+  IPA: /an/
+Jessica
+  IPA: /ʒɛ.si.ka/
+  IPA: /ʒe.si.ka/
+Inde
+  IPA: /ɛ̃d/
+Belgique
+  IPA: /bɛl.ʒik/
+Satan
+  IPA: /sa.tɑ̃/
+Autriche
+  IPA: /o.tʁiʃ/
+Danemark
+  IPA: /dan.maʁk/
+Pâques
+  IPA: /pak/
+  IPA: /pɑk/
+Fiona
+  IPA: /fjɔ.na/
+Gibraltar
+  IPA: /ʒi.bʁal.taʁ/
+Aberdeen
+  IPA: /a.bɛʁ.din/
+Alaska
+  IPA: /a.las.ka/
+Gabriel
+  IPA: /ɡa.bʁi.jɛl/
+Irak
+  IPA: /i.ʁak/
+Wilson
+  IPA: /wil.sɔn/
+  IPA: /wil.sɔ̃/
+Kansas
+  IPA: /kɑ̃.sas/
+  IPA: /kan.zəs/
+Utah
+  IPA: /y.ta/
+  IPA: /y.tɑ/
+Wyoming
+  IPA: /wa.jo.miŋ/
+Wisconsin
+  IPA: /wis.kɔn.sin/
+  IPA: /wis.kɔ̃.sɛ̃/
+  IPA: /wis.kõ.sẽ/ (Tags: Canada)
+Nevada
+  IPA: /ne.va.da/
+Colorado
+  IPA: /kɔ.lɔ.ʁa.do/
+Iowa
+  IPA: /ajowa/
+  IPA: /ijowa/
+Missouri
+  IPA: /mi.su.ʁi/
+Illinois
+  IPA: /i.li.nwa/
+Michigan
+  IPA: /mi.ʃi.ɡan/ (Tags: France)
+  IPA: /mi.ʃi.ɡɑ̃/ (Tags: France)
+  IPA: /mi.ʃi.ɡã/
+Cyril
+  IPA: /si.ʁil/
+Alabama
+  IPA: /a.la.ba.ma/
+Clara
+  IPA: /kla.ʁa/
+Rhin
+  IPA: /ʁɛ̃/
+Simon
+  IPA: /si.mɔ̃/
+Vincent
+  IPA: /vɛ̃.sɑ̃/
+Peugeot
+  IPA: /pø.ʒo/
+Washington
+  IPA: /wa.ʃiŋ.tɔn/ (Tags: France)
+  IPA: /wa.ʃiŋ.tœn/ (Tags: Quebec)
+Mercedes
+  IPA: /mɛʁ.se.dɛs/
+  IPA: /mɛːʁsedaɪ̯s/ (Tags: Quebec)
+Sophie
+  IPA: /sɔ.fi/
+Barbara
+  IPA: /baʁ.ba.ʁa/
+establishment
+  IPA: /ɛs.ta.bliʃ.mɑ̃/
+Taipei
+  IPA: /taj.pɛj/
+William
+  IPA: /wi.ljam/
+Himalaya
+  IPA: /i.ma.la.ja/
+Aldebaran
+  IPA: /al.də.ba.ʁɑ̃/
+Chicago
+  IPA: /ʃi.ka.ɡo/
+Rennes
+  IPA: /ʁɛn/
+Judith
+  IPA: /ʒy.dit/
+Louis
+  IPA: /lwi/
+  IPA: /lu.i/
+Simone
+  IPA: /si.mɔn/
+Russell
+  IPA: /ʁy.sɛl/
+Arthur
+  IPA: /aʁ.tyʁ/
+Auckland
+  IPA: /o.klɑ̃d/
+Phil
+  IPA: /fil/
+Chazal
+  IPA: /ʃa.zal/
+Francis
+  IPA: /fʁɑ̃.sis/
+Kevin
+  IPA: /ke.vin/
+Isaac
+  IPA: /i.za.ak/
+Marie
+  IPA: /ma.ʁi/
+Catherine
+  IPA: /ka.tʁin/
+Caroline
+  IPA: /ka.ʁɔ.lin/
+Huang He
+  IPA: /wɑ̃ɡ e/
+  IPA: /waŋ e/
+  IPA: /xwaŋ xə/
+Colin
+  IPA: /kɔ.lɛ̃/
+BMW
+  IPA: /be.ɛm.du.blə.ve/
+  IPA: /be.ɛ.mwe/ (Tags: Belgium)
+  IPA: /be.e.mwe/ (Tags: Belgium)
+  IPA: /be.ɛm.ve/
+Beijing
+  IPA: /be.dʒiŋ/
+Jackson
+  IPA: /dʒak.sɔn/
+Patrick
+  IPA: /pa.tʁik/
+Samuel
+  IPA: /sa.mɥɛl/
+Japon
+  IPA: /ʒa.pɔ̃/ (Tags: Europe)
+  IPA: /ʒa.põ/ (Tags: Canada)
+  IPA: /ʒɑ.põ/ (Tags: Canada)
+Williams
+  IPA: /wi.ljamz/
+Alfred
+  IPA: /al.fʁɛd/
+Constantinople
+  IPA: /kɔ̃s.tɑ̃.ti.nɔpl/
+Carla
+  IPA: /kaʁ.la/
+Taylor
+  IPA: /tɛj.lɔʁ/
+  IPA: /tej.lɔʁ/
+  IPA: /tɛj.lɔʁ/
+  IPA: /tɛj.lœʁ/
+  IPA: /tej.lœʁ/
+  IPA: /tɛj.lœʁ/
+Buenos Aires
+  IPA: /bɥe.nɔ.z‿ɛʁ/
+  IPA: /bwe.no.z‿ɛʁ/
+Istanbul
+  IPA: /is.tɑ̃.bul/
+Davis
+  IPA: /de.vis/
+Roy
+  IPA: /ʁwa/
+Roy
+  IPA: /ʁɔj/
+Charlotte
+  IPA: /ʃaʁ.lɔt/
+Miami
+  IPA: /mi.ja.mi/
+  IPA: /ma.ja.mi/
+Allemagne
+  IPA: /al.maɲ/
+Maurice
+  IPA: /mɔ.ʁis/
+  IPA: /mo.ʁis/
+Jérôme
+  IPA: /ʒe.ʁom/
+API
+  IPA: /a.pe.i/
+Angleterre
+  IPA: /ɑ̃.ɡlə.tɛʁ/
+Louise
+  IPA: /lwiz/
+Detroit
+  IPA: /de.tʁwa/
+Jacques
+  IPA: /ʒak/
+  IPA: /ʒɑk/
+Sahara
+  IPA: /sa.a.ʁa/
+Hughes
+  IPA: /yɡ/
+tzigane
+  IPA: /tsi.ɡan/
+Amanda
+  IPA: /a.mɑ̃.da/
+Champagne
+  IPA: /ʃɑ̃.paɲ/
+Bernard
+  IPA: /bɛʁ.naʁ/
+Marianne
+  IPA: /ma.ʁjan/
+Nguyen
+  IPA: /ɛn.ɡɥi.jɛn/
+  IPA: /nɥi.jɛn/
+  IPA: /ɡɥi.jɛn/
+Esdras
+  IPA: /ɛs.dʁa/
+  IPA: /ɛs.dʁɑ/
+Moscou
+  IPA: /mɔs.ku/
+Alicia
+  IPA: /a.li.sja/
+Hestia
+  IPA: /ɛs.tja/
+Vesta
+  IPA: /vɛs.ta/
+Mantoue
+  IPA: /mɑ̃.tu/
+Rebecca
+  IPA: /ʁe.be.ka/
+Éthiopie
+  IPA: /e.tjɔ.pi/
+Foucault
+  IPA: /fu.ko/
+Venise
+  IPA: /və.niz/
+Ernest
+  IPA: /ɛʁ.nɛst/
+Claude
+  IPA: /klod/
+Raymond
+  IPA: /ʁɛ.mɔ̃/
+  IPA: /ʁe.mɔ̃/
+Raymond
+  IPA: /ʁɛ.mɔ̃/
+  IPA: /ʁe.mɔ̃/
+Jonathan
+  IPA: /ʒɔ.na.tɑ̃/
+Alexia
+  IPA: /a.lɛk.sja/
+  IPA: /a.lɛk.si.a/
+Acton
+  IPA: /ak.tɔ̃/
+Abby
+  IPA: /a.bi/
+Ange
+  IPA: /ɑ̃ʒ/
+Lolita
+  IPA: /lɔ.li.ta/
+Auger
+  IPA: /o.ʒe/
+Bade
+  IPA: /bad/
+Barbe
+  IPA: /baʁb/
+Balance
+  IPA: /ba.lɑ̃s/
+Avril
+  IPA: /a.vʁil/
+Beatles
+  IPA: /bi.tœls/
+  IPA: /bi.tœlz/
+Bella
+  IPA: /bɛ.la/
+  IPA: /be.la/
+Annie
+  IPA: /a.ni/
+Bologne
+  IPA: /bɔ.lɔɲ/
+Blanc
+  IPA: /blɑ̃/
+Axel
+  IPA: /ak.sɛl/
+Chine
+  IPA: /ʃin/
+Coupe
+  IPA: /kup/
+Bikini
+  IPA: /bi.ki.ni/
+Céleste
+  IPA: /se.lɛst/
+Claire
+  IPA: /klɛʁ/
+Centre
+  IPA: /sɑ̃tʁ/
+Cronos
+  IPA: /kʁɔ.nos/
+Castor
+  IPA: /kas.tɔʁ/
+Dingo
+  IPA: /dɛ̃.ɡo/
+Blanche
+  IPA: /blɑ̃ʃ/
+Cher
+  IPA: /ʃɛʁ/
+Dieu
+  IPA: /djø/
+Chili
+  IPA: /ʃi.li/
+Caro
+  IPA: /ka.ʁo/
+Abraham
+  IPA: /a.bʁa.am/
+Corse
+  IPA: /kɔʁs/
+Canadien
+  IPA: /ka.na.djɛ̃/
+Apocalypse
+  IPA: /a.pɔ.ka.lips/
+Flèche
+  IPA: /flɛʃ/
+Fleur
+  IPA: /flœʁ/
+Flore
+  IPA: /flɔʁ/
+Dragon
+  IPA: /dʁa.ɡɔ̃/
+Fermi
+  IPA: /fɛʁ.mi/
+Gap
+  IPA: /ɡap/
+Gard
+  IPA: /ɡaʁ/
+Homme
+  IPA: /ɔm/
+Genie
+  IPA: /ʒə.ni/
+Brown
+  IPA: /bʁawn/
+  IPA: /bʁɔwn/
+Acre
+  IPA: /akʁ/
+Guangzhou
+  IPA: /ɡwɑ̃ɡ.dʒɔw/
+  IPA: /ɡwɑ̃ɡ.ʒɔw/
+  IPA: /ɡwɑ̃ɡ.zu/
+Bob
+  IPA: /bɔb/
+Line
+  IPA: /lin/
+Lion
+  IPA: /ljɔ̃/
+Guy
+  IPA: /ɡi/
+Macron
+  IPA: /ma.kʁɔ̃/
+Hamlet
+  IPA: /am.lɛ/
+Jade
+  IPA: /ʒad/
+Macao
+  IPA: /ma.ka.o/
+Marc
+  IPA: /maʁk/
+Flora
+  IPA: /flɔ.ʁa/
+Jo
+  IPA: /ʒo/
+Hector
+  IPA: /ɛk.tɔʁ/
+Madeleine
+  IPA: /ma.dlɛn/
+Granada
+  IPA: /ɡʁa.na.da/
+Mal
+  IPA: /mal/
+Ford
+  IPA: /fɔʁ/
+  IPA: /fɔɹd/
+Marine
+  IPA: /ma.ʁin/
+Canton
+  IPA: /kɑ̃.tɔ̃/
+Canton
+  IPA: /kɑ̃.tɔ̃/
+Magenta
+  IPA: /ma.ʒɛ̃.ta/
+Nasdaq
+  IPA: /nas.dak/
+Maria
+  IPA: /ma.ʁja/
+Mons
+  IPA: /mɔ̃s/
+Jean
+  IPA: /ʒɑ̃/ (Tags: Belgium, France)
+  IPA: /ʒãᵑ/
+  IPA: /ʒã/ (Tags: Quebec)
+Max
+  IPA: /maks/
+Och
+  IPA: /ɔʃ/
+Net
+  IPA: /nɛ/
+Marcel
+  IPA: /maʁ.sɛl/
+Mastodon
+  IPA: /mastɔdɔn/
+Occident
+  IPA: /ɔk.si.dɑ̃/
+Macintosh
+  IPA: /ma.kin.tɔʃ/
+Jersey
+  IPA: /ʒɛʁ.zɛ/
+Argentine
+  IPA: /aʁ.ʒɑ̃.tin/
+Omer
+  IPA: /ɔ.mɛʁ/
+Linda
+  IPA: /lin.da/
+Olivier
+  IPA: /ɔ.li.vje/
+Olivier
+  IPA: /ɔ.li.vje/
+Pie
+  IPA: /pi/
+Iris
+  IPA: /i.ʁis/
+Plaisir
+  IPA: /plɛ.ziʁ/
+  IPA: /ple.ziʁ/
+Nord
+  IPA: /nɔʁ/
+Henry
+  IPA: /ɑ̃.ʁi/
+Liège
+  IPA: /ljɛʒ/
+Johnson
+  IPA: /dʒɔn.sɔn/
+Batman
+  IPA: /bat.man/
+Atlas
+  IPA: /a.tlas/
+Reine
+  IPA: /ʁɛn/
+Cancer
+  IPA: /kɑ̃.sɛʁ/
+Mayo
+  IPA: /ma.jo/
+Perse
+  IPA: /pɛʁs/
+Eve
+  IPA: /ɛv/
+Lot
+  IPA: /lɔt/
+Frank
+  IPA: /fʁɑ̃k/
+Marina
+  IPA: /ma.ʁi.na/
+Mike
+  IPA: /majk/
+Nancy
+  IPA: /nan.si/
+Nancy
+  IPA: /nɑ̃.si/
+Sens
+  IPA: /sɑ̃s/
+Pascal
+  IPA: /pas.kal/
+Bible
+  IPA: /bibl/
+Nil
+  IPA: /nil/
+Pierre
+  IPA: /pjɛʁ/
+Lima
+  IPA: /li.ma/
+Benjamin
+  IPA: /bɛ̃.ʒa.mɛ̃/
+Orange
+  IPA: /ɔ.ʁɑ̃ʒ/
+Ponce
+  IPA: /pɔ̃s/
+Anna
+  IPA: /a.na/
+Spa
+  IPA: /spa/
+Terre
+  IPA: /tɛʁ/
+Nice
+  IPA: /nis/
+Taureau
+  IPA: /tɔ.ʁo/
+  IPA: /to.ʁo/
+Scorpion
+  IPA: /skɔʁ.pjɔ̃/
+Tarn
+  IPA: /taʁn/
+  IPA: /taʁ/
+Rabat
+  IPA: /ʁa.ba/
+Pluton
+  IPA: /ply.tɔ̃/
+Trente
+  IPA: /tʁɑ̃t/
+Google
+  IPA: /ɡu.ɡœl/ (Tags: France)
+Tôkyô
+  IPA: /to.kjo/
+Tour
+  IPA: /tuʁ/
+Tour
+  IPA: /tuʁ/
+Vince
+  IPA: /vins/
+Martin
+  IPA: /maʁ.tɛ̃/
+Ville
+  IPA: /vil/
+Valence
+  IPA: /va.lɑ̃s/
+Trias
+  IPA: /tʁi.ja/
+  IPA: /tʁi.jɑ/
+Web
+  IPA: /wɛb/
+Vierge
+  IPA: /vjɛʁʒ/
+Vienne
+  IPA: /vjɛn/
+Tigre
+  IPA: /tiɡʁ/
+Robin
+  IPA: /ʁɔ.bɛ̃/
+Porto
+  IPA: /pɔʁ.to/
+Roger
+  IPA: /ʁɔ.ʒe/
+  IPA: /ʁɔ.dʒœʁ/
+Seine
+  IPA: /sɛn/
+Smith
+  IPA: /smit/
+Job
+  IPA: /ʒɔb/
+Rose
+  IPA: /ʁoz/
+Tallinn
+  IPA: /ta.lin/
+Riga
+  IPA: /ʁi.ɡa/
+Valentine
+  IPA: /va.lɑ̃.tin/
+Ruth
+  IPA: /ʁyt/
+Victor
+  IPA: /vik.tɔʁ/
+Vilnius
+  IPA: /vil.njys/
+yiddish
+  IPA: /ji.diʃ/
+Judas
+  IPA: /ʒy.da/
+  IPA: /ʒy.dɑ/
+Renaissance
+  IPA: /ʁə.nɛ.sɑ̃s/
+  IPA: /ʁə.ne.sɑ̃s/
+Seattle
+  IPA: /sjatœl/
+CB
+  IPA: /se.be/
+John
+  IPA: /dʒɔn/
+Martial
+  IPA: /maʁ.sjal/
+Christine
+  IPA: /kʁis.tin/
+Christine
+  IPA: /kʁis.tin/
+Y
+  IPA: /i/
+Égypte
+  IPA: /e.ʒipt/
+Hongkong
+  IPA: /ɔŋ.kɔŋ/
+  IPA: /ɔ̃ɡ.kɔ̃ɡ/
+Bisounours
+  IPA: /bi.zu.nuʁs/
+Moore
+  IPA: /muʁ/
+  IPA: /mɔʁ/
+DST
+  IPA: /de.ɛs.te/
+Côte d'Ivoire
+  IPA: /kot d‿i.vwaʁ/
+  IPA: /koʊ̯t divwɑːʁ/ (Tags: Quebec)
+Styx
+  IPA: /stiks/
+Panamá
+  IPA: /pa.na.ma/
+Abel
+  IPA: /a.bɛl/
+BAC
+  IPA: /bak/
+Ibrahim
+  IPA: /i.bʁa.im/
+  IPA: /i.bʁa.him/
+Aurigny
+  IPA: /ɔ.ʁi.ɲi/
+Sercq
+  IPA: /sɛʁk/
+RCA
+  IPA: /eʁ.se.a/
+  IPA: /ɛʁ.se.a/
+Manche
+  IPA: /mɑ̃ʃ/
+RC
+  IPA: /ɛʁ.se/
+FC
+  IPA: /ɛf.se/
+BST
+  IPA: /be.ɛs.te/
+Tanger
+  IPA: /tɑ̃.ʒe/
+CERN
+  IPA: /sɛʁn/
+Guillaume
+  IPA: /ɡi.jom/
+ACE
+  IPA: /as/
+Mars
+  IPA: /maʁs/
+RSS
+  IPA: /ɛ.ʁɛ.sɛs/
+  IPA: /e.ʁe.sɛs/
+RSS
+  IPA: /ɛ.ʁɛ.sɛs/
+  IPA: /e.ʁe.sɛs/
+Patricia
+  IPA: /pa.tʁi.sja/
+Bagdad
+  IPA: /baɡ.dad/
+Sumatra
+  IPA: /sy.ma.tʁa/
+Bhoutan
+  IPA: /bu.tɑ̃/
+Thanksgiving
+  IPA: /sɛŋks.ɡi.viŋɡ/
+  IPA: [tɛŋks.ɡi.vɪŋ] (Tags: Quebec)
+  IPA: [tẽks.ɡi.vɪŋ] (Tags: Quebec)
+Colombie
+  IPA: /kɔ.lɔ̃.bi/
+Hongrie
+  IPA: /ɔ̃.ɡʁi/
+Burin
+  IPA: /by.ʁɛ̃/
+Levant
+  IPA: /lə.vɑ̃/
+Edgar
+  IPA: /ɛd.ɡaʁ/
+Leslie
+  IPA: /lɛ.sli/
+  IPA: /le.sli/
+Erica
+  IPA: /e.ʁi.ka/
+Algérie
+  IPA: /al.ʒe.ʁi/
+Ljubljana
+  IPA: /lju.bli.ja.na/
+Cognac
+  IPA: /kɔ.ɲak/
+Fidji
+  IPA: /fi.dʒi/
+Ain
+  IPA: /ɛ̃/
+Meuse
+  IPA: /møz/
+Valois
+  IPA: /va.lwa/
+Burgenland
+  IPA: /byʁ.ʒɑ̃.lɑ̃/
+Denise
+  IPA: /də.niz/
+Isabelle
+  IPA: /i.za.bɛl/
+Margot
+  IPA: /maʁ.ɡo/
+  IPA: /maʁ.ɡɔ/
+Julia
+  IPA: /ʒy.lja/
+Gilbert
+  IPA: /ʒil.bɛʁ/
+Peggy
+  IPA: /pɛ.ɡi/
+  IPA: /pe.ɡi/
+IDS
+  IPA: /i.de.ɛs/
+AFP
+  IPA: /a.ɛf.pe/
+Hugo
+  IPA: /y.ɡo/
+Dubonnet
+  IPA: /dy.bɔ.nɛ/
+Bruno
+  IPA: /bʁy.no/
+Katar
+  IPA: /ka.taʁ/
+Henri
+  IPA: /ɑ̃.ʁi/
+Liban
+  IPA: /li.bɑ̃/
+Tana
+  IPA: /ta.na/
+Lucas
+  IPA: /ly.ka/
+  IPA: /ly.kɑ/
+États-Unis
+  IPA: /e.ta.z‿y.ni/ (Tags: Europe)
+  IPA: /e.tɑ.zʏ.ni/ (Tags: Canada)
+  IPA: /e.tɔ.zʏ.ni/ (Tags: Canada)
+RPC
+  IPA: /ɛʁ.pe.se/
+Londres
+  IPA: /lɔ̃dʁ/
+Nicole
+  IPA: /ni.kɔl/
+Oulipo
+  IPA: /u.li.po/
+OuLiPo
+  IPA: /u.li.po/
+Jennifer
+  IPA: /ʒɛ.ni.fɛʁ/
+  IPA: /ʒe.ni.fɛʁ/
+Océanie
+  IPA: /ɔ.se.a.ni/
+Islande
+  IPA: /i.slɑ̃d/
+Lettonie
+  IPA: /lɛ.tɔ.ni/
+  IPA: /le.tɔ.ni/
+Lisa
+  IPA: /li.za/
+Dufresne
+  IPA: /dy.fʁɛn/
+Thierry
+  IPA: /tjɛ.ʁi/
+  IPA: /tje.ʁi/
+Baton Rouge
+  IPA: /ba.tɔ̃ ʁuʒ/
+  IPA: /bɑ.tɔ̃ ʁuʒ/
+  IPA: /ba.tɔ̃ ʁuʒ/
+Lamentations
+  IPA: /la.mɑ̃.ta.sjɔ̃/
+Olivia
+  IPA: /ɔ.li.vja/
+Medicine Hat
+  IPA: /mɛ.di.sin hat/
+  IPA: /me.di.sin hat/
+Maghreb
+  IPA: /ma.ɡʁɛb/
+Pissarro
+  IPA: /pi.sa.ʁo/
+Bruxelles
+  IPA: /bʁy.sɛl/
+  IPA: /bʁyk.sɛl/
+Chevrolet
+  IPA: /ʃə.vʁɔ.lɛ/
+Chevrolet
+  IPA: /ʃə.vʁɔ.lɛ/
+Sylvie
+  IPA: /sil.vi/
+Francophonie
+  IPA: /fʁɑ̃.kɔ.fɔ.ni/
+Mâcon
+  IPA: /ma.kɔ̃/
+  IPA: /mɑ.kɔ̃/
+Sylvia
+  IPA: /sil.vja/
+Tristan
+  IPA: /tʁis.tɑ̃/
+Sidon
+  IPA: /si.dɔ̃/
+Julian
+  IPA: /ʒy.ljɑ̃/
+Auriol
+  IPA: /o.ʁjɔl/
+  IPA: /ɔ.ʁjɔl/
+Gaza
+  IPA: /ɡa.za/
+diable
+  IPA: /djabl/
+  IPA: /djɑbl/
+  IPA: /dʒɔb/ (Tags: Louisiana, also)
+  IPA: /dʒawb/ (Tags: Louisiana, also)
+  IPA: /dʒa.bul/ (Tags: Louisiana, also)
+Tyr
+  IPA: /tiʁ/
+Jasmine
+  IPA: /ʒas.min/
+Lydia
+  IPA: /li.dja/
+Tania
+  IPA: /ta.nja/
+Chichester
+  IPA: /tʃit.ʃɛs.tœʁ/
+Natalie
+  IPA: /na.ta.li/
+Tatiana
+  IPA: /ta.tja.na/
+Andes
+  IPA: /ɑ̃d/
+Danielle
+  IPA: /da.njɛl/
+Nina
+  IPA: /ni.na/
+Albanie
+  IPA: /al.ba.ni/
+Groenland
+  IPA: /ɡʁɔ.ɛn.lɑ̃d/
+  IPA: /ɡʁœn.lɑ̃d/
+  IPA: /ɡʁo.ɛn.land/ (Tags: Quebec)
+  IPA: /ɡʁun.land/ (Tags: Belgium)
+Montréal
+  IPA: /mɔ̃.ʁe.al/ (Tags: Belgium, France)
+  IPA: /mõ.ʁe.al/ (Tags: Canada)
+  IPA: /mõ.ʁjal/ (Tags: Canada)
+  IPA: /mɔ.ʁe.al/ (Tags: Canada)
+  IPA: /mɔ.ʁjal/ (Tags: Canada)
+Descartes
+  IPA: /de.kaʁt/
+Viêt Nam
+  IPA: /vjɛt.nam/
+Cisjordanie
+  IPA: /sis.ʒɔʁ.da.ni/
+Davy
+  IPA: /da.vi/
+Suzanne
+  IPA: /sy.zan/
+Tour de France
+  IPA: /tuʁ də fʁɑ̃s/
+Jude
+  IPA: /ʒyd/
+Esther
+  IPA: /ɛs.tɛʁ/
+Gabrielle
+  IPA: /ɡa.bʁi.jɛl/
+Calgary
+  IPA: /kal.ɡa.ʁi/
+Anvers
+  IPA: /ɑ̃.vɛʁs/ (Tags: Belgium)
+  IPA: /ɑ̃.vɛʁ/ (Tags: France)
+  IPA: /ɑ̃.vɛʁs/ (Tags: France)
+Marius
+  IPA: /ma.ʁjys/
+Paola
+  IPA: /pa.ɔ.la/
+Osiris
+  IPA: /o.zi.ʁis/
+Miller
+  IPA: /mi.lœʁ/
+Galles
+  IPA: /ɡal/
+Tylenol
+  IPA: /ti.le.nɔl/
+Tyrol
+  IPA: /ti.ʁɔl/
+Lombardie
+  IPA: /lɔ̃.baʁ.di/
+Etats-Unis
+  IPA: /e.ta.z‿y.ni/
+Pollux
+  IPA: /pɔ.lyks/
+Hyades
+  IPA: /jad/
+Espagne
+  IPA: /ɛs.paɲ/
+Pyrénées
+  IPA: /pi.ʁe.ne/
+Bonaparte
+  IPA: /bɔ.na.paʁt/
+Suisse
+  IPA: /sɥis/
+Emmanuel
+  IPA: /ɛ.ma.nɥɛl/
+  IPA: /e.ma.nɥɛl/
+Tahiti
+  IPA: /ta.i.ti/
+Cassis
+  IPA: /ka.si/
+Aimée
+  IPA: /ɛ.me/
+  IPA: /e.me/
+Jeanne
+  IPA: /ʒan/
+Egypte
+  IPA: /e.ʒipt/
+Israël
+  IPA: /i.sʁa.ɛl/
+  IPA: /iz.ʁa.ɛl/
+Laurence
+  IPA: /lɔ.ʁɑ̃s/
+  IPA: /lo.ʁɑ̃s/
+Nahum
+  IPA: /na.um/
+Emma
+  IPA: /ɛ.ma/
+  IPA: /e.ma/
+Alexa
+  IPA: /a.lɛk.sa/
+Amos
+  IPA: /a.mɔs/
+Favre
+  IPA: /favʁ/
+Douvres
+  IPA: /duvʁ/
+Shoah
+  IPA: /ʃɔ.a/
+Bluetooth
+  IPA: /blu.tus/
+Michel
+  IPA: /mi.ʃɛl/
+Roland
+  IPA: /ʁɔ.lɑ̃/
+Messier
+  IPA: /mɛ.sje/
+  IPA: /me.sje/
+José
+  IPA: /ʒo.ze/
+Cro-Magnon
+  IPA: /kʁo.ma.ɲɔ̃/
+Nathan
+  IPA: /na.tɑ̃/
+Bordeaux
+  IPA: /bɔʁ.do/
+Annam
+  IPA: /a.nam/
+Albi
+  IPA: /al.bi/
+Port-au-Prince
+  IPA: /pɔ.ʁo.pʁɛ̃s/
+  IPA: /pɔʁ.to.pʁɛ̃s/
+Bandar Seri Begawan
+  IPA: /bɑ̃.daʁ se.ʁi be.ɡa.wan/
+Diego
+  IPA: /dje.ɡo/
+Basse-Normandie
+  IPA: /bas.nɔʁ.mɑ̃.di/
+  IPA: /bɑs.nɔʁ.mɑ̃.di/
+Haute-Normandie
+  IPA: /ot.nɔʁ.mɑ̃.di/
+Minsk
+  IPA: /minsk/
+Rhône-Alpes
+  IPA: /ʁo.nalp/
+Midi-Pyrénées
+  IPA: /mi.di.pi.ʁe.ne/
+Bourgogne
+  IPA: /buʁ.ɡɔɲ/
+Yaren
+  IPA: /ja.ʁɛn/
+Nord-Pas-de-Calais
+  IPA: /nɔʁ.pa.d(ə).ka.lɛ/
+  IPA: /nɔʁ.pɑ.d(ə).ka.lɛ/
+Franche-Comté
+  IPA: /fʁɑ̃ʃ.kɔ̃.te/
+Poitou-Charentes
+  IPA: /pwa.tu.ʃa.ʁɑ̃t/
+Pays de la Loire
+  IPA: /pɛ.i d(ə) la lwaʁ/
+  IPA: /pe.i d(ə) la lwaʁ/
+Languedoc-Roussillon
+  IPA: /lɑ̃ɡ.dɔk ʁu.si.jɔ̃/
+  IPA: /lãᵑ.ɡəˈdɔk ʁuˈsi.jɔ̃ᵑ/ (Tags: Languedoc)
+Auvergne
+  IPA: /o.vɛʁɲ/
+Bujumbura
+  IPA: /bu.ʒum.bu.ʁa/
+Kinshasa
+  IPA: /kin.ʃa.sa/
+Yaoundé
+  IPA: /ja.un.de/
+Aquitaine
+  IPA: /a.ki.tɛn/
+Provence-Alpes-Côte d'Azur
+  IPA: /pʁɔ.vɑ̃s al.p(ə) kot d‿a.zyʁ/
+  IPA: /pʁɔ.vɑ̃s al.p(ə) kot d‿a.zyʁ/
+Île-de-France
+  IPA: /il.də.fʁɑ̃s/
+Lyon
+  IPA: /ljɔ̃/
+  IPA: /li.jɔ̃/
+Yamoussoukro
+  IPA: /ja.mu.su.kʁo/
+Alsace
+  IPA: /al.zas/
+Brazzaville
+  IPA: /bʁa.za.vil/
+Limousin
+  IPA: /li.mu.zɛ̃/
+Diane
+  IPA: /djan/
+Lorraine
+  IPA: /lɔ.ʁɛn/
+Ouagadougou
+  IPA: /wa.ɡa.du.ɡu/
+Abidjan
+  IPA: /a.bi.dʒɑ̃/
+Moroni
+  IPA: /mɔ.ʁɔ.ni/
+Boudreaux
+  IPA: /bu.dʁo/
+Joséphine
+  IPA: /ʒo.ze.fin/
+Grande-Bretagne
+  IPA: /ɡʁɑ̃d.bʁə.taɲ/
+Royaume-Uni
+  IPA: /ʁwa.jo.m‿y.ni/
+Pompey
+  IPA: /pɔ̃.pɛ/
+Leeds
+  IPA: /lidz/
+Lahore
+  IPA: /la.ɔʁ/
+SNCF
+  IPA: /ɛ.sɛn.se.ɛf/
+Xinjiang
+  IPA: /ʃi.njaŋ/
+  IPA: /sin dʒjaŋ/
+  IPA: /zin jɑ̃ɡ/
+  IPA: /ksin dʒjɑ̃ɡ/
+  IPA: /ksin dʒjaɲ/ (Tags: Canada)
+Audrey
+  IPA: /o.dʁɛ/
+  IPA: /o.dʁe/
+  IPA: /o.dʁi/
+Amand
+  IPA: /a.mɑ̃/
+Marion
+  IPA: /ma.ʁjɔ̃/
+Apollonia
+  IPA: /a.pɔ.lɔ.nja/
+Augustine
+  IPA: /o.ɡys.tin/
+Le Cap
+  IPA: /lə kap/
+Sibérie
+  IPA: /si.be.ʁi/
+Constance
+  IPA: /kɔ̃s.tɑ̃s/
+Broadway
+  IPA: /bʁɔ.dwɛ/
+  IPA: /bʁo.dwe/
+  IPA: /bʁo.dwɛ/
+Karina
+  IPA: /ka.ʁi.na/
+Justine
+  IPA: /ʒys.tin/
+Serge
+  IPA: /sɛʁʒ/
+Absalom
+  IPA: /ap.sa.lɔm/
+Rouen
+  IPA: /ʁwɑ̃/
+Normandie
+  IPA: /nɔʁ.mɑ̃.di/
+Ancien Régime
+  IPA: /ɑ̃.sjɛ̃ ʁe.ʒim/
+Tricolore
+  IPA: /tʁi.kɔ.lɔʁ/
+Camelot
+  IPA: /kam.lo/
+  IPA: /kam.lɔt/
+Christophe
+  IPA: /kʁis.tɔf/
+Canterbury
+  IPA: /kɑ̃.tɛʁ.bœ.ʁi/
+Philippe
+  IPA: /fi.lip/
+Vichy
+  IPA: /vi.ʃi/
+Versailles
+  IPA: /vɛʁ.saj/
+  IPA: /vɛʁ.sɑj/
+Rille
+  IPA: /ʁil/
+Marseille
+  IPA: /maʁ.sɛj/
+Aragon
+  IPA: /a.ʁa.ɡɔ̃/
+René
+  IPA: /ʁə.ne/
+Julien
+  IPA: /ʒy.ljɛ̃/
+Julienne
+  IPA: /ʒy.ljɛn/
+Sylvain
+  IPA: /sil.vɛ̃/
+Frédéric
+  IPA: /fʁe.de.ʁik/
+Thérèse
+  IPA: /te.ʁɛz/
+Véronique
+  IPA: /ve.ʁɔ.nik/
+Mathilde
+  IPA: /ma.tild/
+Valérie
+  IPA: /va.le.ʁi/
+Fabrice
+  IPA: /fa.bʁis/
+Julie
+  IPA: /ʒy.li/
+Benoît
+  IPA: /bə.nwa/
+Édouard
+  IPA: /e.dwaʁ/
+Orléans
+  IPA: /ɔʁ.le.ɑ̃/
+Chelsea
+  IPA: /tʃɛl.si/
+Jacqueline
+  IPA: /ʒa.klin/
+Jocelyn
+  IPA: /ʒɔ.slɛ̃/
+  IPA: [ʒɔs.lɛ̃]
+François
+  IPA: /fʁɑ̃.swa/
+Antoine
+  IPA: /ɑ̃.twan/
+Caleb
+  IPA: /ka.lɛb/
+Félix
+  IPA: /fe.liks/
+Calais
+  IPA: /ka.lɛ/
+Marguerite
+  IPA: /maʁ.ɡə.ʁit/
+Henriette
+  IPA: /ɑ̃.ʁjɛt/
+Lionel
+  IPA: /ljɔ.nɛl/
+Juliette
+  IPA: /ʒy.ljɛt/
+Bastille
+  IPA: /bas.tij/
+Le Havre
+  IPA: /lə avʁ/
+  IPA: /lə ɑvʁ/
+Nuremberg
+  IPA: /ny.ʁɛ̃.bɛʁ/
+PACA
+  IPA: /pa.ka/
+Noël
+  IPA: /nɔ.ɛl/
+Sacramento
+  IPA: /sa.kʁa.mɛn.to/
+Dundee
+  IPA: /dœ̃.di/
+Caen
+  IPA: /kɑ̃/
+Munster
+  IPA: /mœ̃s.te/
+Calvados
+  IPA: /kal.va.dos/
+Lille
+  IPA: /lil/
+Sara
+  IPA: /sa.ʁa/
+Elbe
+  IPA: /ɛlb/
+Pauline
+  IPA: /po.lin/
+Marseillaise
+  IPA: /maʁ.sɛ.jɛz/
+  IPA: /maʁ.se.jɛz/
+Arkhangelsk
+  IPA: /aʁ.kɑ̃.ʒɛlsk/
+Philippa
+  IPA: /fi.li.pa/
+Virginie
+  IPA: /viʁ.ʒi.ni/
+Lou
+  IPA: /lu/
+Augustin
+  IPA: /o.ɡys.tɛ̃/
+Arundel
+  IPA: /a.ʁyn.dɛl/
+Schmidt
+  IPA: /ʃmit/
+Soudan
+  IPA: /su.dɑ̃/
+Dominique
+  IPA: /dɔ.mi.nik/
+Dominique
+  IPA: /dɔ.mi.nik/
+Dupont
+  IPA: /dy.pɔ̃/
+Edouard
+  IPA: /e.dwaʁ/
+Hollande
+  IPA: /ɔ.lɑ̃d/
+Équateur
+  IPA: /e.kwa.tœʁ/
+Andorre
+  IPA: /ɑ̃.dɔʁ/
+Écosse
+  IPA: /e.kɔs/
+Brest
+  IPA: /bʁɛst/
+Finlande
+  IPA: /fɛ̃.lɑ̃d/
+Amérique du Nord
+  IPA: /a.me.ʁik dy nɔʁ/
+  IPA: /a.me.ʁɪk d͡zʏ naɔ̯ʁ/ (Tags: Quebec)
+  IPA: /a.me.ʁɪk d͡zy nɑɔ̯ʁ/ (Tags: Quebec)
+Cambodge
+  IPA: /kɑ̃.bɔdʒ/
+Pays-Bas
+  IPA: /pɛ.i.ba/
+  IPA: /pɛ.i.bɑ/
+  IPA: /pe.i.ba/
+  IPA: /pe.i.bɑ/
+Lituanie
+  IPA: /li.tɥa.ni/
+Amérique du Sud
+  IPA: /a.me.ʁik dy syd/ (Tags: Belgium, France)
+  IPA: /a.me.ʁɪk d͡zʏ sʏd/ (Tags: Quebec)
+  IPA: /a.me.ʁɪk d͡zy syd/ (Tags: Quebec)
+Suède
+  IPA: /sɥɛd/
+États-Unis d'Amérique
+  IPA: /e.ta.z‿y.ni d‿a.me.ʁik/ (Tags: Europe)
+  IPA: /e.tɑ.zy.ni da.me.ʁɪk/ (Tags: Canada)
+  IPA: /e.tɔ.zy.ni da.me.ʁɪk/ (Tags: Canada)
+Siam
+  IPA: /sjam/
+Russie
+  IPA: /ʁy.si/
+Estonie
+  IPA: /ɛs.tɔ.ni/
+Australie
+  IPA: /os.tʁa.li/
+Amérique
+  IPA: /a.me.ʁik/
+  IPA: /a.me.ʁɪk/ (Tags: Quebec)
+pays de Galles
+  IPA: /pɛ.i d(ə) ɡal/
+  IPA: /pe.i d(ə) ɡal/
+Afrique
+  IPA: /a.fʁik/
+César
+  IPA: /se.zaʁ/
+Brésil
+  IPA: /bʁe.zil/
+Tunisie
+  IPA: /ty.ni.zi/
+Pérou
+  IPA: /pe.ʁu/
+Bolivie
+  IPA: /bɔ.li.vi/
+Bermudes
+  IPA: /bɛʁ.myd/
+Cameroun
+  IPA: /kam.ʁun/
+Jésus
+  IPA: /ʒe.zy/
+Waterloo
+  IPA: /wa.tɛʁ.lo/ (Tags: Belgium)
+  IPA: /wa.tɛʁ.lo/ (Tags: France, Switzerland)
+  IPA: /va.tɛʁ.lo/ (Tags: France, Switzerland)
+Mexique
+  IPA: /mɛk.sik/
+Croatie
+  IPA: /kʁo.a.si/
+Norvège
+  IPA: /nɔʁ.vɛʒ/
+Bulgarie
+  IPA: /byl.ɡa.ʁi/
+Grèce
+  IPA: /ɡʁɛs/
+  IPA: /ɡʁɛːs/ (Tags: Belgium)
+  IPA: [ɡʁaɛ̯s] (Tags: Quebec)
+Macédoine
+  IPA: /ma.se.dwan/
+Sénégal
+  IPA: /se.ne.ɡal/
+Turquie
+  IPA: /tyʁ.ki/
+Dieppe
+  IPA: /djɛp/
+Irlande
+  IPA: /iʁ.lɑ̃d/
+Arménie
+  IPA: /aʁ.me.ni/
+Languedoc
+  IPA: /lɑ̃ɡ.dɔk/
+Gaston
+  IPA: /ɡas.tɔ̃/
+Mathieu
+  IPA: /ma.tjø/
+Manuel
+  IPA: /ma.nɥɛl/
+Estelle
+  IPA: /ɛs.tɛl/
+Bonn
+  IPA: /bɔn/
+Antoinette
+  IPA: /ɑ̃.twa.nɛt/
+Doncaster
+  IPA: /dɔ̃.kas.tɛʁ/
+Louvre
+  IPA: /luvʁ/
+Jules
+  IPA: /ʒyl/
+Carthage
+  IPA: /kaʁ.taʒ/
+Abélard
+  IPA: /a.be.laʁ/
+Adolphe
+  IPA: /a.dɔlf/
+Adrien
+  IPA: /a.dʁi.jɛ̃/
+Abdoul
+  IPA: /ab.dul/
+Abdoulla
+  IPA: /ab.du.la/
+Ypres
+  IPA: /ipʁ/
+Hispaniola
+  IPA: /is.pa.njɔ.la/
+Lausanne
+  IPA: /lo.zan/
+Grenoble
+  IPA: /ɡʁə.nɔbl/
+Dijon
+  IPA: /di.ʒɔ̃/
+Luc
+  IPA: /lyk/
+Yvonne
+  IPA: /i.vɔn/
+Canaries
+  IPA: /ka.na.ʁi/
+Angers
+  IPA: /ɑ̃.ʒe/
+Valenciennes
+  IPA: /va.lɑ̃.sjɛn/
+Strasbourg
+  IPA: /stʁas.buʁ/
+  IPA: /stʁaz.buʁ/
+Toulouse
+  IPA: /tu.luz/
+Toulouse
+  IPA: /tu.luz/
+Yukon
+  IPA: /jy.kɔ̃/
+  IPA: /ju.kɔ̃/
+  IPA: /ju.kɔ̃/
+Jérémie
+  IPA: /ʒe.ʁe.mi/
+Achille
+  IPA: /a.ʃil/
+Alphonse
+  IPA: /al.fɔ̃s/
+Maroc
+  IPA: /ma.ʁɔk/
+Alain
+  IPA: /a.lɛ̃/
+Léon
+  IPA: /le.ɔ̃/
+Léon
+  IPA: /le.ɔ̃/
+Léon
+  IPA: /le.ɔ̃/
+Cherbourg
+  IPA: /ʃɛʁ.buʁ/
+Mulhouse
+  IPA: /my.luz/
+Ys
+  IPA: /is/
+Montpellier
+  IPA: /mɔ̃.pɛ.lje/
+  IPA: /mɔ̃.pe.lje/
+  IPA: /mɔ̃.pə.lje/
+Alban
+  IPA: /al.bɑ̃/
+Nantes
+  IPA: /nɑ̃t/
+Cannes
+  IPA: /kan/
+Denis
+  IPA: /də.ni/
+Georges
+  IPA: /ʒɔʁʒ/
+Mercure
+  IPA: /mɛʁ.kyʁ/
+Saturne
+  IPA: /sa.tyʁn/
+Vannes
+  IPA: /van/
+Tours
+  IPA: /tuʁ/
+Vénus
+  IPA: /ve.nys/
+Troyes
+  IPA: /tʁwa/
+Bénin
+  IPA: /be.nɛ̃/
+Corée
+  IPA: /kɔ.ʁe/
+Jeux olympiques
+  IPA: /ʒø.z‿ɔ.lɛ̃.pik/
+Corée du Nord
+  IPA: /kɔ.ʁe dy nɔʁ/
+JO
+  IPA: /ʒi.o/
+Nioué
+  IPA: /nju.e/
+Guinée
+  IPA: /ɡi.ne/
+Guernesey
+  IPA: /ɡɛʁ.nə.zɛ/
+Jamaïque
+  IPA: /ʒa.ma.ik/
+Grenade
+  IPA: /ɡʁə.nad/
+Slovénie
+  IPA: /slɔ.ve.ni/
+Slovaquie
+  IPA: /slɔ.va.ki/
+Érythrée
+  IPA: /e.ʁi.tʁe/
+Syrie
+  IPA: /si.ʁi/
+Monténégro
+  IPA: /mɔ̃.te.ne.ɡʁo/
+Serbie
+  IPA: /sɛʁ.bi/
+Indonésie
+  IPA: /ɛ̃.do.ne.zi/
+Bosnie
+  IPA: /bɔs.ni/
+îles Salomon
+  IPA: /il sa.lɔ.mɔ̃/
+Brunéi
+  IPA: /bʁy.ne.i/
+Jordanie
+  IPA: /ʒɔʁ.da.ni/
+Libye
+  IPA: /li.bi/
+Bosnie-Herzégovine
+  IPA: /bɔs.ni.ɛʁ.ze.ɡɔ.vin/
+Gambie
+  IPA: /ɡɑ̃.bi/
+Népal
+  IPA: /ne.pal/
+Corée du Sud
+  IPA: /kɔ.ʁe dy syd/
+Koweït
+  IPA: /ko.wɛjt/
+Kirghizistan
+  IPA: /kiʁ.ɡi.zis.tɑ̃/
+Malaisie
+  IPA: /ma.lɛ.zi/
+  IPA: /ma.le.zi/
+Delphine
+  IPA: /dɛl.fin/
+Géorgie
+  IPA: /ʒe.ɔʁ.ʒi/
+Haïti
+  IPA: /a.i.ti/
+  IPA: /aj.ti/
+Libéria
+  IPA: /li.be.ʁja/
+Cap Vert
+  IPA: /kap vɛʁ/
+Somalie
+  IPA: /sɔ.ma.li/
+Barbade
+  IPA: /baʁ.bad/
+Bélarus
+  IPA: /be.la.ʁys/
+Tanzanie
+  IPA: /tɑ̃.za.ni/
+Afrique du Sud
+  IPA: /a.fʁik dy syd/
+Guinée-Bissau
+  IPA: /ɡi.ne.bi.sa.o/
+Ouganda
+  IPA: /u.ɡɑ̃.da/
+Nouvelle-Zélande
+  IPA: /nu.vɛl.ze.lɑ̃d/
+Mauritanie
+  IPA: /mɔ.ʁi.ta.ni/
+  IPA: /mo.ʁi.ta.ni/
+Ouzbékistan
+  IPA: /uz.be.kis.tɑ̃/
+Zélande
+  IPA: /ze.lɑ̃d/
+Nouvelle-Calédonie
+  IPA: /nu.vɛl.ka.le.dɔ.ni/
+Zambie
+  IPA: /zɑ̃.bi/
+Bahreïn
+  IPA: /ba.ʁɛjn/
+Micronésie
+  IPA: /mi.kʁo.ne.zi/
+Singapour
+  IPA: /sɛ̃.ɡa.puʁ/
+Tchad
+  IPA: /tʃad/
+Polynésie
+  IPA: /pɔ.li.ne.zi/
+Thaïlande
+  IPA: /taj.lɑ̃d/
+Moldavie
+  IPA: /mɔl.da.vi/
+Namibie
+  IPA: /na.mi.bi/
+République tchèque
+  IPA: /ʁe.py.blik tʃɛk/
+Biélorussie
+  IPA: /bje.lɔ.ʁy.si/
+Québec
+  IPA: /ke.bɛk/
+Arabie saoudite
+  IPA: /a.ʁa.bi sa.u.dit/
+Comores
+  IPA: /kɔ.mɔʁ/
+Açores
+  IPA: /a.sɔʁ/
+Azerbaïdjan
+  IPA: /a.zɛʁ.baj.dʒɑ̃/
+Tadjikistan
+  IPA: /ta.dʒi.kis.tɑ̃/
+Sandra
+  IPA: /sɑ̃.dʁa/
+Papouasie-Nouvelle-Guinée
+  IPA: /pa.pwa.zi.nu.vɛl.ɡi.ne/
+Trinité-et-Tobago
+  IPA: /tʁi.ni.te.e.tɔ.ba.ɡo/
+Sainte-Lucie
+  IPA: /sɛ̃.tly.si/
+Antigua-et-Barbuda
+  IPA: /ɑ̃.ti.ɡwa.e.baʁ.by.da/
+Yémen
+  IPA: /je.mɛn/
+Timor oriental
+  IPA: /ti.mɔ.ʁ‿ɔ.ʁjɑ̃.tal/
+Matthias
+  IPA: /ma.tjas/
+Taïwan
+  IPA: /taj.wan/
+Orianne
+  IPA: /ɔ.ʁjan/
+Lara
+  IPA: /la.ʁa/
+Bamako
+  IPA: /ba.ma.ko/
+Juda
+  IPA: /ʒy.da/
+Charlemagne
+  IPA: /ʃaʁ.lə.maɲ/
+Finistère
+  IPA: /fi.nis.tɛʁ/
+Morbihan
+  IPA: /mɔʁ.bi.ɑ̃/
+Ille-et-Vilaine
+  IPA: /i.le.vi.lɛn/
+Somme
+  IPA: /sɔm/
+Lorient
+  IPA: /lɔ.ʁjɑ̃/
+Mayenne
+  IPA: /ma.jɛn/
+Toulon
+  IPA: /tu.lɔ̃/
+Vendée
+  IPA: /vɑ̃.de/
+Moselle
+  IPA: /mɔ.zɛl/
+Metz
+  IPA: /mɛs/
+  IPA: /mɛts/
+Loire
+  IPA: /lwaʁ/
+Navarre
+  IPA: /na.vaʁ/
+Guinée équatoriale
+  IPA: /ɡi.ne e.kwa.tɔ.ʁjal/
+Palaos
+  IPA: /pa.la.os/
+Saint-Marin
+  IPA: /sɛ̃.ma.ʁɛ̃/
+Hong-Kong
+  IPA: /ɔŋ.kɔŋ/
+  IPA: /ɔ̃ɡ.kɔ̃ɡ/
+Yves
+  IPA: /iv/
+Samson
+  IPA: /sɑ̃.sɔ̃/
+Lafayette
+  IPA: /la.fa.jɛt/ (Tags: Belgium, France)
+Citroën
+  IPA: /si.tʁo.ɛn/
+Iroquois
+  IPA: /i.ʁɔ.kwa/
+Lambert
+  IPA: /lɑ̃.bɛʁ/
+Maud
+  IPA: /mod/
+Jonas
+  IPA: /ʒɔ.na/
+  IPA: /ʒɔ.nɑ/
+Nathalie
+  IPA: /na.ta.li/
+Renée
+  IPA: /ʁə.ne/
+Solange
+  IPA: /sɔ.lɑ̃ʒ/
+Vivien
+  IPA: /vi.vjɛ̃/
+Sonia
+  IPA: /sɔ.nja/
+Néron
+  IPA: /ne.ʁɔ̃/
+Néron
+  IPA: /ne.ʁɔ̃/
+Laurent
+  IPA: /lɔ.ʁɑ̃/
+  IPA: /lo.ʁɑ̃/
+Beaumont
+  IPA: /bo.mɔ̃/
+Raoul
+  IPA: /ʁa.ul/
+Vanessa
+  IPA: /va.nɛ.sa/
+  IPA: /va.ne.sa/
+Hubert
+  IPA: /y.bɛʁ/
+Antarctique
+  IPA: /ɑ̃.taʁk.tik/
+  IPA: /ɑ̃.taʁ.tik/
+Agamemnon
+  IPA: /a.ɡa.mɛm.nɔ̃/
+Sauzet
+  IPA: /so.zɛ/
+Gaylord
+  IPA: /ɡɛ.loʁd/
+  IPA: /ɡe.loʁd/
+Kremlin
+  IPA: /kʁɛm.lɛ̃/
+Richelieu
+  IPA: /ʁi.ʃə.ljø/
+Beauchamp
+  IPA: /bo.ʃɑ̃/
+Mahomet
+  IPA: /ma.ɔ.mɛ/
+Champlain
+  IPA: /ʃɑ̃.plɛ̃/
+Rousseau
+  IPA: /ʁu.so/
+Clarendon
+  IPA: /kla.ʁən.dɔn/
+Buckingham
+  IPA: /by.kiŋ.ɛm/
+Morgane
+  IPA: /mɔʁ.ɡan/
+Morgane la fée
+  IPA: /mɔʁ.ɡan la fe/
+Marjorie
+  IPA: /maʁ.ʒɔ.ʁi/
+Lucien
+  IPA: /ly.sjɛ̃/
+Niagara
+  IPA: /nja.ɡa.ʁa/
+Niagara
+  IPA: /nja.ɡa.ʁa/
+Balzac
+  IPA: /bal.zak/
+Moose Jaw
+  IPA: /mus dʒɔ/
+Porto Rico
+  IPA: /pɔʁ.to ʁi.ko/
+Confucius
+  IPA: /kɔ̃.fy.sjys/
+Pallas
+  IPA: /pa.las/
+Pallas
+  IPA: /pa.las/
+guerre d'Algérie
+  IPA: /ɡɛʁ d‿al.ʒe.ʁi/
+Wilfrid
+  IPA: /vil.fʁid/
+Germaine
+  IPA: /ʒɛʁ.mɛn/
+Hortense
+  IPA: /ɔʁ.tɑ̃s/
+Annette
+  IPA: /a.nɛt/
+Germain
+  IPA: /ʒɛʁ.mɛ̃/
+Nunavik
+  IPA: /ny.na.vik/
+  IPA: /nu.na.vik/
+Provence
+  IPA: /pʁɔ.vɑ̃s/
+  IPA: /pʁoˈvãⁿsə/
+  IPA: /pχoˈvã(n)sə/
+Porthos
+  IPA: /pɔʁ.tɔs/
+Joachim
+  IPA: /ʒɔ.a.ʃɛ̃/
+  IPA: /ʒɔ.a.kim/
+  IPA: /ʒɔ.a.kɛ̃/
+Platon
+  IPA: /pla.tɔ̃/
+Platon
+  IPA: /pla.tɔ̃/
+Castillan
+  IPA: /kas.ti.jɑ̃/
+Inès
+  IPA: /i.nɛs/
+André
+  IPA: /ɑ̃.dʁe/
+FIA
+  IPA: /ɛ.fi.a/
+  IPA: /e.fi.a/
+Monika
+  IPA: /mɔ.ni.ka/
+Damien
+  IPA: /da.mjɛ̃/
+Yonkers
+  IPA: /jɔ̃ŋ.kœʁs/
+Poissons
+  IPA: /pwa.sɔ̃/
+Savoie
+  IPA: /sa.vwa/
+Dunkerque
+  IPA: /dœ̃.kɛʁk/
+  IPA: /dɛ̃.kɛʁk/
+Jutland
+  IPA: /ʒy.tlɑ̃d/
+Chamonix
+  IPA: /ʃa.mɔ.ni/
+Alexis
+  IPA: /a.lɛk.si/
+Chopin
+  IPA: /ʃɔ.pɛ̃/
+Gustave
+  IPA: /ɡys.tav/
+Adrienne
+  IPA: /a.dʁi.jɛn/
+Quentin
+  IPA: /kɑ̃.tɛ̃/
+Genève
+  IPA: /ʒə.nɛv/
+Mogadiscio
+  IPA: /mɔ.ɡa.di.sjo/
+  IPA: /mɔ.ɡa.di.ʃjo/
+Lilian
+  IPA: /li.ljɑ̃/
+Pierrot
+  IPA: /pjɛ.ʁo/
+  IPA: /pje.ʁo/
+Guangdong
+  IPA: /ɡwɑ̃ɡ.dɔ̃ɡ/
+  IPA: /ɡwaŋ.dɔŋ/
+Auch
+  IPA: /oʃ/
+Drummond
+  IPA: /dʁɔ.mɔnd/
+Shenyang
+  IPA: /ʃə.njɑ̃/
+Chongqing
+  IPA: /tʃɔŋt.ʃiŋ/
+Pärnu
+  IPA: /pɛʁ.nu/
+  IPA: /pɛʁ.ny/
+  IPA: /paʁ.ny/
+  IPA: /paʁ.nu/
+Laval
+  IPA: /la.val/
+Laval
+  IPA: /la.val/
+Wuhan
+  IPA: /wu.an/
+  IPA: /wu.xan/
+Anubis
+  IPA: /a.ny.bis/
+Ibiza
+  IPA: /i.bi.sa/
+Louisville
+  IPA: /lwi.vil/
+Carmen
+  IPA: /kaʁ.mɛn/
+Union des républiques socialistes soviétiques
+  IPA: /y.njɔ̃ de ʁe.py.blik sɔ.sja.list sɔ.vje.tik/
+Cadillac
+  IPA: /ka.di.jak/
+  IPA: /ka.di.lak/
+Antananarivo
+  IPA: /ɑ̃.ta.na.na.ʁi.vo/
+Rusio
+  IPA: /ʁy.zjo/
+Maia
+  IPA: /ma.ja/
+Chloé
+  IPA: /klɔ.e/
+  IPA: /klo.e/
+Camille
+  IPA: /ka.mij/
+Léa
+  IPA: /le.a/
+Ruben
+  IPA: /ʁy.bɛn/
+Notre Dame
+  IPA: /nɔ.tʁə dam/
+Japhet
+  IPA: /ʒa.fɛ/
+Antilles
+  IPA: /ɑ̃.tij/
+Cécile
+  IPA: /se.sil/
+Yseult
+  IPA: /i.zø/
+  IPA: /i.zœlt/
+Vivienne
+  IPA: /vi.vjɛn/
+Violette
+  IPA: /vjɔ.lɛt/
+Martine
+  IPA: /maʁ.tin/
+Patrice
+  IPA: /pa.tʁis/
+Zoé
+  IPA: /zɔ.e/
+Noé
+  IPA: /nɔ.e/
+Yvette
+  IPA: /i.vɛt/
+Yvette
+  IPA: /i.vɛt/
+Niamey
+  IPA: /nja.me/
+Alger
+  IPA: /al.ʒe/
+Ségolène
+  IPA: /se.ɡɔ.lɛn/
+Osaka
+  IPA: /o.za.ka/ (Tags: France)
+  IPA: /o.sa.ka/ (Tags: France)
+  IPA: /o.sa.kɑ/ (Tags: Quebec)
+Ré
+  IPA: /ʁe/
+Rahim
+  IPA: /ʁa.im/
+  IPA: /ʁa.him/
+Cornouailles
+  IPA: /kɔʁ.nwaj/
+Ariane
+  IPA: /a.ʁjan/
+Lucille
+  IPA: /ly.sil/
+Salzbourg
+  IPA: /salz.buʁ/
+Reims
+  IPA: /ʁɛ̃s/
+Riad
+  IPA: /ʁjad/
+Perrot
+  IPA: /pɛ.ʁo/
+  IPA: /pe.ʁo/
+Tracy
+  IPA: /tʁa.si/
+Tracy
+  IPA: /tʁɛ.si/
+  IPA: /tʁe.si/
+  IPA: /tʁa.si/
+Dylan
+  IPA: /di.lan/
+Salat
+  IPA: /sa.lat/
+Florian
+  IPA: /flɔ.ʁjɑ̃/
+Élysée
+  IPA: /e.li.ze/
+Le Mans
+  IPA: /lə mɑ̃/
+Corinne
+  IPA: /kɔ.ʁin/
+Brice
+  IPA: /bʁis/
+Adeline
+  IPA: /a.dlin/
+Anita
+  IPA: /a.ni.ta/
+Gwendoline
+  IPA: /ɡwɛn.dɔ.lin/
+Carole
+  IPA: /ka.ʁɔl/
+Edmond
+  IPA: /ɛd.mɔ̃/
+Faye
+  IPA: /fɛj/
+Jeannette
+  IPA: /ʒa.nɛt/
+Irma
+  IPA: /iʁ.ma/
+EAU
+  IPA: /ø.a.y/
+  IPA: /ə.a.y/
+Eulalie
+  IPA: /ø.la.li/
+Alix
+  IPA: /a.liks/
+Bryson
+  IPA: /bʁi.sɔn/
+Bernadette
+  IPA: /bɛʁ.na.dɛt/
+Paulette
+  IPA: /po.lɛt/
+Lola
+  IPA: /lɔ.la/
+  IPA: /lo.la/
+Cuif
+  IPA: /kɥif/
+Annabelle
+  IPA: /a.na.bɛl/
+Chantal
+  IPA: /ʃɑ̃.tal/
+Jasmin
+  IPA: /ʒas.mɛ̃/
+Varsovie
+  IPA: /vaʁ.sɔ.vi/
+Douchanbé
+  IPA: /du.ʃan.be/
+Rhénanie
+  IPA: /ʁe.na.ni/
+Beyrouth
+  IPA: /bɛ.ʁut/
+  IPA: /be.ʁut/
+Kaboul
+  IPA: /ka.bul/
+Tananarive
+  IPA: /ta.na.na.ʁiv/
+Barcelone
+  IPA: /baʁ.sə.lɔn/
+Bâle
+  IPA: /bal/
+  IPA: /bɑl/
+Édimbourg
+  IPA: /e.dɛ̃.buʁ/
+Lisbonne
+  IPA: /liz.bɔn/
+Cracovie
+  IPA: /kʁa.kɔ.vi/
+Saint-Pétersbourg
+  IPA: /sɛ̃.pe.tɛʁz.buʁ/
+Bavière
+  IPA: /ba.vjɛʁ/
+Groningue
+  IPA: /ɡʁɔ.nɛ̃ɡ/
+Thuringe
+  IPA: /ty.ʁɛ̃ʒ/
+Hambourg
+  IPA: /ɑ̃.buʁ/
+Séville
+  IPA: /se.vij/
+Aix-la-Chapelle
+  IPA: /ɛk.sla.ʃa.pɛl/
+  IPA: /ɛ.sla.ʃa.pɛl/
+Copenhague
+  IPA: /kɔp.naɡ/
+  IPA: /kɔ.pɛ.naɡ/
+  IPA: /kɔ.pe.naɡ/
+Tachkent
+  IPA: /taʃ.kɛnt/
+Athènes
+  IPA: /a.tɛn/
+Pékin
+  IPA: /pe.kɛ̃/
+Brême
+  IPA: /bʁɛm/
+Saxe
+  IPA: /saks/
+ONU
+  IPA: /ɔ.ny/
+  IPA: /o.ɛ.ny/
+Jiangsu
+  IPA: /dʒjɑ̃ŋ.su/
+Eveline
+  IPA: /e.vlin/
+Janine
+  IPA: /ʒa.nin/
+Lucile
+  IPA: /ly.sil/
+Curaçao
+  IPA: /ky.ʁa.so/
+Leila
+  IPA: /lej.la/
+  IPA: /lɛj.la/
+Monique
+  IPA: /mɔ.nik/
+Nikita
+  IPA: /ni.ki.ta/
+Nadine
+  IPA: /na.din/
+Muriel
+  IPA: /my.ʁjɛl/
+Rosalie
+  IPA: /ʁo.za.li/
+Nadia
+  IPA: /na.dja/
+Poutine
+  IPA: /pu.tin/
+Sabrina
+  IPA: /sa.bʁi.na/
+Californie
+  IPA: /ka.li.fɔʁ.ni/
+Maéva
+  IPA: /ma.e.va/
+Maeva
+  IPA: /ma.e.va/
+Esmé
+  IPA: /ɛs.me/
+Esmé
+  IPA: /ɛs.me/
+Transnistrie
+  IPA: /tʁɑ̃s.nis.tʁi/
+Granville
+  IPA: /ɡʁɑ̃.vil/
+Ronan
+  IPA: /ʁɔ.nɑ̃/
+  IPA: /ʁɔ.nan/
+Internet
+  IPA: /ɛ̃.tɛʁ.nɛt/
+Europe centrale
+  IPA: /ø.ʁɔp sɑ̃.tʁal/
+Giselle
+  IPA: /ʒi.zɛl/
+Yann
+  IPA: /jan/
+Yannick
+  IPA: /ja.nik/
+Pacifique
+  IPA: /pa.si.fik/
+Katia
+  IPA: /ka.tja/
+Karine
+  IPA: /ka.ʁin/
+Sao Tomé-et-Principe
+  IPA: /sa.o.tɔ.me e pʁin.si.pe/
+République centrafricaine
+  IPA: /ʁe.py.blik sɑ̃.tʁa.fʁi.kɛn/
+République dominicaine
+  IPA: /ʁe.py.blik dɔ.mi.ni.kɛn/
+Brigitte
+  IPA: /bʁi.ʒit/
+Marthe
+  IPA: /maʁt/
+Lise
+  IPA: /liz/
+Hélène
+  IPA: /e.lɛn/
+Cayenne
+  IPA: /ka.jɛn/
+Chartreux
+  IPA: /ʃaʁ.tʁø/
+Mika
+  IPA: /mi.ka/
+Christiane
+  IPA: /kʁis.tjan/
+Bertrand
+  IPA: /bɛʁ.tʁɑ̃/
+Armand
+  IPA: /aʁ.mɑ̃/
+Piotr
+  IPA: /pjɔtʁ/
+Suzuki
+  IPA: /su.zu.ki/
+Alexandre
+  IPA: /a.lɛk.sɑ̃dʁ/
+Stéphanie
+  IPA: /ste.fa.ni/
+Hervé
+  IPA: /ɛʁ.ve/
+Bénédicte
+  IPA: /be.ne.dikt/
+Mathias
+  IPA: /ma.tjas/
+Nicoline
+  IPA: /ni.kɔ.lin/
+Lucie
+  IPA: /ly.si/
+Arno
+  IPA: /aʁ.no/
+Timișoara
+  IPA: /ti.mi.ʃo.a.ʁa/
+UDA
+  IPA: /y.da/
+Toussaint
+  IPA: /tu.sɛ̃/
+UNEDIC
+  IPA: /y.ne.dik/
+Binche
+  IPA: /bɛ̃ʃ/
+Catalogne
+  IPA: /ka.ta.lɔɲ/
+Émilie
+  IPA: /e.mi.li/
+Amélie
+  IPA: /a.me.li/
+Émile
+  IPA: /e.mil/
+Gérard
+  IPA: /ʒe.ʁaʁ/
+Sion
+  IPA: /sjɔ̃/
+Yunnan
+  IPA: /jy.nan/
+Hexagone
+  IPA: /ɛɡ.za.ɡɔn/
+Limoges
+  IPA: /li.mɔʒ/
+Wilfried
+  IPA: /vil.fʁid/
+Astrid
+  IPA: /as.tʁid/
+Ingrid
+  IPA: /iŋ.ɡʁid/
+Picardie
+  IPA: /pi.kaʁ.di/
+Sabine
+  IPA: /sa.bin/
+Nestor
+  IPA: /nɛs.tɔʁ/
+Nazaré
+  IPA: /na.za.ʁe/
+Jourdain
+  IPA: /ʒuʁ.dɛ̃/
+Gautier
+  IPA: /ɡo.tje/
+Gauthier
+  IPA: /ɡo.tje/
+Sacha
+  IPA: /sa.ʃa/
+Gaspard
+  IPA: /ɡas.paʁ/
+Danièle
+  IPA: /da.njɛl/
+Franck
+  IPA: /fʁɑ̃k/
+Françoise
+  IPA: /fʁɑ̃.swaz/
+OTAN
+  IPA: /ɔ.tɑ̃/
+Irène
+  IPA: /i.ʁɛn/
+mer Rouge
+  IPA: /mɛʁ ʁuʒ/
+mer du Japon
+  IPA: /mɛʁ dy ʒa.pɔ̃/
+Romain
+  IPA: /ʁɔ.mɛ̃/
+Renaud
+  IPA: /ʁə.no/
+Hsinchu
+  IPA: /ʃint.ʃu/
+Rolande
+  IPA: /ʁɔ.lɑ̃d/
+Séverine
+  IPA: /se.vʁin/
+Séverin
+  IPA: /sɛ.vʁɛ̃/
+  IPA: /se.vʁɛ̃/
+Axelle
+  IPA: /ak.sɛl/
+Volkswagen
+  IPA: /vɔl(k)s.va.ɡən/
+  IPA: /-ɡɛn/
+Transylvanie
+  IPA: /tʁɑ̃.sil.va.ni/
+Nicolette
+  IPA: /ni.kɔ.lɛt/
+Timothé
+  IPA: /ti.mɔ.te/
+Timothée
+  IPA: /ti.mɔ.te/
+Primel
+  IPA: /pʁi.mɛl/
+Jean-Philippe
+  IPA: /ʒɑ̃.fi.lip/
+Mélanie
+  IPA: /me.la.ni/
+Perrine
+  IPA: /pɛ.ʁin/
+  IPA: /pe.ʁin/
+Pierre-Marie
+  IPA: /pjɛʁ.ma.ʁi/
+Marie-Pierre
+  IPA: /ma.ʁi.pjɛʁ/
+Jean-Marie
+  IPA: /ʒɑ̃.ma.ʁi/
+Pierrette
+  IPA: /pjɛ.ʁɛt/
+  IPA: /pje.ʁɛt/
+Jean-Pierre
+  IPA: /ʒɑ̃.pjɛʁ/
+Angèle
+  IPA: /ɑ̃.ʒɛl/
+Angélique
+  IPA: /ɑ̃.ʒe.lik/
+Théodore
+  IPA: /te.ɔ.dɔʁ/
+Théo
+  IPA: /te.o/
+Édith
+  IPA: /e.dit/
+Dorothée
+  IPA: /dɔ.ʁɔ.te/
+Armin
+  IPA: /aʁ.mɛ̃/
+  IPA: /aʁ.min/
+Angeline
+  IPA: /ɑ̃ʒ.lin/
+Basse-Saxe
+  IPA: /bas.saks/
+Zacharie
+  IPA: /za.ka.ʁi/
+Père Noël
+  IPA: /pɛʁ nɔ.ɛl/
+Odette
+  IPA: /ɔ.dɛt/
+mer Ionienne
+  IPA: /mɛ.ʁ‿jɔ.njɛn/
+  IPA: /me.ʁ‿jɔ.njɛn/
+Héraclès
+  IPA: /e.ʁa.klɛs/
+Hadès
+  IPA: /a.dɛs/
+mer Jaune
+  IPA: /mɛʁ ʒon/
+Minerve
+  IPA: /mi.nɛʁv/
+Hermès
+  IPA: /ɛʁ.mɛs/
+Cérès
+  IPA: /se.ʁɛs/
+Cupidon
+  IPA: /ky.pi.dɔ̃/
+Éros
+  IPA: /e.ʁɔs/
+Olympe
+  IPA: /ɔ.lɛ̃p/
+Junon
+  IPA: /ʒy.nɔ̃/
+Poséidon
+  IPA: /po.ze.i.dɔ̃/
+  IPA: /po.zej.dɔ̃/
+  IPA: /po.zɛj.dɔ̃/
+Athéna
+  IPA: /a.te.na/
+Arès
+  IPA: /a.ʁɛs/
+Galilée
+  IPA: /ɡa.li.le/
+Artémis
+  IPA: /aʁ.te.mis/
+Apollon
+  IPA: /a.pɔ.lɔ̃/
+Eschyle
+  IPA: /ɛ.ʃil/
+  IPA: /e.ʃil/
+  IPA: /ɛs.kil/
+  IPA: /e.ʃil/
+  IPA: /es.kil/
+  IPA: /ɛs.kil/
+Yamada
+  IPA: /ja.ma.da/
+Nouvelle-Galles du Sud
+  IPA: /nu.vɛl.ɡal dy syd/
+Josselin
+  IPA: /ʒɔ.slɛ̃/
+  IPA: [ʒɔs.lɛ̃]
+Jocelyne
+  IPA: /ʒɔ.slin/
+Josseline
+  IPA: /ʒɔ.slin/
+Ninive
+  IPA: /ni.niv/
+Miryam
+  IPA: /mi.ʁjam/
+Myriam
+  IPA: /mi.ʁjam/
+Agnès
+  IPA: /a.ɲɛs/
+Troie
+  IPA: /tʁwa/
+Tasmanie
+  IPA: /tas.ma.ni/
+Internationale
+  IPA: /ɛ̃.tɛʁ.na.sjɔ.nal/
+Bayonne
+  IPA: /ba.jɔn/
+Victoire
+  IPA: /vik.twaʁ/
+Afrique noire
+  IPA: /a.fʁik nwaʁ/
+Nadège
+  IPA: /na.dɛʒ/
+Raymonde
+  IPA: /ʁɛ.mɔ̃d/
+  IPA: /ʁe.mɔ̃d/
+Marcelle
+  IPA: /maʁ.sɛl/
+Natacha
+  IPA: /na.ta.ʃa/
+Norbert
+  IPA: /nɔʁ.bɛʁ/
+RU
+  IPA: /ʁy/
+Aiton
+  IPA: /ɛ.tɔ̃/
+  IPA: /e.tɔ̃/
+Moyen-Orient
+  IPA: /mwa.jɛ.nɔ.ʁjɑ̃/
+  IPA: /mwa.je.nɔ.ʁjɑ̃/
+Clémence
+  IPA: /kle.mɑ̃s/
+Clément
+  IPA: /kle.mɑ̃/
+Clémentine
+  IPA: /kle.mɑ̃.tin/
+Stéphane
+  IPA: /ste.fan/
+Étienne
+  IPA: /e.tjɛn/
+  IPA: [e.tsjɛn] (Tags: Quebec)
+Caroline du Sud
+  IPA: /ka.ʁɔ.lin dy syd/
+Rose-Marie
+  IPA: /ʁoz.ma.ʁi/
+Jean-Yves
+  IPA: /ʒɑ̃.iv/
+Maryvonne
+  IPA: /ma.ʁi.vɔn/
+Yvon
+  IPA: /i.vɔ̃/
+Ascension
+  IPA: /a.sɑ̃.sjɔ̃/
+Régine
+  IPA: /ʁe.ʒin/
+Magellan
+  IPA: /ma.ʒɛ.lɑ̃/
+  IPA: /ma.ʒe.lɑ̃/
+Grégory
+  IPA: /ɡʁe.ɡɔ.ʁi/
+Grégoire
+  IPA: /ɡʁe.ɡwaʁ/
+Maximilien
+  IPA: /mak.si.mi.ljɛ̃/
+Maxime
+  IPA: /mak.sim/
+Arnaud
+  IPA: /aʁ.no/
+Moussa
+  IPA: /mu.sa/
+Abdoulaye
+  IPA: /ab.du.laj/
+Amadou
+  IPA: /a.ma.du/
+Aïssata
+  IPA: /a.i.sa.ta/
+Aïssatou
+  IPA: /a.i.sa.tu/
+Fatimata
+  IPA: /fa.ti.ma.ta/
+Aïcha
+  IPA: /a.i.ʃa/
+  IPA: /aj.ʃa/
+Issa
+  IPA: /i.sa/
+Louvain
+  IPA: /lu.vɛ̃/
+Micheline
+  IPA: /miʃ.lin/
+Michèle
+  IPA: /mi.ʃɛl/
+Jean-Michel
+  IPA: /ʒɑ̃.mi.ʃɛl/
+Mickaël
+  IPA: /mi.ka.ɛl/
+Michaël
+  IPA: /mi.ka.ɛl/
+Emmanuelle
+  IPA: /ɛ.ma.nɥɛl/
+  IPA: /e.ma.nɥɛl/
+Lancelot
+  IPA: /lɑ̃.slo/
+Élie
+  IPA: /e.li/
+RDS
+  IPA: /ɛʁ.de.ɛs/
+Quai d'Orsay
+  IPA: /kɛ d‿ɔʁ.sɛ/
+Guyane
+  IPA: /ɡɥi.jan/
+Ekat
+  IPA: /e.kat/
+Claudine
+  IPA: /klo.din/
+Jean-Claude
+  IPA: /ʒɑ̃.klod/
+Marie-Claude
+  IPA: /ma.ʁi.klod/
+Albertine
+  IPA: /al.bɛʁ.tin/
+Alberte
+  IPA: /al.bɛʁt/
+Valentin
+  IPA: /va.lɑ̃.tɛ̃/
+Jean-Christophe
+  IPA: /ʒɑ̃.kʁis.tɔf/
+Jean-Marc
+  IPA: /ʒɑ̃.maʁk/
+Jean-Jacques
+  IPA: /ʒɑ̃.ʒak/
+Sébastien
+  IPA: /se.bas.tjɛ̃/
+Bastien
+  IPA: /bas.tjɛ̃/
+Jean-Paul
+  IPA: /ʒɑ̃.pɔl/
+Jean-Louis
+  IPA: /ʒɑ̃.lwi/
+Jean-François
+  IPA: /ʒɑ̃.fʁɑ̃.swa/
+Jean-Luc
+  IPA: /ʒɑ̃.lyk/
+Baptiste
+  IPA: /ba.tist/
+Jean-Baptiste
+  IPA: /ʒɑ̃.ba.tist/
+Éric
+  IPA: /e.ʁik/
+Cyrille
+  IPA: /si.ʁil/
+Cyrille
+  IPA: /si.ʁil/
+Fabien
+  IPA: /fa.bjɛ̃/
+Frédérique
+  IPA: /fʁe.de.ʁik/
+Désiré
+  IPA: /de.zi.ʁe/
+Jean-Charles
+  IPA: /ʒɑ̃.ʃaʁl/
+Didier
+  IPA: /di.dje/
+Florent
+  IPA: /flɔ.ʁɑ̃/
+Fabienne
+  IPA: /fa.bjɛn/
+Cédric
+  IPA: /se.dʁik/
+Désirée
+  IPA: /de.zi.ʁe/
+Enzo
+  IPA: /ɛn.zo/
+Dimitri
+  IPA: /di.mi.tʁi/
+Gilberte
+  IPA: /ʒil.bɛʁt/
+Géraldine
+  IPA: /ʒe.ʁal.din/
+Gérald
+  IPA: /ʒe.ʁald/
+Huguette
+  IPA: /y.ɡɛt/
+Josée
+  IPA: /ʒo.ze/
+Marie-José
+  IPA: /ma.ʁi.ʒo.ze/
+Joëlle
+  IPA: /ʒɔ.ɛl/
+Kévin
+  IPA: /ke.vin/
+Hugues
+  IPA: /yɡ/
+Gilles
+  IPA: /ʒil/
+Léo
+  IPA: /le.o/
+Joël
+  IPA: /ʒɔ.ɛl/
+Léonie
+  IPA: /le.ɔ.ni/
+Léone
+  IPA: /le.ɔn/
+Loïc
+  IPA: /lɔ.ik/
+Ludovic
+  IPA: /ly.dɔ.vik/
+Matthieu
+  IPA: /ma.tjø/
+Tchéquie
+  IPA: /tʃe.ki/
+Pascale
+  IPA: /pas.kal/
+Marie-Paule
+  IPA: /ma.ʁi.pol/
+Raphaëlle
+  IPA: /ʁa.fa.ɛl/
+Paule
+  IPA: /pol/
+Rodolphe
+  IPA: /ʁɔ.dɔlf/
+Remy
+  IPA: /ʁə.mi/
+  IPA: /ʁe.mi/
+Sylvaine
+  IPA: /sil.vɛn/
+Silvain
+  IPA: /sil.vɛ̃/
+Régis
+  IPA: /ʁe.ʒis/
+Thibaud
+  IPA: /ti.bo/
+Fernande
+  IPA: /fɛʁ.nɑ̃d/
+Fernand
+  IPA: /fɛʁ.nɑ̃/
+Sylviane
+  IPA: /sil.vjan/
+Pascaline
+  IPA: /pas.ka.lin/
+Thibaut
+  IPA: /ti.bo/
+Raphaël
+  IPA: /ʁa.fa.ɛl/
+Remi
+  IPA: /ʁə.mi/
+  IPA: /ʁe.mi/
+mer Noire
+  IPA: /mɛʁ nwaʁ/
+Thibault
+  IPA: /ti.bo/
+Thibault
+  IPA: /ti.bo/
+océan Indien
+  IPA: /ɔ.se.ɑ̃ ɛ̃.djɛ̃/
+océan Arctique
+  IPA: /ɔ.se.ɑ̃ aʁk.tik/
+Eurafrasie
+  IPA: /ø.ʁa.fʁa.zi/
+Eugène
+  IPA: /ø.ʒɛn/
+Eugénie
+  IPA: /ø.ʒe.ni/
+Sandrine
+  IPA: /sɑ̃.dʁin/
+Andrée
+  IPA: /ɑ̃.dʁe/
+Gaétan
+  IPA: /ɡa.e.tɑ̃/
+  IPA: /ɡe.tɑ̃/
+Adèle
+  IPA: /a.dɛl/
+Aurélie
+  IPA: /ɔ.ʁe.li/
+Amandine
+  IPA: /a.mɑ̃.din/
+Aurore
+  IPA: /o.ʁɔʁ/
+  IPA: /ɔ.ʁɔʁ/
+Béatrice
+  IPA: /be.a.tʁis/
+Agathe
+  IPA: /a.ɡat/
+Aline
+  IPA: /a.lin/
+Homère
+  IPA: /ɔ.mɛʁ/
+Burkina
+  IPA: /buʁ.ki.na/
+  IPA: /byʁ.ki.na/
+Laurette
+  IPA: /lɔ.ʁɛt/
+Armelle
+  IPA: /aʁ.mɛl/
+Laure
+  IPA: /lɔʁ/
+Anne-Sophie
+  IPA: /an.sɔ.fi/
+Annick
+  IPA: /a.nik/
+Anaïs
+  IPA: /a.na.is/
+Adélaïde
+  IPA: /a.de.la.id/
+Anne-Laure
+  IPA: /an.lɔʁ/
+Aurélien
+  IPA: /ɔ.ʁe.ljɛ̃/
+Laurine
+  IPA: /lɔ.ʁin/
+Arlette
+  IPA: /aʁ.lɛt/
+Carine
+  IPA: /ka.ʁin/
+Claudette
+  IPA: /klo.dɛt/
+Colette
+  IPA: /kɔ.lɛt/
+Christelle
+  IPA: /kʁis.tɛl/
+Auguste
+  IPA: /o.ɡyst/
+Coline
+  IPA: /kɔ.lin/
+Berthe
+  IPA: /bɛʁt/
+Céline
+  IPA: /se.lin/
+Armel
+  IPA: /aʁ.mɛl/
+Coralie
+  IPA: /kɔ.ʁa.li/
+Clothilde
+  IPA: /klɔ.tild/
+Edwige
+  IPA: /ɛd.viʒ/
+Anne-Marie
+  IPA: /an.ma.ʁi/
+Clarisse
+  IPA: /kla.ʁis/
+Célia
+  IPA: /se.lja/
+Clotilde
+  IPA: /klɔ.tild/
+Clovis
+  IPA: /klɔ.vis/
+Élisa
+  IPA: /e.li.za/
+Éléonore
+  IPA: /e.le.ɔ.nɔʁ/
+Évelyne
+  IPA: /e.vlin/
+Éliane
+  IPA: /e.ljan/
+Blandine
+  IPA: /blɑ̃.din/
+Ève
+  IPA: /ɛv/
+Marie-Claire
+  IPA: /ma.ʁi.klɛʁ/
+Élodie
+  IPA: /e.lɔ.di/
+  IPA: /e.lɔ.dzɪ/ (Tags: Quebec)
+Marie-France
+  IPA: /ma.ʁi.fʁɑ̃s/
+Marie-Françoise
+  IPA: /ma.ʁi.fʁɑ̃.swaz/
+Georgette
+  IPA: /ʒɔʁ.ʒɛt/
+Marie-Christine
+  IPA: /ma.ʁi.kʁis.tin/
+Marie-Laure
+  IPA: /ma.ʁi.lɔʁ/
+Élise
+  IPA: /e.liz/
+Marie-Madeleine
+  IPA: /ma.ʁi.ma.dlɛn/
+Élisabeth
+  IPA: /e.li.za.bɛt/
+Gaël
+  IPA: /ɡa.ɛl/
+Gaëlle
+  IPA: /ɡa.ɛl/
+Gwenaëlle
+  IPA: /ɡwɛ.na.ɛl/
+  IPA: /ɡwe.na.ɛl/
+Guillemette
+  IPA: /ɡij.mɛt/
+Gisèle
+  IPA: /ʒi.zɛl/
+Gwenaël
+  IPA: /ɡwɛ.na.ɛl/
+  IPA: /ɡwe.na.ɛl/
+Héloïse
+  IPA: /e.lɔ.iz/
+Éloïse
+  IPA: /e.lɔ.iz/
+Ghislain
+  IPA: /ɡi.lɛ̃/
+  IPA: /ʒi.slɛ̃/
+Éva
+  IPA: /e.va/
+Ishikawa
+  IPA: /i.ʃi.ka.wa/
+Jeannine
+  IPA: /ʒa.nin/
+Francine
+  IPA: /fʁɑ̃.sin/
+Lucienne
+  IPA: /ly.sjɛn/
+Ghislaine
+  IPA: /ɡi.lejn/
+  IPA: /ɡi.lɛn/
+  IPA: /ʒi.slɛn/
+Laetitia
+  IPA: /le.ti.sja/
+Aude
+  IPA: /od/
+Aude
+  IPA: /od/
+Sardaigne
+  IPA: /saʁ.dɛɲ/
+Samarie
+  IPA: /sa.ma.ʁi/
+Magali
+  IPA: /ma.ɡa.li/
+Marie-Hélène
+  IPA: /ma.ʁi.e.lɛn/
+Noëlle
+  IPA: /nɔ.ɛl/
+Mariette
+  IPA: /ma.ʁjɛt/
+Marie-Noëlle
+  IPA: /ma.ʁi.nɔ.ɛl/
+Marie-Thérèse
+  IPA: /ma.ʁi.te.ʁɛz/
+Lydie
+  IPA: /li.di/
+Murielle
+  IPA: /my.ʁjɛl/
+Mireille
+  IPA: /mi.ʁɛj/
+Noémie
+  IPA: /nɔ.e.mi/
+Manon
+  IPA: /ma.nɔ̃/
+Noémi
+  IPA: /nɔ.e.mi/
+  IPA: /no.e.mi/
+Marie-Louise
+  IPA: /ma.ʁi.lwiz/
+Margaux
+  IPA: /maʁ.ɡo/
+Océane
+  IPA: /ɔ.se.an/
+Geneviève
+  IPA: /ʒə.nə.vjɛv/ (Tags: French, Standard)
+  IPA: /ʒən.vjɛv/ (Tags: French, Standard)
+Marielle
+  IPA: /ma.ʁjɛl/
+Marielle
+  IPA: /ma.ʁjɛl/
+Odile
+  IPA: /ɔ.dil/
+Marinette
+  IPA: /ma.ʁi.nɛt/
+La Nouvelle-Orléans
+  IPA: /la nu.vɛ.lɔʁ.le.ɑ̃/
+  IPA: /la nu.ve.lɔʁ.le.ɑ̃/
+Louisiane
+  IPA: /lwi.zjan/
+Hawaï
+  IPA: /a.wa.i/
+  IPA: /a.waj/
+Rémy
+  IPA: /ʁe.mi/
+Solenn
+  IPA: /sɔ.lɛn/
+Solenne
+  IPA: /sɔ.lɛn/
+Tiphaine
+  IPA: /ti.fɛn/
+Yolande
+  IPA: /jɔ.lɑ̃d/
+Rémi
+  IPA: /ʁe.mi/
+Rébecca
+  IPA: /ʁe.be.ka/
+Solène
+  IPA: /sɔ.lɛn/
+Mélissa
+  IPA: /me.li.sa/
+Viviane
+  IPA: /vi.vjan/
+Roseline
+  IPA: /ʁoz.lin/
+Roselyne
+  IPA: /ʁoz.lin/
+Claudie
+  IPA: /klo.di/
+Ophélie
+  IPA: /ɔ.fe.li/
+Simonne
+  IPA: /si.mɔn/
+Romane
+  IPA: /ʁɔ.man/
+Romaine
+  IPA: /ʁɔ.mɛn/
+GRC
+  IPA: /ʒe.ɛʁ.se/
+Tuileries
+  IPA: /tɥil.ʁi/
+Romains
+  IPA: /ʁɔ.mɛ̃/
+Tbilissi
+  IPA: /tbi.li.si/
+abkhaze
+  IPA: /ab.kaz/
+Bakou
+  IPA: /ba.ku/
+Erevan
+  IPA: /e.ʁe.van/
+Sahara occidental
+  IPA: /sa.a.ʁa ɔk.si.dɑ̃.tal/
+Sainte-Hélène
+  IPA: /sɛ̃.te.lɛn/
+îles Vierges britanniques
+  IPA: /il vjɛʁ.ʒ(ə) bʁi.ta.nik/
+Sicile
+  IPA: /si.sil/
+Aristote
+  IPA: /a.ʁis.tɔt/
+Albane
+  IPA: /al.ban/
+Alphonsine
+  IPA: /al.fɔ̃.sin/
+La Haye
+  IPA: /la ɛ/
+Euclide
+  IPA: /ø.klid/
+Paname
+  IPA: /pa.nam/
+Esposito
+  IPA: /ɛs.po.zi.to/
+Atlantique
+  IPA: /a.tlɑ̃.tik/
+Lesly
+  IPA: /lɛ.sli/
+  IPA: /le.sli/
+Côme
+  IPA: /kom/
+Boucher
+  IPA: /bu.ʃe/
+Pise
+  IPA: /piz/
+Méduse
+  IPA: /me.dyz/
+Marches
+  IPA: /maʁʃ/
+Aliénor
+  IPA: /a.lje.nɔʁ/
+Élisée
+  IPA: /e.li.ze/
+Aylmer
+  IPA: /el.mɛʁ/
+  IPA: /ɛl.mɛʁ/
+Flo
+  IPA: /flo/
+CIC
+  IPA: /se.i.se/
+Pennsylvanie
+  IPA: /pɛn.sil.va.ni/
+Josué
+  IPA: /ʒo.zɥe/
+RCI
+  IPA: /ɛʁ.se.i/
+RCI
+  IPA: /ɛʁ.se.i/
+Habs
+  IPA: /aps/
+Canadiens
+  IPA: /ka.na.djɛ̃/
+Camus
+  IPA: /ka.my/
+Mélodie
+  IPA: /me.lɔ.di/
+Nathanaël
+  IPA: /na.ta.na.ɛl/
+Roxane
+  IPA: /ʁɔk.san/
+Roberte
+  IPA: /ʁɔ.bɛʁt/
+Roch
+  IPA: /ʁɔk/
+nakba
+  IPA: /nak.ba/
+îles Cook
+  IPA: /il kuk/
+Constantin
+  IPA: /kɔ̃s.tɑ̃.tɛ̃/
+République Française
+  IPA: /ʁe.py.blik fʁɑ̃.sɛz/
+Thaddée
+  IPA: /ta.de/
+Nicodème
+  IPA: /ni.kɔ.dɛm/
+Théophile
+  IPA: /te.ɔ.fil/
+Cap-Vert
+  IPA: /kap.vɛʁ/
+Nouvelle-Écosse
+  IPA: /nu.vɛ.l‿e.kɔs/
+Esprit-Saint
+  IPA: /ɛs.pʁi.sɛ̃/
+Saint-Esprit
+  IPA: /sɛ̃.t‿ɛs.pʁi/
+Métis
+  IPA: /me.tis/
+  IPA: /me.t͡sis/ (Tags: Canada)
+  IPA: [me.t͡sɪs] (Tags: Canada)
+Moïse
+  IPA: /mɔ.iz/
+Terre-Neuve-et-Labrador
+  IPA: /tɛʁ.nœ.ve.la.bʁa.dɔʁ/
+Île-du-Prince-Édouard
+  IPA: /il.dy.pʁɛ̃.se.dwaʁ/
+Nouveau-Brunswick
+  IPA: /nu.vo.bʁɔn.zwɪk/ (Tags: Canada)
+  IPA: /nu.vo.bʁœn.swik/ (Tags: France)
+Terre-Neuve
+  IPA: /tɛʁ.nœv/
+Gémeaux
+  IPA: /ʒe.mo/
+PQ
+  IPA: /pe.ky/
+Salomon
+  IPA: /sa.lo.mɔ̃/
+Colombie-Britannique
+  IPA: /kɔ.lɔ̃.bi.bʁi.ta.nik/
+Perséphone
+  IPA: /pɛʁ.se.fɔn/
+Hypnos
+  IPA: /ip.nos/
+Ignace
+  IPA: /i.ɲas/
+Jean-Loup
+  IPA: /ʒɑ̃.lu/
+Jean-Pascal
+  IPA: /ʒɑ̃.pas.kal/
+Jean-Noël
+  IPA: /ʒɑ̃.nɔ.ɛl/
+Jean-Guy
+  IPA: /ʒɑ̃.ɡi/
+ALÉNA
+  IPA: /a.le.na/
+Jean-Joël
+  IPA: /ʒɑ̃.ʒɔ.ɛl/
+Schwartz
+  IPA: /ʃvaʁts/
+SADC
+  IPA: /ɛ.s‿a.de.se/
+  IPA: /e.s‿a.de.se/
+Basile
+  IPA: /ba.zil/
+Égide
+  IPA: /e.ʒid/
+Barthélemy
+  IPA: /baʁ.te.le.mi/
+Mohamed
+  IPA: /mɔ.a.mɛd/
+  IPA: /mɔ.ha.mɛd/
+  IPA: /mo.a.mɛd/
+  IPA: /mo.ha.mɛd/
+Paon
+  IPA: /pɑ̃/
+Ambre
+  IPA: /ɑ̃bʁ/
+TER
+  IPA: /te.ə.ɛʁ/
+TNO
+  IPA: /te.ɛ.no/
+  IPA: /te.e.no/
+Tchétchénie
+  IPA: /tʃet.ʃe.ni/
+  IPA: /tʃɛt.ʃe.ni/
+Daghestan
+  IPA: /da.ɡɛs.tɑ̃/
+Héra
+  IPA: /e.ʁa/
+Nouvelle-Angleterre
+  IPA: /nu.vɛ.lɑ̃.ɡlə.tɛʁ/
+  IPA: /nu.ve.lɑ̃.ɡlə.tɛʁ/
+Cachemire
+  IPA: /kaʃ.miʁ/
+Quiberon
+  IPA: /ki.bʁɔ̃/
+Léonard
+  IPA: /le.ɔ.naʁ/
+Ulysse
+  IPA: /y.lis/
+FAO
+  IPA: /ɛ.fa.o/
+  IPA: /e.fa.o/
+Tchécoslovaquie
+  IPA: /tʃe.ko.slɔ.va.ki/
+  IPA: /tʃe.kɔ.slɔ.va.ki/
+Yougoslavie
+  IPA: /ju.ɡɔ.sla.vi/
+Union soviétique
+  IPA: /y.njɔ̃ sɔ.vje.tik/
+Ézéchiel
+  IPA: /e.ze.kjɛl/
+Petronille
+  IPA: /pe.tʁɔ.nij/
+Akram
+  IPA: /a.kʁam/
+Amin
+  IPA: /a.min/
+Humbert
+  IPA: /œ̃.bɛʁ/
+  IPA: /ɛ̃.bɛʁ/
+Ardèche
+  IPA: /aʁ.dɛʃ/
+Socrate
+  IPA: /sɔ.kʁat/
+Titien
+  IPA: /ti.sjɛ̃/
+Orly
+  IPA: /ɔʁ.li/
+Déborah
+  IPA: /de.bɔ.ʁa/
+Débora
+  IPA: /de.bɔ.ʁa/
+NPD
+  IPA: /ɛn.pe.de/
+Edmée
+  IPA: /ɛd.me/
+Basse-Terre
+  IPA: /bas.tɛʁ/
+  IPA: /bɑs.tɛʁ/
+Amaury
+  IPA: /a.mɔ.ʁi/
+Riyad
+  IPA: /ʁi.jad/
+Aymeric
+  IPA: /ɛm.ʁik/
+Émeric
+  IPA: /em.ʁik/
+  IPA: /ɛm.ʁik/
+Liliane
+  IPA: /li.ljan/
+Geoffroy
+  IPA: /ʒɔ.fʁwa/
+Godefroy
+  IPA: /ɡɔ.də.fʁwa/
+OL
+  IPA: /o.ɛl/
+Saint-Christophe-et-Niévès
+  IPA: /sɛ̃.kʁis.tɔ.f‿e.nje.vɛs/
+Blanche-Neige
+  IPA: /blɑ̃ʃ.nɛʒ/
+Francfort
+  IPA: /fʁɑ̃k.fɔʁ/
+Rothschild
+  IPA: /ʁot.ʃild/
+Valéry
+  IPA: /va.le.ʁi/
+Wallonie
+  IPA: /wa.lɔ.ni/
+Toile d'araignée mondiale
+  IPA: /twal d‿a.ʁɛ.ɲe mɔ̃.djal/
+  IPA: /twal d‿a.ʁe.ɲe mɔ̃.djal/
+Genèse
+  IPA: /ʒə.nɛz/
+Birmanie
+  IPA: /biʁ.ma.ni/
+Turkménistan
+  IPA: /tyʁk.me.nis.tɑ̃/
+Restauration
+  IPA: /ʁɛs.tɔ.ʁa.sjɔ̃/
+Aoi
+  IPA: /a.ɔ.i/
+Attique
+  IPA: /a.tik/
+Silésie
+  IPA: /si.le.zi/
+Basle
+  IPA: /bal/
+  IPA: /bɑl/
+Péloponnèse
+  IPA: /pe.lɔ.pɔ.nɛz/
+Père Fouettard
+  IPA: /pɛʁ fwɛ.taʁ/
+  IPA: /pɛʁ fwe.taʁ/
+PLQ
+  IPA: /pe.ɛl.ky/
+Action démocratique
+  IPA: /ak.sjɔ̃ de.mɔ.kʁa.tik/
+Action démocratique du Québec
+  IPA: /ak.sjɔ̃ de.mɔ.kʁa.tik dy ke.bɛk/
+ADQ
+  IPA: /a.de.ky/
+BQ
+  IPA: /be.ky/
+PCC
+  IPA: /pe.se.se/
+ENA
+  IPA: /e.na/
+CGT
+  IPA: /se.ʒe.te/
+Caroline du Nord
+  IPA: /ka.ʁɔ.lin dy nɔʁ/
+Cendrillon
+  IPA: /sɑ̃.dʁi.jɔ̃/
+Gand
+  IPA: /ɡɑ̃/
+Facebook
+  IPA: /fɛs.buk/ (Tags: Europe)
+  IPA: /fɛjs.buk/ (Tags: Europe)
+  IPA: /feɪs.bʊk/ (Tags: Canada)
+Laponie
+  IPA: /la.pɔ.ni/
+Rhône
+  IPA: /ʁon/
+Bethléem
+  IPA: /bɛ.tle.ɛm/
+  IPA: /be.tle.ɛm/
+Ratisbonne
+  IPA: /ʁa.tis.bɔn/
+Sparte
+  IPA: /spaʁt/
+Seeland
+  IPA: /se.lɑ̃d/
+Ienisseï
+  IPA: /je.ni.sɛj/
+Ossétie du Sud
+  IPA: /ɔ.se.ti dy syd/
+Lusace
+  IPA: /ly.zas/
+Béotie
+  IPA: /be.ɔ.si/
+Hanoukka
+  IPA: /a.nu.ka/
+Pythagore
+  IPA: /pi.ta.ɡɔʁ/
+Assedic
+  IPA: /a.se.dik/
+Landes
+  IPA: /lɑ̃d/
+Damas
+  IPA: /da.mas/
+Méditerranée
+  IPA: /me.di.tɛ.ʁa.ne/
+  IPA: /me.di.te.ʁa.ne/
+Aalénien
+  IPA: /a.le.njɛ̃/
+Astérix
+  IPA: /as.te.ʁiks/
+Bouddha
+  IPA: /bu.da/
+Verseau
+  IPA: /vɛʁ.so/
+Plutarque
+  IPA: /ply.taʁk/
+Bélier
+  IPA: /be.lje/
+Sagittaire
+  IPA: /sa.ʒi.tɛʁ/
+Capricorne
+  IPA: /ka.pʁi.kɔʁn/
+Sainte-Flanelle
+  IPA: /sɛ̃t.fla.nɛl/
+Abitibi
+  IPA: /a.bi.ti.bi/
+Picard
+  IPA: /pi.kaʁ/
+Anatole
+  IPA: /a.na.tɔl/
+Gervaise
+  IPA: /ʒɛʁ.vɛz/
+Charlène
+  IPA: /ʃaʁ.lɛn/
+Gervais
+  IPA: /ʒɛʁ.vɛ/
+  IPA: /ʒɛʁ.ve/
+Acadie
+  IPA: /a.ka.di/
+Émilienne
+  IPA: /e.mi.ljɛn/
+Émilien
+  IPA: /e.mi.ljɛ̃/
+Royal
+  IPA: /ʁwa.jal/
+Marie-Ange
+  IPA: /ma.ʁi.ɑ̃ʒ/
+Marlène
+  IPA: /maʁ.lɛn/
+Coran
+  IPA: /kɔ.ʁɑ̃/
+Lisette
+  IPA: /li.zɛt/
+ARYM
+  IPA: /a.ʁim/
+Béziers
+  IPA: /be.zje/
+Besançon
+  IPA: /bə.zɑ̃.sɔ̃/
+Léopold
+  IPA: /le.ɔ.pɔl(d)/
+Maïté
+  IPA: /ma.i.te/
+Saitama
+  IPA: /sa.i.ta.ma/
+  IPA: /saj.ta.ma/
+Napoléon
+  IPA: /na.pɔ.le.ɔ̃/
+Kaohsiung
+  IPA: /kaw.ʃjuŋ/
+Abdias
+  IPA: /ab.dja/
+  IPA: /ab.djɑ/
+  IPA: /ab.di.a/
+  IPA: /ab.di.ɑ/
+YouTube
+  IPA: /ju.tyb/
+  IPA: /ju.tjub/
+  IPA: /ju.tub/
+Chrétien
+  IPA: /kʁe.tjɛ̃/
+Marrakech
+  IPA: /ma.ʁa.kɛʃ/
+République d'Irlande
+  IPA: /ʁe.py.blik d‿iʁ.lɑ̃d/
+Irlande du Nord
+  IPA: /iʁ.lɑ̃d dy nɔʁ/
+Flandre
+  IPA: /flɑ̃dʁ/
+  IPA: /flãːdʁ/ (Tags: Quebec)
+Scandinavie
+  IPA: /skɑ̃.di.na.vi/
+Jésus-Christ
+  IPA: /ʒe.zy.kʁi/
+  IPA: /ʒe.zy.kʁist/
+Mésopotamie
+  IPA: /me.zɔ.pɔ.ta.mi/
+Côte d'Azur
+  IPA: /kot d‿a.zyʁ/
+Eiffel
+  IPA: /ɛ.fɛl/
+  IPA: /e.fɛl/
+OMS
+  IPA: /o.ɛ.mɛs/
+  IPA: /o.e.mɛs/
+Dalmatie
+  IPA: /dal.ma.si/
+Cheng
+  IPA: /tʃɛŋ/
+Hanoï
+  IPA: /a.nɔj/
+Katmandou
+  IPA: /kat.mɑ̃.du/
+Nicosie
+  IPA: /ni.ko.zi/
+La Valette
+  IPA: /la va.lɛt/
+Andorre-la-Vieille
+  IPA: /ɑ̃.dɔʁ.la.vjɛj/
+Séoul
+  IPA: /se.ul/
+Téhéran
+  IPA: /te.e.ʁɑ̃/
+Abou Dabi
+  IPA: /a.bu da.bi/
+Guerre froide
+  IPA: /ɡɛʁ fʁwad/
+Pégase
+  IPA: /pe.ɡaz/
+Pangée
+  IPA: /pɑ̃.ʒe/
+Pangée
+  IPA: /pɑ̃.ʒe/
+Seigneur
+  IPA: /sɛ.ɲœʁ/
+  IPA: /se.ɲœʁ/
+Ganymède
+  IPA: /ɡa.ni.mɛd/
+Tombouctou
+  IPA: /tɔ̃.buk.tu/ (Tags: Belgium, France)
+Carélie
+  IPA: /ka.ʁe.li/
+Bouvier
+  IPA: /bu.vje/
+Mandchourie
+  IPA: /mɑ̃d.ʃu.ʁi/
+Pandore
+  IPA: /pɑ̃.dɔʁ/
+Iakoutsk
+  IPA: /ja.kutsk/
+tour Eiffel
+  IPA: /tuʁ ɛ.fɛl/
+  IPA: /tuʁ e.fɛl/
+Afro-Eurasie
+  IPA: /a.fʁo.ø.ʁa.zi/
+Iekaterinbourg
+  IPA: /je.ka.t(ə).ʁɛ̃.buʁ/
+  IPA: /je.ka.t(ə).ʁin.buʁ/
+Alep
+  IPA: /a.lɛp/
+Ermengarde
+  IPA: /ɛʁ.mɑ̃.ɡaʁd/
+Priam
+  IPA: /pʁi.jam/
+Bonifacio
+  IPA: /bɔ.ni.fa.sjo/
+Anansi
+  IPA: /a.nɑ̃.si/
+  IPA: /a.nan.si/
+pays du Soleil-Levant
+  IPA: /pɛ.i dy sɔ.lɛj.lə.vɑ̃/
+  IPA: /pe.i dy sɔ.lɛj.lə.vɑ̃/
+Bassorah
+  IPA: /ba.sɔ.ʁa/
+Atlantide
+  IPA: /a.tlɑ̃.tid/
+Andalousie
+  IPA: /ɑ̃.da.lu.zi/
+Émirats arabes unis
+  IPA: /e.mi.ʁa a.ʁa.b‿y.ni/
+  IPA: /e.mi.ʁa a.ʁab.z‿y.ni/
+Alcibiade
+  IPA: /al.si.bjad/
+Gaule
+  IPA: /ɡol/
+Aurélia
+  IPA: /ɔ.ʁe.lja/
+Nouméa
+  IPA: /nu.me.a/
+Médoc
+  IPA: /me.dɔk/
+Abkhazie
+  IPA: /ap.ka.zi/
+Abomey
+  IPA: /a.bɔ.mɛ/
+Dardanelles
+  IPA: /daʁ.da.nɛl/
+Saint-Louis
+  IPA: /sɛ̃.lwi/
+Abruzzes
+  IPA: /a.bʁyz/
+Baumé
+  IPA: /bo.me/
+Côte d'Or
+  IPA: /kot d‿ɔʁ/
+Ossétie du Nord
+  IPA: /ɔ.se.ti dy nɔʁ/
+OEA
+  IPA: /o.ə.a/
+Saintes
+  IPA: /sɛ̃t/
+Saintes
+  IPA: /sɛ̃t/
+Calabre
+  IPA: /ka.labʁ/
+Antilles néerlandaises
+  IPA: /ɑ̃.tij ne.ɛʁ.lɑ̃.dɛz/
+Wallis-et-Futuna
+  IPA: /wa.lis e fu.tu.na/
+  IPA: /wa.lis e fy.ty.na/
+Béarn
+  IPA: /be.aʁn/
+Territoires du Nord-Ouest
+  IPA: /tɛ.ʁi.twaʁ dy nɔ.ʁwɛst/
+  IPA: /te.ʁi.twaʁ dy nɔ.ʁwɛst/
+Union européenne
+  IPA: /y.njɔ̃ ø.ʁɔ.pe.ɛn/
+Gênes
+  IPA: /ʒɛn/
+Bohême
+  IPA: /bɔ.ɛm/
+Arctique
+  IPA: /aʁk.tik/
+  IPA: /aʁ.tik/
+Majorque
+  IPA: /ma.ʒɔʁk/
+Vénétie
+  IPA: /ve.ne.si/
+Ligurie
+  IPA: /li.ɡy.ʁi/
+Angora
+  IPA: /ɑ̃.ɡɔ.ʁa/
+Brandebourg
+  IPA: /bʁɑ̃d.buʁ/
+Rhénanie-Palatinat
+  IPA: /ʁe.na.ni.pa.la.ti.na/
+Rhénanie-du-Nord-Westphalie
+  IPA: /ʁe.na.ni.dy.nɔʁ.vɛst.fa.li/
+Sarre
+  IPA: /saʁ/
+Faucheuse
+  IPA: /fo.ʃøz/
+Caucase
+  IPA: /kɔ.kaz/
+Grosse Pomme
+  IPA: /ɡʁos pɔm/
+Mourad
+  IPA: /mu.ʁad/
+Nouveau-Mexique
+  IPA: /nu.vo.mɛk.sik/
+Egbert
+  IPA: /ɛɡ.bɛʁ/
+Anastasie
+  IPA: /a.nas.ta.zi/
+Far West
+  IPA: /fa.ʁ‿wɛst/
+  IPA: /fa.ɹ‿wɛst/
+Vishnou
+  IPA: /viʃ.nu/
+Eurasie
+  IPA: /ø.ʁa.zi/
+Tamise
+  IPA: /ta.miz/
+mer Baltique
+  IPA: /mɛʁ bal.tik/
+Staline
+  IPA: /sta.lin/
+Ossétie
+  IPA: /ɔ.se.ti/
+Amérique latine
+  IPA: /a.me.ʁik la.tin/
+Loches
+  IPA: /lɔʃ/
+Caïn
+  IPA: /ka.ɛ̃/
+Bouriatie
+  IPA: /bu.ʁja.ti/
+Mahmoud
+  IPA: /ma.mud/
+  IPA: /mah.mud/
+Maltais
+  IPA: /mal.tɛ/
+Pas-de-Calais
+  IPA: /pa.d(ə).ka.lɛ/
+  IPA: /pɑ.d(ə).ka.lɛ/
+Chandeleur
+  IPA: /ʃɑ̃dlœʁ/
+  IPA: /ʃɑ̃dəlœʁ/
+Viennois
+  IPA: /vjɛ.nwa/
+  IPA: /vje.nwa/
+Bloc québécois
+  IPA: /blɔk ke.be.kwa/
+Ésope
+  IPA: /e.zɔp/
+Parme
+  IPA: /paʁm/
+Volhynie
+  IPA: /vɔ.li.ni/
+Autriche-Hongrie
+  IPA: /o.tʁi.ʃɔ̃.ɡʁi/
+Galice
+  IPA: /ɡa.lis/
+Kouban
+  IPA: /ku.ban/
+  IPA: /ku.bɑ̃/
+Guépéou
+  IPA: /ɡe.pe.u/
+Axe
+  IPA: /aks/
+Prusse
+  IPA: /pʁys/
+Abeau
+  IPA: /a.bo/
+Abelin
+  IPA: /a.blɛ̃/
+République française
+  IPA: /ʁe.py.blik fʁɑ̃.sɛz/
+Dresde
+  IPA: /dʁɛzd/
+Manille
+  IPA: /ma.nij/
+Pérouse
+  IPA: /pe.ʁuz/
+Sienne
+  IPA: /sjɛn/
+Tarente
+  IPA: /ta.ʁɑ̃t/
+Messine
+  IPA: /mɛ.sin/
+  IPA: /me.sin/
+Hérodote
+  IPA: /e.ʁɔ.dɔt/
+Hésiode
+  IPA: /e.zjɔd/
+Hydre
+  IPA: /idʁ/
+Rhéa
+  IPA: /ʁe.a/
+Voiles
+  IPA: /vwal/
+Pentagone
+  IPA: /pɛ̃.ta.ɡɔn/
+  IPA: /pɛ̃.ta.ɡon/
+  IPA: /pɑ̃.ta.ɡɔn/
+Euripide
+  IPA: /ø.ʁi.pid/
+Mayence
+  IPA: /ma.jɑ̃s/
+Sophocle
+  IPA: /sɔ.fɔkl/
+Néolithique
+  IPA: /ne.ɔ.li.tik/
+âge du fer
+  IPA: /aʒ dy fɛʁ/
+  IPA: /ɑʒ dy fɛʁ/
+océan Atlantique
+  IPA: /ɔ.se.ɑ̃ a.tlɑ̃.tik/
+Nouvelle-Zemble
+  IPA: /nu.vɛl.zɑ̃bl/
+Novossibirsk
+  IPA: /nɔ.vɔ.si.biʁsk/
+Yamaguchi
+  IPA: /ja.ma.ɡut.ʃi/
+Roméo
+  IPA: /ʁɔ.me.o/
+Vintimille
+  IPA: /vɛ̃.ti.mij/
+Thècle
+  IPA: /tɛkl/
+Madame Watanabe
+  IPA: /ma.dam wa.ta.na.be/
+Keelung
+  IPA: /ki.luŋ/
+Ginette
+  IPA: /ʒi.nɛt/
+Josette
+  IPA: /ʒo.zɛt/
+Komintern
+  IPA: /kɔ.min.tɛʁn/
+Tartempion
+  IPA: /taʁ.tɑ̃.pjɔ̃/
+Auriane
+  IPA: /o.ʁjan/
+  IPA: /ɔ.ʁjan/
+Mégane
+  IPA: /me.ɡan/
+Mascate
+  IPA: /mas.kat/
+République du Congo
+  IPA: /ʁe.py.blik dy kɔ̃.ɡo/
+Pau
+  IPA: /po/
+Abelone
+  IPA: /a.blɔn/
+Sauvanne
+  IPA: /so.van/
+Montcuq
+  IPA: /mɔ̃.kyk/
+  IPA: /mɔ̃.ky/
+Saint-Valentin
+  IPA: /sɛ̃.va.lɑ̃.tɛ̃/
+Tobie
+  IPA: /tɔ.bi/
+Gascogne
+  IPA: /ɡas.kɔɲ/
+Raimond
+  IPA: /ʁɛ.mɔ̃/
+  IPA: /ʁe.mɔ̃/
+Hanovre
+  IPA: /a.nɔvʁ/
+Jérémy
+  IPA: /ʒe.ʁe.mi/
+Marson
+  IPA: /maʁ.sɔ̃/
+Glorieux
+  IPA: /ɡlɔ.ʁjø/
+Ampère
+  IPA: /ɑ̃.pɛʁ/
+Paléolithique
+  IPA: /pa.le.ɔ.li.tik/
+Saône
+  IPA: /son/
+Phuket
+  IPA: /pu.kɛt/
+Cléopâtre
+  IPA: /kle.ɔ.patʁ/
+  IPA: /kle.ɔ.pɑtʁ/
+Amiens
+  IPA: /a.mjɛ̃/
+Dracon
+  IPA: /dʁa.kɔ̃/
+Tchernobyl
+  IPA: /tʃɛʁ.nɔ.bil/
+Ibérie
+  IPA: /i.be.ʁi/
+Ille
+  IPA: /il/
+Ille
+  IPA: /ij/
+Australie-Occidentale
+  IPA: /os.tʁa.li.ɔk.si.dɑ̃.tal/
+Baruc
+  IPA: /ba.ʁyk/
+Bethsabée
+  IPA: /bɛt.sa.be/
+Juliane
+  IPA: /ʒy.ljan/
+mer Égée
+  IPA: /mɛʁ e.ʒe/
+Forces canadiennes
+  IPA: /fɔʁ.s(ə) ka.na.djɛn/
+SPVM
+  IPA: /ɛs.pe.ve.ɛm/
+Sûreté
+  IPA: /syʁ.te/
+Forces armées canadiennes
+  IPA: /fɔʁ.s(ə).z‿aʁ.me ka.na.djɛn/
+SQ
+  IPA: /ɛs.ky/
+Sûreté du Québec
+  IPA: /syʁ.te dy ke.bɛk/
+Assise
+  IPA: /a.siz/
+Carcassonne
+  IPA: /kaʁ.ka.sɔn/
+  IPA: /kaχ.ka.ˈsɔ.nə/ (Tags: France, Southern)
+Crespelle
+  IPA: /kʁɛs.pɛl/
+Jehan
+  IPA: /ʒə.ɑ̃/
+Sigolène
+  IPA: /si.ɡɔ.lɛn/
+Félicité
+  IPA: /fe.li.si.te/
+Hermine
+  IPA: /ɛʁ.min/
+Jéricho
+  IPA: /ʒe.ʁi.ko/
+Émeline
+  IPA: /em.lin/
+  IPA: /ɛm.lin/
+Ameline
+  IPA: /am.lin/
+Adélie
+  IPA: /a.de.li/
+Tout-Puissant
+  IPA: /tu.pɥi.sɑ̃/
+Seconde Guerre mondiale
+  IPA: /sə.ɡɔ̃d ɡɛʁ mɔ̃.djal/
+Honoré
+  IPA: /ɔ.nɔ.ʁe/
+Cap-Haïtien
+  IPA: /ka.pa.i.sjɛ̃/
+Stanislas
+  IPA: /sta.ni.slas/
+Indochine
+  IPA: /ɛ̃.dɔ.ʃin/
+Guyane française
+  IPA: /ɡɥi.jan fʁɑ̃.sɛz/
+Moyen Âge
+  IPA: /mwa.jɛ.n‿aʒ/
+  IPA: /mwa.jɛ.n‿ɑʒ/
+  IPA: /mwa.je.n‿aʒ/
+  IPA: /mwa.je.n‿ɑʒ/
+Séraphine
+  IPA: /se.ʁa.fin/
+Honorine
+  IPA: /ɔ.nɔ.ʁin/
+Iseult
+  IPA: /i.zø/
+Wissembourg
+  IPA: /vi.sɑ̃.buʁ/
+Galfingue
+  IPA: /ɡal.fɛ̃ɡ/
+Kingersheim
+  IPA: /ki.ŋəʁ.sajm/
+Sierentz
+  IPA: /si.ʁɛnts/
+Geispitzen
+  IPA: /ɡajʃ.pit.sən/
+Village-Neuf
+  IPA: /vi.laʒ.nœf/
+Ammerschwihr
+  IPA: /a.məʁʃ.viʁ/
+Petersbach
+  IPA: /pe.təʁs.bak/
+îles Féroé
+  IPA: /il fe.ʁɔ.e/
+Dornach
+  IPA: /dɔʁ.nak/
+Belfort
+  IPA: /bɛl.fɔʁ/
+Bouroundi
+  IPA: /bu.ʁun.di/
+Colmar
+  IPA: /kɔl.maʁ/
+Equateur
+  IPA: /e.kwa.tœʁ/
+Kirghizstan
+  IPA: /kiʁ.ɡis.tɑ̃/
+Grand Pardon
+  IPA: /ɡʁɑ̃ paʁ.dɔ̃/
+Nouveau Testament
+  IPA: /nu.vo tɛs.ta.mɑ̃/
+Ancien Testament
+  IPA: /ɑ̃.sjɛ̃ tɛs.ta.mɑ̃/
+Papouasie
+  IPA: /pa.pwa.zi/
+Bornéo
+  IPA: /bɔʁ.ne.o/
+Caravage
+  IPA: /ka.ʁa.vaʒ/
+Lévi
+  IPA: /le.vi/
+Pamir
+  IPA: /pa.miʁ/
+Prussie
+  IPA: /pʁy.si/
+Polynésie française
+  IPA: /pɔ.li.ne.zi fʁɑ̃.sɛz/
+Lithuanie
+  IPA: /li.tɥa.ni/
+Cervin
+  IPA: /sɛʁ.vɛ̃/
+HNE
+  IPA: /a.ʃ‿ɛ.n‿e/
+  IPA: /a.ʃ‿e.n‿e/
+Godeleine
+  IPA: /ɡɔ.dlɛn/
+Godeliève
+  IPA: /ɡɔ.də.ljɛv/
+Mytilène
+  IPA: /mi.ti.lɛn/
+Créateur
+  IPA: /kʁe.a.tœʁ/
+Holocauste
+  IPA: /ɔ.lɔ.kost/
+Yom Kippour
+  IPA: /jɔm ki.puʁ/
+Casablanca
+  IPA: /ka.za.blɑ̃.ka/
+Thaïs
+  IPA: /ta.is/
+statue de la Liberté
+  IPA: /sta.ty d(ə) la li.bɛʁ.te/
+Bételgeuse
+  IPA: /be.tɛl.ʒøz/
+Virginie-Occidentale
+  IPA: /viʁ.ʒi.ni.ɔk.si.dɑ̃.tal/
+Mésozoïque
+  IPA: /me.zo.zɔ.ik/
+Malou
+  IPA: /ma.lu/
+Robin des Bois
+  IPA: /ʁɔ.bɛ̃ de bwa/
+Guyot
+  IPA: /ɡjo/
+  IPA: /ɡɥi.jo/
+Petite Ourse
+  IPA: /pə.tit uʁs/
+Claira
+  IPA: /klɛ.ʁa/
+  IPA: /kle.ʁa/
+Fantômas
+  IPA: /fɑ̃.to.mas/
+Salamanque
+  IPA: /sa.la.mɑ̃k/
+Ghyslaine
+  IPA: /ɡi.lɛn/
+  IPA: /ʒi.slɛn/
+Lens
+  IPA: /lɑ̃s/
+Aya
+  IPA: /a.ja/
+Messines
+  IPA: /mɛ.sin/
+Haut-Canada
+  IPA: /o.ka.na.da/
+Bas-Canada
+  IPA: /ba.ka.na.da/
+  IPA: /bɑ.ka.na.da/
+Abyssinie
+  IPA: /a.bi.si.ni/
+Dalila
+  IPA: /da.li.la/
+Six Nations
+  IPA: /si na.sjɔ̃/
+Clermont-Ferrand
+  IPA: /klɛʁ.mɔ̃.fɛ.ʁɑ̃/
+  IPA: /klɛʁ.mɔ̃.fe.ʁɑ̃/
+Just
+  IPA: /ʒyst/
+Pañchatantra
+  IPA: /paɲt.ʃa.tɑ̃.tʁa/
+Bérénice
+  IPA: /be.ʁe.nis/
+Asie centrale
+  IPA: /a.zi sɑ̃.tʁal/
+Sarkozy
+  IPA: /saʁ.kɔ.zi/
+Grande Ourse
+  IPA: /ɡʁɑ̃d uʁs/
+Jèsus
+  IPA: /ʒɛ.zy/
+  IPA: /ʒe.zy/
+Dubois
+  IPA: /dy.bwa/
+Thorne
+  IPA: /tɔʁn/
+Anjou
+  IPA: /ɑ̃.ʒu/
+Auxerre
+  IPA: /o.sɛʁ/
+Addis-Abeba
+  IPA: /a.dis a.bɛ.ba/
+  IPA: /a.dis a.be.ba/
+Mans
+  IPA: /mɑ̃/
+Quimper
+  IPA: /kɛ̃.pɛʁ/
+Annecy
+  IPA: /an.si/
+Saint-Malo
+  IPA: /sɛ̃.ma.lo/
+Després
+  IPA: /dɛ.pʁe/
+  IPA: /de.pʁe/
+Cantal
+  IPA: /kɑ̃.tal/
+Première Guerre mondiale
+  IPA: /pʁə.mjɛʁ ɡɛʁ mɔ̃.djal/
+Cloutier
+  IPA: /klu.tje/
+Limbourg
+  IPA: /lɛ̃.buʁ/
+Palerme
+  IPA: /pa.lɛʁm/
+Vérone
+  IPA: /ve.ʁɔn/
+Livourne
+  IPA: /li.vuʁn/
+Florentin
+  IPA: /flɔ.ʁɑ̃.tɛ̃/
+Basilicate
+  IPA: /ba.zi.li.kat/
+Ombrie
+  IPA: /ɔ̃.bʁi/
+Pouilles
+  IPA: /puj/
+Aoste
+  IPA: /a.ɔst/
+  IPA: /ɔst/
+Ancône
+  IPA: /ɑ̃.kon/
+Campanie
+  IPA: /kɑ̃.pa.ni/
+Ardennes
+  IPA: /aʁ.dɛn/
+Orcades
+  IPA: /ɔʁ.kad/
+Kalifat
+  IPA: /ka.li.fa/
+Vésuve
+  IPA: /ve.zyv/
+Shéhérazade
+  IPA: /ʃe.e.ʁa.zad/
+Fessebouc
+  IPA: /fɛs.buk/
+Chiron
+  IPA: /ki.ʁɔ̃/
+Hécate
+  IPA: /e.kat/
+Grand Chelem
+  IPA: /ɡʁɑ̃ ʃ(ə).lɛm/
+Allemagne de l'Est
+  IPA: /al.maɲ də l‿ɛst/
+Rameau
+  IPA: /ʁa.mo/
+Ajaccio
+  IPA: /a.ʒak.sjo/
+Violaine
+  IPA: /vjɔ.lɛn/
+Bérangère
+  IPA: /be.ʁɑ̃.ʒɛʁ/
+Cécilia
+  IPA: /se.si.lja/
+Maxence
+  IPA: /mak.sɑ̃s/
+Dolorès
+  IPA: /dɔ.lɔ.ʁɛs/
+Capucine
+  IPA: /ka.py.sin/
+Bérengère
+  IPA: /be.ʁɑ̃.ʒɛʁ/
+Boniface
+  IPA: /bɔ.ni.fas/
+Mathis
+  IPA: /ma.tis/
+Simonet
+  IPA: /si.mɔ.nɛ/
+Dany
+  IPA: /da.ni/
+Nations Unies
+  IPA: /na.sjɔ̃.z‿y.ni/
+Organisation des Nations Unies
+  IPA: /ɔʁ.ɡa.ni.za.sjɔ̃ de na.sjɔ̃.z‿y.ni/
+Cæsar
+  IPA: /se.zaʁ/
+Nutella
+  IPA: /ny.tɛ.la/
+  IPA: /ny.te.la/
+Yasmine
+  IPA: /jas.min/
+Yasmina
+  IPA: /jas.mi.na/
+Nakamura
+  IPA: /na.ka.mu.ʁa/
+Belle au bois dormant
+  IPA: /bɛ.l‿o bwa dɔʁ.mɑ̃/
+Petit Chaperon rouge
+  IPA: /pə.ti ʃa.pʁɔ̃ ʁuʒ/
+Kasbarian
+  IPA: /kas.ba.ʁjɑ̃/
+Andromède
+  IPA: /ɑ̃.dʁɔ.mɛd/
+Blaise
+  IPA: /blɛz/
+Milo
+  IPA: /mi.lo/
+Turkestan
+  IPA: /tyʁ.kɛs.tɑ̃/
+Hippocrate
+  IPA: /i.pɔ.kʁat/
+Vistule
+  IPA: /vis.tyl/
+Amherst
+  IPA: /a.mœʁst/
+Ouest
+  IPA: /wɛst/
+golfe du Mexique
+  IPA: /ɡɔl.f(ə) dy mɛk.sik/
+Amour
+  IPA: /a.muʁ/
+mer Morte
+  IPA: /mɛʁ mɔʁt/
+Oakland
+  IPA: /o.klɑ̃d/
+mer des Caraïbes
+  IPA: /mɛʁ de ka.ʁa.ib/
+Morphée
+  IPA: /mɔʁ.fe/
+Saragosse
+  IPA: /sa.ʁa.ɡɔs/
+Ceylan
+  IPA: /sɛ.lɑ̃/
+  IPA: /se.lɑ̃/
+Héphaïstos
+  IPA: /e.fa.is.tɔs/
+  IPA: /e.fa.is.tos/
+Pondichéry
+  IPA: /pɔ̃.di.ʃe.ʁi/
+Dubaï
+  IPA: /du.baj/
+Padoue
+  IPA: /pa.du/
+Byzance
+  IPA: /bi.zɑ̃s/
+Denholm
+  IPA: /dɛn.olm/
+Ekrem
+  IPA: /ɛ.kʁɛm/
+  IPA: /e.kʁɛm/
+Éden
+  IPA: /e.dɛn/
+Fontenay-aux-Roses
+  IPA: /fɔ̃t.nɛ.o.ʁoz/
+Grenelle
+  IPA: /ɡʁə.nɛl/
+Occitanie
+  IPA: /ɔk.si.ta.ni/
+Toile
+  IPA: /twal/
+Son Altesse royale
+  IPA: /sɔ̃.n‿al.tɛs ʁwa.jal/
+îles Mariannes du Nord
+  IPA: /il ma.ʁjan dy nɔʁ/
+péninsule ibérique
+  IPA: /pe.nɛ̃.sy.l‿i.be.ʁik/
+Forêt-Noire
+  IPA: /fɔ.ʁɛ.nwaʁ/
+Timiskaming
+  IPA: /ti.mis.ka.mɛ̃ɡ/
+Biafra
+  IPA: /bja.fʁa/
+Carrier
+  IPA: /ka.ʁje/
+Tacite
+  IPA: /ta.sit/
+Lucrèce
+  IPA: /ly.kʁɛs/
+Lucrèce
+  IPA: /ly.kʁɛs/
+Virgile
+  IPA: /viʁ.ʒil/
+Norilsk
+  IPA: /nɔ.ʁilsk/
+Lemaître
+  IPA: /lə.mɛtʁ/
+Dordogne
+  IPA: /dɔʁ.dɔɲ/
+Montparno
+  IPA: /mɔ̃.paʁ.no/
+Eschine
+  IPA: /ɛ.ʃin/
+Cyrénaïque
+  IPA: /si.ʁe.na.ik/
+Tite
+  IPA: /tit/
+Sarthe
+  IPA: /saʁt/
+Isère
+  IPA: /i.zɛʁ/
+Gironde
+  IPA: /ʒi.ʁɔ̃d/
+Baruch
+  IPA: /ba.ʁuʃ/
+Poitiers
+  IPA: /pwa.tje/
+Montner
+  IPA: /mɔ̃.ne/
+Vingrau
+  IPA: /vɛ̃.ɡʁo/
+Pollestres
+  IPA: /pɔ.ljɛtʁ/
+  IPA: /pɔ.jɛtʁ/
+Julianne
+  IPA: /ʒy.ljan/
+Radegonde
+  IPA: /ʁad.ɡɔ̃d/
+Baudouin
+  IPA: /bo.dwɛ̃/
+Romuald
+  IPA: /ʁɔ.mɥald/
+Tanguy
+  IPA: /tɑ̃.ɡi/
+Philibert
+  IPA: /fi.li.bɛʁ/
+Ladislas
+  IPA: /la.di.slas/
+PAT
+  IPA: /pe.a.te/
+Alexandrine
+  IPA: /a.lɛk.sɑ̃.dʁin/
+Nîmes
+  IPA: /nim/
+Doubs
+  IPA: /du/
+Arles
+  IPA: /aʁl/
+Décalogue
+  IPA: /de.ka.lɔɡ/
+Montferrer
+  IPA: /mɔ̃.fɛ.ʁɛʁ/
+  IPA: /mɔ̃.fe.ʁɛʁ/
+Laëtitia
+  IPA: /le.ti.sja/
+  IPA: /la.e.ti.sja/
+RTM
+  IPA: /ɛʁ.te.ɛm/
+Lancastre
+  IPA: /lɑ̃.kastʁ/
+Nadejda
+  IPA: /na.dɛʒ.da/
+Do
+  IPA: /do/
+Megumi
+  IPA: /me.ɡu.mi/
+Perpignan
+  IPA: /pɛʁ.pi.ɲɑ̃/
+tour CN
+  IPA: /tuʁ se.ɛn/
+Gange
+  IPA: /ɡɑ̃ʒ/
+Éloi
+  IPA: /e.lwa/
+Saint-Denis
+  IPA: /sɛ̃.d(ə).ni/
+  IPA: /sɛ̃.dni/
+Kazuko
+  IPA: /ka.zu.ko/
+Estienne
+  IPA: /ɛs.tjɛn/
+Évrard
+  IPA: /e.vʁaʁ/
+Aubin
+  IPA: /o.bɛ̃/
+Loup
+  IPA: /lu/
+Médard
+  IPA: /me.daʁ/
+Parti conservateur
+  IPA: /paʁ.ti kɔ̃.sɛʁ.va.tœʁ/
+Nouveau Parti démocratique
+  IPA: /nu.vo paʁ.ti de.mɔ.kʁa.tik/
+Sumiko
+  IPA: /su.mi.ko/
+Bloc
+  IPA: /blɔk/
+Montmartre
+  IPA: /mɔ̃.maʁtʁ/
+Habacuc
+  IPA: /a.ba.kyk/
+Minitel
+  IPA: /mi.ni.tɛl/
+Strauss
+  IPA: /stʁos/
+Hercule
+  IPA: /ɛʁ.kyl/
+Constantinescu
+  IPA: /kɔ̃s.tɑ̃.ti.nɛs.ky/
+Rachelle
+  IPA: /ʁa.ʃɛl/
+Ferrare
+  IPA: /fɛ.ʁaʁ/
+  IPA: /fe.ʁaʁ/
+Salonique
+  IPA: /sa.lɔ.nik/
+Ravenne
+  IPA: /ʁa.vɛn/
+Empire byzantin
+  IPA: /ɑ̃.piʁ bi.zɑ̃.tɛ̃/
+Empire ottoman
+  IPA: /ɑ̃.piʁ ɔ.tɔ.mɑ̃/
+Empire romain
+  IPA: /ɑ̃.piʁ‿.ʁɔ.mɛ̃/
+Thimphou
+  IPA: /tɛ̃.fu/
+Keiko
+  IPA: /kej.ko/
+  IPA: /ke.i.ko/
+Persépolis
+  IPA: /pɛʁ.se.pɔ.lis/
+Vosges
+  IPA: /voʒ/
+Pétaouchnock
+  IPA: /pe.ta.uʃ.nɔk/
+Yui
+  IPA: /ju.i/
+Hippolyte
+  IPA: /i.pɔ.lit/
+Satomi
+  IPA: /sa.tɔ.mi/
+  IPA: /sa.to.mi/
+Chihiro
+  IPA: /ʃi.i.ʁo/
+  IPA: /tʃi.i.ʁo/
+  IPA: /tʃi.hi.ʁo/
+Midori
+  IPA: /mi.dɔ.ʁi/
+Corne de l'Afrique
+  IPA: /kɔʁ.n(ə) də l‿a.fʁik/
+Clœlius
+  IPA: /kle.ljys/
+Clœlia
+  IPA: /kle.lja/
+  IPA: /klø.lja/
+Isa
+  IPA: /i.za/
+Isa
+  IPA: /i.za/
+Isa
+  IPA: /i.za/
+La Rochelle
+  IPA: /la ʁɔ.ʃɛl/
+Zemfira
+  IPA: /zɛm.fi.ʁa/
+Botte
+  IPA: /bɔt/
+Sodome
+  IPA: /sɔ.dɔm/
+Pavie
+  IPA: /pa.vi/
+Pavie
+  IPA: /pa.vi/
+Pavie
+  IPA: /pa.vi/
+mont Blanc
+  IPA: /mɔ̃ blɑ̃/
+Haydée
+  IPA: /ɛ.de/
+  IPA: /e.de/
+Erdoğan
+  IPA: /ɛʁ.dɔ.ɡan/
+  IPA: /ɛʁ.dɔ.an/
+Clélia
+  IPA: /kle.lja/
+Clélie
+  IPA: /kle.li/
+Sabri
+  IPA: /sa.bʁi/
+Corrèze
+  IPA: /kɔ.ʁɛz/
+Creuse
+  IPA: /kʁøz/
+Aube
+  IPA: /ob/
+Indre
+  IPA: /ɛ̃dʁ/
+Alpes-de-Haute-Provence
+  IPA: /al.p(ə).də.ot.pʁɔ.vɑ̃s/
+Aveyron
+  IPA: /a.vɛ.ʁɔ̃/
+  IPA: /a.ve.ʁɔ̃/
+Drôme
+  IPA: /dʁom/
+Essonne
+  IPA: /e.sɔn/
+Alpes-Maritimes
+  IPA: /al.p(ə).ma.ʁi.tim/
+Charente
+  IPA: /ʃa.ʁɑ̃t/
+Eure
+  IPA: /œʁ/
+Bas-Rhin
+  IPA: /ba.ʁɛ̃/
+  IPA: /bɑ.ʁɛ̃/
+Hérault
+  IPA: /e.ʁo/
+Gers
+  IPA: /ʒɛʁs/
+  IPA: /ʒɛʁ/
+Allier
+  IPA: /a.lje/
+Ariège
+  IPA: /a.ʁjɛʒ/
+Aisne
+  IPA: /ɛn/
+Loiret
+  IPA: /lwa.ʁɛ/
+Lozère
+  IPA: /lɔ.zɛʁ/
+Nièvre
+  IPA: /njɛvʁ/
+Yvelines
+  IPA: /iv.lin/
+Oise
+  IPA: /waz/
+Var
+  IPA: /vaʁ/
+Côtes-d'Armor
+  IPA: /kot.d‿aʁ.mɔʁ/
+Marne
+  IPA: /maʁn/
+Vaucluse
+  IPA: /vo.klyz/
+Asturies
+  IPA: /as.ty.ʁi/
+Bernon
+  IPA: /bɛʁ.nɔ̃/
+Schumann
+  IPA: /ʃu.man/
+Scud
+  IPA: /skød/
+  IPA: /skyd/
+Klamath
+  IPA: /kla.mat/
+Crimée
+  IPA: /kʁi.me/
+Berry
+  IPA: /bɛ.ʁi/
+  IPA: /be.ʁi/
+Électre
+  IPA: /e.lɛktʁ/
+Apolline
+  IPA: /a.pɔ.lin/
+Îles Phœnix
+  IPA: /il fe.niks/
+Lœuilly
+  IPA: /lœ.ji/
+Œdipe
+  IPA: /e.dip/
+  IPA: /ø.dip/
+Babylone
+  IPA: /ba.bi.lɔn/
+Polichinelle
+  IPA: /pɔ.li.ʃi.nɛl/
+Arabie
+  IPA: /a.ʁa.bi/
+Crète
+  IPA: /kʁɛt/
+Messie
+  IPA: /mɛ.si/
+  IPA: /me.si/
+Lutèce
+  IPA: /ly.tɛs/
+Tonkin
+  IPA: /tɔ̃.kɛ̃/
+Saül
+  IPA: /sa.yl/
+Séleucie
+  IPA: /se.lœ.si/
+Sinaï
+  IPA: /si.na.i/
+Priscille
+  IPA: /pʁi.sil/
+Ptolémaïs
+  IPA: /ptɔ.le.ma.is/
+Siméon
+  IPA: /si.me.ɔ̃/
+Parthie
+  IPA: /paʁ.ti/
+Onésime
+  IPA: /ɔ.ne.zim/
+Philadelphie
+  IPA: /fi.la.dɛl.fi/
+Philémon
+  IPA: /fi.le.mɔ̃/
+Phénicie
+  IPA: /fe.ni.si/
+Nérée
+  IPA: /ne.ʁe/
+Lévitique
+  IPA: /le.vi.tik/
+Iturée
+  IPA: /i.ty.ʁe/
+Idumée
+  IPA: /i.dy.me/
+Lazare
+  IPA: /la.zaʁ/
+Melchisédek
+  IPA: /mɛl.ki.ze.dɛk/
+Narcisse
+  IPA: /naʁ.sis/
+Pentecôte
+  IPA: /pɑ̃t.kot/
+Loïs
+  IPA: /lɔ.is/
+Loïs
+  IPA: /lɔ.is/
+Pot-au-Noir
+  IPA: /pɔ.t‿o.nwaʁ/
+Lysias
+  IPA: /li.zjas/
+Patmos
+  IPA: /pat.mɔs/
+Pâque
+  IPA: /pak/
+  IPA: /pɑk/
+Paphos
+  IPA: /pa.fɔs/
+baie de Guanabara
+  IPA: /bɛ d(ə) ɡa.na.ba.ʁa/
+Gédéon
+  IPA: /ʒe.de.ɔ̃/
+Énée
+  IPA: /e.ne/
+Ésaü
+  IPA: /e.za.y/
+Église
+  IPA: /e.ɡliz/
+Éphèse
+  IPA: /e.fɛz/
+Élam
+  IPA: /e.lam/
+Éliézer
+  IPA: /e.lje.zɛʁ/
+Éliakim
+  IPA: /e.lja.kim/
+Emmaüs
+  IPA: /ɛ.ma.ys/
+  IPA: /e.ma.ys/
+Éphraïm
+  IPA: /e.fʁa.im/
+Colossiens
+  IPA: /kɔ.lɔ.sjɛ̃/
+Dioscures
+  IPA: /djɔs.kyʁ/
+Corinthe
+  IPA: /kɔ.ʁɛ̃t/
+Galatie
+  IPA: /ɡa.la.si/
+Corneille
+  IPA: /kɔʁ.nɛj/
+Démétrius
+  IPA: /de.me.tʁi.jys/
+Cyrène
+  IPA: /si.ʁɛn/
+Éraste
+  IPA: /e.ʁast/
+Coré
+  IPA: /kɔ.ʁe/
+Clopas
+  IPA: /klɔ.pa/
+  IPA: /klɔ.pɑ/
+Chaldée
+  IPA: /kal.de/
+Cappadoce
+  IPA: /ka.pa.dɔs/
+Attalie
+  IPA: /a.ta.li/
+Céphas
+  IPA: /se.fas/
+Cenchrées
+  IPA: /sɑ̃.kʁe/
+Capernaüm
+  IPA: /ka.pɛʁ.na.ɔm/
+Alphée
+  IPA: /al.fe/
+Bélial
+  IPA: /be.ljal/
+Césarée
+  IPA: /se.za.ʁe/
+Archélaüs
+  IPA: /aʁ.ʃe.la.ys/
+Aristobule
+  IPA: /a.ʁis.tɔ.byl/
+Achaïe
+  IPA: /a.ka.i/
+Bethléhem
+  IPA: /bɛ.tle.ɛm/
+  IPA: /be.tle.ɛm/
+Cnide
+  IPA: /knid/
+Aristarque
+  IPA: /a.ʁis.taʁk/
+Antioche
+  IPA: /ɑ̃.tjɔʃ/
+Antioche
+  IPA: /ɑ̃.tjɔʃ/
+Apollonie
+  IPA: /a.pɔ.lɔ.ni/
+Amphipolis
+  IPA: /ɑ̃.fi.pɔ.lis/
+Ville de Québec
+  IPA: /vil də ke.bɛk/ (Tags: Europe)
+  IPA: /vɪl də ke.bɛk/ (Tags: Canada)
+Frobisher Bay
+  IPA: /fʁɔ.bi.ʃœʁ bɛ/
+Léthé
+  IPA: /le.te/
+Zébédée
+  IPA: /ze.be.de/
+Hadrien
+  IPA: /a.dʁi.jɛ̃/
+Poppée
+  IPA: /pɔ.pe/
+Misène
+  IPA: /mi.zɛn/
+Troade
+  IPA: /tʁɔ.ad/
+Zlín
+  IPA: /zlin/
+Carbonifère
+  IPA: /kaʁ.bɔ.ni.fɛʁ/
+Permien
+  IPA: /pɛʁ.mjɛ̃/
+Isaïe
+  IPA: /i.za.i/
+Homs
+  IPA: /ɔms/
+Pyrénées-Atlantiques
+  IPA: /pi.ʁe.ne.a.tlɑ̃.tik/
+Haute-Vienne
+  IPA: /ot.vjɛn/
+Haute-Loire
+  IPA: /o.tlwaʁ/
+Eure-et-Loir
+  IPA: /œ.ʁe.lwaʁ/
+Puy-de-Dôme
+  IPA: /pɥi.də.dom/
+Loire-Atlantique
+  IPA: /lwa.ʁa.tlɑ̃.tik/
+Charente-Maritime
+  IPA: /ʃa.ʁɑ̃t.ma.ʁi.tim/
+Lot-et-Garonne
+  IPA: /lɔ.te.ɡa.ʁɔn/
+  IPA: /lɔte.ɡaˈʁɔnə/
+Bouches-du-Rhône
+  IPA: /buʃ.dy.ʁon/
+CAC
+  IPA: /kak/
+Chartres
+  IPA: /ʃaʁtʁ/
+Assyrie
+  IPA: /a.si.ʁi/
+Apennins
+  IPA: /a.pɛ.nɛ̃/
+  IPA: /a.pe.nɛ̃/
+Appalaches
+  IPA: /a.pa.laʃ/
+Biscaye
+  IPA: /bis.kaj/
+Carpates
+  IPA: /kaʁ.pat/
+Castille
+  IPA: /kas.tij/
+Cerbère
+  IPA: /sɛʁ.bɛʁ/
+Erdogan
+  IPA: /ɛʁ.dɔ.ɡan/
+  IPA: /ɛʁ.dɔ.an/
+  IPA: /ɛʁ.dɔ.wan/
+Cordoue
+  IPA: /kɔʁ.du/
+Corfou
+  IPA: /kɔʁ.fu/
+Cantorbéry
+  IPA: /kɑ̃.tɔʁ.be.ʁi/
+Delphes
+  IPA: /dɛlf/
+Dodécanèse
+  IPA: /dɔ.de.ka.nɛz/
+Hathor
+  IPA: /a.tɔʁ/
+Polytechnique
+  IPA: /pɔ.li.tɛk.nik/
+Arsène
+  IPA: /aʁ.sɛn/
+Cochin
+  IPA: /kɔ.ʃɛ̃/
+Épicure
+  IPA: /e.pi.kyʁ/
+Sanctus
+  IPA: /sɑ̃k.tys/
+Bourbon
+  IPA: /buʁ.bɔ̃/
+Saint-Germain-des-Prés
+  IPA: /sɛ̃.ʒɛʁ.mɛ̃.de.pʁe/
+îles Malouines
+  IPA: /il ma.lwin/
+Sorlingues
+  IPA: /sɔʁ.lɛ̃ɡ/
+Immaculée Conception
+  IPA: /i(m).ma.ky.le kɔ̃.sɛp.sjɔ̃/
+Mauriceau
+  IPA: /mɔ.ʁi.so/
+  IPA: /mo.ʁi.sə.o/
+Mauriac
+  IPA: /mɔ.ʁjak/
+  IPA: /mo.ʁjak/
+Léman
+  IPA: /le.mɑ̃/
+Madère
+  IPA: /ma.dɛʁ/
+Malouines
+  IPA: /ma.lwin/
+Caspienne
+  IPA: /kas.pjɛn/
+Caraïbes
+  IPA: /ka.ʁa.ib/
+Mélanésie
+  IPA: /me.la.ne.zi/
+Minorque
+  IPA: /mi.nɔʁk/
+Modène
+  IPA: /mɔ.dɛn/
+Dauphiné
+  IPA: /do.fi.ne/
+Desjardins
+  IPA: /de.ʒaʁ.dɛ̃/
+Nivernais
+  IPA: /ni.vɛʁ.nɛ/
+Ostende
+  IPA: /ɔs.tɑ̃d/
+Médée
+  IPA: /me.de/
+Aimé
+  IPA: /ɛ.me/
+  IPA: /e.me/
+Barnabé
+  IPA: /baʁ.na.be/
+Charlot
+  IPA: /ʃaʁ.lo/
+Oural
+  IPA: /u.ʁal/
+Oural
+  IPA: /u.ʁal/
+Zénaïde
+  IPA: /ze.na.id/
+Ursule
+  IPA: /yʁ.syl/
+Mauricette
+  IPA: /mo.ʁi.sɛt/
+Jacotte
+  IPA: /ʒa.kɔt/
+Philomène
+  IPA: /fi.lɔ.mɛn/
+Pompéi
+  IPA: /pɔ̃.pe.i/
+Pô
+  IPA: /po/
+Pô
+  IPA: /po/
+Saint-Domingue
+  IPA: /sɛ̃.dɔ.mɛ̃ɡ/
+Gandiolle
+  IPA: /ɡɑ̃.djɔl/
+Cayor
+  IPA: /ka.jɔʁ/
+Ghiolof
+  IPA: /ɡjɔ.lɔf/
+Congos
+  IPA: /kɔ̃.ɡo/
+Justin
+  IPA: /ʒys.tɛ̃/
+Boundou
+  IPA: /bun.du/
+Boulibané
+  IPA: /bu.li.ba.ne/
+Bondou
+  IPA: /bɔ̃.du/
+Bœotie
+  IPA: /be.ɔ.si/
+Eubœe
+  IPA: /ø.be/
+Monfort
+  IPA: /mɔ̃.fɔʁ/
+Xiongnu
+  IPA: /ɡzjɔ̃ɡ.ny/
+  IPA: /sjɔ̃ɡ.nu/
+Roubaix
+  IPA: /ʁu.bɛ/
+Séléné
+  IPA: /se.le.ne/
+RDC
+  IPA: /ɛʁ.de.se/
+Saint-Paul-Trois-Châteaux
+  IPA: /sɛ̃.pol.tʁwa.ʃa.to/
+  IPA: /sɛ̃.pol.tʁwa.ʃɑ.to/
+Zodiac
+  IPA: /zɔ.djak/
+Thoulouse
+  IPA: /tu.luz/
+Thoulouse
+  IPA: /tu.luz/
+Épernay
+  IPA: /e.pɛʁ.nɛ/
+Couronne
+  IPA: /ku.ʁɔn/
+Gasthaus
+  IPA: /ɡas.to/
+Sèvres
+  IPA: /sɛvʁ/
+Donbass
+  IPA: /dɔ̃.bas/
+Soleil
+  IPA: /sɔ.lɛj/
+Vulcain
+  IPA: /vyl.kɛ̃/
+Ææa
+  IPA: /e.e.a/
+Périgueux
+  IPA: /pe.ʁi.ɡø/
+Montecristo
+  IPA: /mɔ̃.tə.kʁis.to/
+Saïda
+  IPA: /sa.i.da/
+Saïda
+  IPA: /sa.i.da/
+Cadix
+  IPA: /ka.diks/
+  IPA: /ka.dis/
+Cadix
+  IPA: /ka.dis/
+Narbonne
+  IPA: /naʁ.bɔn/
+Ranger
+  IPA: /ʁɑ̃.ʒe/
+Sorbets
+  IPA: /sɔʁ.bɛ/
+Mignon
+  IPA: /mi.ɲɔ̃/
+Mignon
+  IPA: /mi.ɲɔ̃/
+Sardanapale
+  IPA: /saʁ.da.na.pal/
+Amine
+  IPA: /a.min/
+Académie française
+  IPA: /a.ka.de.mi fʁɑ̃.sɛz/
+Haut-Rhin
+  IPA: /o.ʁɛ̃/
+Angoumois
+  IPA: /ɑ̃.ɡu.mwa/
+Très-Haut
+  IPA: /tʁɛ.o/
+Royaume de Belgique
+  IPA: /ʁwa.jom də bɛl.ʒik/
+Zoroastre
+  IPA: /zɔ.ʁɔ.astʁ/
+monténégrin
+  IPA: /mɔ̃.te.ne.ɡʁɛ̃/
+Haute-Volta
+  IPA: /ot.vɔl.ta/
+République démocratique du Congo
+  IPA: /ʁe.py.blik de.mɔ.kʁa.tik dy kɔ̃.ɡo/
+Valachie
+  IPA: /va.la.ki/
+Uranie
+  IPA: /y.ʁa.ni/
+Perret
+  IPA: /pɛ.ʁɛ/
+  IPA: /pe.ʁɛ/
+Titine
+  IPA: /ti.tin/
+Nini
+  IPA: /ni.ni/
+Achéron
+  IPA: /a.ke.ʁɔ̃/
+  IPA: /a.ʃe.ʁɔ̃/ (Tags: archaic)
+Cocyte
+  IPA: /kɔ.sit/
+Orphée
+  IPA: /ɔʁ.fe/
+Phlégéthon
+  IPA: /fle.ʒe.tɔ̃/
+Caton
+  IPA: /ka.tɔ̃/
+âge du bronze
+  IPA: /aʒ dy bʁɔ̃z/
+  IPA: /ɑʒ dy bʁɔ̃z/
+Beresford
+  IPA: /bɝs.fɝd/
+  IPA: /biɝs.fɝd/
+Ganelon
+  IPA: /ɡan.lɔ̃/
+Priest
+  IPA: /pʁi/
+  IPA: /pʁi.jɛ/
+  IPA: /pʁi.jɛst/
+Malebranche
+  IPA: /mal.bʁɑ̃ʃ/
+Chouchanik
+  IPA: /ʃu.ʃa.nik/
+Azraël
+  IPA: /az.ʁa.ɛl/
+Paulin
+  IPA: /po.lɛ̃/
+Zebak
+  IPA: /ze.bak/
+Bélize
+  IPA: /be.liz/
+Cornouaille
+  IPA: /kɔʁ.nwaj/
+Saint-Vincent-et-Grenadines
+  IPA: /sɛ̃.vɛ̃.sɑ̃.e.ɡʁə.na.din/
+Germanie
+  IPA: /ʒɛʁ.ma.ni/
+Ptolémée
+  IPA: /ptɔ.le.me/
+Bergerac
+  IPA: /bɛʁ.ʒə.ʁak/
+Abélia
+  IPA: /a.be.lja/
+céfran
+  IPA: /se.fʁɑ̃/
+Bois-le-Duc
+  IPA: /bwa.lə.dyk/
+Angoulême
+  IPA: /ɑ̃.ɡu.lɛm/
+Pingtung
+  IPA: /piŋ.tuŋ/
+Hualien
+  IPA: /hwa.ljɛn/
+Belfiore
+  IPA: /bɛl.fjɔʁ/
+Boileau
+  IPA: /bwa.lo/
+Taitung
+  IPA: /taj.tuŋ/
+Debussy
+  IPA: /də.by.si/
+Derrida
+  IPA: /dɛ.ʁi.da/
+  IPA: /de.ʁi.da/
+Michelin
+  IPA: /miʃ.lɛ̃/
+Sartre
+  IPA: /saʁtʁ/
+Santoni
+  IPA: /sɑ̃.tɔ.ni/
+Vilaine
+  IPA: /vi.lɛn/
+Renault
+  IPA: /ʁə.no/
+Alceste
+  IPA: /al.sɛst/
+Béchamp
+  IPA: /be.ʃɑ̃/
+Le Classique
+  IPA: /lə kla.sik/
+saint empire romain
+  IPA: /sɛ̃.t‿ɑ̃.piʁ ʁɔ.mɛ̃/
+Saint-Empire romain germanique
+  IPA: /sɛ̃.tɑ̃.piʁ ʁɔ.mɛ̃ ʒɛʁ.ma.nik/
+Kumiko
+  IPA: /ku.mi.ko/
+Marais
+  IPA: /ma.ʁɛ/
+Gay-Lussac
+  IPA: /ɡɛ.ly.sak/
+Charites
+  IPA: /ka.ʁit/
+Passy
+  IPA: /pa.si/
+CAQ
+  IPA: /se.a.ky/
+  IPA: /kak/
+P. Q.
+  IPA: /pe.ky/
+Puteaux
+  IPA: /py.to/
+Courbevoie
+  IPA: /kuʁ.bə.vwa/
+Nanterre
+  IPA: /nɑ̃.tɛʁ/
+Tisiphone
+  IPA: /ti.zi.fɔn/
+Système international
+  IPA: /sis.tɛ.m‿ɛ̃.tɛʁ.na.sjɔ.nal/
+  IPA: /sis.te.m‿ɛ̃.tɛʁ.na.sjɔ.nal/
+Centrafrique
+  IPA: /sɑ̃.tʁa.fʁik/
+République d'Afrique du Sud
+  IPA: /ʁe.py.blik d‿a.fʁik dy syd/
+Loir
+  IPA: /lwaʁ/
+Pharos
+  IPA: /fa.ʁɔs/
+Yerres
+  IPA: /jɛʁ/
+Brejnev
+  IPA: /bʁɛʒnɛf/
+Loudun
+  IPA: /lu.dœ̃/
+Kinmen
+  IPA: /kin.mɛn/
+Fuji
+  IPA: /fu.dʒi/
+Tibre
+  IPA: /tibʁ/
+Voronej
+  IPA: /vɔ.ʁɔ.nɛʒ/
+Pendjab
+  IPA: /pɛn.dʒab/
+Haroun
+  IPA: /a.ʁun/
+PPC
+  IPA: /pe.pe.se/
+guerre de Sécession
+  IPA: /ɡɛʁ də se.sɛ.sjɔ̃/
+  IPA: /ɡɛʁ də se.se.sjɔ̃/
+Pinochet
+  IPA: /pi.nɔ.ʃɛ/
+Dauphin
+  IPA: /do.fɛ̃/
+Samarcande
+  IPA: /sa.maʁ.kɑ̃d/
+Huron
+  IPA: /y.ʁɔ̃/
+Arkhanguelsk
+  IPA: /aʁ.kɑ̃.ɡɛlsk/
+Yumiko
+  IPA: /ju.mi.ko/
+Emiko
+  IPA: /e.mi.ko/
+lundi de Pâques
+  IPA: /lœ̃.di d(ə) pak/
+  IPA: /lœ̃.di d(ə) pɑk/
+vendredi saint
+  IPA: /vɑ̃.dʁə.di sɛ̃/
+dimanche de Pâques
+  IPA: /di.mɑ̃ʃ də pak/
+  IPA: /di.mɑ̃ʃ də pɑk/
+Dnipro
+  IPA: /dni.pʁo/
+Éos
+  IPA: /e.ɔs/
+  IPA: /e.os/
+Taché
+  IPA: /ta.ʃe/
+Sotchi
+  IPA: /sɔt.ʃi/
+Wiktionnaire
+  IPA: /wik.sjɔ.nɛʁ/
+Joliette
+  IPA: /ʒɔ.ljɛt/
+Edmundston
+  IPA: /ɛd.mɔnd.stœn/
+Lévis
+  IPA: /le.vi/
+Gaspé
+  IPA: /ɡas.pe/
+Chibougamau
+  IPA: /ʃi.bu.ɡa.mo/
+Saguenay
+  IPA: /saɡ.ne/
+Drummondville
+  IPA: /dʁɔ.mɔn.vil/
+Chisasibi
+  IPA: /ʃi.za.si.bi/
+Gatineau
+  IPA: /ɡa.ti.no/
+Sherbrooke
+  IPA: /ʃɛʁ.bʁuk/
+Waswanipi
+  IPA: /wa.swa.ni.pi/
+Néo
+  IPA: /ne.o/
+Raiponce
+  IPA: /ʁɛ.pɔ̃s/
+  IPA: /ʁe.pɔ̃s/
+Arviat
+  IPA: /aʁ.vi.at/
+Œuilly
+  IPA: /œ.ji/
+Carros
+  IPA: /ka.ʁɔs/
+Wissant
+  IPA: /ɥi.sɑ̃/
+Gérôme
+  IPA: /ʒe.ʁom/
+Septante
+  IPA: /sɛp.tɑ̃t/
+Hitomi
+  IPA: /i.tɔ.mi/
+  IPA: /hi.tɔ.mi/
+Ogmios
+  IPA: /ɔɡ.mjɔs/
+Taufik
+  IPA: /to.fik/
+LNH
+  IPA: /ɛl ɛn aʃ/
+Mathéo
+  IPA: /ma.te.o/
+Hayashi
+  IPA: /a.ja.ʃi/
+  IPA: /ha.ja.ʃi/
+Clermont
+  IPA: /klɛʁ.mɔ̃/
+Cancún
+  IPA: /kɑ̃.kun/
+Etats-Unis d'Amérique
+  IPA: /e.ta.zy.ni d‿a.me.ʁik/
+Kasserine
+  IPA: /ka.sʁin/
+Pratas
+  IPA: /pʁa.tas/
+Noriko
+  IPA: /nɔ.ʁi.ko/
+Fès
+  IPA: /fɛs/
+Carnot
+  IPA: /kaʁ.no/
+Canavan
+  IPA: /ka.na.van/
+Champs-Élysées
+  IPA: /ʃɑ̃.z‿e.li.ze/
+Marc-Antoine
+  IPA: /maʁ.kɑ̃.twan/
+Millot
+  IPA: /mi.jo/
+Eldorado
+  IPA: /ɛl.dɔ.ʁa.do/
+Glâne
+  IPA: /ɡlan/
+  IPA: /ɡlɑn/
+Léopoldville
+  IPA: /le.ɔ.pɔl.vil/
+Chechnie
+  IPA: /ʃɛʃ.ni/
+Kabardino-Balkarie
+  IPA: /ka.baʁ.di.no.bal.ka.ʁi/
+Buryatie
+  IPA: /bu.ʁja.ti/
+Beauval
+  IPA: /bo.val/
+al-Kanadi
+  IPA: /al.ka.na.di/
+al-Kanadi
+  IPA: /al.ka.na.di/
+Révolution française
+  IPA: /ʁe.vɔ.ly.sjɔ̃ fʁɑ̃.sɛz/
+Tarraconaise
+  IPA: /ta.ʁa.kɔ.nɛz/
+Asperger
+  IPA: /as.pɛʁ.ɡəʁ/
+  IPA: /as.pɛʁ.ʒəʁ/
+  IPA: /as.pɛʁ.ʒɛʁ/
+Raków
+  IPA: /ʁa.kɔv/
+Ispahan
+  IPA: /is.pa.ɑ̃/
+GIGN
+  IPA: /ʒe.i.ʒe.ɛn/
+Chérif
+  IPA: /ʃe.ʁif/
+Saïd
+  IPA: /sa.id/
+Sylvestre
+  IPA: /sil.vɛstʁ/
+Saint-Sylvestre
+  IPA: /sɛ̃.sil.vɛstʁ/
+Poudlard
+  IPA: /pu.dlaʁ/
+Leblanc
+  IPA: /lə.blɑ̃/
+Boyer
+  IPA: /bwa.je/
+Roze
+  IPA: /ʁoz/
+Bowman
+  IPA: /bo.man/
+Saintonge
+  IPA: /sɛ̃.tɔ̃ʒ/
+Proulx
+  IPA: /pʁu/
+Maurétanie Césarienne
+  IPA: /mɔ.ʁe.ta.ni se.za.ʁjɛn/
+  IPA: /mo.ʁe.ta.ni se.za.ʁjɛn/
+Mauritanie Césarienne
+  IPA: /mɔ.ʁi.ta.ni se.za.ʁjɛn/
+  IPA: /mo.ʁi.ta.ni se.za.ʁjɛn/
+République de Chine
+  IPA: /ʁe.py.blik də ʃin/
+République populaire de Chine
+  IPA: /ʁe.py.blik pɔ.py.lɛʁ də ʃin/
+Bosnie-et-Herzégovine
+  IPA: /boz.ni.e.ɛʁ.ze.ɡo.vin/
+Niort
+  IPA: /njɔʁ/
+Kondo
+  IPA: /kɔn.do/
+Boulogne
+  IPA: /bu.lɔɲ/
+Rodin
+  IPA: /ʁɔ.dɛ̃/
+Montaigne
+  IPA: /mɔ̃.tɛɲ/
+CMU
+  IPA: /se.ɛ.my/
+  IPA: /se.e.my/
+Hébron
+  IPA: /e.bʁɔ̃/
+Hespérides
+  IPA: /ɛs.pe.ʁid/
+Thurso
+  IPA: /tyʁ.so/
+Ley
+  IPA: /lɛj/
+Ricœur
+  IPA: /ʁi.kœʁ/
+Eau Claire
+  IPA: /o klɛʁ/
+Nijni Novgorod
+  IPA: /niʒ.ni nɔv.ɡɔ.ʁɔd/
+chaouch
+  IPA: /ʃa.uʃ/
+Nouvelle York
+  IPA: /nu.vɛl jɔʁk/
+Cyprien
+  IPA: /si.pʁi.jɛ̃/
+Domitien
+  IPA: /dɔ.mi.sjɛ̃/
+Petit
+  IPA: /pə.ti/
+Samosate
+  IPA: /sa.mo.zat/
+Apulée
+  IPA: /a.py.le/
+Serpent
+  IPA: /sɛʁ.pɑ̃/
+Nguyên
+  IPA: /nɡɥi.jɛn/
+  IPA: /nɥi.jɛn/
+  IPA: /nɡjɛn/
+Brexit
+  IPA: /bʁɛk.sit/
+Nankin
+  IPA: /nɑ̃.kɛ̃/
+  IPA: /nan.kin/
+Nausicaa
+  IPA: /no.zi.ka.a/
+Sakura
+  IPA: /sa.ku.ʁa/
+Vorarlberg
+  IPA: /vɔ.ʁaʁl.bɛʁ/
+Taroudant
+  IPA: /ta.ʁu.dɑ̃/
+Mikaël
+  IPA: /mi.ka.ɛl/
+Hikari
+  IPA: /i.ka.ʁi/
+  IPA: /hi.ka.ʁi/
+Gaffiot
+  IPA: /ɡa.fjo/
+Monoblet
+  IPA: /mɔ.nɔ.blɛ/
+Végèce
+  IPA: /ve.ʒɛs/
+Alexandrescu
+  IPA: /a.lɛk.sɑ̃.dʁɛs.ky/
+  IPA: /a.lɛk.sɑ̃.dʁɛs.ku/
+Schwarzie
+  IPA: /ʃfaʁt.si/
+  IPA: /ʃfaʁd.zi/
+  IPA: /ʃfaʁ.zi/
+UAF
+  IPA: /y.a.ɛf/
+Saint-Louis-et-Parahou
+  IPA: /sɛ̃.lwi.e.pa.ʁa.u/
+Chooz
+  IPA: /ʃo/
+Abou
+  IPA: /a.bu/
+Danglars
+  IPA: /dɑ̃.ɡlaʁ/
+Mirabeau
+  IPA: /mi.ʁa.bo/
+Villefort
+  IPA: /vil.fɔʁ/
+Lamar
+  IPA: /la.maʁ/
+Blois
+  IPA: /blwa/
+  IPA: /blwɑ/
+Aznavour
+  IPA: /az.na.vuʁ/
+Pompidou
+  IPA: /pɔ̃.pi.du/
+Planchet
+  IPA: /plɑ̃.ʃɛ/
+Bathurst
+  IPA: /bat.yʁst/
+Bussy
+  IPA: /by.si/
+Montcalm
+  IPA: /mɔ̃t.kalm/
+Artois
+  IPA: /aʁ.twa/
+Taninges
+  IPA: /ta.nɛ̃ʒ/
+Minas
+  IPA: /mi.na/
+  IPA: /mi.nɑ/
+Matina
+  IPA: /ma.ti.na/
+Joinville
+  IPA: /ʒwɛ̃.vil/
+Hedjaz
+  IPA: /e.dʒaz/
+Montauban
+  IPA: /mɔ̃.to.bɑ̃/
+Hama
+  IPA: /a.ma/
+Vendôme
+  IPA: /vɑ̃.dom/
+Mithridate
+  IPA: /mi.tʁi.dat/
+Wavrin
+  IPA: /wa.vʁɛ̃/
+francoprovençal
+  IPA: /fʁɑ̃.ko.pʁɔ.vɑ̃.sal/
+Châtellerault
+  IPA: /ʃa.tɛl.ʁo/
+  IPA: /ʃɑ.tɛl.ʁo/
+Feurs
+  IPA: /fœʁ/
+Tourcoing
+  IPA: /tuʁ.kwɛ̃/
+Roussillon
+  IPA: /ʁu.si.jɔ̃/
+Trudeau
+  IPA: /tʁy.do/
+Ota
+  IPA: /ɔ.ta/
+Alès
+  IPA: /a.lɛs/
+Yoshiko
+  IPA: /jɔ.ʃi.ko/
+Luçon
+  IPA: /ly.sɔ̃/
+Yukiko
+  IPA: /ju.ki.ko/
+Setsuko
+  IPA: /sɛt.su.ko/
+Tarterêts
+  IPA: /taʁtəʁɛ/
+  IPA: /taʁtəʁe/
+Sayuri
+  IPA: /sa.ju.ʁi/
+Aix-en-Provence
+  IPA: /ɛk.sɑ̃.pʁɔ.vɑ̃s/
+  IPA: /ɛ.sɑ̃.pʁɔ.vɑ̃s/
+  IPA: /e.sɑ̃.pʁɔ.vɑ̃s/
+Akiko
+  IPA: /a.ki.ko/
+Aglukkaq
+  IPA: /a.ɡlu.kak/
+Aglukark
+  IPA: /a.ɡlu.kaʁk/
+Archimède
+  IPA: /aʁ.ʃi.mɛd/
+Aristophane
+  IPA: /a.ʁis.tɔ.fan/
+Ouo
+  IPA: /wo/
+Daech
+  IPA: /da.ɛʃ/
+État islamique
+  IPA: /e.ta i.sla.mik/
+État islamique en Irak et au Levant
+  IPA: /e.ta.t‿i.sla.mik ɑ̃.n‿i.ʁak e o l(ə).vɑ̃/
+État islamique d'Irak
+  IPA: /e.ta.t‿i.sla.mik d‿i.ʁak/
+6ter
+  IPA: /sis.tɛʁ/
+Éole
+  IPA: /e.ɔl/
+Litchfield
+  IPA: /litʃ.fild/
+Beauvais
+  IPA: /bo.vɛ/
+Mirabel
+  IPA: /mi.ʁa.bɛl/
+Sachiko
+  IPA: /sat.ʃi.ko/
+Bourges
+  IPA: /buʁʒ/
+Cédrika
+  IPA: /se.dʁi.ka/
+Caiète
+  IPA: /ka.jɛt/
+Kasumi
+  IPA: /ka.su.mi/
+Yuriko
+  IPA: /ju.ʁi.ko/
+Hiroko
+  IPA: /i.ʁɔ.ko/
+  IPA: /hi.ʁɔ.ko/
+Montrouge
+  IPA: /mɔ̃.ʁuʒ/
+Lure
+  IPA: /lyʁ/
+Sète
+  IPA: /sɛt/
+Grèges
+  IPA: /ɡʁɛʒ/
+La Roche-sur-Yon
+  IPA: /la ʁɔʃ.sy.ʁjɔ̃/
+Saumur
+  IPA: /so.myʁ/
+Hosokawa
+  IPA: /o.so.ka.wa/
+  IPA: /ho.so.ka.wa/
+Yamamoto
+  IPA: /ja.ma.mɔ.to/
+Haruko
+  IPA: /a.ʁu.ko/
+  IPA: /ha.ʁu.ko/
+Nakajima
+  IPA: /na.ka.dʒi.ma/
+Harumi
+  IPA: /a.ʁu.mi/
+  IPA: /ha.ʁu.mi/
+Mariko
+  IPA: /ma.ʁi.ko/
+Ishii
+  IPA: /i.ʃi.i/
+Michiko
+  IPA: /mit.ʃi.ko/
+Hisako
+  IPA: /i.sa.ko/
+  IPA: /hi.sa.ko/
+Yasuko
+  IPA: /ja.su.ko/
+Hanako
+  IPA: /a.na.ko/
+  IPA: /ha.na.ko/
+Yumi
+  IPA: /ju.mi/
+Tamiko
+  IPA: /ta.mi.ko/
+Iwasaki
+  IPA: /i.wa.sa.ki/
+Ayako
+  IPA: /a.ja.ko/
+Ogawa
+  IPA: /ɔ.ɡa.wa/
+Shimizu
+  IPA: /ʃi.mi.zu/
+Miyu
+  IPA: /mi.ju/
+Nishimoto
+  IPA: /ni.ʃi.mɔ.to/
+Nishimura
+  IPA: /ni.ʃi.mu.ʁa/
+Miyuki
+  IPA: /mi.ju.ki/
+Chiyo
+  IPA: /tʃi.jo/
+Kuniko
+  IPA: /ku.ni.ko/
+Atsuko
+  IPA: /at.su.ko/
+Reiko
+  IPA: /ʁe.i.ko/
+Natsuko
+  IPA: /nat.su.ko/
+Yoshikawa
+  IPA: /jɔ.ʃi.ka.wa/
+Murakami
+  IPA: /mu.ʁa.ka.mi/
+Yamasaki
+  IPA: /ja.ma.sa.ki/
+Hasegawa
+  IPA: /a.se.ɡa.wa/
+  IPA: /ha.se.ɡa.wa/
+Salé
+  IPA: /sa.le/
+Elven
+  IPA: /ɛlvɛ̃/
+Guenièvre
+  IPA: /ɡə.njɛvʁ/
+Agniers
+  IPA: /a.ɲe/
+Charlevoix
+  IPA: /ʃaʁ.lə.vwa/
+Gaspésie
+  IPA: /ɡas.pe.zi/
+Montérégie
+  IPA: /mɔ̃.te.ʁe.ʒi/
+Outaouais
+  IPA: /u.ta.wɛ/
+Condom
+  IPA: /kɔ̃.dɔ̃/
+Niel
+  IPA: /njɛl/
+Chaouis
+  IPA: /ʃa.wi/
+Éphialte
+  IPA: /e.fjalt/
+Éphialtès
+  IPA: /e.fjal.tɛs/
+Valier
+  IPA: /va.lje/
+Ruan
+  IPA: /ʁɥɑ̃/
+Ruan
+  IPA: /ʁɥɑ̃/
+Chirac
+  IPA: /ʃi.ʁak/
+Légion d'honneur
+  IPA: /le.ʒjɔ̃ d‿ɔ.nœʁ/
+Judas Iscariote
+  IPA: /ʒy.da is.ka.ʁjɔt/
+  IPA: /ʒy.dɑ is.ka.ʁjɔt/
+Protée
+  IPA: /pʁɔ.te/
+Golo
+  IPA: /ɡɔ.lo/
+Tavignano
+  IPA: /ta.vi.ɲa.no/
+Beauregard
+  IPA: /bo.ʁ(ə).ɡaʁ/
+La Joconde
+  IPA: /la ʒɔ.kɔ̃d/
+Héraclite
+  IPA: /e.ʁa.klit/
+Sayako
+  IPA: /sa.ja.ko/
+Fifi
+  IPA: /fi.fi/
+Cassini
+  IPA: /ka.si.ni/
+Colisée
+  IPA: /kɔ.li.ze/
+PCUS
+  IPA: /pe.se.y.ɛs/
+Sud
+  IPA: /syd/
+Parnasse
+  IPA: /paʁ.nas/
+Polybe
+  IPA: /pɔ.lib/
+Propontide
+  IPA: /pʁɔ.pɔ̃.tid/
+Costa
+  IPA: /kɔs.ta/
+Vicence
+  IPA: /vi.sɑ̃s/
+Hypérion
+  IPA: /i.pe.ʁjɔ̃/
+Fifi Brindacier
+  IPA: /fi.fi bʁɛ̃.da.sje/
+Kampuchéa
+  IPA: /kɑ̃.py.ʃe.a/
+  IPA: /kɑ̃.pu.ʃe.a/
+Brahim
+  IPA: /bʁa.im/
+  IPA: /bʁa.him/
+Ayumi
+  IPA: /a.ju.mi/
+Natsumi
+  IPA: /nat.su.mi/
+36
+  IPA: /tʁɑ̃t.sis/
+Véro
+  IPA: /ve.ʁo/
+Bellefontaine
+  IPA: /bɛl.fɔ̃.tɛn/
+Dreyfus
+  IPA: /dʁɛ.fys/
+  IPA: /dʁe.fys/
+OQLF
+  IPA: /o.ky.ɛ.l‿ɛf/
+  IPA: /o.ky.e.l‿ɛf/
+Smirnoff
+  IPA: /smiʁ.nɔf/
+Saïgon
+  IPA: /saj.ɡɔ̃/
+Gigi
+  IPA: /ʒi.ʒi/
+Tamsui
+  IPA: /tam.su.i/
+Yaeko
+  IPA: /ja.e.ko/
+Takako
+  IPA: /ta.ka.ko/
+Nanami
+  IPA: /na.na.mi/
+Shigeko
+  IPA: /ʃi.ɡe.ko/
+Kiyoko
+  IPA: /ki.jɔ.ko/
+Kikuko
+  IPA: /ki.ku.ko/
+Yoko
+  IPA: /jo.ko/
+Yuko
+  IPA: /ju.ko/
+ordre du Temple
+  IPA: /ɔʁ.dʁə dy tɑ̃pl/
+Bonaventure
+  IPA: /bɔ.na.vɑ̃.tyʁ/
+Tartare
+  IPA: /taʁ.taʁ/
+Petitjean
+  IPA: /pə.tit.ʒə.ɑ̃/
+Rainville
+  IPA: /ʁɛ̃.vil/
+Grosjean
+  IPA: /ɡʁɔs.ʒə.ɑ̃/
+Lapierre
+  IPA: /la.pjɛʁ/
+Gagnon
+  IPA: /ɡa.ɲɔ̃/
+Leroux
+  IPA: /lə.ʁu/
+Audet
+  IPA: /o.dɛ/
+Vaillancourt
+  IPA: /va.jɑ̃.kuʁ/
+Valcourt
+  IPA: /val.kuʁ/
+RTC
+  IPA: /ɛʁ.te.se/
+Produnova
+  IPA: /pʁɔ.dy.nɔ.va/
+Miu
+  IPA: /mi.u/
+Tsuguko
+  IPA: /tsu.ɡu.ko/
+Morita
+  IPA: /mɔ.ʁi.ta/
+Ripa
+  IPA: /ʁi.pa/
+Côte-d'Or
+  IPA: /kot.d‿ɔʁ/
+Maripier
+  IPA: /ma.ʁi.pjɛʁ/
+Marie-Pier
+  IPA: /ma.ʁi.pjɛʁ/
+Didon
+  IPA: /di.dɔ̃/
+CRTC
+  IPA: /se.ɛʁ.te.se/
+Aquitanien
+  IPA: /a.ki.ta.njɛ̃/
+Maison
+  IPA: /mɛ.zɔ̃/
+  IPA: /me.zɔ̃/
+Amari
+  IPA: /a.ma.ʁi/
+Brixton
+  IPA: /bʁik.stɔn/
+Auvergne-Rhône-Alpes
+  IPA: /o.vɛʁ.ɲ(ə).ʁo.nalp/
+Savone
+  IPA: /sa.vɔn/
+Cap
+  IPA: /kap/
+Tancarville
+  IPA: /tɑ̃.kaʁ.vij/
+Seine-Maritime
+  IPA: /sɛn.ma.ʁi.tim/
+Guingamp
+  IPA: /ɡɛ̃.ɡɑ̃/
+Coïmbre
+  IPA: /kɔ.ɛ̃bʁ/
+Assouan
+  IPA: /a.swɑ̃/
+Guilliermond
+  IPA: /ɡi.jɛʁ.mɔ̃/
+Parthénope
+  IPA: /paʁ.te.nɔp/
+Hauts-de-France
+  IPA: /o.də.fʁɑ̃s/
+îles Anglo-Normandes
+  IPA: /il.z‿ɑ̃.ɡlo.nɔʁ.mɑ̃d/
+Leclercq
+  IPA: /lə.klɛʁ/
+Cris
+  IPA: /kʁi/
+Foix
+  IPA: /fwa/
+Hébert
+  IPA: /e.bɛʁ/
+Chateaubriand
+  IPA: /ʃa.to.bʁi.jɑ̃/
+Numidie
+  IPA: /ny.mi.di/
+Tilsit
+  IPA: /til.sit/
+Esclave
+  IPA: /ɛs.klav/
+Tocqueville
+  IPA: /tɔk.vil/
+Donaldville
+  IPA: /dɔ.nald.vil/
+Hilaire
+  IPA: /i.lɛʁ/
+Aucoin
+  IPA: /o.kwɛ̃/
+Destroismaisons
+  IPA: /de.tʁwa.mɛ.zɔ̃/
+  IPA: /de.tʁwa.me.zɔ̃/
+Trahan
+  IPA: /tʁa.ɑ̃/
+Fontenot
+  IPA: /fɔ̃t.no/
+Lafleur
+  IPA: /la.flœʁ/
+Saint-Étienne
+  IPA: /sɛ̃.t‿e.tjɛn/
+Saint-Étienne
+  IPA: /sɛ̃.t‿e.tjɛn/
+Lefebvre
+  IPA: /lə.fɛvʁ/
+Godbout
+  IPA: /ɡɔd.bu/
+Sévigny
+  IPA: /se.vi.ɲi/
+Broussard
+  IPA: /bʁu.saʁ/
+Thibodeaux
+  IPA: /ti.bɔ.do/
+Belcourt
+  IPA: /bɛl.kuʁ/
+Vachon
+  IPA: /va.ʃɔ̃/
+Crépeaux
+  IPA: /kʁe.po/
+Boudreau
+  IPA: /bu.dʁo/
+Barré
+  IPA: /ba.ʁe/
+  IPA: /bɑ.ʁe/
+Crépeau
+  IPA: /kʁe.po/
+Lacombe
+  IPA: /la.kɔ̃b/
+Perrault
+  IPA: /pɛ.ʁol/
+  IPA: /pe.ʁol/
+Ledoux
+  IPA: /lə.du/
+Ouimet
+  IPA: /wi.mɛ/
+Pelletier
+  IPA: /pɛ.lə.tje/
+  IPA: /pe.lə.tje/
+Côté
+  IPA: /ko.te/
+Chevalier
+  IPA: /ʃə.va.lje/
+Guillet
+  IPA: /ɡi.jɛ/
+Langelier
+  IPA: /lɑ̃.ʒə.lje/
+Frémont
+  IPA: /fʁe.mɔ̃/
+Leclerc
+  IPA: /lə.klɛʁ/
+Daphné
+  IPA: /daf.ne/
+Pourim
+  IPA: /pu.ʁim/
+Mardochée
+  IPA: /maʁ.dɔ.ke/
+loi de Charles
+  IPA: /lwa d(ə) ʃaʁl/
+Ventura
+  IPA: /vɑ̃.ty.ʁa/
+Waltham
+  IPA: /wol.tɔm/
+Val-d'Or
+  IPA: /val.d‿ɔʁ/
+Shawinigan
+  IPA: /ʃa.wi.ni.ɡan/ (Tags: Belgium, France)
+Mauricie
+  IPA: /mɔ.ʁi.si/
+Hébé
+  IPA: /e.be/
+Miquelon
+  IPA: /mi.klɔ̃/
+Dekkan
+  IPA: /dɛ.kɑ̃/
+  IPA: /de.kɑ̃/
+Madame Michu
+  IPA: /ma.dam mi.ʃy/
+Trifouillis-les-Oies
+  IPA: /tʁi.fu.ji.le.z‿wa/
+Ripon
+  IPA: /ʁi.pɔn/
+Huynh
+  IPA: /ɥin/
+  IPA: /u.in/
+  IPA: [ɥɪn]
+  IPA: [hjuː.ˈɪn]
+Le
+  IPA: /lə/
+Corcoran
+  IPA: /kɔʁ.kɔ.ʁɑ̃/
+Catane
+  IPA: /ka.tan/
+Laocoon
+  IPA: /la.o.ko.ɔ̃/
+Breaux
+  IPA: /bʁo/
+Turpin
+  IPA: /tyʁ.pɛ̃/
+Low
+  IPA: /lo/
+Bouchard
+  IPA: /bu.ʃaʁ/
+Gagne
+  IPA: /ɡaɲ/
+Robinette
+  IPA: /ʁɔ.bi.nɛt/
+Couture
+  IPA: /ku.tyʁ/
+Coffin
+  IPA: /kɔ.fɛ̃/
+Leclair
+  IPA: /lə.klɛʁ/
+Tremblay
+  IPA: /tʁɑ̃.blɛ/
+Phung
+  IPA: /fuŋ/
+Comeaux
+  IPA: /kɔ.mo/
+Sato
+  IPA: /sa.to/
+Pinon
+  IPA: /pi.nɔ̃/
+Pabon
+  IPA: /pa.bɔ̃/
+Farah
+  IPA: /fa.ʁa/
+  IPA: /fa.ʁah/
+Labelle
+  IPA: /la.bɛl/
+Arceneaux
+  IPA: /aʁ.sə.no/
+Lessard
+  IPA: /lɛ.saʁ/
+  IPA: /le.saʁ/
+Lalonde
+  IPA: /la.lɔ̃d/
+Rivard
+  IPA: /ʁi.vaʁ/
+Legrand
+  IPA: /lə.ɡʁɑ̃/
+Marron
+  IPA: /ma.ʁɔ̃/
+Gaudet
+  IPA: /ɡo.dɛ/
+Arruda
+  IPA: /a.ʁu.da/
+Archambault
+  IPA: /aʁ.ʃɑ̃.bol/
+Levasseur
+  IPA: /lə.va.sœʁ/
+Saito
+  IPA: /sa.i.to/
+Qiu
+  IPA: /tʃju/
+Beaudry
+  IPA: /bo.dʁi/
+Beaudry
+  IPA: /bo.dʁi/
+Chauvin
+  IPA: /ʃo.vɛ̃/
+Jeanpierre
+  IPA: /ʒə.ɑ̃.pjɛʁ/
+Vincennes
+  IPA: /vɛ̃.sɛn/
+Breault
+  IPA: /bʁo/
+Youssef
+  IPA: /ju.sɛf/
+Lasalle
+  IPA: /la.sal/
+Werth
+  IPA: /vɛʁt/
+Dupuy
+  IPA: /dy.pɥij/
+Guerrier
+  IPA: /ɡɛ.ʁje/
+  IPA: /ɡe.ʁje/
+Latour
+  IPA: /la.tuʁ/
+Pellerin
+  IPA: /pɛl.ʁɛ̃/
+Seguin
+  IPA: /sə.ɡɛ̃/
+Patrocle
+  IPA: /pa.tʁɔkl/
+Lajoie
+  IPA: /la.ʒwa/
+Fourier
+  IPA: /fu.ʁje/
+Robichaud
+  IPA: /ʁɔ.bi.ʃo/
+Don Quichotte
+  IPA: /dɔ̃ ki.ʃɔt/
+Barrette
+  IPA: /ba.ʁɛt/
+  IPA: /bɑ.ʁɛt/
+Fort-de-France
+  IPA: /fɔʁ.də.fʁɑ̃s/
+Ripoll
+  IPA: /ʁi.pɔl/
+Dubay
+  IPA: /dy.bɛ/
+Plaisance
+  IPA: /plɛ.zɑ̃s/
+  IPA: /ple.zɑ̃s/
+Meaux
+  IPA: /mo/
+Lagrange
+  IPA: /la.ɡʁɑ̃ʒ/
+Blouin
+  IPA: /blu.ɛ̃/
+Mance
+  IPA: /mɑ̃s/
+Colonna
+  IPA: /kɔ.lɔ.na/
+Rizzuto
+  IPA: /ʁid.zu.to/
+Carpentier
+  IPA: /kaʁ.pɑ̃.tje/
+Louisbourg
+  IPA: /lwi.buʁ/
+Fassett
+  IPA: /fa.sɛt/
+Goulart
+  IPA: /ɡu.laʁ/
+Longueuil
+  IPA: /lɔ̃.ɡœj/
+Pontiac
+  IPA: /pɔ̃.tjak/
+Normandin
+  IPA: /nɔʁ.mɑ̃.dɛ̃/
+Wix
+  IPA: /wiks/
+Calixte
+  IPA: /ka.likst/
+Monte-Carlo
+  IPA: /mɔ̃.te.kaʁ.lo/
+Orsay
+  IPA: /ɔʁ.sɛ/
+Ouachita
+  IPA: /wa.ʃi.ta/
+Mathais
+  IPA: /ma.tɛ/
+Villeneuve
+  IPA: /vil.nœv/
+Laforce
+  IPA: /la.fɔʁs/
+Blumenfeld
+  IPA: /bly.mœn.fɛld/
+Cantley
+  IPA: /kɑ̃.tli/
+Extrême-Orient
+  IPA: /ɛk.stʁɛ.mɔ.ʁjɑ̃/
+  IPA: /ɛk.stʁe.mɔ.ʁjɑ̃/
+On
+  IPA: /ɔ̃/
+Nomura
+  IPA: /nɔ.mu.ʁa/
+Joly
+  IPA: /ʒɔ.li/
+Guise
+  IPA: /ɡɥiz/
+Duhamel
+  IPA: /dy.a.mɛl/
+Esquilin
+  IPA: /ɛs.ki.lɛ̃/
+Lepine
+  IPA: /lə.pin/
+Lepine
+  IPA: /lə.pin/
+Waldschmidt
+  IPA: /waldʃ.mid/
+Tybi
+  IPA: /ti.bi/
+Viau
+  IPA: /vjo/
+Hélios
+  IPA: /e.ljos/
+Moffet
+  IPA: /mo.fe/
+Nine
+  IPA: /nin/
+Godard
+  IPA: /ɡɔ.daʁ/
+Hamelin
+  IPA: /am.lɛ̃/
+Coni
+  IPA: /kɔ.ni/
+Kojima
+  IPA: /kɔ.dʒi.ma/
+Chiers
+  IPA: /ʃjɛʁ/
+Minecraft
+  IPA: /majn.kʁaft/
+Dauzat
+  IPA: /do.za/
+Papineau
+  IPA: /pa.pi.no/
+Letellier
+  IPA: /lə.tɛ.lje/
+  IPA: /lə.te.lje/
+Micallef
+  IPA: /mi.ka.lɛf/
+Rochefort
+  IPA: /ʁɔʃ.fɔʁ/
+Pineau
+  IPA: /pi.no/
+Sokoloff
+  IPA: /sɔ.kɔ.lɔf/
+Mollet
+  IPA: /mɔ.lɛ/
+La République de Croatie
+  IPA: /la ʁe.py.blik də kʁo.a.si/
+Rougeau
+  IPA: /ʁu.ʒo/
+Alesi
+  IPA: /a.le.zi/
+Jaurès
+  IPA: /ʒɔ.ʁɛs/
+Benoist
+  IPA: /bə.nwa/
+Sokolov
+  IPA: /sɔ.kɔ.lɔv/
+Lafont
+  IPA: /la.fɔ̃/
+ANP
+  IPA: /a.ɛn.pe/
+Manoukian
+  IPA: /ma.nu.kjɑ̃/
+Winnipegosis
+  IPA: /wi.ni.pɛ.ɡɔ.sis/
+  IPA: /wi.ni.pe.ɡɔ.sis/
+Lévesque
+  IPA: /le.vɛk/
+Dufrêne
+  IPA: /dy.fʁɛn/
+Ouellette
+  IPA: /wɛ.lɛt/
+  IPA: /we.lɛt/
+Ouellet
+  IPA: /wɛ.lɛ/
+  IPA: /we.lɛ/
+Laurier
+  IPA: /lɔ.ʁje/
+  IPA: /lo.ʁje/
+Dupuis
+  IPA: /dy.pɥi/
+Verdun
+  IPA: /vɛʁ.dœ̃/
+  IPA: /vɛʁ.dœ̃/ (Tags: Canada)
+  IPA: [vaɛ̯ʁ̥.dœ̃˞] (Tags: Canada)
+Zénon
+  IPA: /ze.nɔ̃/
+Maine-et-Loire
+  IPA: /mɛ.ne.lwaʁ/
+  IPA: /me.ne.lwaʁ/
+La Havane
+  IPA: /la a.van/
+Zegerscappel
+  IPA: /ze.ɡɛʁ.ska.pɛl/
+Zeinheim
+  IPA: /tsaj.najm/
+  IPA: /tsaj.n(ə).hajm/
+Saint-Zéphirin-de-Courval
+  IPA: /sɛ̃.ze.fi.ʁɛ̃.d(ə).kuʁ.val/
+Zermezeele
+  IPA: /zɛʁ.mə.zɛl/
+Zétrud-Lumay
+  IPA: /ze.tʁyd ly.me/
+Zetting
+  IPA: /tsɛ.tiŋ/
+  IPA: /tse.tiŋ/
+Grand Est
+  IPA: /ɡʁɑ̃.t‿ɛst/
+Haute-Corse
+  IPA: /ot.kɔʁs/
+Corse-du-Sud
+  IPA: /kɔʁ.s(ə).dy.sy/
+Yoshinaga
+  IPA: /jɔ.ʃi.na.ɡa/
+Zincourt
+  IPA: /zɛ̃.kuʁ/
+Dufaux
+  IPA: /dy.fo/
+Shiroishi
+  IPA: /ʃi.ʁɔ.i.ʃi/
+Kurimoto
+  IPA: /ku.ʁi.mɔ.to/
+Piccoli
+  IPA: /pi.kɔ.li/
+Zoteux
+  IPA: /zɔ.tø/
+Yamachiche
+  IPA: /ja.ma.ʃiʃ/
+Ychoux
+  IPA: /i.ʃuks/
+Pintac
+  IPA: /pɛ̃.tak/
+Ydes
+  IPA: /id/
+Yèbles
+  IPA: /jɛbl/
+Saône-et-Loire
+  IPA: /so.ne.lwaʁ/
+Bourgogne-Franche-Comté
+  IPA: /buʁ.ɡɔɲ.fʁɑ̃ʃ.kɔ̃.te/
+Yenne
+  IPA: /jɛn/
+Yermenonville
+  IPA: /jɛʁ.mə.nɔ̃.vil/
+Yernée-Fraineux
+  IPA: /jɛʁ.ne fʁɛ.nø/
+Nandrin
+  IPA: /nɑ̃.dʁɛ̃/
+Yerville
+  IPA: /jɛʁ.vil/
+Yèvres
+  IPA: /jɛvʁ/
+Yffiniac
+  IPA: /i.fi.ɲak/
+yidiche
+  IPA: /ji.diʃ/
+Delage
+  IPA: /də.laʒ/
+Debaralle
+  IPA: /də.ba.ʁal/
+Furneaux
+  IPA: /fyʁ.no/
+Miyazawa
+  IPA: /mi.ja.za.wa/
+Kairouan
+  IPA: /kɛ.ʁwɑ̃/
+  IPA: /ke.ʁwɑ̃/
+RPL
+  IPA: /ɛʁ.pe.ɛl/
+Dietemann
+  IPA: /di.tə.man/
+Talagrand
+  IPA: /ta.la.ɡʁɑ̃/
+Rybojad
+  IPA: /ʁi.bɔ.ʒad/
+Augsbourg
+  IPA: /oɡz.buʁ/
+Frise
+  IPA: /fʁiz/
+Grèce antique
+  IPA: /ɡʁɛ.s‿ɑ̃.tik/
+  IPA: /ɡʁe.s‿ɑ̃.tik/
+Congo belge
+  IPA: /kɔ̃.ɡo bɛlʒ/
+Rome antique
+  IPA: /ʁɔ.m‿ɑ̃.tik/
+Pont-Euxin
+  IPA: /pɔ̃.t‿øk.sɛ̃/
+Picot
+  IPA: /pi.ko/
+HNP
+  IPA: /a.ʃ‿ɛn.pe/
+Hendaye
+  IPA: /ɑ̃.daj/
+Lenormand
+  IPA: /lə.nɔʁ.mɑ̃/
+Eustache
+  IPA: /øs.taʃ/
+Etobicoke
+  IPA: /ɛ.tɔ.bi.ko/
+  IPA: /e.tɔ.bi.ko/
+Louvain-la-Neuve
+  IPA: /lu.vɛ̃.la.nœv/
+Malines
+  IPA: /ma.lin/
+Bastogne
+  IPA: /bas.tɔɲ/
+Hautes-Pyrénées
+  IPA: /ot.pi.ʁe.ne/
+Matsu
+  IPA: /mat.su/
+La Défense
+  IPA: /la de.fɑ̃s/
+Thrasymaque
+  IPA: /tʁa.zi.mak/
+Démosthène
+  IPA: /de.mɔs.tɛn/
+Nicomaque
+  IPA: /ni.kɔ.mak/
+Thucydide
+  IPA: /ty.si.did/
+Lecoubarry
+  IPA: /lə.ku.ba.ʁi/
+Rhodésie
+  IPA: /ʁɔ.de.zi/
+Sud-Ouest africain
+  IPA: /sy.dwɛs.t‿a.fʁi.kɛ̃/
+Vidian
+  IPA: /vi.djɑ̃/
+Moncton
+  IPA: /mɔŋk.tœn/
+Abancourt
+  IPA: /a.bɑ̃.kuʁ/
+Abainville
+  IPA: /a.bɛ̃.vil/
+Aast
+  IPA: /a.ast/
+Abbaretz
+  IPA: /a.ba.ʁɛ/
+Abbecourt
+  IPA: /ab.kuʁ/
+Abbécourt
+  IPA: /a.be.kuʁ/
+Meurthe-et-Moselle
+  IPA: /mœʁ.te.mɔ.zɛl/
+Abbéville-lès-Conflans
+  IPA: /a.be.vil.lɛ.kɔ̃.flɑ̃/
+Hô-Chi-Minh-Ville
+  IPA: /o.ʃi.min.vil/
+Giscard
+  IPA: /ʒis.kaʁ/
+Voie lactée
+  IPA: /vwa lak.te/
+Marilou
+  IPA: /ma.ʁi.lu/
+Maëlys
+  IPA: /ma.e.lis/
+Insta
+  IPA: /ɛ̃sta/
+Sihanoukville
+  IPA: /si.a.nuk.vij/
+Priape
+  IPA: /pʁi.jap/
+Kwango
+  IPA: /kwɑ̃.ɡo/
+Tintin
+  IPA: /tɛ̃.tɛ̃/
+Trois-Rivières
+  IPA: /tʁwa.ʁi.vjɛʁ/
+  IPA: [tʁwɑ.ʁi.vjɛːʁ] (Tags: Quebec, formal)
+  IPA: [tʁwɑ.ʁi.vjæːʁ] (Tags: Quebec, formal)
+  IPA: [tʁwɔ.ʁi.vjaɛ̯ʁ] (Tags: Quebec, informal)
+Pénélope
+  IPA: /pe.ne.lɔp/
+Pyeongchang
+  IPA: /pjɔŋt.ʃɑ̃ŋ/
+  IPA: /pjɔŋt.ʃɑ̃ŋɡ/
+  IPA: /pjɔ̃ɡt.ʃɑ̃ɡ/
+Épictète
+  IPA: /e.pik.tɛt/
+Aristippe
+  IPA: /a.ʁis.tip/
+Diophante
+  IPA: /djɔ.fɑ̃t/
+Antisthène
+  IPA: /ɑ̃.tis.tɛn/
+Anaximène
+  IPA: /a.nak.si.mɛn/
+Diogène
+  IPA: /djɔ.ʒɛn/
+Cléobule
+  IPA: /kle.ɔ.byl/
+Règle
+  IPA: /ʁɛɡl/
+Lézard
+  IPA: /le.zaʁ/
+Cassiopée
+  IPA: /ka.sjɔ.pe/
+Céphée
+  IPA: /se.fe/
+Persée
+  IPA: /pɛʁ.se/
+Ziguinchor
+  IPA: /ˈzi.ɡɛ̃.ʃoʁ/
+Palmyrène
+  IPA: /pal.mi.ʁɛn/
+Félicien
+  IPA: /fe.li.sjɛ̃/
+Émèse
+  IPA: /e.mɛz/
+Émésène
+  IPA: /e.me.zɛn/
+Risa
+  IPA: /ʁi.za/
+  IPA: /ʁi.sa/
+Cynthe
+  IPA: /sɛ̃t/
+Cynthie
+  IPA: /sɛ̃.ti/
+HAE
+  IPA: /a.ʃ‿a‿.e/
+Thot
+  IPA: /tɔt/
+Agneau
+  IPA: /a.ɲo/
+Agneau de Dieu
+  IPA: /a.ɲo də djø/
+Theux
+  IPA: /tø/
+Rivesaltes
+  IPA: /ʁiv.zalt/
+Langlade
+  IPA: /lɑ̃.ɡlad/
+Tourane
+  IPA: /tu.ʁan/
+Repié
+  IPA: /ʁə.pje/
+Isocrate
+  IPA: /i.zɔ.kʁat/
+Crésus
+  IPA: /kʁe.zys/
+Dinarque
+  IPA: /di.naʁk/
+Lycurgue
+  IPA: /li.kyʁɡ/
+Théopompe
+  IPA: /te.ɔ.pɔ̃p/
+Empédocle
+  IPA: /ɑ̃.pe.dɔkl/
+Théomneste
+  IPA: /te.ɔm.nɛst/
+Thémistocle
+  IPA: /te.mis.tɔkl/
+Hypéride
+  IPA: /i.pe.ʁid/
+Anaximandre
+  IPA: /a.nak.si.mɑ̃dʁ/
+Périclès
+  IPA: /pe.ʁi.klɛs/
+Isée
+  IPA: /i.ze/
+Xénophon
+  IPA: /ɡze.nɔ.fɔ̃/
+Phérécyde
+  IPA: /fe.ʁe.sid/
+Théramène
+  IPA: /te.ʁa.mɛn/
+Parménide
+  IPA: /paʁ.me.nid/
+Démocrite
+  IPA: /de.mɔ.kʁit/
+Agésilas
+  IPA: /a.ʒe.zi.las/
+Anaxagore
+  IPA: /a.nak.sa.ɡɔʁ/
+Ératosthène
+  IPA: /e.ʁa.tɔs.tɛn/
+Leucippe
+  IPA: /lø.sip/
+Eudème
+  IPA: /ø.dɛm/
+Antiphon
+  IPA: /ɑ̃.ti.fɔ̃/
+Ménandre
+  IPA: /me.nɑ̃dʁ/
+Diphile
+  IPA: /di.fil/
+Hérophile
+  IPA: /e.ʁɔ.fil/
+Théophraste
+  IPA: /te.ɔ.fʁast/
+Andocide
+  IPA: /ɑ̃.dɔ.sid/
+Xénophane
+  IPA: /ɡze.nɔ.fan/
+Nicandre
+  IPA: /ni.kɑ̃dʁ/
+Érasistrate
+  IPA: /e.ʁa.zis.tʁat/
+  IPA: /e.ʁa.sis.tʁat/
+Pindare
+  IPA: /pɛ̃.daʁ/
+Thalès
+  IPA: /ta.lɛs/
+Épicharme
+  IPA: /e.pi.ʃaʁm/
+Théocrite
+  IPA: /te.ɔ.kʁit/
+Diodore
+  IPA: /djɔ.dɔʁ/
+Apollodore
+  IPA: /a.pɔ.lɔ.dɔʁ/
+Aristénète
+  IPA: /a.ʁis.te.nɛt/
+Hermarque
+  IPA: /ɛʁ.maʁk/
+Archiloque
+  IPA: /aʁ.ʃi.lɔk/
+Euthydème
+  IPA: /ø.ti.dɛm/
+Lycophron
+  IPA: /li.kɔ.fʁɔ̃/
+Anaxarque
+  IPA: /a.nak.saʁk/
+  IPA: /a.naɡ.zaʁk/
+Ménédème
+  IPA: /me.ne.dɛm/
+Philodème
+  IPA: /fi.lɔ.dɛm/
+Cléanthe
+  IPA: /kle.ɑ̃t/
+Xénocrate
+  IPA: /ɡze.nɔ.kʁat/
+Échécrate
+  IPA: /e.ke.kʁat/
+Callimaque
+  IPA: /ka.li.mak/
+Chrysippe
+  IPA: /kʁi.zip/
+Bacchylide
+  IPA: /ba.ki.lid/
+Stésichore
+  IPA: /ste.zi.kɔʁ/
+Épaminondas
+  IPA: /e.pa.mi.nɔn.das/
+Hermocrate
+  IPA: /ɛʁ.mɔ.kʁat/
+Hérostrate
+  IPA: /e.ʁɔs.tʁat/
+Sainte Barbe
+  IPA: /sɛ̃t baʁb/
+Rockall
+  IPA: /ʁɔ.kal/
+Saint-Siège
+  IPA: /sɛ̃.sjɛʒ/
+Ik
+  IPA: /ik/
+Fango
+  IPA: /fɑ̃.ɡo/
+Mbappé
+  IPA: /m̩ˈbaˌpe/
+Lloris
+  IPA: /jɔ.ʁis/
+Deschamps
+  IPA: /de.ʃɑ̃/
+Antiquité
+  IPA: /ɑ̃.ti.ki.te/
+Frioul-Vénétie julienne
+  IPA: /fʁi.jul ve.ne.si ʒy.ljɛn/
+Ásgard
+  IPA: /as.ɡaʁ(d)/
+  IPA: /ɑs.ɡaʁ(d)/
+  IPA: /az.ɡaʁd/
+Chabert
+  IPA: /ʃa.bɛʁ/
+Deschanel
+  IPA: /de.ʃa.nɛl/
+Lolo
+  IPA: /lɔ.lo/
+Sylvette
+  IPA: /sil.vɛt/
+Marie-Odile
+  IPA: /ma.ʁi.ɔ.dil/
+Asie Mineure
+  IPA: /a.zi mi.nœʁ/
+Asie mineure
+  IPA: /a.zi mi.nœʁ/
+Terre de Feu
+  IPA: /tɛʁ də fø/
+Vercingétorix
+  IPA: /vɛʁ.sɛ̃.ʒe.tɔ.ʁiks/
+île de Man
+  IPA: /il də mɑ̃/
+Capoue
+  IPA: /ka.pu/
+père Noël
+  IPA: /pɛʁ nɔ.ɛl/
+Mitsui
+  IPA: /mit.su.i/
+Kenzo
+  IPA: /kɛn.zo/
+Banque centrale européenne
+  IPA: /bɑ̃k sɑ̃.tʁal ø.ʁɔ.pe.ɛn/
+Yangtsé
+  IPA: /jɑ̃t.se/
+Save
+  IPA: /sav/
+Printemps arabe
+  IPA: /pʁɛ̃.tɑ̃ a.ʁab/
+Deuxième Guerre mondiale
+  IPA: /dø.zjɛm ɡɛʁ mɔ̃.djal/
+Troisième Guerre mondiale
+  IPA: /tʁwa.zjɛm ɡɛʁ mɔ̃.djal/
+Sarmatie
+  IPA: /saʁ.ma.ti/
+Pétronille
+  IPA: /pe.tʁɔ.nij/
+Longueil
+  IPA: /lɔ̃.ɡœj/
+DGSE
+  IPA: /de.ʒe.ɛ.sə/
+  IPA: /de.ʒe.e.sə/
+Juges
+  IPA: /ʒyʒ/
+Quatrième Guerre mondiale
+  IPA: /ka.tʁi.jɛm ɡɛʁ mɔ̃.djal/
+Deutéronome
+  IPA: /dø.te.ʁɔ.nɔm/
+Psaumes
+  IPA: /psom/
+Néhémie
+  IPA: /ne.e.mi/
+Ecclésiaste
+  IPA: /e.kle.zjast/
+Proverbes
+  IPA: /pʁɔ.vɛʁb/
+Osée
+  IPA: /o.ze/
+Aggée
+  IPA: /a.ʒe/
+Exode
+  IPA: /ɛɡ.zɔd/
+Malachie
+  IPA: /ma.la.ʃi/
+  IPA: /ma.la.ki/
+Nombres
+  IPA: /nɔ̃bʁ/
+Cantique des Cantiques
+  IPA: /kɑ̃.tik de kɑ̃.tik/
+Actes
+  IPA: /akt/
+Philippiens
+  IPA: /fi.li.pjɛ̃/
+2 Corinthiens
+  IPA: /dø kɔ.ʁɛ̃.tjɛ̃/
+2 Timothée
+  IPA: /dø ti.mɔ.te/
+1 Thessaloniciens
+  IPA: /œ̃ tɛ.sa.lɔ.ni.sjɛ̃/
+2 Thessaloniciens
+  IPA: /dø tɛ.sa.lɔ.ni.sjɛ̃/
+Saurier
+  IPA: /sɔ.ʁje/
+Sorbon
+  IPA: /sɔʁ.bɔ̃/
+Société des Nations
+  IPA: /sɔ.sje.te de na.sjɔ̃/
+Céleste-Empire
+  IPA: /se.lɛs.tɑ̃.piʁ/
+Empire du Milieu
+  IPA: /ɑ̃.piʁ dy mi.ljø/
+Lumeau
+  IPA: /ly.mo/
+Staël
+  IPA: /stal/
+Saint-Saëns
+  IPA: /sɛ̃.sɑ̃/
+  IPA: /sɛ̃.sɑ̃s/
+Hardenne
+  IPA: /aʁ.dɛn/
+Alexandre le Grand
+  IPA: /a.lɛk.sɑ̃.dʁə lə ɡʁɑ̃/
+Cygne
+  IPA: /siɲ/
+Beaujeu
+  IPA: /bo.ʒø/
+Fresnel
+  IPA: /fʁɛ.nɛl/
+  IPA: /fʁe.nɛl/
+Saint Onge
+  IPA: /sɛ̃.t‿ɔ̃ʒ/
+Foulon
+  IPA: /fu.lɔ̃/
+Poussard
+  IPA: /pu.saʁ/
+mer Caspienne
+  IPA: /mɛʁ kas.pjɛn/
+Dioclétien
+  IPA: /djɔ.kle.sjɛ̃/
+Hipparque
+  IPA: /i.paʁk/
+Miltiade
+  IPA: /mil.tjad/
+Thrasybule
+  IPA: /tʁa.zi.byl/
+Simonide
+  IPA: /si.mɔ.nid/
+Praxitèle
+  IPA: /pʁak.si.tɛl/
+Lysandre
+  IPA: /li.zɑ̃dʁ/
+Clisthène
+  IPA: /klis.tɛn/
+drôle de guerre
+  IPA: /dʁol də ɡɛʁ/
+Vallée d'Aoste
+  IPA: /va.le d‿a.ɔst/
+Gitega
+  IPA: /ɡi.te.ɡa/
+Rimbaud
+  IPA: /ʁɛ̃.bo/
+Panier
+  IPA: /pa.nje/
+Océanne
+  IPA: /ɔ.se.an/
+Coupe Grey
+  IPA: /kup ɡʁɛj/
+Kahnawake
+  IPA: /ka.na.wa.ke/
+Pierrick
+  IPA: /pjɛ.ʁik/
+  IPA: /pje.ʁik/
+Darracq
+  IPA: /da.ʁak/
+rideau de fer
+  IPA: /ʁi.do d(ə) fɛʁ/
+route de la soie
+  IPA: /ʁut də la swa/
+514
+  IPA: /sɛ̃k.sɑ̃.ka.tɔʁz/
+  IPA: /sɛ̃.k‿œ̃.katʁ/
+Filles du Roi
+  IPA: /fij dy ʁwa/
+Fundy
+  IPA: /fœ̃.di/
+Épinal
+  IPA: /e.pi.nal/
+Kerguelen
+  IPA: /kɛʁ.ɡe.lɛn/
+Cantons-de-l'Est
+  IPA: /kɑ̃.tɔ̃.d(ə).l‿ɛst/
+Village-aux-Oies
+  IPA: /vi.la.ʒo.z‿wa/
+Eubée
+  IPA: /ø.be/
+Tétreault
+  IPA: /te.tʁol/
+Tétreaultville
+  IPA: /te.tʁolt.vij/
+Bastiennes
+  IPA: /bas.tjɛn/
+Sébastiennes
+  IPA: /se.bas.tjɛn/
+Séb
+  IPA: /seb/
+  IPA: /sɛb/
+Sébastienne
+  IPA: /se.bas.tjɛn/
+Bastienne
+  IPA: /bas.tjɛn/
+Xerxès
+  IPA: /ɡzɛʁk.sɛs/
+Artaxerxès
+  IPA: /aʁ.tak.sɛʁk.sɛs/
+Thèbes
+  IPA: /tɛb/
+Rassemblement national
+  IPA: /ʁa.sɑ̃.blə.mɑ̃ na.sjɔ.nal/
+Le Pen
+  IPA: /lə pɛn/
+Déméter
+  IPA: /de.me.tɛʁ/
+Val de Loire
+  IPA: /val də lwaʁ/
+Centre-Val de Loire
+  IPA: /sɑ̃.tʁə val də lwaʁ/
+Nouvelle-Aquitaine
+  IPA: /nu.vɛ.la.ki.tɛn/
+  IPA: /nu.ve.la.ki.tɛn/
+Saint-Eustache-sur-le-Lac
+  IPA: /sɛ̃.t‿øs.taʃ.syʁ.lə.lak/
+Haute-Savoie
+  IPA: /ot.sa.vwa/
+Haute-Saône
+  IPA: /ot.son/
+Pyrénées-Orientales
+  IPA: /pi.ʁe.ne ɔ.ʁjɑ̃.tal/
+  IPA: /pi.ʁe.ne.z‿ɔ.ʁjɑ̃.tal/
+Seine-et-Marne
+  IPA: /sɛ.ne.maʁn/
+  IPA: /se.ne.maʁn/
+Deux-Sèvres
+  IPA: /dø.sɛvʁ/
+Hauts-de-Seine
+  IPA: /o.d(ə).sɛn/
+Val-de-Marne
+  IPA: /val.də.maʁn/
+Tarn-et-Garonne
+  IPA: /taʁ.ne.ɡa.ʁɔn/
+  IPA: /ta.ʁe.ɡa.ʁɔn/
+Seine-Saint-Denis
+  IPA: /sɛn.sɛ̃.d(ə).ni/
+Val-d'Oise
+  IPA: /val.d‿waz/
+guerre de Cent Ans
+  IPA: /ɡɛʁ də sɑ̃.t‿ɑ̃/
+Justinien
+  IPA: /ʒys.ti.njɛ̃/
+Territoire de Belfort
+  IPA: /tɛ.ʁi.twaʁ də bɛl.fɔʁ/
+  IPA: /te.ʁi.twaʁ də bɛl.fɔʁ/
+Sokolsky
+  IPA: /sɔ.kɔl.ski/
+Lénine
+  IPA: /le.nin/
+Jeanne d'Arc
+  IPA: /ʒan d‿aʁk/
+Jean Dupont
+  IPA: /ʒə.ɑ̃ dy.pɔ̃/
+Fathallah
+  IPA: /fa.ta.la/
+Lattaquié
+  IPA: /la.ta.kje/
+Tartous
+  IPA: /taʁ.tus/
+Septimanie
+  IPA: /sɛp.ti.ma.ni/
+Narcisus
+  IPA: /naʁ.si.sy/
+Palmyre du Nord
+  IPA: /pal.miʁ dy nɔʁ/
+Système international d'unités
+  IPA: /sis.tɛ.m‿ɛ̃.tɛʁ.na.sjɔ.nal dy.ni.te/
+  IPA: /sis.te.m‿ɛ̃.tɛʁ.na.sjɔ.nal dy.ni.te/
+île Christmas
+  IPA: /il kʁis(t).mas/
+IDH
+  IPA: /i.de.aʃ/
+Val-de-Livre
+  IPA: /val.də.livʁ/
+Dampierre-le-Château
+  IPA: /dɑ̃.pjɛʁ.lə.ʃa.to/
+  IPA: /dɑ̃.pjɛʁ.lə.ʃɑ.to/
+Yèvre
+  IPA: /jɛvʁ/
+Tauxières-Mutry
+  IPA: /tok.sjɛʁ.my.tʁi/
+République populaire démocratique de Corée
+  IPA: /ʁe.py.blik pɔ.py.lɛʁ de.mɔ.kʁa.tik də kɔ.ʁe/
+Stefanescu
+  IPA: /stə.fa.nɛs.ky/
+Haüy
+  IPA: /a.ɥi/
+Angélina
+  IPA: /ɑ̃.ʒe.li.na/
+Sommepy-Tahure
+  IPA: /sɔm.pi ta.yʁ/
+Bactriane
+  IPA: /bak.tʁi.jan/
+Amazonie
+  IPA: /a.ma.zɔ.ni/
+Soleure
+  IPA: /sɔ.lœʁ/
+Brabant flamand
+  IPA: /bʁa.bɑ̃ fla.mɑ̃/
+Brabant wallon
+  IPA: /bʁa.bɑ̃ wa.lɔ̃/
+Petite Russie
+  IPA: /pə.tit ʁy.si/
+Grande Russie
+  IPA: /ɡʁɑ̃d ʁy.si/
+Allemagne de l'Ouest
+  IPA: /al.maɲ də l‿wɛst/
+Sévère
+  IPA: /se.vɛʁ/
+Jamblique
+  IPA: /ʒɑ̃.blik/
+Sérénissime
+  IPA: /se.ʁe.ni.sim/
+Commagène
+  IPA: /kɔ.ma.ʒɛn/
+Adiabène
+  IPA: /a.dja.bɛn/
+Osroène
+  IPA: /ɔ.sʁɔ.ɛn/
+Mylène
+  IPA: /mi.lɛn/
+Silène
+  IPA: /si.lɛn/
+Marjolaine
+  IPA: /maʁ.ʒɔ.lɛn/
+La Tène
+  IPA: /la tɛn/
+Varennes
+  IPA: /va.ʁɛn/
+Éluard
+  IPA: /e.lɥaʁ/
+Millau
+  IPA: /mi.jo/
+Théophane
+  IPA: /te.ɔ.fan/
+Eusèbe
+  IPA: /ø.zɛb/
+Épire
+  IPA: /e.piʁ/
+Douze Grandes Fêtes
+  IPA: /duz ɡʁɑ̃d fɛt/
+office des Grandes Heures
+  IPA: /ɔ.fis de ɡʁɑ̃d.z‿œʁ/
+Bougainville
+  IPA: /bu.ɡɛ̃.vil/
+Poulain
+  IPA: /pu.lɛ̃/
+Hyacinthe
+  IPA: /ja.sɛ̃t/
+Asie de l'Ouest
+  IPA: /a.zi də l‿wɛst/
+Arquisat
+  IPA: /aʁ.ki.za/
+Arrien-en-Bethmale
+  IPA: /a.ʁjɛ̃.ɑ̃.bɛt.mal/
+Artigat
+  IPA: /aʁ.ti.ɡa/
+Artigues
+  IPA: /aʁ.tiɡ/
+Sophène
+  IPA: /sɔ.fɛn/
+Chisa
+  IPA: /tʃi.sa/
+Bérée
+  IPA: /be.ʁe/
+Béryte
+  IPA: /be.ʁit/
+Coblence
+  IPA: /kɔ.blɑ̃s/
+Anti-Liban
+  IPA: /ɑ̃.ti.li.bɑ̃/
+République arabe syrienne
+  IPA: /ʁe.py.blik a.ʁab si.ʁjɛn/
+Baalbeck
+  IPA: /ba.al.bɛk/
+Chalcédoine
+  IPA: /kal.se.dwan/
+République islamique d'Iran
+  IPA: /ʁe.py.bli.k‿i.sla.mik d‿i.ʁɑ̃/
+mer Blanche
+  IPA: /mɛʁ blɑ̃ʃ/
+mer de Barents
+  IPA: /mɛʁ də ba.ʁɛnts/
+mer Méditerranée
+  IPA: /mɛʁ me.di.tɛ.ʁa.ne/
+  IPA: /mɛʁ me.di.te.ʁa.ne/
+Commission européenne
+  IPA: /kɔ.mi.sjɔ̃ ø.ʁɔ.pe.ɛn/
+Bichat
+  IPA: /bi.ʃa/
+Pierlot
+  IPA: /pjɛʁ.lo/
+Marandon
+  IPA: /ma.ʁɑ̃.dɔ̃/
+Pasquier
+  IPA: /pas.kje/
+Ernée
+  IPA: /ɛʁ.ne/
+Bélisaire
+  IPA: /be.li.zɛʁ/
+Val d'Aoste
+  IPA: /val d‿a.ɔst/
+Proche-Orient
+  IPA: /pʁɔ.ʃɔ.ʁjɑ̃/
+Covid
+  IPA: /kɔ.vid/
+Covid-19
+  IPA: /kɔ.vid diz.nœf/
+Alizé
+  IPA: /a.li.ze/
+Vouillé
+  IPA: /vu.je/
+Fessenheim
+  IPA: /fɛ.sə.najm/
+  IPA: /fe.sə.najm/
+Agen
+  IPA: /a.ʒɛ̃/
+Nouvelle-Rochelle
+  IPA: /nu.vɛl ʁɔ.ʃɛl/
+Gingras
+  IPA: /ʒɛ̃.ɡʁa/
+  IPA: /ʒɛ̃.ɡʁɑ/
+New Rochelle
+  IPA: /nju ʁɔ.ʃɛl/
+Lotharingie
+  IPA: /lɔ.ta.ʁɛ̃.ʒi/
+de Stafford
+  IPA: /də sta.fɔʁ/
+Toul
+  IPA: /tul/
+Jouars-Pontchartrain
+  IPA: /ʒwaʁ.pɔ̃.ʃaʁ.tʁɛ̃/
+Pays basque
+  IPA: /pɛ.i bask/
+  IPA: /pe.i bask/
+Boisbriand
+  IPA: /bwa.bʁi.jɑ̃/
+Montrichard
+  IPA: /mɔ̃.tʁi.ʃaʁ/
+Canseau
+  IPA: /kɑ̃.so/
+Pikine
+  IPA: /pi.kin/
+Canso
+  IPA: /kɑ̃.so/
+Grasse
+  IPA: /ɡʁas/
+Saint-Martin
+  IPA: /sɛ̃.maʁ.tɛ̃/
+Gasquet
+  IPA: /ɡas.kɛ/
+Conseil européen
+  IPA: /kɔ̃.sɛj ø.ʁɔ.pe.ɛ̃/
+Espace économique européen
+  IPA: /ɛs.pas e.kɔ.nɔ.mik ø.ʁɔ.pe.ɛ̃/
+Conseil de l'Europe
+  IPA: /kɔ̃.sɛj də l‿ø.ʁɔp/
+Association européenne de libre-échange
+  IPA: /a.sɔ.sja.sjɔ̃ ø.ʁɔ.pe.ɛn də li.bʁe.ʃɑ̃ʒ/
+Prascovie
+  IPA: /pʁas.kɔ.vi/
+Parascève
+  IPA: /pa.ʁa.sɛv/
+Ichim
+  IPA: /i.ʃim/
+Kamychlov
+  IPA: /ka.miʃ.lɔv/
+Tobol
+  IPA: /tɔ.bɔl/
+Pinçonnière
+  IPA: /pɛ̃.sɔ.njɛʁ/
+Damoclès
+  IPA: /da.mɔ.klɛs/
+Trèves
+  IPA: /tʁɛv/
+Oualid
+  IPA: /wa.lid/
+Lætitia
+  IPA: /le.ti.sja/
+Croix-des-Bouquets
+  IPA: /kʁwa.de.bu.kɛ/
+Panhard
+  IPA: /pa.naʁ/
+Deucalion
+  IPA: /dø.ka.ljɔ̃/
+Cau
+  IPA: /ko/
+Peeters
+  IPA: /pɛ.tɛʁs/
+  IPA: /pe.tɛʁs/
+Fons
+  IPA: /fɔ̃s/
+Alsace-Lorraine
+  IPA: /al.sa.slɔ.ʁɛn/
+Détroit
+  IPA: /de.tʁwa/
+Émesse
+  IPA: /e.mɛs/
+Oléron
+  IPA: /ɔ.le.ʁɔ̃/
+jour du Souvenir
+  IPA: /ʒuʁ dy suv.niʁ/
+Dieu le Père
+  IPA: /djø l(ə) pɛʁ/
+Gaétane
+  IPA: /ɡa.e.tan/
+  IPA: /ɡe.tan/
+Gretzky
+  IPA: /ɡʁɛtz.ki/
+Andretti
+  IPA: /ɑ̃.dʁɛ.ti/
+  IPA: /ɑ̃.dʁe.ti/
+Néville
+  IPA: /ne.vil/
+Port-Royal
+  IPA: /pɔʁ.ʁwa.jal/
+Castex
+  IPA: /kas.tɛks/
+Styrie
+  IPA: /sti.ʁi/
+Héliodore
+  IPA: /e.ljɔ.dɔʁ/
+Charybde
+  IPA: /ka.ʁibd/
+Tadjourah
+  IPA: /ta.dʒu.ʁa/
+Cyriaque
+  IPA: /si.ʁjak/
+Khe Sanh
+  IPA: /ke.saɲ/
+  IPA: /ke.san/
+Amhara
+  IPA: /a.ma.ʁa/
+tour de Babel
+  IPA: /tuʁ də ba.bɛl/
+Petite-Forêt
+  IPA: /pə.tit.fɔ.ʁɛ/
+Ouarzazate
+  IPA: /waʁ.za.zat/
+Quarante
+  IPA: /ka.ʁɑ̃t/
+Brabant Septentrional
+  IPA: /bʁabɑ̃ sɛptɑ̃tʁijɔnal/
+Kabylie
+  IPA: /ka.bi.li/
+Louÿs
+  IPA: /lu.is/
+Kabukicho
+  IPA: /ka.bu.kit.ʃo/
+Cœlé-Syrie
+  IPA: /se.le.si.ʁi/
+Énésidème
+  IPA: /e.ne.si.dɛm/
+Sologne
+  IPA: /sɔ.lɔɲ/
+Parlement européen
+  IPA: /paʁ.lə.mɑ̃ ø.ʁɔ.pe.ɛ̃/
+Europarlement
+  IPA: /ø.ʁɔ.paʁ.lə.mɑ̃/
+Épiphane
+  IPA: /e.pi.fan/
+Théétète
+  IPA: /te.e.tɛt/
+Andrinople
+  IPA: /ɑ̃.dʁi.nɔpl/
+Irazein
+  IPA: /i.ʁa.zɛ̃/
+Pamiers
+  IPA: /pa.mje/
+Seix
+  IPA: /sɛks/
+  IPA: /sɛʃ/
+Saurat
+  IPA: /so.ʁa/
+Uchentein
+  IPA: /y.ʃɑ̃.tɛ̃/
+Massat
+  IPA: /ma.sat/
+Massat
+  IPA: /ma.sat/
+Apamée
+  IPA: /a.pa.me/
+Apamène
+  IPA: /a.pa.mɛn/
+Hautes-Alpes
+  IPA: /ot.z‿alp/
+Chypre du Nord
+  IPA: /ʃi.pʁə dy nɔʁ/
+Alais
+  IPA: /a.lɛ/
+Alais
+  IPA: /a.lɛ/
+Bourgat
+  IPA: /buʁ.ɡa/
+Navalny
+  IPA: /na.val.ni/
+Montebello
+  IPA: /mɔ̃.tə.bɛ.lo/
+  IPA: /mɔ̃.tə.be.lo/
+Massif central
+  IPA: /ma.sif sɑ̃.tʁal/
+île de Wrangel
+  IPA: /il də wʁɑ̃.ʒɛl/
+Wrangel
+  IPA: /vʁan.ɡɛl/
+Petit-Noir
+  IPA: /pə.ti.nwaʁ/
+Couserans
+  IPA: /kuz.ʁɑ̃/
+Froissart
+  IPA: /fʁwa.saʁ/
+  IPA: /fʁwɑ.saʁ/
+Poitou
+  IPA: /pwa.tu/
+Poitou
+  IPA: /pwa.tu/
+P. J.
+  IPA: /pe.ʒi/
+Quai des Orfèvres
+  IPA: /kɛ de.z‿ɔʁ.fɛvʁ/
+Lapège
+  IPA: /la.pɛʒ/
+Lélia
+  IPA: /le.lja/
+Eycheil
+  IPA: /ɛj.ʃɛj/
+Encourtiech
+  IPA: /ɑ̃.kuʁ.tjɛʃ/
+Engomer
+  IPA: /ɑ̃.ɡɔ.mɛʁ/
+Sepx
+  IPA: /sɛps/
+Montesquieu-Avantès
+  IPA: /mɔ̃.tɛs.kjø.a.vɑ̃.tɛs/
+Montgauch
+  IPA: /mɔ̃.ɡoʃ/
+Lieoux
+  IPA: /lje.u/
+Avantès
+  IPA: /a.vɑ̃.tɛs/
+Mancioux
+  IPA: /mɑ̃.sju/
+Proupiary
+  IPA: /pʁu.pja.ʁi/
+Arnaud-Guilhem
+  IPA: /aʁ.no.ɡi.lɛm/
+Fa
+  IPA: /fa/
+Laroque-de-Fa
+  IPA: /la.ʁɔk.də.fa/
+Contrazy
+  IPA: /kɔ̃.tʁa.zi/
+Montjoie-en-Couserans
+  IPA: /mɔ̃.ʒwa.ɑ̃.kuz.ʁɑ̃/
+Auzas
+  IPA: /o.za/
+  IPA: /o.zɑ/
+Rouvenac
+  IPA: /ʁuv.nak/
+Marbois
+  IPA: /maʁ.bwa/
+Val-du-Faby
+  IPA: /val.dy.fa.bi/
+Tourtouse
+  IPA: /tuʁ.tuz/
+Mécanisme européen de stabilité
+  IPA: /me.ka.nism ø.ʁɔ.pe.ɛ̃ də sta.bi.li.te/
+  IPA: /me.ka.nizm ø.ʁɔ.pe.ɛ̃ də sta.bi.li.te/
+Unac
+  IPA: /y.nak/
+Unzent
+  IPA: /œ̃.zɑ̃/
+Teilhet
+  IPA: /tɛ.jɛt/
+  IPA: /te.jɛt/
+La Tour-du-Crieu
+  IPA: /la tuʁ.dy.kʁi.jø/
+Gajan
+  IPA: /ɡa.ʒɑ̃/
+Pleuven
+  IPA: /plœ.vɛn/
+Grands Boulevards
+  IPA: /ɡʁɑ̃ bul.vaʁ/
+Quai
+  IPA: /kɛ/
+Popaul
+  IPA: /pɔ.pɔl/
+Avicenne
+  IPA: /a.vi.sɛn/
+Lafrenière
+  IPA: /la.fʁə.njɛʁ/
+Brocheré
+  IPA: /bʁɔʃ.ʁe/
+Defays
+  IPA: /də.fa.i/
+  IPA: /də.fa.is/
+Saint-Pierre-des-Corps
+  IPA: /sɛ̃.pjɛʁ.de.kɔʁ/
+Jef
+  IPA: /ʒɛf/
+  IPA: /jɛf/
+La Villette
+  IPA: /la.vi.lɛt/
+Cythère
+  IPA: /si.tɛʁ/
+Peyrehorade
+  IPA: /pɛj.ʁə.ɔ.ʁad/
+  IPA: /pɛj.ʁɔ.ʁad/
+Bozouls
+  IPA: /bo.zul/
+Saint-Girons
+  IPA: /sɛ̃.ʒi.ʁɔ̃/
+Saint-Girons
+  IPA: /sɛ̃.ʒi.ʁɔ̃/
+Jochgoun
+  IPA: /ʒɔʃ.ɡun/
+Elnour
+  IPA: /ɛl.nuʁ/
+Arzou
+  IPA: /aʁ.zu/
+Soumgaït
+  IPA: /sum.ɡa.it/
+Qubadli
+  IPA: /ky.ba.dli/
+Chouchi
+  IPA: /ʃu.ʃi/
+Valère
+  IPA: /va.lɛʁ/
+Courtois
+  IPA: /kuʁ.twa/
+Vallia
+  IPA: /va.lja/
+Théodoric
+  IPA: /te.ɔ.dɔ.ʁik/
+Euric
+  IPA: /ø.ʁik/
+Lizier
+  IPA: /li.zje/
+Fouesnant
+  IPA: /fwɛ.nɑ̃/
+  IPA: /fwe.nɑ̃/
+Wallia
+  IPA: /wa.lja/
+Saint-Lizier
+  IPA: /sɛ̃.li.zje/
+GDT
+  IPA: /ʒe.de.te/
+Princeville
+  IPA: /pʁɛ̃s.vil/ (Tags: Quebec)
+  IPA: /pʁins.vil/ (Tags: Quebec)
+Écurie
+  IPA: /e.ky.ʁi/
+Polyphème
+  IPA: /pɔ.li.fɛm/
+Suresnes
+  IPA: /sy.ʁɛn/
+Oncle Sam
+  IPA: /ɔ̃.klə sam/
+Encausse
+  IPA: /ɑ̃.kos/
+Piémont
+  IPA: /pje.mɔ̃/
+Périllos
+  IPA: /pe.ʁi.jo/
+Mourelatos
+  IPA: /mu.ʁe.la.tɔs/
+Chapuis
+  IPA: /ʃa.pɥi/
+Bercy
+  IPA: /bɛʁ.si/
+Les Sables-d'Olonne
+  IPA: /le sa.blə.d‿ɔ.lɔn/
+Abeille
+  IPA: /a.bɛj/
+Bagnères-de-Luchon
+  IPA: /ba.ɲɛʁ.də.ly.ʃɔ̃/
+Dumais
+  IPA: /dy.mɛ/
+Irana
+  IPA: /i.ʁa.na/
+Delanglade
+  IPA: /də.lɑ̃.ɡlad/
+Perrette
+  IPA: /pɛ.ʁɛt/
+  IPA: /pe.ʁɛt/
+Le Gall
+  IPA: /lə ɡal/
+Ogier
+  IPA: /ɔ.ʒje/
+Corentine
+  IPA: /kɔ.ʁɑ̃.tin/
+Corentin
+  IPA: /kɔ.ʁɑ̃.tɛ̃/
+Caradoc
+  IPA: /ka.ʁa.dɔk/
+Cadoc
+  IPA: /ka.dɔk/
+Indre-et-Loire
+  IPA: /ɛ̃.dʁ‿e lwaʁ/ (Tags: France)
+Oïmiakon
+  IPA: /ɔj.mja.kɔ̃/
+Verkhoïansk
+  IPA: /vɛʁ.kɔ.jɑ̃sk/
+Delyankir
+  IPA: /de.ljɑ̃.kiʁ/
+Lamartine
+  IPA: /la.maʁ.tin/
+Maurras
+  IPA: /mɔ.ʁa/
+  IPA: /mɔ.ʁɑ/
+  IPA: /mo.ʁa/
+  IPA: /mo.ʁɑ/
+Doumergue
+  IPA: /du.mɛʁɡ/
+Tcherniak
+  IPA: /tʃɛʁ.njak/
+Norgeat
+  IPA: /nɔʁ.ʒa/
+Amalric
+  IPA: /a.mal.ʁik/
+Miglos
+  IPA: /mi.ɡlo/
+Mérigon
+  IPA: /me.ʁi.ɡɔ̃/
+Mijanès
+  IPA: /mi.ʒa.nɛ/
+Mirepoix
+  IPA: /mi.ʁə.pwa/
+Akrem
+  IPA: /a.kʁɛm/
+Belkaïd
+  IPA: /bɛl.ka.id/
+Eqrem
+  IPA: /e.kʁɛm/
+Adimi
+  IPA: /a.di.mi/
+Amrani
+  IPA: /am.ʁa.ni/
+Alloula
+  IPA: /a.lu.la/
+Akkouche
+  IPA: /a.kuʃ/
+Adjani
+  IPA: /a.dʒa.ni/
+Hamrouche
+  IPA: /am.ʁuʃ/
+Kaouther
+  IPA: /ka.u.tɛʁ/
+Achour
+  IPA: /a.ʃuʁ/
+Mouloud
+  IPA: /mu.lud/
+Aounit
+  IPA: /a.u.nit/
+Miloud
+  IPA: /mi.lud/
+Milouda
+  IPA: /mi.lu.da/
+Herculanum
+  IPA: /ɛʁ.ky.la.nɔm/
+Astié
+  IPA: /as.tje/
+Midol
+  IPA: /mi.dɔl/
+Loujaïne
+  IPA: /lu.ʒa.in/
+Guyenne
+  IPA: /ɡɥi.jɛn/
+pays du Cèdre
+  IPA: /pɛ.i dy sɛdʁ/
+  IPA: /pe.i dy sɛdʁ/
+Léonora
+  IPA: /le.ɔ.nɔ.ʁa/
+Léonore
+  IPA: /le.ɔ.nɔʁ/
+La Tuque
+  IPA: /la tyk/
+Réjean
+  IPA: /ʁe.ʒɑ̃/ (Tags: France)
+  IPA: /ʁe.ʒã/ (Tags: Canada)
+Smet
+  IPA: /smɛt/
+Dalhousie
+  IPA: /da.lu.zi/
+Opatrny
+  IPA: /ɔ.pa.tʁni/
+Beaumont-le-Vicomte
+  IPA: /bo.mɔ̃.l(ə).vi.kɔ̃t/
+Antiquité tardive
+  IPA: /ɑ̃.ti.ki.te taʁ.div/
+Maillard
+  IPA: /ma.jaʁ/
+Clervie
+  IPA: /klɛʁ.vi/
+Katell
+  IPA: /ka.tɛl/
+Soizic
+  IPA: /swa.zik/
+Ninon
+  IPA: /ni.nɔ̃/
+Chambord
+  IPA: /ʃɑ̃.bɔʁ/
+Diagayaté
+  IPA: /dja.ɡɛ.ja.te/
+  IPA: /dja.ɡe.ja.te/
+Ogossagou
+  IPA: /ɔ.ɡɔ.sa.ɡu/
+Binedama
+  IPA: /bi.ne.da.ma/
+Bollé
+  IPA: /bɔ.le/
+Bankass
+  IPA: /bɑ̃.kas/
+Le Vauclin
+  IPA: /lə vo.klɛ̃/
+Evaëlle
+  IPA: /ə.va.ɛl/
+Brau
+  IPA: /bʁo/
+Coméliau
+  IPA: /kɔ.me.ljo/
+Vel' d'Hiv'
+  IPA: /vɛl‿ d‿iv‿/
+Djebbari
+  IPA: /dʒɛ.ba.ʁi/
+  IPA: /dʒe.ba.ʁi/
+Mortier
+  IPA: /mɔʁ.tje/
+Juguet
+  IPA: /ʒy.ɡɛ/
+Da Silva
+  IPA: /da sil.va/
+Najdovski
+  IPA: /naj.dɔv.ski/
+Croissant fertile
+  IPA: /kʁwa.sɑ̃ fɛʁ.til/
+Magdebourg
+  IPA: /maɡ.də.buʁ/
+Rochain
+  IPA: /ʁɔ.ʃɛ̃/
+Chevrier
+  IPA: /ʃə.vʁi.je/
+Bellegueule
+  IPA: /bɛl.ɡœl/
+Rioc
+  IPA: /ʁjɔk/
+Colombani
+  IPA: /kɔ.lɔ̃.ba.ni/
+Poelaert
+  IPA: /pu.laʁt/
+Schuiten
+  IPA: /skɛʒ.‿tɛ̃/
+  IPA: /ʃɥi.tɛn/ (Tags: France)
+Scheuchzer
+  IPA: /ʃɔʒʃt.sɛʁ/
+Boudine
+  IPA: /bu.din/
+Choquet
+  IPA: /ʃɔ.kɛ/
+Béatrix
+  IPA: /be.a.tʁiks/
+Danylo
+  IPA: /da.ni.lo/
+Haïdamakha
+  IPA: /aj.da.ma.ka/
+  IPA: /haj.da.ma.ka/
+Zureik
+  IPA: /zy.ʁɛk/
+Desmarais
+  IPA: /dɛ.ma.ʁɛ/
+  IPA: /de.ma.ʁɛ/
+Ouaki
+  IPA: /wa.ki/
+Azzedine
+  IPA: /a.ze.din/
+Alaïa
+  IPA: /a.la.ja/
+Indes
+  IPA: /ɛ̃d/
+Nuna
+  IPA: /ny.na/
+Néguev
+  IPA: /ne.ɡɛv/
+Liaoyang
+  IPA: /lja.wa.jɑ̃/
+Artagnan
+  IPA: /aʁ.ta.ɲɑ̃/
+Polycarpe
+  IPA: /pɔ.li.kaʁp/
+Pompée
+  IPA: /pɔ̃.pe/
+Faugier
+  IPA: /fo.ʒje/
+Faugière
+  IPA: /fo.ʒjɛʁ/
+Fauguière
+  IPA: /fo.ɡjɛʁ/
+Falguière
+  IPA: /fal.ɡjɛʁ/
+Falguières
+  IPA: /fal.ɡjɛʁ/
+Faugières
+  IPA: /fo.ʒjɛʁ/
+Fauguières
+  IPA: /fo.ɡjɛʁ/
+Fougères
+  IPA: /fu.ʒɛʁ/
+Vaugier
+  IPA: /vo.ʒje/
+Vauguier
+  IPA: /vo.ɡje/
+Jouly
+  IPA: /ʒu.li/
+Malet
+  IPA: /ma.lɛ/
+Fauchier
+  IPA: /fo.ʃje/
+Vauchier
+  IPA: /vo.ʃje/
+Molet
+  IPA: /mɔ.lɛ/
+Falguier
+  IPA: /fal.ɡje/
+Vauquier
+  IPA: /vo.kje/
+Pellegry
+  IPA: /pɛl.ɡʁi/
+Pèlegry
+  IPA: /pɛl.ɡʁi/
+Shawi
+  IPA: /ʃa.wi/
+Stains
+  IPA: /stɛ̃/
+Adélard
+  IPA: /a.de.laʁ/
+Jordanès
+  IPA: /ʒɔʁ.da.nɛs/
+Mazingarbe
+  IPA: /ma.zɛ̃.ɡaʁb/
+Sisyphe
+  IPA: /si.zif/
+Zénobe
+  IPA: /ze.nɔb/
+Zénobie
+  IPA: /ze.nɔ.bi/
+Valérien
+  IPA: /va.le.ʁjɛ̃/
+Conserans
+  IPA: /kɔ̃.sʁɑ̃/
+Laaouni
+  IPA: /la.a.u.ni/
+Atton
+  IPA: /a.tɔ̃/
+Fleurette
+  IPA: /flœ.ʁɛt/
+Nérac
+  IPA: /ne.ʁak/
+Bruniquel
+  IPA: /bʁy.ni.kɛl/
+Yanne
+  IPA: /jan/
+Candilis
+  IPA: /kɑ̃.di.lis/
+Kondýlis
+  IPA: /kɔ̃.di.lis/
+Cazotte
+  IPA: /ka.zɔt/
+Nolwenn
+  IPA: /nɔ.lwɛn/
+Bézier
+  IPA: /be.zje/
+Malherbe
+  IPA: /ma.lɛʁb/
+Marval
+  IPA: /maʁ.val/
+Maraval
+  IPA: /ma.ʁa.val/
+Miraval
+  IPA: /mi.ʁa.val/
+Mirval
+  IPA: /miʁ.val/
+Mireval
+  IPA: /miʁ.val/
+Ghyslain
+  IPA: /ɡi.lɛ̃/
+  IPA: /ʒi.slɛ̃/
+Athanase
+  IPA: /a.ta.naz/
+Verneau
+  IPA: /vɛʁ.no/
+Herisoa
+  IPA: /e.ʁi.zɔ.a/
+Razafimahefa
+  IPA: /ʁa.za.fi.ma.e.fa/
+Rakotoharivelo
+  IPA: /ʁa.kɔ.tɔ.a.ʁi.ve.lo/
+Vanaux
+  IPA: /va.no/
+Buzançais
+  IPA: /by.zɑ̃.sɛ/
+  IPA: /by.zɑ̃.se/
+Vanot
+  IPA: /va.no/
+Vanneaux
+  IPA: /va.no/
+Vaneau
+  IPA: /va.no/
+Vannot
+  IPA: /va.no/
+Vanneau
+  IPA: /va.no/
+Grande Île
+  IPA: /ɡʁɑ̃d il/
+Tcheng
+  IPA: /tʃɛŋ/
+Vannau
+  IPA: /va.no/
+Tchou
+  IPA: /tʃu/
+Chapon
+  IPA: /ʃa.pɔ̃/
+Maël
+  IPA: /ma.ɛl/
+Maëlle
+  IPA: /ma.ɛl/
+Willemstad
+  IPA: /wi.lɛm.stad/
+Grangé
+  IPA: /ɡʁɑ̃.ʒe/
+Van Allen
+  IPA: /vɑ̃ a.lɑ̃/
+Molière
+  IPA: /mɔ.ljɛʁ/
+Chaix
+  IPA: /ʃɛ/
+Brogniart
+  IPA: /bʁɔ.ɲjaʁ/
+Brongniart
+  IPA: /bʁɔ̃.ɲjaʁ/
+Lipa
+  IPA: /li.pa/
+Flammarion
+  IPA: /fla.ma.ʁjɔ̃/
+Badr
+  IPA: /ba.d(ə)ʁ/
+Boulahroud
+  IPA: /bu.la.ʁud/
+  IPA: /bu.lah.ʁud/
+Pulvar
+  IPA: /pyl.vaʁ/
+Gouan
+  IPA: /ɡwɑ̃/
+golfe du Lion
+  IPA: /ɡɔl.f(ə) dy ljɔ̃/
+Dupont de Ligonnès
+  IPA: /dy.pɔ̃.dli.ɡɔ.nɛs/
+Slah
+  IPA: /sla/
+Belattek
+  IPA: /be.la.tɛk/
+Maïssa
+  IPA: /ma.i.sa/
+Sihem
+  IPA: /si.ɛm/
+  IPA: /si.hɛm/
+Bahloul
+  IPA: /ba.lul/
+  IPA: /bah.lul/
+Kahina
+  IPA: /ka.i.na/
+  IPA: /ka.hi.na/
+Oualalou
+  IPA: /wa.la.lu/
+Gulbahar
+  IPA: /ɡyl.ba.aʁ/
+  IPA: /ɡyl.ba.haʁ/
+Turkestan oriental
+  IPA: /tyʁ.kɛs.tɑ̃ ɔ.ʁjɑ̃.tal/
+Léningrad
+  IPA: /le.nin.ɡʁad/
+Caromb
+  IPA: /ka.ʁɔ̃/
+Gabas
+  IPA: /ɡa.bas/
+Breitenbach-Haut-Rhin
+  IPA: /bʁaj.tən.bak o.ʁɛ̃/
+Gadès
+  IPA: /ɡa.dɛs/
+golfe de Gascogne
+  IPA: /ɡɔl.f(ə) də ɡas.kɔɲ/
+golfe de Gabès
+  IPA: /ɡɔl.f(ə) də ɡa.bɛs/
+Breitenbach
+  IPA: /bʁaj.tən.bak/
+Breitenbach
+  IPA: /bʁaj.tən.bak/
+Châteauroux
+  IPA: /ʃa.to.ʁu/
+  IPA: /ʃɑ.to.ʁu/
+Gabès
+  IPA: /ɡa.bɛs/
+Falcao
+  IPA: /fal.ka.o/
+Tahar
+  IPA: /ta.aʁ/
+  IPA: /ta.haʁ/
+Quercy
+  IPA: /kɛʁ.si/
+Natela
+  IPA: /na.te.la/
+Grigalachvili
+  IPA: /ɡʁi.ɡa.laʃ.vi.li/
+Chavin
+  IPA: /ʃa.vɛ̃/
+Desrochers
+  IPA: /de.ʁɔ.ʃe/
+Cauvin
+  IPA: /ko.vɛ̃/
+Sept-Îles
+  IPA: /sɛ.t‿il/
+Ruremonde
+  IPA: /ʁyʁ.mɔ̃d/
+Tirlemont
+  IPA: /tiʁ.lə.mɔ̃/
+Urruty
+  IPA: /y.ʁy.ti/
+Oust
+  IPA: /ust/
+Saleich
+  IPA: /sa.lɛʃ/
+Couflens
+  IPA: /ku.flɑ̃/
+Urau
+  IPA: /y.ʁo/
+Comminges
+  IPA: /kɔ.mɛ̃ʒ/
+Yaëlle
+  IPA: /ja.ɛl/
+Trulès
+  IPA: /tʁy.lɛ/
+Trutat
+  IPA: /tʁy.ta/
+Istrie
+  IPA: /is.tʁi/
+Suliane
+  IPA: /sy.ljan/
+Sève
+  IPA: /sɛv/
+Mahrez
+  IPA: /ma.ʁɛz/
+  IPA: /mah.ʁɛz/
+Céleste Empire
+  IPA: /se.lɛs.t‿ɑ̃.piʁ/
+Longages
+  IPA: /lɔ̃.ɡaʒ/
+fleuve Bleu
+  IPA: /flœv blø/
+Tsikavé
+  IPA: /tsi.ka.ve/
+Zazie
+  IPA: /za.zi/
+Hachem
+  IPA: /a.ʃɛm/
+Totor
+  IPA: /tɔ.tɔʁ/
+Évêché
+  IPA: /e.vɛ.ʃe/
+  IPA: /e.ve.ʃe/
+Conoc
+  IPA: /kɔ.nɔk/
+Convel
+  IPA: /kɔ̃.vɛl/
+Cunwal
+  IPA: /ky.nwal/
+Conogan
+  IPA: /kɔ.nɔ.ɡɑ̃/
+  IPA: /kɔ.nɔ.ɡan/
+Convoyon
+  IPA: /kɔ̃.vwa.jɔ̃/
+Thégonnec
+  IPA: /te.ɡɔ.nɛk/
+Coulm
+  IPA: /kulm/
+Cornély
+  IPA: /kɔʁ.ne.li/
+Guénin
+  IPA: /ɡe.nɛ̃/
+Eliboubann
+  IPA: /e.li.bu.ban/
+Winoc
+  IPA: /wi.nɔk/
+Guénolé
+  IPA: /ɡe.nɔ.le/
+Iltud
+  IPA: /il.tyd/
+Erwan
+  IPA: /ɛ.ʁwɑ̃/
+  IPA: /e.ʁwɑ̃/
+  IPA: /ɛ.ʁwan/
+  IPA: /e.ʁwan/
+Gérone
+  IPA: /ʒe.ʁɔn/
+Krasnoïarsk
+  IPA: /kʁas.nɔ.jaʁsk/
+Kansk
+  IPA: /kɑ̃sk/
+Jacque
+  IPA: /ʒak/
+Pétain
+  IPA: /pe.tɛ̃/
+Foch
+  IPA: /fɔʃ/
+Poincaré
+  IPA: /pwɛ̃.ka.ʁe/
+Dieu-le-Père
+  IPA: /djø.l(ə).pɛʁ/
+travail, famille, patrie
+  IPA: /tʁa.vaj | fa.mij | pa.tʁi/
+liberté, égalité, fraternité
+  IPA: /li.bɛʁ.te | e.ɡa.li.te | fʁa.tɛʁ.ni.te/
+Bonzom
+  IPA: /bɔ̃.zɔ̃/
+Sayragul
+  IPA: /saj.ʁa.ɡyl/
+Eychenne
+  IPA: /ɛj.ʃɛn/
+Eychenne
+  IPA: /ɛj.ʃɛn/
+Duquesne
+  IPA: /dy.kɛn/
+Ouralsk
+  IPA: /u.ʁalsk/
+Frédérick
+  IPA: /fʁe.de.ʁik/
+Mitildjian
+  IPA: /mi.tildʒ.jɑ̃/
+Manouchian
+  IPA: /ma.nu.ʃjɑ̃/
+Tcherneyan
+  IPA: /tʃɛʁ.nɛ.jɑ̃/
+  IPA: /tʃɛʁ.ne.jɑ̃/
+Ménière
+  IPA: /me.njɛʁ/
+Ndiaga
+  IPA: /ndja.ɡa/
+Éryx
+  IPA: /e.ʁiks/
+Mégara
+  IPA: /me.ɡa.ʁa/
+désert Libyque
+  IPA: /de.zɛʁ li.bik/
+Sainte-Geneviève-des-Bois
+  IPA: /sɛ̃t.ʒə.nə.vjɛv.de.bwa/
+Bonzon
+  IPA: /bɔ̃.zɔ̃/
+Armandine
+  IPA: /aʁ.mɑ̃.din/
+Napoléone
+  IPA: /na.pɔ.le.ɔn/
+Bertine
+  IPA: /bɛʁ.tin/
+Bachkirie
+  IPA: /baʃ.ki.ʁi/
+Héraud
+  IPA: /e.ʁo/
+Oriège
+  IPA: /ɔ.ʁjɛʒ/
+Crécy
+  IPA: /kʁe.si/
+Tarascon-sur-Ariège
+  IPA: /ta.ʁas.kɔ̃.sy.ʁa.ʁjɛʒ/
+SALA
+  IPA: /sa.la/
+munition rôdeuse
+  IPA: /my.ni.sjɔ̃ ʁo.døz/
+drone kamikaze
+  IPA: /dʁɔn ka.mi.kaz/
+Eschmoûn
+  IPA: /ɛʃ.mun/
+Echmoun
+  IPA: /ɛʃ.mun/
+Eshmoun
+  IPA: /ɛʃ.mun/
+Nègre
+  IPA: /nɛɡʁ/
+Nevers
+  IPA: /nə.vɛʁ/
+Delors
+  IPA: /də.lɔʁ/
+Delord
+  IPA: /də.lɔʁ/
+Delort
+  IPA: /də.lɔʁ/
+Dussutour
+  IPA: /dy.sy.tuʁ/
+Couffignal
+  IPA: /ku.fi.ɲal/
+Roumieu
+  IPA: /ʁu.mjø/
+Roumieux
+  IPA: /ʁu.mjø/
+Sebba
+  IPA: /sɛ.ba/
+  IPA: /se.ba/
+Saint-Priest
+  IPA: /sɛ̃.pʁi.jɛst/
+Macronie
+  IPA: /ma.kʁɔ.ni/
+Qaqqaq
+  IPA: /ka.kak/
+Illouz
+  IPA: /i.luz/
+Dumay
+  IPA: /dy.mɛ/
+Fellous
+  IPA: /fɛ.lus/
+  IPA: /fe.lus/
+Auberjonois
+  IPA: /o.bɛʁ.ʒɔ.nwa/
+Castellet
+  IPA: /kas.tɛ.lɛ/
+  IPA: /kas.te.lɛ/
+Tchernov
+  IPA: /tʃɛʁ.nɔv/
+Tioumen
+  IPA: /tju.mɛn/
+Vorkouta
+  IPA: /vɔʁ.ku.ta/
+Severny
+  IPA: /se.vɛʁ.ni/
+Tobolsk
+  IPA: /tɔ.bɔlsk/
+Potanine
+  IPA: /pɔ.ta.nin/
+kraï de Krasnoïarsk
+  IPA: /kʁaj də kʁas.nɔ.jaʁsk/
+Doudinka
+  IPA: /du.din.ka/
+Marieval
+  IPA: /ma.ʁi.val/
+Val Marie
+  IPA: /val ma.ʁi/
+Caucase du Nord
+  IPA: /ko.kaz dy nɔʁ/
+munition maraudeuse
+  IPA: /my.ni.sjɔ̃ ma.ʁo.døz/
+Piot
+  IPA: /pjo/
+Montdragon
+  IPA: /mɔ̃.dʁa.ɡɔ̃/
+McWatters
+  IPA: /mə.kwo.tɛʁs/
+Liaodong
+  IPA: /lja.ɔ.dɔ̃/
+Bourdieu
+  IPA: /buʁ.djø/
+Bellegarde
+  IPA: /bɛl.ɡaʁd/
+HAR
+  IPA: /aʁ/
+Tournai
+  IPA: /tuʁ.nɛ/
+Marciac
+  IPA: /maʁ.sjak/
+Marillier
+  IPA: /ma.ʁij.je/
+Butin
+  IPA: /by.tɛ̃/
+Bassatne
+  IPA: /ba.sat.ne/
+Mont du Temple
+  IPA: /mɔ̃ dy tɑ̃pl/
+Honfleur
+  IPA: /ɔ̃.flœʁ/
+Jean-Henri
+  IPA: /ʒɑ̃.ɑ̃.ʁi/
+Jean-André
+  IPA: /ʒɑ̃.ɑ̃.dʁe/
+Jean-Antoine
+  IPA: /ʒɑ̃.ɑ̃.twan/
+Jean-Étienne
+  IPA: /ʒɑ̃.e.tjɛn/
+Jean-Bernard
+  IPA: /ʒɑ̃.bɛʁ.naʁ/
+Cargèse
+  IPA: /kaʁ.ʒɛz/
+Massé
+  IPA: /ma.se/
+Briançon
+  IPA: /bʁi.jɑ̃.sɔ̃/
+Vesoul
+  IPA: /və.zul/
+Côtes-du-Nord
+  IPA: /kot.dy.nɔʁ/
+Saint-Pierre-et-Miquelon
+  IPA: /sɛ̃.pjɛ.ʁ‿e.mi.klɔ̃/
+de Broglie
+  IPA: /də bʁɔj/
+Broglie
+  IPA: /bʁɔj/
+  IPA: /bʁo.ɡli/
+Kalioujny
+  IPA: /ka.ljuʒ.ni/
+Jacmel
+  IPA: /ʒak.mɛl/
+Salon-de-Provence
+  IPA: /sa.lɔ̃.də.pʁɔ.vɑ̃s/
+  IPA: /saˈlɔ̃ᵑ də pχoˈvãⁿsə/
+  IPA: /saˈlɔ̃ᵑ də pʁoˈvãⁿsə/
+Mélèce
+  IPA: /me.lɛs/
+Chariclée
+  IPA: /ka.ʁi.kle/
+Théagène
+  IPA: /te.a.ʒɛn/
+Irénée
+  IPA: /i.ʁe.ne/
+Aurillac
+  IPA: /o.ʁi.jak/
+  IPA: /ɔ.ʁi.jak/
+Grande-Île
+  IPA: /ɡʁɑ̃.dil/
+Macaire
+  IPA: /ma.kɛʁ/
+Renart
+  IPA: /ʁə.naʁ/
+Nour
+  IPA: /nuʁ/
+Cerise
+  IPA: /sə.ʁiz/
+Ténéré
+  IPA: /te.ne.ʁe/
+Estrie
+  IPA: /ɛs.tʁi/
+Zemmour
+  IPA: /zɛ.muʁ/
+  IPA: /ze.muʁ/
+Balbec
+  IPA: /bal.bɛk/
+Bourg-en-Bresse
+  IPA: /buʁ.k‿ɑ̃.bʁɛs/
+Echaquan
+  IPA: /et.ʃa.kwan/
+Jeanine
+  IPA: /ʒa.nin/
+océan Glacial arctique
+  IPA: /ɔ.se.ɑ̃ ɡla.sjal aʁk.tik/
+Grande Barrière de Corail
+  IPA: /ɡʁɑ̃d ba.ʁjɛʁ də kɔ.ʁaj/
+îles Galápagos
+  IPA: /il ɡa.la.pa.ɡɔs/
+requin gris de récif
+  IPA: /ʁə.kɛ̃ ɡʁi d(ə) ʁe.sif/
+Fosse des Mariannes
+  IPA: /fɔs de ma.ʁjan/
+carangue dorée
+  IPA: /ka.ʁɑ̃ɡ dɔ.ʁe/
+raie manta
+  IPA: /ʁɛ mɑ̃.ta/
+poisson Napoléon
+  IPA: /pwa.sɔ̃ na.pɔ.le.ɔ̃/
+bénitier géant
+  IPA: /be.ni.tje ʒe.ɑ̃/
+poisson-perroquet
+  IPA: /pwa.sɔ̃.pɛ.ʁɔ.kɛ/
+  IPA: /pwa.sɔ̃.pe.ʁɔ.kɛ/
+labre nettoyeur
+  IPA: /la.bʁə nɛ.twa.jœʁ/
+  IPA: /la.bʁə ne.twa.jœʁ/
+crevette mante
+  IPA: /kʁə.vɛt mɑ̃t/
+Port-Saïd
+  IPA: /pɔʁ.sa.id/
+omble-chevalier
+  IPA: /ɔ̃.blə.ʃ(ə).va.lje/
+Saint-Lambert
+  IPA: /sɛ̃.lɑ̃.bɛʁ/
+Marroni
+  IPA: /ma.ʁɔ.ni/
+Laurentie
+  IPA: /lɔ.ʁɑ̃.si/
+  IPA: /lo.ʁɑ̃.si/
+Desnoyers
+  IPA: /de.nwa.je/
+Deleuze
+  IPA: /də.løz/
+Bandelier
+  IPA: /bɑ̃.də.lje/
+Arntfield
+  IPA: /aʁnt.fild/
+Marie-Galante
+  IPA: /ma.ʁi.ɡa.lɑ̃t/
+Maurois
+  IPA: /mɔ.ʁwa/
+  IPA: /mo.ʁwa/
+Charline
+  IPA: /ʃaʁ.lin/
+Étrurie
+  IPA: /e.tʁy.ʁi/
+Desaulniers
+  IPA: /də.so.nje/
+Châtelaillon
+  IPA: /ʃa.tɛ.la.jɔ̃/
+  IPA: /ʃɑ.tɛ.la.jɔ̃/
+  IPA: /ʃa.te.la.jɔ̃/
+  IPA: /ʃɑ.te.la.jɔ̃/
+Châtelaillon-Plage
+  IPA: /ʃa.tɛ.la.jɔ̃ plaʒ/
+  IPA: /ʃɑ.tɛ.la.jɔ̃ plaʒ/
+  IPA: /ʃa.te.la.jɔ̃ plaʒ/
+  IPA: /ʃɑ.te.la.jɔ̃ plaʒ/
+Bouchette
+  IPA: /bu.ʃɛt/
+Frasne
+  IPA: /fʁasn/
+Bompas
+  IPA: /bɔ̃.pas/
+Bompas
+  IPA: /bɔ̃.pa/
+  IPA: /bɔ̃.pɑ/
+Sevran
+  IPA: /sə.vʁɑ̃/
+Carqueiranne
+  IPA: /kaʁ.kɛ.ʁan/
+  IPA: /kaʁ.ke.ʁan/
+  IPA: /kaʁkɛˈʁanə/
+Tessin
+  IPA: /tɛ.sɛ̃/
+  IPA: /te.sɛ̃/
+Océan
+  IPA: /ɔ.se.ɑ̃/
+Sarrebourg
+  IPA: /saʁ.buʁ/
+Bergson
+  IPA: /bɛʁɡ.sɔ̃/
+Valaquie
+  IPA: /va.la.ki/
+Mercédès
+  IPA: /mɛʁ.se.dɛs/
+Courseulles-sur-Mer
+  IPA: /kuʁ.sœl.syʁ.mɛʁ/
+Laurant
+  IPA: /lɔ.ʁɑ̃/
+Fouras
+  IPA: /fu.ʁa/
+  IPA: /fu.ʁas/ (Tags: uncommon)
+Rê
+  IPA: /ʁɛ/
+Thésée
+  IPA: /te.ze/
+Psyché
+  IPA: /psi.ke/
+Navarrenx
+  IPA: /na.va.ʁɛ̃ks/
+La Guillotière
+  IPA: /la ɡi.jɔ.tjɛʁ/
+Montlhéry
+  IPA: /mɔ̃.le.ʁi/
+Évry
+  IPA: /e.vʁi/
+Prométhée
+  IPA: /pʁɔ.me.te/
+Râ
+  IPA: /ʁa/
+Bifröst
+  IPA: /bi.fʁɔst/
+Houellebecq
+  IPA: /wɛl.bɛk/
+É.-U.
+  IPA: /e.y/
+Schulmann
+  IPA: /ʃyl.man/
+Erdre
+  IPA: /ɛʁdʁ/
+Basse-Pointe
+  IPA: /bas.pwɛ̃t/
+  IPA: /bɑs.pwɛ̃t/
+Canigou
+  IPA: /ka.ni.ɡu/
+Des Cloizeaux
+  IPA: /dɛ.klwa.zo/
+  IPA: /de.klwa.zo/
+Vallée
+  IPA: /va.le/
+Épona
+  IPA: /e.pɔ.na/
+guerre de Crimée
+  IPA: /ɡɛʁ də kʁi.me/
+Octavien
+  IPA: /ɔk.ta.vjɛ̃/
+guerre du Vietnam
+  IPA: /ɡɛʁ dy vjɛt.nam/
+jediisme
+  IPA: /dʒɛ.da.jism/
+  IPA: /dʒɛ.da.jizm/
+  IPA: /dʒe.da.jism/
+  IPA: /dʒe.da.jizm/
+Le Lamentin
+  IPA: /lə la.mɑ̃.tɛ̃/
+Roquefort-sur-Soulzon
+  IPA: /ʁɔk.fɔʁ.syʁ.sul.zɔ̃/
+Loire-Inférieure
+  IPA: /lwa.ʁ‿ɛ̃.fe.ʁjœʁ/
+Grand Chien
+  IPA: /ɡʁɑ̃ ʃjɛ̃/
+Petit Chien
+  IPA: /pə.ti ʃjɛ̃/
+Nebbio
+  IPA: /nɛ.bjo/
+  IPA: /ne.bjo/
+Lunebourg
+  IPA: /lyn.buʁ/
+Olonne
+  IPA: /ɔ.lɔn/
+Besac
+  IPA: /bə.zak/
+Bièvre
+  IPA: /bjɛvʁ/
+Wemotaci
+  IPA: /we.mo.tat.ʃi/
+République de Corée
+  IPA: /ʁe.py.blik də kɔ.ʁe/
+Anse au Foulon
+  IPA: /ɑ̃s o fu.lɔ̃/
+Faure
+  IPA: /fɔʁ/
+Morosaglia
+  IPA: /mɔ.ʁo.za.lja/
+  IPA: /mɔ.ʁo.za.ja/
+Maximilienne
+  IPA: /mak.si.mi.ljɛn/
+Stabies
+  IPA: /sta.bi/
+Chapuit
+  IPA: /ʃa.pɥi/
+Petijean
+  IPA: /pə.ti.ʒə.ɑ̃/
+Grojean
+  IPA: /ɡʁɔ.ʒə.ɑ̃/
+Éliot
+  IPA: /e.ljɔt/
+Kloetzer
+  IPA: /kløt.zœʁ/
+  IPA: /kløt.zɛʁ/
+Yrieix
+  IPA: /i.ʁje/
+  IPA: /i.ʁjɛ/
+  IPA: /i.ʁjɛks/
+Louatah
+  IPA: /lwa.ta/
+Afrique du Nord
+  IPA: /a.fʁik dy nɔʁ/
+Senconac
+  IPA: /sɑ̃.kɔ.nak/
+Sentein
+  IPA: /sɑ̃.tɛ̃/
+Soulan
+  IPA: /su.lɑ̃/
+Montoulieu
+  IPA: /mɔ̃.tu.ljø/
+Montfa
+  IPA: /mɔ̃t.fa/
+Siguer
+  IPA: /si.ɡɛʁ/
+Soula
+  IPA: /su.la/
+Sentenac-de-Sérou
+  IPA: /sɑ̃t.nak.də.se.ʁu/
+Sinsat
+  IPA: /sɛ̃.sa/
+Montferrier
+  IPA: /mɔ̃t.fɛ.ʁje/
+  IPA: /mɔ̃t.fe.ʁje/
+Sieuras
+  IPA: /sjœ.ʁa/
+  IPA: /sjœ.ʁɑ/
+Soueix
+  IPA: /swɛks/
+  IPA: /swɛʃ/
+Montgaillard
+  IPA: /mɔ̃t.ɡa.jaʁ/
+Sorgeat
+  IPA: /sɔʁ.ʒa/
+Betchat
+  IPA: /bɛt.ʃat/
+Bestiac
+  IPA: /bɛs.tjak/
+Sor
+  IPA: /sɔʁ/
+Mamère
+  IPA: /ma.mɛʁ/
+Boukhobza
+  IPA: /bu.kɔb.za/
+Chochana
+  IPA: /ʃɔ.ʃa.na/
+moyen-âge
+  IPA: /mwa.jɛ.n‿aʒ/
+  IPA: /mwa.jɛ.n‿ɑʒ/
+  IPA: /mwa.je.n‿aʒ/
+  IPA: /mwa.je.n‿ɑʒ/
+RPD
+  IPA: /ɛʁ.pe.de/
+Gerbert
+  IPA: /ʒɛʁ.bɛʁ/
+Amraoui
+  IPA: /am.ʁa.wi/
+Graille
+  IPA: /ɡʁaj/
+Fouad
+  IPA: /fu.ad/
+Combani
+  IPA: /kɔ̃.ba.ni/
+Mirereni
+  IPA: /mi.ʁə.ʁ(ə).ni/
+Mandard
+  IPA: /mɑ̃.daʁ/
+Collas
+  IPA: /kɔ.la/
+  IPA: /kɔ.lɑ/
+Vahibé
+  IPA: /va.i.be/
+Mtsapéré
+  IPA: /mtsa.pe.ʁe/
+Kavani
+  IPA: /ka.va.ni/
+Kawéni
+  IPA: /ka.we.ni/
+Doujani
+  IPA: /du.ʒa.ni/
+Trotrondjéou
+  IPA: /tʁɔ.tʁɔ̃.dʒe.u/
+Passamainty
+  IPA: /pa.sa.mɛ̃.ti/
+Harmi
+  IPA: /aʁ.mi/
+Tsoundzou 1
+  IPA: /tsund.zu œ̃/
+Tsoundzou 2
+  IPA: /tsund.zu dø/
+Troïanovski
+  IPA: /tʁɔ.ja.nɔv.ski/
+  IPA: /tʁɔ.ja.nɔf.ski/
+Vassylkiv
+  IPA: /va.sil.kiv/
+Tchernihiv
+  IPA: /tʃɛʁ.ni.iv/
+  IPA: /tʃɛʁ.ni.hiv/
+Boutcha
+  IPA: /but.ʃa/
+Noualhat
+  IPA: /nwa.la/
+  IPA: /nwa.ja/
+Maroussia
+  IPA: /ma.ʁu.sja/
+Faulx
+  IPA: /folks/
+La Rochefoucauld-en-Angoumois
+  IPA: /la ʁɔʃ.fu.ko.ɑ̃.n‿ɑ̃.ɡu.mwa/
+Faux
+  IPA: /fo/
+Joigny
+  IPA: /ʒwa.ɲi/
+Mèze
+  IPA: /mɛz/
+Arlequin
+  IPA: /aʁ.lə.kɛ̃/
+Ilia
+  IPA: /i.lja/
+GRECE
+  IPA: /ɡʁɛs/
+Grand Remplacement
+  IPA: /ɡʁɑ̃ ʁɑ̃.plas.mɑ̃/
+Courseulles
+  IPA: /kuʁ.sœl/
+Cavalaire-sur-Mer
+  IPA: /ka.va.lɛʁ.syʁ.mɛʁ/
+Cavalaire
+  IPA: /ka.va.lɛʁ/
+Diakité
+  IPA: /dja.ki.te/
+Bouallegue
+  IPA: /bwa.lɛɡ/
+Amrou
+  IPA: /am.ʁu/
+Yazdanpanah
+  IPA: /jaz.dan.pa.na/
+Yazdan
+  IPA: /jaz.dan/
+Dagorn
+  IPA: /da.ɡɔʁn/
+Amoureux
+  IPA: /a.mu.ʁø/
+Amouroux
+  IPA: /a.mu.ʁu/
+Ducuing
+  IPA: /dy.kɥɛ̃/
+Ducoing
+  IPA: /dy.kwɛ̃/
+Kessaci
+  IPA: /kɛ.sa.si/
+  IPA: /ke.sa.si/
+Hypatie
+  IPA: /i.pa.ti/
+Rhazès
+  IPA: /ʁa.zɛs/
+Belsunce
+  IPA: /bɛl.zɛ̃s/
+Kousmine
+  IPA: /kus.min/
+Philopon
+  IPA: /fi.lɔ.pɔ̃/
+Phalipou
+  IPA: /fa.li.pu/
+Kouzmine
+  IPA: /kuz.min/
+Luminet
+  IPA: /ly.mi.nɛ/
+Richardot
+  IPA: /ʁi.ʃaʁ.do/
+Philippon
+  IPA: /fi.li.pɔ̃/
+Philippot
+  IPA: /fi.li.po/
+Philippou
+  IPA: /fi.li.pu/
+Chastres
+  IPA: /ʃatʁ/
+Hurepoix
+  IPA: /yʁ.pwa/
+Malakoff
+  IPA: /ma.la.kɔf/
+Limoux
+  IPA: /li.mu/
+Malaury
+  IPA: /ma.lo.ʁi/
+  IPA: /ma.lɔ.ʁi/
+Chastrès
+  IPA: /ʃas.tʁɛ/
+Châtres-sous-Montlhéry
+  IPA: /ʃa.tʁə.su.mɔ̃.tle.ʁi/
+  IPA: /ʃɑ.tʁə.su.mɔ̃.tle.ʁi/
+Limours
+  IPA: /li.muʁ/
+Razès
+  IPA: /ʁa.zɛs/
+Thérouanne
+  IPA: /te.ʁwan/
+Rennes-le-Château
+  IPA: /ʁɛn.lə.ʃa.to/
+  IPA: /ʁɛn.lə.ʃɑ.to/
+Châtres
+  IPA: /ʃatʁ/
+  IPA: /ʃɑtʁ/
+Jouy-en-Josas
+  IPA: /ʒwi.jɑ̃.ʒo.za/
+  IPA: /ʒwi.jɑ̃.ʒo.zɑ/
+Arpavon
+  IPA: /aʁ.pa.vɔ̃/
+Harpagon
+  IPA: /aʁ.pa.ɡɔ̃/
+Dupuits
+  IPA: /dy.pɥi/
+Walcourt
+  IPA: /wal.kuʁ/
+Franquin
+  IPA: /fʁɑ̃.kɛ̃/
+Congis-sur-Thérouanne
+  IPA: /kɔ̃.ʒi.syʁ.te.ʁwan/
+Dupuit
+  IPA: /dy.pɥi/
+Tautavel
+  IPA: /to.ta.vɛl/
+Dupuytren
+  IPA: /dy.pɥij.tʁɛ̃/
+Arpajon
+  IPA: /aʁ.pa.ʒɔ̃/
+Perraut
+  IPA: /pɛ.ʁo/
+  IPA: /pe.ʁo/
+Parrau
+  IPA: /pa.ʁo/
+Perrau
+  IPA: /pɛ.ʁo/
+  IPA: /pe.ʁo/
+Parraut
+  IPA: /pa.ʁo/
+Floc'h
+  IPA: /flɔk/
+Peyraud
+  IPA: /pə.ʁo/
+Fauch
+  IPA: /foʃ/
+Magot
+  IPA: /ma.ɡo/
+Béjaïa
+  IPA: /be.ʒa.ja/
+SNCB
+  IPA: /ɛ.sɛn.se.be/
+Jaouad
+  IPA: /ʒa.wad/
+Sabena
+  IPA: /sa.be.na/
+Rendu
+  IPA: /ʁɑ̃.dy/
+Saint-Pastous
+  IPA: /sɛ̃.pas.tu/
+Bordenet
+  IPA: /bɔʁ.də.nɛ/
+Marrant
+  IPA: /ma.ʁɑ̃/
+enfant Jésus
+  IPA: /ɑ̃.fɑ̃ ʒe.zy/
+du Maurier
+  IPA: /dy mɔ.ʁje/
+  IPA: /dy mo.ʁje/
+Cobée
+  IPA: /kɔ.be/
+Coppée
+  IPA: /kɔ.pe/
+Théa
+  IPA: /te.a/
+Thioute
+  IPA: /tjut/
+Bourdin
+  IPA: /buʁ.dɛ̃/
+Bayle
+  IPA: /bɛjl/
+Mboro
+  IPA: /mbɔ.ʁo/
+Faaa
+  IPA: /fa.a.a/
+Champerret
+  IPA: /ʃɑ̃.pɛ.ʁɛ/
+  IPA: /ʃɑ̃.pe.ʁɛ/
+Piccard
+  IPA: /pi.kaʁ/
+Champs Perret
+  IPA: /ʃɑ̃ pɛ.ʁɛ/
+  IPA: /ʃɑ̃ pe.ʁɛ/
+Baraduc
+  IPA: /ba.ʁa.dyk/
+Levallois-Perret
+  IPA: /lə.va.lwa.pɛ.ʁɛ/
+  IPA: /lə.va.lwa.pe.ʁɛ/
+Levallois
+  IPA: /lə.va.lwa/
+Péret
+  IPA: /pe.ʁɛ/
+Oudet
+  IPA: /u.dɛ/
+Vialatte
+  IPA: /vja.lat/
+Bonjour
+  IPA: /bɔ̃.ʒuʁ/
+Cornillet
+  IPA: /kɔʁ.ni.jɛ/
+Piketty
+  IPA: /pi.kɛ.ti/
+  IPA: /pi.ke.ti/
+Volpone
+  IPA: /vɔl.pɔn/
+Picardo
+  IPA: /pi.kaʁ.do/
+Pichetto
+  IPA: /pi.ʃɛ.to/
+  IPA: /pi.ʃe.to/
+  IPA: /pi.kɛ.to/
+  IPA: /pi.ke.to/
+Dujardin
+  IPA: /dy.ʒaʁ.dɛ̃/
+Duteil
+  IPA: /dy.tɛj/
+Augier
+  IPA: /o.ʒje/
+Dujour
+  IPA: /dy.ʒuʁ/
+Biscaïchipy
+  IPA: /bis.ka.i.ʃi.pi/
+Raufast
+  IPA: /ʁo.fast/
+Raoust
+  IPA: /ʁa.ust/
+Dufaur
+  IPA: /dy.fɔʁ/
+Delfour
+  IPA: /dɛl.fuʁ/
+Gertaldi
+  IPA: /ʒɛʁ.tal.di/
+Balduc
+  IPA: /bal.dyk/
+Leparmentier
+  IPA: /lə.paʁ.mɑ̃.tje/
+Loriol
+  IPA: /lɔ.ʁjɔl/
+Longuet
+  IPA: /lɔ̃.ɡɛ/
+terre Adélie
+  IPA: /tɛʁ a.de.li/
+Salacrou
+  IPA: /sa.la.kʁu/
+Marchandeau
+  IPA: /maʁ.ʃɑ̃.do/
+Marchandot
+  IPA: /maʁ.ʃɑ̃.do/
+Asco
+  IPA: /as.ko/
+Ascoux
+  IPA: /a.ku/
+Ascou
+  IPA: /as.ku/
+Daudet
+  IPA: /do.dɛ/
+Legrix
+  IPA: /lə.ɡʁi/
+Ciret
+  IPA: /si.ʁɛ/
+Wissous
+  IPA: /vi.su/
+Livre
+  IPA: /livʁ/
+Deinokratès
+  IPA: /dej.nɔ.kʁa.tɛs/
+  IPA: /dɛj.nɔ.kʁa.tɛs/
+Dinocrate
+  IPA: /di.nɔ.kʁat/
+Ciron
+  IPA: /si.ʁɔ̃/
+Ciron
+  IPA: /si.ʁɔ̃/
+Ciron
+  IPA: /si.ʁɔ̃/
+Bible hébraïque
+  IPA: /bi.bl‿e.bʁa.ik/
+Tourancheau
+  IPA: /tu.ʁɑ̃.ʃo/
+Zaporijia
+  IPA: /za.pɔ.ʁi.ʒja/
+HEC
+  IPA: /a.ʃ(ə).se/
+Ziraoui
+  IPA: /zi.ʁa.wi/
+Fayçal
+  IPA: /faj.sal/
+Chirol
+  IPA: /ʃi.ʁɔl/
+Mazars
+  IPA: /ma.zaʁ/
+Attal
+  IPA: /a.tal/
+But
+  IPA: /by/
+Sorokine
+  IPA: /sɔ.ʁɔ.kin/
+Benvignat
+  IPA: /bɑ̃.vi.ɲa/
+Méert
+  IPA: /me.ɛʁ/
+Exarchopoulos
+  IPA: /ɛɡ.zaʁ.kɔ.pu.lɔs/
+  IPA: /ɛɡ.zaʁ.ko.pu.los/
+  IPA: /ɛɡ.zaʁ.kɔ.pu.los/
+Madaure
+  IPA: /ma.dɔʁ/
+Acarnanie
+  IPA: /a.kaʁ.na.ni/
+Étolie
+  IPA: /e.tɔ.li/
+Ouisconsin
+  IPA: /wis.kɔ̃.sɛ̃/
+  IPA: /wis.kõ.sẽ/ (Tags: Canada)
+Brouchéion
+  IPA: /bʁu.ke.jɔ̃/
+Alouane
+  IPA: /a.lwan/
+Chalamet
+  IPA: /ʃa.la.mɛ/
+Chalabert
+  IPA: /ʃa.la.bɛʁ/
+Redouane
+  IPA: /ʁe.dwan/
+Jalabert
+  IPA: /ʒa.la.bɛʁ/
+Crampagna
+  IPA: /kʁɑ̃.pa.ɲa/
+Chalabre
+  IPA: /ʃa.labʁ/
+Clairouin
+  IPA: /klɛ.ʁwɛ̃/
+  IPA: /kle.ʁwɛ̃/
+Grothendieck
+  IPA: /ɡʁo.tœn.dik/
+Démétrios
+  IPA: /de.me.tʁi.jɔs/
+Pointe-à-Pitre
+  IPA: /pwɛ̃.ta.pitʁ/
+Gaugain
+  IPA: /ɡo.ɡɛ̃/
+Gauguin
+  IPA: /ɡo.ɡɛ̃/
+Guetta
+  IPA: /ɡe.ta/
+  IPA: /ɡɛ.ta/
+  IPA: /ɡe.ta/
+Coutisson
+  IPA: /ku.ti.sɔ̃/
+Guédiguian
+  IPA: /ɡe.di.ɡjɑ̃/
+Théorêt
+  IPA: /te.ɔ.ʁɛ/
+Tréhorenteuc
+  IPA: /tʁe.ɔ.ʁɑ̃.tœk/
+Saint-Quentin-en-Yvelines
+  IPA: /sɛ̃.kɑ̃.tɛ̃.ɑ̃.n‿iv.lin/
+Chenonceaux
+  IPA: /ʃə.nɔ̃.so/
+Brétigny-sur-Orge
+  IPA: /bʁe.ti.ɲi sy.ʁ‿ɔʁʒ/
+Dupin
+  IPA: /dy.pɛ̃/
+Stoppiglia
+  IPA: /stɔ.pi.ɡli.ja/
+Porto-Vecchio
+  IPA: /pɔʁ.to.və.kjo/
+Rotcajg
+  IPA: /ʁɔt.kaʒ/
+Malingre
+  IPA: /ma.lɛ̃ɡʁ/
+Hazanavicius
+  IPA: /a.za.na.vi.sjys/
+Cornec
+  IPA: /kɔʁ.nɛk/
+Mandraud
+  IPA: /mɑ̃.dʁo/
+Orpustan
+  IPA: /ɔʁ.pys.tɑ̃/
+Dintilhac
+  IPA: /dɛ̃.ti.lak/
+Gembloux
+  IPA: /ʒɑ̃.blu/
+Duculot
+  IPA: /dy.ky.lo/
+Sérapis
+  IPA: /se.ʁa.pis/
+Aristée
+  IPA: /a.ʁis.te/
+Marcadet
+  IPA: /maʁ.ka.dɛ/
+Marcade
+  IPA: /maʁ.kad/
+Selles-sur-Cher
+  IPA: /sɛl.syʁ.ʃɛʁ/
+Peyrevidal
+  IPA: /pɛj.ʁə.vi.dal/
+Staquet
+  IPA: /sta.kɛ/
+Najac
+  IPA: /na.ʒak/
+Forneiron
+  IPA: /fɔʁ.nɛ.ʁɔ̃/
+  IPA: /fɔʁ.ne.ʁɔ̃/
+Mélenchon
+  IPA: /me.lɑ̃.ʃɔ̃/
+Moquet
+  IPA: /mɔ.kɛ/
+Hoareau
+  IPA: /ɔ.a.ʁo/
+Hoarau
+  IPA: /ɔ.a.ʁo/
+Provinces-Unies
+  IPA: /pʁɔ.vɛ̃.sy.ni/
+Bréville
+  IPA: /bʁe.vij/
+Saint-Bruno-de-Montarville
+  IPA: /sɛ̃.bʁy.no.d(ə).mɔ̃.taʁ.vil/
+  IPA: /sẽ.bʁʏ.no.d(ə).mõ.tɑʁ.vɪl/ (Tags: Quebec)
+Keram
+  IPA: /ke.ʁam/
+Mouflet
+  IPA: /mu.flɛ/
+Louchet
+  IPA: /lu.ʃɛ/
+Laugier
+  IPA: /lo.ʒje/
+Lauzier
+  IPA: /lo.zje/
+Mabillard
+  IPA: /ma.bi.jaʁ/
+Cotillard
+  IPA: /kɔ.ti.jaʁ/
+Giverny
+  IPA: /ʒi.vɛʁ.ni/
+Pochon
+  IPA: /pɔ.ʃɔ̃/
+Créteil
+  IPA: /kʁe.tɛj/
+Vitkine
+  IPA: /vit.kin/
+Zoubarevitch
+  IPA: /zu.ba.ʁe.vitʃ/
+Krivine
+  IPA: /kʁi.vin/
+Yverdon
+  IPA: /i.vɛʁ.dɔ̃/
+Aulnay
+  IPA: /o.nɛ/
+  IPA: /ɔ.nɛ/
+  IPA: /ol.nɛ/
+Bobigny
+  IPA: /bɔ.bi.ɲi/
+  IPA: /bo.bi.ɲi/
+Malgouyres
+  IPA: /mal.ɡwijʁ/
+Meyerfeld
+  IPA: /mɛ.jɛʁ.fɛld/
+  IPA: /me.jɛʁ.fɛld/
+Pelletan
+  IPA: /pɛl.tɑ̃/
+Nargeolet
+  IPA: /naʁ.ʒɔ.lɛ/
+Ducourtieux
+  IPA: /dy.kuʁ.tjø/
+Aulnay-sous-Bois
+  IPA: /o.nɛ.su.bwa/
+  IPA: /ol.nɛ.su.bwa/
+Xenakis
+  IPA: /ɡze.na.kis/
+  IPA: /kse.na.kis/
+Rochefort-sur-Mer
+  IPA: /ʁɔʃ.fɔʁ syʁ mɛʁ/
+Les Tarterêts
+  IPA: /le taʁtəʁɛ/
+  IPA: /le taʁtəʁe/
+Créac'h
+  IPA: /kʁe.aʃ/
+Encelade
+  IPA: /ɑ̃.sə.lad/
+Fumaroli
+  IPA: /fy.ma.ʁɔ.li/
+Kourkov
+  IPA: /kuʁ.kɔv/
+  IPA: /kuʁ.kɔf/
+Grande Muraille
+  IPA: /ɡʁɑ̃d my.ʁaj/
+Castagnoli
+  IPA: /kas.ta.ɲɔ.li/
+La Nouvelle-Rochelle
+  IPA: /la nu.vɛl.ʁɔ.ʃɛl/
+Bouix
+  IPA: /bwi/
+Bihouix
+  IPA: /bi.wi/
+Macédoine du Nord
+  IPA: /ma.se.dwan dy nɔʁ/
+Fiodor
+  IPA: /fjɔ.dɔʁ/
+Sergueï
+  IPA: /sɛʁ.ɡɛj/
+Nissia
+  IPA: /ni.sja/
+Messaoui
+  IPA: /mɛ.sa.wi/
+  IPA: /me.sa.wi/
+NUPES
+  IPA: /ny.pɛs/
+  IPA: /nyp/
+  IPA: /nyps/
+Janequin
+  IPA: /ʒan.kɛ̃/
+Gracefield
+  IPA: /ɡʁes.fild/
+Orchies
+  IPA: [ɔʁʃi]
+Belle Province
+  IPA: /bɛl pʁɔ.vɛ̃s/
+Jouan
+  IPA: /ʒwɑ̃/
+Pléthon
+  IPA: /ple.tɔ̃/
+Florianne
+  IPA: /flɔ.ʁjan/
+Angéline
+  IPA: /ɑ̃.ʒe.lin/
+Brisac
+  IPA: /bʁi.zak/
+Roudouallec
+  IPA: /ʁu.dwa.lɛk/
+Fichen
+  IPA: /fi.ʃɑ̃/
+Sofiane
+  IPA: /sɔ.fjan/
+Salies-du-Salat
+  IPA: /sa.lis dy sa.lat/
+Dunyach
+  IPA: /dy.njaʃ/
+Campbellton
+  IPA: /kam.bɛl.tœn/
+Chelles
+  IPA: /ʃɛl/
+Leclert
+  IPA: /lə.klɛʁ/
+Pampangue
+  IPA: /pɑ̃.pɑ̃ɡ/
+Dedieu
+  IPA: /də.djø/
+Benchiba
+  IPA: /bɛn.ʃi.ba/
+Lakhdar
+  IPA: /lak.daʁ/
+  IPA: /lax.daʁ/
+Fouka
+  IPA: /fu.ka/
+Tebboune
+  IPA: /te.bun/
+Ancyre
+  IPA: /ɑ̃.siʁ/
+Anatolie
+  IPA: /a.na.tɔ.li/
+Réthoré
+  IPA: /ʁe.tɔ.ʁe/
+Sehili
+  IPA: /se.i.li/
+  IPA: /se.hi.li/
+Lanaspeze
+  IPA: /la.nas.pɛz/
+Deroche
+  IPA: /də.ʁɔʃ/
+Fassanaro
+  IPA: /fa.sa.na.ʁo/
+Coldefy
+  IPA: /kɔl.də.fi/
+Follorou
+  IPA: /fɔ.lɔ.ʁu/
+Teulières
+  IPA: /tœ.ljɛʁ/
+Mocchi
+  IPA: /mɔ.ki/
+Miquelon-Langlade
+  IPA: /mi.klɔ̃.lɑ̃.ɡlad/
+Bouctouche
+  IPA: /buk.tuʃ/
+Caraquet
+  IPA: /ka.ʁa.kɛt/
+Lathus-Saint-Rémy
+  IPA: /la.tys sɛ̃ ʁe.mi/
+Demesmaeker
+  IPA: /də.mɛs.ma.kœʁ/
+Pieiller
+  IPA: /pjɛ.je/
+  IPA: /pje.je/
+Port-Louis
+  IPA: /pɔʁ.lwi/
+Scythie
+  IPA: /si.ti/
+Cîteaux
+  IPA: /si.to/
+Méheut
+  IPA: /me.ø/
+Cap-Français
+  IPA: /kap.fʁɑ̃.sɛ/
+Mahaut
+  IPA: /ma.o/
+Vastey
+  IPA: /vas.tɛj/
+Andréanne
+  IPA: /ɑ̃.dʁe.an/
+Marie-Caroline
+  IPA: /ma.ʁi.ka.ʁɔ.lin/
+Audrey-Anne
+  IPA: /o.dʁɛ.jan/
+  IPA: /o.dʁe.jan/
+Marylène
+  IPA: /ma.ʁi.lɛn/
+Marie-Laurence
+  IPA: /ma.ʁi.lɔ.ʁɑ̃s/
+Marie-Andrée
+  IPA: /ma.ʁi.ɑ̃.dʁe/
+Marie-Ève
+  IPA: /ma.ʁi.ɛv/
+Faby
+  IPA: /fa.bi/
+Élaine
+  IPA: /e.lɛn/
+Limat
+  IPA: /li.ma/
+Vénézuéla
+  IPA: /ve.ne.zɥe.la/
+mer Érythrée
+  IPA: /la mɛʁ e.ʁi.tʁe/
+Érika
+  IPA: /e.ʁi.ka/
+Érythres
+  IPA: /e.ʁitʁ/
+Philoctète
+  IPA: /fi.lɔk.tɛt/
+Malouet
+  IPA: /ma.lwɛ/
+Becquart
+  IPA: /bɛ.kaʁ/
+  IPA: /be.kaʁ/
+Murs
+  IPA: /myʁs/
+Cornille
+  IPA: /kɔʁ.nij/
+Audureau
+  IPA: /o.dy.ʁo/
+Andrin
+  IPA: /ɑ̃.dʁɛ̃/
+Androuet
+  IPA: /ɑ̃.dʁu.ɛ/
+Bernabeu
+  IPA: /bɛʁ.na.bø/
+Garat
+  IPA: /ɡa.ʁa/
+Arrouet
+  IPA: /a.ʁwɛ/
+Palix
+  IPA: /pa.li/
+Catelle
+  IPA: /ka.tɛl/
+Layet
+  IPA: /lɛ.jɛ/
+  IPA: /le.jɛ/
+Maïa
+  IPA: /ma.ja/
+Mirmand
+  IPA: /miʁ.mɑ̃/
+Dorsaf
+  IPA: /dɔʁ.saf/
+Pogu
+  IPA: /pɔ.ɡy/
+Gauchard
+  IPA: /ɡo.ʃaʁ/
+Lannemezan
+  IPA: /la.nə.m(ə).zɑ̃/
+Pont-Saint-Martin
+  IPA: /pɔ̃.sɛ̃.maʁ.tɛ̃/
+Frissung
+  IPA: /fʁi.sœ̃/
+Ohayon
+  IPA: /ɔ.ɛ.jɔ̃/
+  IPA: /ɔ.e.jɔ̃/
+Denault
+  IPA: /də.no/
+Seysses
+  IPA: /sɛjs/
+Muret
+  IPA: /my.ʁɛ/
+Muret
+  IPA: /my.ʁɛ/
+Vésubie
+  IPA: /ve.zy.bi/
+Vésunne
+  IPA: /ve.zyn/
+Mayapan
+  IPA: /mɛ.ja.pan/
+  IPA: /me.ja.pan/
+Mostuéjouls
+  IPA: /mɔs.tɥe.ʒul/
+Élyse
+  IPA: /e.liz/
+Audric
+  IPA: /o.dʁik/
+Éveline
+  IPA: /e.vlin/
+Audrée
+  IPA: /o.dʁe/
+Iachine
+  IPA: /ja.ʃin/
+Nemtsov
+  IPA: /nɛmt.sɔv/
+  IPA: /nɛmt.sɔf/
+Lanuéjols
+  IPA: /la.nɥe.ʒɔl/
+Andréane
+  IPA: /ɑ̃.dʁe.an/
+Andréan
+  IPA: /ɑ̃.dʁe.ɑ̃/
+Carolanne
+  IPA: /ka.ʁɔ.lan/
+Carolane
+  IPA: /ka.ʁɔ.lan/
+Marie-Karine
+  IPA: /ma.ʁi.ka.ʁin/
+Anne-Andrée
+  IPA: /a.nɑ̃.dʁe/
+André-Marie
+  IPA: /ɑ̃.dʁe.ma.ʁi/
+Andrée-Anne
+  IPA: /ɑ̃.dʁe.an/
+Julie-Anne
+  IPA: /ʒy.li.an/
+Marie-Soleil
+  IPA: /ma.ʁi.sɔ.lɛj/
+Marie-Lyne
+  IPA: /ma.ʁi.lin/
+Marie-Line
+  IPA: /ma.ʁi.lin/
+Anne-Caroline
+  IPA: /an.ka.ʁɔ.lin/
+Marie-Jeanne
+  IPA: /ma.ʁi.ʒə.an/
+Marie-Élaine
+  IPA: /ma.ʁi.e.lɛn/
+Marie-Martine
+  IPA: /ma.ʁi.maʁ.tin/
+Marie-Anne
+  IPA: /ma.ʁi.an/
+Marie-Alexandra
+  IPA: /ma.ʁi.a.lɛk.sɑ̃.dʁa/
+Carole-Anne
+  IPA: /ka.ʁɔ.lan/
+Marie-Lise
+  IPA: /ma.ʁi.liz/
+Coquatrix
+  IPA: /kɔ.ka.tʁi/
+Marie-André
+  IPA: /ma.ʁi.ɑ̃.dʁe/
+Lopouloff
+  IPA: /lɔ.pu.lɔf/
+Youri
+  IPA: /ju.ʁi/
+Iouri
+  IPA: /ju.ʁi/
+Rojouan
+  IPA: /ʁɔ.ʒwɑ̃/
+Sébrina
+  IPA: /se.bʁi.na/
+Kayor
+  IPA: /ka.jɔʁ/
+Kayllor
+  IPA: /ka.jɔʁ/
+Glouchevitch
+  IPA: /ɡlu.ʃe.vitʃ/
+Gambra
+  IPA: /ɡɑ̃.bʁa/
+Armanet
+  IPA: /aʁ.ma.nɛ/
+Andréana
+  IPA: /ɑ̃.dʁe.a.na/
+Arsinoé
+  IPA: /aʁ.si.nɔ.e/
+Philadelphe
+  IPA: /fi.la.dɛlf/
+Mégare
+  IPA: /me.ɡaʁ/
+Antras
+  IPA: /ɑ̃.tʁas/
+Bourrieau
+  IPA: /bu.ʁjo/
+Volp
+  IPA: /vɔl/
+Touloubre
+  IPA: /tu.lubʁ/
+Arize
+  IPA: /a.ʁiz/
+Artillac
+  IPA: /aʁ.ti.jak/
+Mauldre
+  IPA: /modʁ/
+Baup
+  IPA: /bo/
+Baup
+  IPA: /bo/
+Tautou
+  IPA: /to.tu/
+Queysanne
+  IPA: /kɛj.zan/
+Labrea
+  IPA: /la.bʁə.a/
+Foenkinos
+  IPA: /fɔ.ɛn.ki.nos/
+Marité
+  IPA: /ma.ʁi.te/
+Asie du Sud
+  IPA: /a.zi dy syd/
+Asie de l'Est
+  IPA: /a.zi d(ə) l‿ɛst/
+Marylou
+  IPA: /ma.ʁi.lu/
+Andie
+  IPA: /ɑ̃.di/
+Poubelle
+  IPA: /pu.bɛl/
+Kawar
+  IPA: /ka.waʁ/
+Filatieff
+  IPA: /fi.la.tjɛf/
+Grand Lac Salé
+  IPA: /ɡʁɑ̃ lak sa.le/
+Maryse
+  IPA: /ma.ʁiz/
+Marpsat
+  IPA: /maʁp.sa/
+Zaporojié
+  IPA: /za.pɔ.ʁɔ.ʒje/
+Olexandrivsk
+  IPA: /ɔ.lɛk.sɑ̃.dʁivsk/
+Alexandrovsk
+  IPA: /a.lɛk.sɑ̃.dʁɔvsk/
+  IPA: /a.lɛk.sɑ̃.dʁɔfsk/
+mer de Corail
+  IPA: /mɛʁ də kɔ.ʁaj/
+Fexhe-le-Haut-Clocher
+  IPA: /fɛk.s(ə).lə.o.klɔ.ʃe/
+Diamniadio
+  IPA: /djam.nja.djo/
+Hécube
+  IPA: /e.kyb/
+Mikhaïlov
+  IPA: /mi.ka.i.lɔv/
+Valérius
+  IPA: /va.le.ʁjy/
+Kalifa
+  IPA: /ka.li.fa/
+Vidocq
+  IPA: /vi.dɔk/
+Hamraoui
+  IPA: /am.ʁa.wi/
+Izioum
+  IPA: /i.zjum/
+Tolbiac
+  IPA: /tɔl.bjak/
+Brugheas
+  IPA: /bʁy.ʒas/
+Rantonnet
+  IPA: /ʁɑ̃.tɔ.nɛ/
+Érik
+  IPA: /e.ʁik/
+Emsien
+  IPA: /ɛm.sjɛ̃/
+Vieillot
+  IPA: /vjɛ.jo/
+  IPA: /vje.jo/
+Vioche
+  IPA: /vjɔʃ/
+Marjolène
+  IPA: /maʁ.ʒɔ.lɛn/
+Macquaire
+  IPA: /ma.kɛʁ/
+Rabelais
+  IPA: /ʁa.blɛ/
+Bousenna
+  IPA: /bu.sɛ.na/
+  IPA: /bu.se.na/
+Boutella
+  IPA: /bu.tɛ.la/
+  IPA: /bu.te.la/
+Younès
+  IPA: /ju.nɛs/
+Cosne-sur-Loire
+  IPA: /kɔs.nə.syʁ.lwaʁ/
+Tracy-sur-Loire
+  IPA: /tʁa.si.syʁ.lwaʁ/
+Cosne
+  IPA: /kɔsn/
+Cosnard
+  IPA: /kɔ.naʁ/
+Mienne
+  IPA: /mjɛn/
+Mienne
+  IPA: /mjɛn/
+Condat
+  IPA: /kɔ̃.da/
+Condé
+  IPA: /kɔ̃.de/
+Myennes
+  IPA: /mjɛn/
+Mienne-le-Chatel
+  IPA: /mjɛn.lə.ʃa.tɛl/
+Nouvelle-France
+  IPA: /nu.vɛl.fʁɑ̃s/
+Cosne-Cours-sur-Loire
+  IPA: /kɔs.nə.kuʁ.syʁ.lwaʁ/
+Dieumegard
+  IPA: /djœm.ɡaʁ/
+Térence
+  IPA: /te.ʁɑ̃s/
+île Tintamarre
+  IPA: /ˈil ˈtɛ̃.ta.maʁ/
+Îlet Pinel
+  IPA: /i.le pi.nel/
+Île Coco
+  IPA: /il ko.ko/
+Île Toc Vers
+  IPA: /il tɔk vɛʁ/
+Île Fourchue
+  IPA: /il fuʁ.ʃy/
+Île Frégate
+  IPA: /il fʁe.ɡat/
+Île Chevreau
+  IPA: /il ʃə.vʁo/
+OTSC
+  IPA: /ɔ.te.ɛs.se/
+Reddit
+  IPA: /ʁɛ.dit/
+  IPA: /ʁe.dit/
+  IPA: /ɹɛdɪt/
+Berlin-Ouest
+  IPA: /bɛʁ.lɛ̃.wɛst/
+Les Abymes
+  IPA: /lɛz‿a.bim/
+La Désirade
+  IPA: /la de.zi.ʁad/
+Grande-Terre
+  IPA: /ɡʁɑ̃d.tɛʁ/
+Maubec
+  IPA: /mo.bɛk/
+Letissier
+  IPA: /lə.ti.sje/
+Malbec
+  IPA: /mal.bɛk/
+Magalie
+  IPA: /ma.ɡa.li/
+Comte
+  IPA: /kɔ̃t/
+Nord-du-Québec
+  IPA: /nɔʁ.dy.ke.bɛk/
+Capitale-Nationale
+  IPA: /ka.pi.tal.na.sjɔ.nal/
+Saguenay–Lac-Saint-Jean
+  IPA: /saɡ.ne.lak.sɛ̃.ʒɑ̃/
+Bas-Saint-Laurent
+  IPA: /ba.sɛ̃.lɔ.ʁɑ̃/
+  IPA: /bɑ.sɛ̃.lɔ.ʁɑ̃/
+Menu
+  IPA: /mə.ny/
+Laurentides
+  IPA: /lɔ.ʁɑ̃.tid/
+Témiscouata
+  IPA: /te.mis.kwa.ta/
+Centre-du-Québec
+  IPA: /sɑ̃tʁ.dy.ke.bɛk/ (Tags: France)
+  IPA: /sɑ̃.tʁə.dy.ke.bɛk/ (Tags: France)
+  IPA: /sãtʁ.d͡zy.keˈbɛk/ (Tags: Quebec)
+Les Basques
+  IPA: /lɛ bask/
+Côte-Nord
+  IPA: /kot.nɔʁ/
+Abitibi-Témiscamingue
+  IPA: /a.bi.ti.bi.te.mis.ka.mɛ̃ɡ/
+La Vallée-de-l'Or
+  IPA: /la va.le.d(ə).l‿ɔʁ/
+Kamouraska
+  IPA: /ka.mu.ʁas.ka/
+Chaudière-Appalaches
+  IPA: /ʃo.djɛʁ a.pa.laʃ/ (Tags: Belgium, France)
+  IPA: /ʃo.d͡zjaɛ̯ʁ a.pa.laʃ/ (Tags: Quebec)
+Rivière-du-Loup
+  IPA: /ʁi.vjɛʁ.dy.lu/
+Rimouski-Neigette
+  IPA: /ʁi.mus.ki.nɛ.ʒɛt/
+  IPA: /ʁi.mus.ki.ne.ʒɛt/
+Témiscamingue
+  IPA: /te.mis.ka.mɛ̃ɡ/
+Abitibi-Ouest
+  IPA: /a.bi.ti.bi.wɛst/
+La Matapédia
+  IPA: /la ma.ta.pe.di.a /
+La Mitis
+  IPA: /la mi.ti/
+Gaspésie–Îles-de-la-Madeleine
+  IPA: /ɡas.pe.zi.il.də.la.ma.dlɛn/
+Rouyn-Noranda
+  IPA: /ʁwɛ̃.nɔ.ʁɑ̃.da/
+La Matanie
+  IPA: /la ma.ta.ni/
+Mékinac
+  IPA: /me.ki.nak/
+La Jacques-Cartier
+  IPA: /la ʒak kaʁ.tje/
+Les Chenaux
+  IPA: /lɛ ʃə.no/
+Portneuf
+  IPA: /pɔʁ.nœf/
+La Côte-de-Beaupré
+  IPA: /la kot də bo.pʁe/
+Maskinongé
+  IPA: /mas.ki.nɔ̃.ʒe/
+Les Sources
+  IPA: /lɛ suʁs/
+L'Île-d'Orléans
+  IPA: /lil.dɔʁ.le.ɑ̃/
+Le Granit
+  IPA: /lə ɡʁa.ni/
+Maria-Chapdelaine
+  IPA: /ma.ʁja.ʃap.də.lɛn/
+Le Domaine-du-Roy
+  IPA: /lə dɔ.mɛn dy ʁwa/
+Minganie
+  IPA: /mɛ̃.ɡa.ni/
+Memphrémagog
+  IPA: /mɛm.fʁe.ma.ɡɔɡ/
+Manicouagan
+  IPA: /ma.ni.kwa.ɡɑ̃/
+La Haute-Yamaska
+  IPA: /la ot ja.mas.ka/
+Le Haut-Saint-François
+  IPA: /lə o sɛ̃ fʁɑ̃.swa/
+Lac-Saint-Jean-Est
+  IPA: /lak.sɛ̃.ʒɑ̃.ɛst/
+Le Val-Saint-François
+  IPA: /lə val sɛ̃ fʁɑ̃.swa/
+Caniapiscau
+  IPA: /ka.nja.pis.ko/
+La Haute-Côte-Nord
+  IPA: /la ot kot.nɔʁ/
+Brome-Missisquoi
+  IPA: /bʁɔm.mi.sis.kwa/
+Le Golfe-du-Saint-Laurent
+  IPA: /lə ɡɔl.f(ə).dy.sɛ̃.lɔ.ʁɑ̃/
+La Haute-Gaspésie
+  IPA: /la ot.ɡas.pe.zi/
+Montmagny
+  IPA: /mɔ̃.ma.ɲi/
+Sept-Rivières
+  IPA: /sɛ.tʁi.vjɛʁ/
+  IPA: /se.tʁi.vjɛʁ/
+Le Rocher-Percé
+  IPA: /lə ʁɔ.ʃe pɛʁ.se/
+La Côte-de-Gaspé
+  IPA: /la kot.də.ɡas.pe/
+Les Etchemins
+  IPA: /lɛ.z‿ɛt.ʃe.mɛ̃ /
+Les Appalaches
+  IPA: /le.z‿a.pa.laʃ/
+  IPA: /le a.pa.laʃ/
+Les Collines-de-l'Outaouais
+  IPA: /lɛ ko.lin də lu.ta.we/
+Coaticook
+  IPA: /kwa.ti.kuk/
+Charlevoix-Est
+  IPA: /ʃaʁ.lə.vwa.ɛst/
+Lanaudière
+  IPA: /la.no.djɛʁ/
+La Vallée-de-la-Gatineau
+  IPA: /la va.le.d(ə).la.ɡa.ti.no/
+Bellechasse
+  IPA: /bɛl.ʃas/
+L'Islet
+  IPA: /li.lɛ/
+D'Autray
+  IPA: /do.tʁɛ/
+Matawinie
+  IPA: /ma.ta.wi.ni/
+Le Fjord-du-Saguenay
+  IPA: /lə fjɔʁ dy saɡ.nɛ/
+La Nouvelle-Beauce
+  IPA: /la nu.vɛl bos/
+Lotbinière
+  IPA: /lo.bi.njɛʁ/
+L'Assomption
+  IPA: /la.sɔ̃.sjɔ̃/
+Deux-Montagnes
+  IPA: /dø.mɔ̃.taɲ/
+Les Moulins
+  IPA: /lɛ mu.lɛ̃/
+Beauce-Sartigan
+  IPA: /bos.saʁ.ti.ɡɑ̃/
+Beauce-Centre
+  IPA: /bos.sɑ̃tʁ/
+La Rivière-du-Nord
+  IPA: /la ʁi.vjɛʁ dy nɔʁ/
+Argenteuil
+  IPA: /aʁ.ʒɑ̃.tœj/
+Les Pays-d'en-Haut
+  IPA: /lɛ pe.i.dɛ̃.o/
+Thérèse-De Blainville
+  IPA: /te.ʁɛz.də.blɛ̃.vil/
+Antoine-Labelle
+  IPA: /ɑ̃.twan.la.bɛl/
+Les Laurentides
+  IPA: /le lɔ.ʁɑ̃.tid/
+Bécancour
+  IPA: /be.kɑ̃.kuʁ/
+Le Haut-Saint-Laurent
+  IPA: /lə o sɛ̃ lɔ.ʁɑ̃/
+La Vallée-du-Richelieu
+  IPA: /la va.le dy ʁi.ʃə.ljœ/
+L'Érable
+  IPA: /le.ʁabl/
+Pierre-De Saurel
+  IPA: /pjɛʁ.də.sɔ.ʁɛl/
+Marguerite-D'Youville
+  IPA: /maʁ.ɡə.ʁit.dju.vil/
+Nicolet-Yamaska
+  IPA: /ni.kɔ.lɛ.ja.mas.ka/
+Le Haut-Richelieu
+  IPA: /lə o ʁi.ʃə.ljœ/
+Les Jardins-de-Napierville
+  IPA: /lɛ ʒaʁ.dɛ̃ də na.pjɛʁ.vil/
+Beauharnois-Salaberry
+  IPA: /bo.aʁ.nwa.sa.la.bɛ.ʁi/
+  IPA: /bo.aʁ.nwa.sa.la.be.ʁi/
+Les Maskoutains
+  IPA: /lɛ mas.ku.tɛ̃/
+Arthabaska
+  IPA: /aʁ.ta.bas.ka/
+Rouville
+  IPA: /ʁu.vil/
+Vaudreuil-Soulanges
+  IPA: /vo.dʁœj.su.lɑ̃ʒ/
+Soloviev
+  IPA: /sɔ.lɔ.vjɛv/
+  IPA: /sɔ.lɔ.vjɛf/
+Solovieff
+  IPA: /sɔ.lɔ.vjɛf/
+Solovioff
+  IPA: /sɔ.lɔ.vjɔf/
+Kalouga
+  IPA: /ka.lu.ɡa/
+Apollinaire
+  IPA: /a.pɔ.li.nɛʁ/
+Carie
+  IPA: /ka.ʁi/
+Potet
+  IPA: /pɔ.tɛ/
+lac Poyang
+  IPA: /lak pɔ.jɑ̃ɡ/
+  IPA: /lak pɔ.jaŋ/
+Quevauvilliers
+  IPA: /kə.vo.vij.je/
+FUNCINPEC
+  IPA: /fœ̃.sin.pɛk/
+apocoloquintose
+  IPA: /a.pɔ.kɔ.lɔ.kɛ̃.toz/
+Yahyaoui
+  IPA: /ja.ja.wi/
+  IPA: /ja.hja.wi/
+Lesquin
+  IPA: /lɛs.kɛ̃/
+Guillard
+  IPA: /ɡi.jaʁ/
+Fouillet
+  IPA: /fu.jɛ/
+Pietralunga
+  IPA: /pi.tʁa.lœ̃.ɡa/
+Stépanoff
+  IPA: /ste.pa.nɔf/
+Pouyanne
+  IPA: /pwi.jan/
+Poilâne
+  IPA: /pwa.lan/
+  IPA: /pwa.lɑn/
+île des Rimains
+  IPA: /il de ʁi.mɛ̃/
+île d'Oléron
+  IPA: /il d‿ɔ.le.ʁɔ̃/
+Royan
+  IPA: /ʁwa.jɑ̃/
+île de Ré
+  IPA: /il də ʁe/
+île de Nôle
+  IPA: /il də nol/
+Nôle
+  IPA: /nol/
+Ritou
+  IPA: /ʁi.tu/
+Ritoux
+  IPA: /ʁi.tu/
+Mohetti
+  IPA: /mɔ.ɛ.ti/
+  IPA: /mɔ.e.ti/
+Borezza
+  IPA: /bɔ.ʁɛ.za/
+  IPA: /bɔ.ʁe.za/
+Lehri
+  IPA: /le.ʁi/
+  IPA: /leh.ʁi/
+  IPA: /lɛh.ʁi/
+Corre
+  IPA: /kɔʁ/
+Savignac
+  IPA: /sa.vi.ɲak/
+Vandeputte
+  IPA: /vɑ̃d.pyt/
+Goarant
+  IPA: /ɡɔ.a.ʁɑ̃/
+Le Corre
+  IPA: /lə kɔʁ/
+R. F.
+  IPA: /ɛ.ʁɛf/
+  IPA: /e.ʁɛf/
+Matthieussent
+  IPA: /ma.tjœ.sɑ̃/
+Bouxwiller
+  IPA: /buks.vi.lɛʁ/
+Lafaye
+  IPA: /la.fɛj/
+Lafaille
+  IPA: /la.faj/
+Laffaye
+  IPA: /la.fɛj/
+Cleenewerck
+  IPA: /klə.n(ə).wɛʁk/
+Jomard
+  IPA: /ʒɔ.maʁ/
+Fulvie
+  IPA: /fyl.vi/
+Mossadegh
+  IPA: /mɔ.sa.dɛɡ/
+Flavie
+  IPA: /fla.vi/
+Gavarnie
+  IPA: /ɡa.vaʁ.ni/
+Ponant
+  IPA: /pɔ.nɑ̃/
+Hiéron
+  IPA: /je.ʁɔ̃/
+Syène
+  IPA: /sjɛn/
+Panchard
+  IPA: /pɑ̃.ʃaʁ/
+Caralp
+  IPA: /ka.ʁal/
+Escaich
+  IPA: /ɛs.kɛʃ/
+Barrelier
+  IPA: /ba.ʁə.lje/
+Ricosinde
+  IPA: /ʁi.ko.zɛ̃d/
+Marzocchi
+  IPA: /maʁ.zɔk.ʃi/
+Belleterre
+  IPA: /bɛl.tɛʁ/
+Duhamel-Ouest
+  IPA: /dy.a.mɛl.wɛst/
+Fugèreville
+  IPA: /fy.ʒɛʁ.vil/
+Guérin
+  IPA: /ɡe.ʁɛ̃/
+Latulipe-et-Gaboury
+  IPA: /la.ty.li.pe.ɡa.bu.ʁi/
+Les Lacs-du-Témiscamingue
+  IPA: /les lak.dy.te.mis.ka.mɛ̃ɡ/
+Ville-Marie
+  IPA: /vil.ma.ʁi/
+Laniel
+  IPA: /la.njɛl/
+Kipawa
+  IPA: /ki.pa.wa/
+Rémigny
+  IPA: /ʁe.mi.ɲi/
+Saint-Bruno-de-Guigues
+  IPA: /sɛ̃.bʁy.no.də.ɡiɡ/
+Saint-Édouard-de-Fabre
+  IPA: /sɛ̃.e.dwaʁ.də.fabʁ/
+Témiscaming
+  IPA: /te.mis.ka.mɛ̃/
+Antiochos
+  IPA: /ɑ̃.tjɔ.kɔs/
+Saint-Eugène-de-Guigues
+  IPA: /sɛ̃.ø.ʒɛn.də.ɡiɡ/
+Lorrainville
+  IPA: /lo.ʁɛ̃.vil/
+Nédélec
+  IPA: /ne.de.lɛk/
+Attale
+  IPA: /a.tal/
+Laverlochère-Angliers
+  IPA: /la.vɛʁ.lo.ʃɛʁ.ɑ̃.lje/
+Cléricy
+  IPA: /kle.ʁi.si/
+Destor
+  IPA: /dɛs.tɔʁ/
+D'Alembert
+  IPA: /da.lɑ̃.bɛʁ/
+Évain
+  IPA: /e.vɛ̃/
+Eumène
+  IPA: /ø.mɛn/
+Notre-Dame-du-Nord
+  IPA: /nɔ.tʁə.dam.dy.nɔʁ/
+Montbeillard
+  IPA: /mɔ̃.bɛː.jaʁ/
+Bellecombe
+  IPA: /bɛl.kɔ̃b/
+Lac-Dufault
+  IPA: /lak.dy.fo/
+Authier
+  IPA: /o.tje/
+Noranda
+  IPA: /nɔ.ʁɑ̃.da/
+Rouyn
+  IPA: /ʁwɛ̃/
+Rollet
+  IPA: /ʁo.le/
+Mont-Brun
+  IPA: /mɔ̃.bʁœ̃/
+Chazel
+  IPA: /ʃa.zɛl/
+Clerval
+  IPA: /klɛʁ.val/
+Authier-Nord
+  IPA: /o.tje.nɔʁ/
+Duparquet
+  IPA: /dy.paʁ.kɛ/
+Gallichan
+  IPA: /ɡa.li.ʃɑ̃/
+La Reine
+  IPA: /la.ʁɛːn/
+La Sarre
+  IPA: /la saʁ/
+Macamic
+  IPA: /ma.ka.mik/
+Poularies
+  IPA: /pu.la.ʁi/
+Palmarolle
+  IPA: /pal.ma.ʁɔl/
+Normétal
+  IPA: /nɔʁ.me.tal/
+Roquemaure
+  IPA: /ʁɔk.mɔʁ/
+Rapide-Danseur
+  IPA: /ʁa.pid.dɑ̃.sœʁ/
+Taschereau
+  IPA: /taʃ.ʁo/
+Val-Saint-Gilles
+  IPA: /val.sɛ̃.ʒil/
+Sainte-Germaine-Boulé
+  IPA: /sɛ̃t.ʒɛʁ.mɛn.bu.le/
+Sainte-Hélène-de-Mancebourg
+  IPA: /sɛ̃.te.lɛn.də.mɑ̃s.buʁ/
+Césarion
+  IPA: /se.za.ʁjɔ̃/
+Barraute
+  IPA: /ba.ʁot/
+Lac-Duparquet
+  IPA: /lak.dy.paʁ.kɛ/
+Champneuf
+  IPA: /ʃɑ̃.nœf/
+Preissac
+  IPA: /pʁɛ.sak/
+  IPA: /pʁe.sak/
+La Corne
+  IPA: /la kɔʁn/
+Landrienne
+  IPA: /lɑ̃.dʁi.jɛn/
+La Morandière
+  IPA: /la mɔ.ʁɑ̃.djɛʁ/
+Launay
+  IPA: /lo.ne/
+Trécesson
+  IPA: /tʁe.sɛ.sɔ̃/
+  IPA: /tʁe.se.sɔ̃/
+Rochebaucourt
+  IPA: /ʁɔʃ.bo.kuʁ/
+Rivière-Ojima
+  IPA: /ʁi.vjɛ.ʁɔ.ʒi.ma/
+La Motte
+  IPA: /la mɔt/
+Lac-Chicobi
+  IPA: /lak.ʃi.ko.bi/
+Saint-Mathieu-d'Harricana
+  IPA: /sɛ̃.ma.tjø.d‿a.ʁi.ka.na/
+Sainte-Gertrude-Manneville
+  IPA: /sɛ̃t.ʒɛʁ.tʁyd.man.vil/
+Saint-Marc-de-Figuery
+  IPA: /sɛ̃.maʁk.də.fi.ɡə.ʁi/
+Lac-Despinassy
+  IPA: /lak.dɛ.pi.na.si/
+Saint-Dominique-du-Rosaire
+  IPA: /sɛ̃.dɔ.mi.nik.dy.ʁo.zɛʁ/
+Malartic
+  IPA: /ma.laʁ.tik/
+Rivière-Héva
+  IPA: /ʁi.vjɛ.ʁe.va/
+Matchi-Manitou
+  IPA: /mat.ʃi.ma.ni.tu/
+Réservoir-Dozois
+  IPA: /ʁe.zɛʁ.vwaʁ.do.zwa/
+Aumond
+  IPA: /o.mɔ̃/
+Blue Sea
+  IPA: /blu si/
+Bois-Franc
+  IPA: /bwa.fʁɑ̃k/
+Lac-Granet
+  IPA: /lak.ɡʁa.nɛ/
+Déléage
+  IPA: /de.le.aʒ/
+Cayamant
+  IPA: /ka.ja.mɑ̃/
+Kazabazua
+  IPA: /ka.za.ba.zy.a/
+Maniwaki
+  IPA: /ma.ni.wa.ki/
+Egan-Sud
+  IPA: /e.ɡɑ̃.syd/
+Lac-Sainte-Marie
+  IPA: /lak.sɛ̃t.ma.ʁi/
+Lac-Moselle
+  IPA: /lak.mo.zɛl/
+Lac-Lenôtre
+  IPA: /la.klə.notʁ/
+Cascades-Malignes
+  IPA: /kas.kad.ma.liɲ/
+Dépôt-Échouani
+  IPA: /de.po.e.ʃu.a.ni/
+Grand-Remous
+  IPA: /ɡʁɑ̃.ʁə.mu/
+Saint-Félix-de-Dalquier
+  IPA: /sɛ̃.fe.liks.də.dal.kje/
+Sainte-Thérèse-de-la-Gatineau
+  IPA: /sɛ̃t.te.ʁɛz.də.la.ɡa.ti.no/
+Lac-Pythonga
+  IPA: /lak.pi.tɔ̃.ɡa/
+Lac-Nilgaut
+  IPA: /lak.nil.ɡo/
+Montcerf-Lytton
+  IPA: /mɔ̃t.sɛʁ.fli.tɔ̃/
+Serris
+  IPA: /sɛ.ʁi/
+  IPA: /se.ʁi/
+Senneterre
+  IPA: /sɛn.tɛʁ/
+Geromegnace
+  IPA: /ʒə.ʁɔm.ɲas/
+Kandelaft
+  IPA: /kɑ̃.dlaf/
+Zouna
+  IPA: /zu.na/
+Truchard
+  IPA: /tʁy.ʃaʁ/
+Barthès
+  IPA: /baʁ.tɛ/
+Haussmann
+  IPA: /os.man/
+Fort-Coulonge
+  IPA: /fɔʁ.ku.lɔ̃ʒ/
+Barthes
+  IPA: /baʁt/
+Alleyn-et-Cawood
+  IPA: /a.lɛ̃.e.ke.wud/
+Campbell's Bay
+  IPA: /kɑ̃.bɛls.be/
+L'Île-du-Grand-Calumet
+  IPA: /l‿il.dy.ɡʁɑ̃.ka.ly.mɛ/
+Otter Lake
+  IPA: /o.təʁ lek/
+L'Isle-aux-Allumettes
+  IPA: /l‿i.lo.z‿a.ly.mɛt/
+Portage-du-Fort
+  IPA: /pɔʁ.taʒ.dy.fɔʁ/
+Sheenboro
+  IPA: /ʃin.bo.ʁo/
+Mansfield-et-Pontefract
+  IPA: /mɑ̃s.fil.de.pɔ̃.tə.fʁakt/
+L'Ange-Gardien
+  IPA: /l‿ɑ̃ʒ.ɡaʁ.djɛ̃/
+Rapides-des-Joachims
+  IPA: /ʁa.pid.de.ʒɔ.a.kim/
+Lac-des-Plages
+  IPA: /lak.de.plaʒ/
+Chénéville
+  IPA: /ʃe.ne.vil/
+Notre-Dame-de-la-Salette
+  IPA: /nɔtʁ.dam.də.la.sa.lɛt/
+La Pêche
+  IPA: /la pɛʃ/
+Lac-Simon
+  IPA: /lak.si.mɔ̃/
+Val-des-Bois
+  IPA: /val.de.bwa/
+Saint-Sixte
+  IPA: /sɛ̃.sikst/
+Shawville
+  IPA: /ʃo.vil/
+Papineauville
+  IPA: /pa.pi.no.vil/
+Lochaber-Partie-Ouest
+  IPA: /lɔ.ka.bɛʁ.paʁ.ti.wɛst/
+Saint-André-Avellin
+  IPA: /sɛ̃.ɑ̃.dʁe.a.ve.lɛ̃/
+Mulgrave-et-Derry
+  IPA: /mal.ɡʁe.ve.dɛ.ʁi/
+  IPA: /mal.ɡʁe.ve.de.ʁi/
+Lochaber
+  IPA: /lɔ.ka.bɛʁ/
+Soledar
+  IPA: /sɔ.le.daʁ/
+Notre-Dame-de-Bonsecours
+  IPA: /nɔtʁ.dam.də.bɔ̃.sə.kuʁ/
+Notre-Dame-de-la-Paix
+  IPA: /nɔtʁ.dam.də.la.pɛ/
+Saint-Émile-de-Suffolk
+  IPA: /sɛ̃.e.mil.də.sy.fɔ(l)k/
+Val-des-Monts
+  IPA: /val.de.mɔ̃/
+Brieuc
+  IPA: /bʁi.jø/
+Masson-Angers
+  IPA: /ma.sɔ̃.ɑ̃.ʒe/
+Espérandieu
+  IPA: /ɛs.pe.ʁɑ̃.djø/
+Pikogan
+  IPA: /pi.ko.ɡɑ̃/
+Winneway
+  IPA: /wi.nə.we/
+Kitigan Zibi
+  IPA: /ki.ti.ɡɑ̃ zi.bi/
+Kitcisakik
+  IPA: /kit.si.sa.kik/
+Kebaowek
+  IPA: /ke.ba.o.wɛk/
+Rapid Lake
+  IPA: /ʁa.pid lek/
+Lac-De La Bidière
+  IPA: /lak.də la bi.djɛʁ/
+Lac-de-la-Pomme
+  IPA: /lak.də.la.pɔm/
+Lac-Oscar
+  IPA: /la.kɔs.kaʁ/
+Lac-Bazinet
+  IPA: /lak.ba.zi.nɛ/
+Lac-Wagwabika
+  IPA: /la.kwa.ɡwa.bi.ka/
+Lac-Akonapwehikan
+  IPA: /la.ka.ko.na.pwe.i.kɑ̃/
+Lac-Douaire
+  IPA: /lak.du.ɛʁ/
+Lac-Marguerite
+  IPA: /lak.maʁ.ɡə.ʁit/
+Baie-des-Chaloupes
+  IPA: /bɛ.de.ʃa.lup/
+Lac-de-la-Maison-de-Pierre
+  IPA: /lak.də.la.mɛ.zɔ̃.də.pjɛʁ/
+  IPA: /lak.də.la.me.zɔ̃.də.pjɛʁ/
+Lac-Ernest
+  IPA: /la.kɛʁ.nɛst/
+Rivière-Rouge
+  IPA: /ʁi.vjɛʁ.ʁuʒ/
+Lac-Saguay
+  IPA: /lak.sa.ɡwe/
+Mont-Laurier
+  IPA: /mɔ̃.lɔ.ʁje/
+Lac-du-Cerf
+  IPA: /lak.dy.sɛʁf/
+Chute-Saint-Philippe
+  IPA: /ʃyt.sɛ̃.fi.lip/
+Lac-Saint-Paul
+  IPA: /lak.sɛ̃.pol/
+Saint-Aimé-du-Lac-des-Îles
+  IPA: /sɛ̃.ɛ.me.dy.lak.de.z‿il/
+  IPA: /sɛ̃.e.me.dy.lak.de.z‿il/
+Sainte-Anne-du-Lac
+  IPA: /sɛ̃.tan.dy.lak/
+Brébeuf
+  IPA: /bʁe.bœf/
+Nominingue
+  IPA: /nɔ.mi.nɛ̃ɡ/
+L'Ascension
+  IPA: /l‿a.sɑ̃.sjɔ̃/
+La Macaza
+  IPA: /la ma.ka.za/
+Mont-Saint-Michel
+  IPA: /mɔ̃.sɛ̃.mi.ʃɛl/
+Kiamika
+  IPA: /ki.a.mi.ka/
+Val-des-Lacs
+  IPA: /val.de.lak/
+Val-David
+  IPA: /val.da.vid/
+Ferme-Neuve
+  IPA: /fɛʁm.nœv/
+Notre-Dame-de-Pontmain
+  IPA: /nɔtʁ.dam.də.pɔ̃t.mɛ̃/
+Notre-Dame-du-Laus
+  IPA: /nɔtʁ.dam.dy.los/
+Lantier
+  IPA: /lɑ̃.tje/
+Mont-Blanc
+  IPA: /mɔ̃.blɑ̃/
+Lac-des-Écorces
+  IPA: /lak.de.z‿e.kɔʁs/
+Val-Morin
+  IPA: /val.mɔ.ʁɛ̃/
+Petit Maghreb
+  IPA: /pə.ti ma.ɡʁɛb/
+Anselme
+  IPA: /ɑ̃.sɛlm/
+La Minerve
+  IPA: /la mi.nɛʁv/
+Huberdeau
+  IPA: /y.bɛʁ.do/
+La Conception
+  IPA: /la kɔ̃.sɛp.sjɔ̃/
+Lac-Supérieur
+  IPA: /lak.sy.pe.ʁjœʁ/
+Lac-Tremblant-Nord
+  IPA: /lak.tʁɑ̃.blɑ̃.nɔʁ/
+Ivry-sur-le-Lac
+  IPA: /i.vʁi.syʁ.lə.lak/
+Sainte-Lucie-des-Laurentides
+  IPA: /sɛ̃.tly.si.de.lɔ.ʁɑ̃.tid/
+Mont-Tremblant
+  IPA: /mɔ̃.tʁɑ̃.blɑ̃/
+Barkmere
+  IPA: /baʁk.meʁ/
+Sainte-Agathe-des-Monts
+  IPA: /sɛ̃.t‿a.ɡa.tə.de.mɔ̃/
+Lac-des-Seize-Îles
+  IPA: /lak.de.sɛ.z‿il/
+  IPA: /lak.de.se.z‿il/
+Palatin
+  IPA: /pa.la.tɛ̃/
+Capitole
+  IPA: /ka.pi.tɔl/
+Aventin
+  IPA: /a.vɑ̃.tɛ̃/
+Viminal
+  IPA: /vi.mi.nal/
+Chapteuil
+  IPA: /ʃap.tœj/
+Æmile
+  IPA: /e.mil/
+Circé
+  IPA: /siʁ.se/
+Geaam
+  IPA: /ʒa.am/
+Flamel
+  IPA: /fla.mɛl/
+Synésios
+  IPA: /si.ne.zjos/
+  IPA: /si.ne.zjɔs/
+Synésius
+  IPA: /si.ne.zjys/
+Annonay
+  IPA: /a.nɔ.nɛ/
+Aurignac
+  IPA: /ɔ.ʁi.ɲak/
+Mackendy
+  IPA: /ma.kɛn.si/
+Makensy
+  IPA: /ma.kɛn.si/
+Calixthe
+  IPA: /ka.likst/
+Beyala
+  IPA: /bɛ.ja.la/
+  IPA: /be.ja.la/
+Orcel
+  IPA: /ɔʁ.sɛl/
+OLAF
+  IPA: /o.laf/
+Poustilnik
+  IPA: /pus.til.nik/
+Makenzy
+  IPA: /ma.kɛn.zi/
+Assouline
+  IPA: /a.su.lin/
+Philarète
+  IPA: /fi.la.ʁɛt/
+Philarétus
+  IPA: /fi.la.ʁe.ty/
+Kylian
+  IPA: /ki.ljɑ̃/
+Kéka
+  IPA: /ke.ka/
+Menkao
+  IPA: /mɛn.ka.o/
+Jean-Patrice
+  IPA: /ʒə.ɑ̃.pa.tʁis/
+Jean-Hugues
+  IPA: /ʒə.ɑ̃.yɡ/
+Broulard
+  IPA: /bʁu.laʁ/
+Salomé
+  IPA: /sa.lɔ.me/
+Monflanquin
+  IPA: /mɔ̃.flɑ̃.kɛ̃/
+Anglade
+  IPA: /ɑ̃.ɡlad/
+Mouliéris
+  IPA: /mu.lje.ʁi/
+Gilou
+  IPA: /ʒi.lu/
+Gilou
+  IPA: /ʒi.lu/
+Vieux-Fort
+  IPA: /vjø.fɔʁ/
+Francazal
+  IPA: /fʁɑ̃.ka.zal/
+Castelbiague
+  IPA: /kas.tɛl.bjaɡ/
+Cazavet
+  IPA: /ka.za.vɛ/
+Beaumes-de-Venise
+  IPA: /bom.də.v(ə).niz/
+Prat-Bonrepaux
+  IPA: /pʁa.bɔ̃ʁ.po/
+Sengouagnet
+  IPA: /sɑ̃.ɡwa.ɲɛ/
+Lorp-Sentaraille
+  IPA: /lɔʁ.sɑ̃.ta.ʁaj/
+Rouède
+  IPA: /ʁwɛd/
+Montastruc-de-Salies
+  IPA: /mɔ̃.tas.tʁyk.də.sa.lis/
+Gayan
+  IPA: /ɡɛ.jɑ̃/
+  IPA: /ɡe.jɑ̃/
+Angelier
+  IPA: /ɑ̃.ʒə.lje/
+Lannes
+  IPA: /lan/
+Sauvagnas
+  IPA: /so.va.ɲa/
+  IPA: /so.va.ɲɑ/
+Gueltas
+  IPA: /ɡɛl.ta/
+  IPA: /ɡɛl.tɑ/
+Kerfourn
+  IPA: /kɛʁ.fuʁn/
+Saint-Barnabé
+  IPA: /sɛ̃.baʁ.na.be/
+Clohars-Fouesnant
+  IPA: /klɔ.aʁ.fwɛs.nɑ̃/
+Noyal-Pontivy
+  IPA: /nwa.jal.pɔ̃.ti.vi/
+Spézet
+  IPA: /spe.zɛ/
+Érone
+  IPA: /e.ʁɔn/
+San-Lorenzo
+  IPA: /sɑ̃.lɔ.ʁɑ̃.zo/
+Herzégovine
+  IPA: /ɛʁ.ze.ɡɔ.vin/
+Sauvignac
+  IPA: /so.vi.ɲak/
+Sauvagnac
+  IPA: /so.va.ɲak/
+Chine libre
+  IPA: /ʃin libʁ/
+Notre-Dame-des-Landes
+  IPA: /nɔ.tʁə.dam.de.lɑ̃d/
+Soulaires
+  IPA: /su.lɛʁ/
+Bouglainval
+  IPA: /bu.ɡlɛ̃.val/
+Champhol
+  IPA: /ʃɑ̃.fɔl/
+Coltainville
+  IPA: /kɔl.tɛ̃.vil/
+Jouy
+  IPA: /ʒwij/
+Chartainvilliers
+  IPA: /ʃaʁ.tɛ̃.vij.je/
+Saint-Prest
+  IPA: /sɛ̃.pʁɛst/
+Serazereux
+  IPA: /sə.ʁaz.ʁø/
+Gasville-Oisème
+  IPA: /ɡas.vij.wa.zɛm/
+Nogent-le-Phaye
+  IPA: /nɔ.ʒɑ̃.l(ə).fɛj/
+Saint-Piat
+  IPA: /sɛ̃.pja/
+Chemetoff
+  IPA: /ʃe.me.tɔf/
+Piat
+  IPA: /pja/
+Slami
+  IPA: /sla.mi/
+Néris-les-Bains
+  IPA: /ne.ʁi.le.bɛ̃/
+Foulques
+  IPA: /fulk/
+Chicheportiche
+  IPA: /ʃiʃ.pɔʁ.tiʃ/
+Tétouan
+  IPA: /te.twɑ̃/
+Bioteau
+  IPA: /bjɔ.to/
+État de la Cité du Vatican
+  IPA: /e.ta d(ə) la si.te dy va.ti.kɑ̃/
+Toison d'or
+  IPA: /twa.zɔ̃ d‿ɔʁ/
+Odjick
+  IPA: /ɔ.dʒik/
+Domalain
+  IPA: /dɔ.ma.lɛ̃/
+Niafles
+  IPA: /njafl/
+Arbrissel
+  IPA: /aʁ.bʁi.sɛl/
+Pouancé
+  IPA: /pwɑ̃.se/
+Vergéal
+  IPA: /vɛʁ.ʒe.al/
+Saint-Évarzec
+  IPA: /sɛ̃.e.vaʁ.zɛk/
+Bruz
+  IPA: /bʁy/
+Failler
+  IPA: /fa.je/
+Combourg
+  IPA: /kɔ̃.buʁ/
+Plouha
+  IPA: /plu.a/
+Pontrieux
+  IPA: /pɔ̃.tʁi.jø/
+Liffré
+  IPA: /li.fʁe/
+Janzé
+  IPA: /ʒɑ̃.ze/
+Saint-Vaast-la-Hougue
+  IPA: /sɛ̃.va.as.tla.uɡ/
+Saint-Quay-Portrieux
+  IPA: /sɛ̃.kɛ.pɔʁ.tʁi.jø/
+Squiffiec
+  IPA: /ski.fjɛk/
+Trégonneau
+  IPA: /tʁe.ɡɔ.no/
+Tinténiac
+  IPA: /tɛ̃.te.njak/
+Dol-de-Bretagne
+  IPA: /dɔl.də.bʁə.taɲ/
+Lanvollon
+  IPA: /lɑ̃.vɔ.lɔ̃/
+Louvigné-du-Désert
+  IPA: /lu.vi.ɲe.dy.de.zɛʁ/
+Rannée
+  IPA: /ʁa.ne/
+Trégomeur
+  IPA: /tʁe.ɡɔ.mœʁ/
+Trébeurden
+  IPA: /tʁə.bɛʁ.dɛ̃/
+Craon
+  IPA: /kʁɑ̃/
+Saint-Guilhem-le-Désert
+  IPA: /sɛ̃.ɡi.lɛm.lə.de.zɛʁ/
+Rosporden
+  IPA: /ʁɔs.pɔʁ.dɑ̃/
+Huelgoat
+  IPA: /ɥɛl.ɡɔ.at/
+Jipi
+  IPA: /ʒi.pi/
+Ozanam
+  IPA: /o.za.nam/
+Murzeau
+  IPA: /myʁ.zo/
+Ozanne
+  IPA: /o.zan/
+Ozenne
+  IPA: /o.zɛn/
+Imbach
+  IPA: /ɛ̃.baʃ/
+Brindes
+  IPA: /bʁɛ̃d/
+États pontificaux
+  IPA: /e.ta pɔ̃.ti.fi.ko/
+Contre-Réforme
+  IPA: /kɔ̃.tʁə.ʁe.fɔʁm/
+Îles Salomon
+  IPA: /il sa.lɔ.mɔ̃/
+Golconde
+  IPA: /ɡɔl.kɔ̃d/
+Gazeau
+  IPA: /ɡa.zo/
+Gaziaux
+  IPA: /ɡa.zjo/
+Chlef
+  IPA: /ʃlɛf/
+Bouhadeb
+  IPA: /bu.a.dɛb/
+  IPA: /bu.ha.dɛb/
+Boutaleb
+  IPA: /bu.ta.lɛb/
+Mouligneau
+  IPA: /mu.li.ɲo/
+Mouchet
+  IPA: /mu.ʃɛ/
+Meurice
+  IPA: /møʁis/
+Quinet
+  IPA: /ki.nɛ/
+Droixhe
+  IPA: /dʁwaks/
+Meauxsoone
+  IPA: /mok.sɔ.ɔn/
+Salente
+  IPA: /sa.lɑ̃t/
+Féloche
+  IPA: /fe.lɔʃ/
+Félicie
+  IPA: /fe.li.si/
+Cixous
+  IPA: /sik.su/
+Georgeaux
+  IPA: /ʒɔʁ.ʒo/
+SCRS
+  IPA: /ɛs.se.ɛ.ʁ‿ɛs/
+  IPA: /ɛs.se.e.ʁ‿ɛs/
+SCFP
+  IPA: /ɛs.se.ɛf.pe/
+SQDC
+  IPA: /es.ky.de.se/
+  IPA: /ɛs.ky.de.se/
+SCHL
+  IPA: /ɛs.se.a.ʃ‿ɛl/
+INCA
+  IPA: /ɛ̃.ka/
+EDSC
+  IPA: /e.de.ɛ.se/
+DRHC
+  IPA: /de.ɛ.ʁaʃ.se/
+  IPA: /de.e.ʁaʃ.se/
+SAQ
+  IPA: /sak/
+TUAC
+  IPA: /tɥak/
+FEESO
+  IPA: /fe.ɛ.so/
+STTP
+  IPA: /ɛs.te.te.pe/
+IRCC
+  IPA: /i.ɛʁ.se.se/
+HNR
+  IPA: /a.ʃ‿ɛ.n‿ɛʁ/
+  IPA: /a.ʃ‿e.n‿ɛʁ/
+Chichportich
+  IPA: /ʃiʃ.pɔʁ.tiʃ/
+Ablons
+  IPA: /a.blɔ̃/
+Ablon-sur-Seine
+  IPA: /a.blɔ̃.syʁ.sɛn/
+Ablon
+  IPA: /a.blɔ̃/
+Roucas
+  IPA: /ʁu.ka/
+  IPA: /ʁu.kɑ/
+Altaï
+  IPA: /al.taj/
+Saint-Marcellin
+  IPA: /sɛ̃.maʁ.sɛ.lɛ̃/
+  IPA: /sɛ̃.maʁ.se.lɛ̃/
+Liabeuf
+  IPA: /lja.bœf/
+Jarnac
+  IPA: /ʒaʁ.nak/
+Quiévrechain
+  IPA: /kje.vʁə.ʃɛ̃/
+Watteau
+  IPA: /va.to/
+Chaillot
+  IPA: /ʃa.jo/
+Montparnasse
+  IPA: /mɔ̃.paʁ.nas/
+Javel
+  IPA: /ʒa.vɛl/
+Auteuil
+  IPA: /o.tœj/
+Gaudérique
+  IPA: /ɡo.de.ʁik/
+Gaudéric
+  IPA: /ɡo.de.ʁik/
+Saint-Gaudéric
+  IPA: /sɛ̃.ɡo.de.ʁik/
+Saint-Gaudérique
+  IPA: /sɛ̃.ɡo.de.ʁik/
+Sant Galdric
+  IPA: /sɑ̃ ɡal.dʁik/
+Salses-le-Château
+  IPA: /sal.s(ə).lə.ʃa.to/
+  IPA: /sal.s(ə).lə.ʃɑ.to/
+Longchamp
+  IPA: /lɔ̃.ʃɑ̃/
+Pagnol
+  IPA: /pa.ɲɔl/
+Piray
+  IPA: /pi.ʁɛ/
+Baix Vernet
+  IPA: /bɛ vɛʁ.nɛ/
+Clos Banet
+  IPA: /klo ba.nɛ/
+Bas-Vernet
+  IPA: /ba.vɛʁ.nɛ/
+  IPA: /bɑ.vɛʁ.nɛ/
+Sant Vicenç
+  IPA: /sɑ̃ vi.sɑ̃s/
+Mas Guérido
+  IPA: /mas ɡe.ʁi.do/
+Moulin-à-Vent
+  IPA: /mu.lɛ̃.a.vɑ̃/
+Château-Roussillon
+  IPA: /ʃa.to.ʁu.si.jɔ̃/
+  IPA: /ʃɑ.to.ʁu.si.jɔ̃/
+Villelongue-de-la-Salanque
+  IPA: /vij.lɔ̃ɡ.də.la.sa.lɑ̃k/
+Torreilles
+  IPA: /tɔ.ʁɛj/
+Torreilles
+  IPA: /tɔ.ʁɛj/
+Espira-de-l'Agly
+  IPA: /ɛs.pi.ʁa.d(ə).l‿a.ɡli/
+Basses-Alpes
+  IPA: /bas.z‿alp/
+Bannalec
+  IPA: /ba.na.lɛk/
+Le Guilvinec
+  IPA: /lə ɡil.vi.nɛk/
+Concarneau
+  IPA: /kɔ̃.kaʁ.no/
+Pontivy
+  IPA: /pɔ̃.ti.vi/
+Loudéac
+  IPA: /lu.de.ak/
+Guilvinec
+  IPA: /ɡil.vi.nɛk/
+Douarnenez
+  IPA: /dwaʁ.nə.ne/
+Quimperlé
+  IPA: /kɛ̃.pɛʁ.le/
+Pont-Aven
+  IPA: /pɔ̃.a.vɑ̃/
+Audierne
+  IPA: /o.djɛʁn/
+Karakoulov
+  IPA: /ka.ʁa.ku.lɔv/
+Lamarque
+  IPA: /la.maʁk/
+Saint-Trojan-les-Bains
+  IPA: /sɛ̃.tʁɔ.ʒɑ̃.le.bɛ̃/
+Picquier
+  IPA: /pi.kje/
+Picquigny
+  IPA: /pi.ki.ɲi/
+Caulières
+  IPA: /ko.ljɛʁ/
+Bettembos
+  IPA: /bɛ.tɑ̃.bo/
+  IPA: /be.tɑ̃.bo/
+Naours
+  IPA: /na.uʁ/
+Vignacourt
+  IPA: /vi.ɲa.kuʁ/
+Offignies
+  IPA: /ɔ.fi.ɲi/
+Doullens
+  IPA: /du.lɑ̃/
+Lucheux
+  IPA: /ly.ʃø/
+Cambligneul
+  IPA: /kɑ̃.bli.ɲœl/
+Ath
+  IPA: /at/
+Liévin
+  IPA: /lje.vɛ̃/
+Mouscron
+  IPA: /mu.kʁɔ̃/
+Wattrelos
+  IPA: /wa.tʁə.lo/
+Wingles
+  IPA: /wɛ̃ɡl/
+Soignies
+  IPA: /swa.ɲi/
+Courtrai
+  IPA: /kuʁ.tʁɛ/
+Chièvres
+  IPA: /ʃjɛvʁ/
+Haubourdin
+  IPA: /o.buʁ.dɛ̃/
+Souchez
+  IPA: /su.ʃe/
+Akwesasne
+  IPA: /a.kwe.zas.ne/
+Denamiel
+  IPA: /də.na.mjɛl/
+Dezaly
+  IPA: /də.za.li/
+Soum
+  IPA: /sum/
+Bettachini
+  IPA: /bɛ.ta.ʃi.ni/
+  IPA: /be.ta.ʃi.ni/
+Mesrine
+  IPA: /mə.sʁin/
+Astolphe
+  IPA: /as.tɔlf/
+LICRA
+  IPA: /li.kʁa/
+AFPC
+  IPA: /a.ɛf.pe.se/
+Saint-Cyr
+  IPA: /sɛ̃.siʁ/
+La Grande-Motte
+  IPA: /la ɡʁɑ̃d.mɔt/
+Le Beaucet
+  IPA: /lə bo.sɛ/
+Venasque
+  IPA: /və.nask/
+mer Tyrrhène
+  IPA: /mɛʁ ti.ʁɛn/
+mer Tyrrhénienne
+  IPA: /mɛʁ ti.ʁe.njɛn/
+îles Égéennes
+  IPA: /le.z‿il.z‿e.ʒe.ɛn/
+îles Égées
+  IPA: /le.z‿il.z‿e.ʒe/
+océan Austral
+  IPA: /ɔ.se.ɑ̃ os.tʁal/
+Basses-Pyrénées
+  IPA: /bas.pi.ʁe.ne/
+GIEC
+  IPA: /ʒjɛk/
+Égée
+  IPA: /e.ʒe/
+Égée
+  IPA: /e.ʒe/
+Carpentras
+  IPA: /kaʁ.pɑ̃.tʁa/
+  IPA: /kaʁ.pɑ̃.tʁas/
+Laghouat
+  IPA: /la.ɡwat/
+Dewarrat
+  IPA: /də.wa.ʁa/
+Exbrayat
+  IPA: /ɛks.bʁɛ.ja/
+  IPA: /ɛks.bʁe.ja/
+Pigasse
+  IPA: /pi.ɡas/
+Farabeuf
+  IPA: /fa.ʁa.bœf/
+Erlanger
+  IPA: /ɛʁ.lɑ̃.ʒe/
+Austria-la-Romaine
+  IPA: /os.tʁi.ja.la.ʁɔ.mɛn/
+Moumoulous
+  IPA: /mu.mu.lu/
+Vaison-la-Romaine
+  IPA: /vɛ.zɔ̃.la.ʁɔ.mɛn/
+  IPA: /ve.zɔ̃.la.ʁɔ.mɛn/
+Saint-Sever-de-Rustan
+  IPA: /sɛ̃.s(ə).ve.d(ə).ʁys.tɑ̃/
+Rouaix
+  IPA: /ʁwɛ/
+Roaix
+  IPA: /ʁɔ.ɛ/
+Saint-Marcellin-lès-Vaison
+  IPA: /sɛ̃.maʁ.sɛ.lɛ̃.lɛ.vɛ.zɔ̃/
+  IPA: /sɛ̃.maʁ.se.lɛ̃.lɛ.ve.zɔ̃/
+Zéralda
+  IPA: /ze.ʁal.da/
+Szlamowicz
+  IPA: /szla.mɔ.wik/
+Mercie
+  IPA: /mɛʁ.si/
+OLP
+  IPA: /ɔ.ɛl.pe/
+Trois Glorieuses
+  IPA: /tʁwa ɡlɔ.ʁjøz/
+Fontanes
+  IPA: /fɔ̃.tan/
+Le Mas-d'Azil
+  IPA: /lə ma.d‿a.zil/
+  IPA: /lə mɑ.d‿a.zil/
+Trente Glorieuses
+  IPA: /tʁɑ̃t ɡlɔ.ʁjøz/
+Souvignargues
+  IPA: /su.vi.ɲaʁɡ/
+Tournay
+  IPA: /tuʁ.naj/
+  IPA: /tuʁ.nɛ/
+Tournay
+  IPA: /tuʁ.nɛ/
+Fontanès
+  IPA: /fɔ̃.ta.nɛ/
+Fontanès
+  IPA: /fɔ̃.ta.nɛ/
+Canet
+  IPA: /ka.nɛ/
+Canet
+  IPA: /ka.nɛ/
+Dzovag
+  IPA: /dzɔ.vaɡ/
+Flandre-Orientale
+  IPA: /flɑ̃.dʁɔ.ʁjɑ̃.tal/
+Flandre-Occidentale
+  IPA: /flɑ̃.dʁɔk.si.dɑ̃.tal/
+Alénya
+  IPA: /a.le.nja/
+Têt
+  IPA: /tɛ/
+Agly
+  IPA: /a.ɡli/
+Tech
+  IPA: /tɛk/
+Villeneuve-de-la-Raho
+  IPA: /vij.nœv.də.la.ʁa.o/
+Saleilles
+  IPA: /sa.lɛj/
+Théza
+  IPA: /te.za/
+Ille-sur-Têt
+  IPA: /il.syʁ.tɛ/
+Arles-sur-Tech
+  IPA: /aʁ.l(ə).syʁ.tɛʃ/
+Phocée
+  IPA: /fɔ.se/
+Montjoie
+  IPA: /mɔ̃.ʒwa/
+Montjoie
+  IPA: /mɔ̃.ʒwa/
+Rodès
+  IPA: /ʁɔ.dɛs/
+Bouleternère
+  IPA: /bul.tɛʁ.nɛʁ/
+Vinça
+  IPA: /vɛ̃.sa/
+Bobovnikoff
+  IPA: /bɔ.bɔv.ni.kɔf/
+Mérignac
+  IPA: /me.ʁi.ɲak/
+Blagnac
+  IPA: /bla.ɲak/
+Blaignac
+  IPA: /blɛ.ɲak/
+  IPA: /ble.ɲak/
+Trein
+  IPA: /tʁɛ̃/
+Saint-Lizier d'Ustou
+  IPA: /sɛ̃.li.zje d‿ys.tu/
+Ustou
+  IPA: /ys.tu/
+Optevoz
+  IPA: /ɔp.tə.vo/
+Gaule chevelue
+  IPA: /ɡol ʃə.v(ə).ly/
+Quillévéré
+  IPA: /ki.le.ve.ʁe/
+Achache
+  IPA: /a.ʃaʃ/
+Haenel
+  IPA: /a.nɛl/
+Fareng
+  IPA: /fa.ʁɑ̃/
+Ledrue
+  IPA: /lə.dʁy/
+Landru
+  IPA: /lɑ̃.dʁy/
+Ledru
+  IPA: /lə.dʁy/
+Allais
+  IPA: /a.lɛ/
+Farreng
+  IPA: /fa.ʁɑ̃/
+Pontacq
+  IPA: /pɔ̃.tak/
+Pampelune
+  IPA: /pɑ̃.plyn/
+Pompélona
+  IPA: /pɔ̃.pe.lɔ.na/
+Pampelonne
+  IPA: /pɑ̃.plɔn/
+Monsanglant
+  IPA: /mɔ̃.sɑ̃.ɡlɑ̃/
+Ouillon
+  IPA: /u.jɔ̃/
+Ousteau
+  IPA: /us.to/
+Tomblaine
+  IPA: /tɔ̃.blɛn/
+Tombelaine
+  IPA: /tɔ̃.blɛn/
+Genêts
+  IPA: /ʒə.nɛ/
+Ouilhon
+  IPA: /u.jɔ̃/
+Bulgnéville
+  IPA: /byl.ɲe.vij/
+Saulxures-sur-Moselotte
+  IPA: /sol.syʁ.syʁ.moz.lɔt/
+Orlu
+  IPA: /ɔʁ.ly/
+Saulxures
+  IPA: /sol.syʁ/
+Tremblay-en-France
+  IPA: /tʁɑ̃.blɛ.ɑ̃.fʁɑ̃s/
+Sucy-en-Brie
+  IPA: /sy.si.ɑ̃.bʁi/
+Orgeix
+  IPA: /ɔʁ.ʒɛ/
+Oustalet
+  IPA: /us.ta.lɛ/
+Saulxures-lès-Nancy
+  IPA: /sol.syʁ.lɛ.nɑ̃.si/
+Oustau
+  IPA: /us.to/
+Saulxures-lès-Vannes
+  IPA: /sol.syʁ.lɛ.van/
+Saulxures-lès-Bulgnéville
+  IPA: /sol.syʁ.lɛ.byl.ɲe.vij/
+Bréant
+  IPA: /bʁe.ɑ̃/
+Ortholan
+  IPA: /ɔʁ.tɔ.lɑ̃/
+Buridan
+  IPA: [byʁidɑ̃]
+Binoche
+  IPA: /bi.nɔʃ/
+Valdegour
+  IPA: /val.də.ɡuʁ/
+Pissevin
+  IPA: /pis.vɛ̃/
+Vaquerolles
+  IPA: /va.kʁɔl/
+Lévézou
+  IPA: /le.ve.zu/
+Montignargues
+  IPA: /mɔ̃.ti.ɲaʁɡ/
+Gardon
+  IPA: /ɡaʁ.dɔ̃/
+Saint-Bauzély
+  IPA: /sɛ̃.bo.ze.li/
+Saint-Beauzély
+  IPA: /sɛ̃.bo.ze.li/
+Pissevin-Valdegour
+  IPA: /pis.vɛ̃.val.də.ɡuʁ/
+Royaume d'Espagne
+  IPA: /ʁwa.jom d‿ɛs.paɲ/
+Metge
+  IPA: /mɛtʒ/
+Jankélévitch
+  IPA: /ʒɑ̃.ke.le.vitʃ/
+Chêne de Charles
+  IPA: /ʃɛn də ʃaʁl/
+Chêne de Charles II
+  IPA: /ʃɛn də ʃaʁ.l(ə) dø.zjɛm/
+Gargantua
+  IPA: /ɡaʁ.ɡɑ̃.tɥa/
+Soljenitsyne
+  IPA: /sɔl.ʒə.nit.sin/
+Astruc
+  IPA: /as.tʁyk/
+Sainté
+  IPA: /sɛ̃.te/
+Cramchaban
+  IPA: /kʁam.ʃa.bɑ̃/
+Cram-Chaban
+  IPA: /kʁam.ʃa.bɑ̃/
+Betafo
+  IPA: /be.ta.fo/
+Mauzé-sur-le-Mignon
+  IPA: /mo.ze.syʁ.lə.mi.ɲɔ̃/
+Vakinankaratra
+  IPA: /va.ki.nɑ̃.ka.ʁa.tʁa/
+Torcé
+  IPA: /tɔʁ.se/
+Mauzé
+  IPA: /mo.ze/
+Caramel
+  IPA: /ka.ʁa.mɛl/
+Pison
+  IPA: /pi.zɔ̃/
+Noailhac
+  IPA: /nɔ.a.jak/
+Boissezon
+  IPA: /bwas.zɔ̃/
+Notre-Dame
+  IPA: /nɔ.tʁə.dam/
+Rascol
+  IPA: /ʁas.kɔl/
+Bradfer
+  IPA: /bʁad.fe/
+Dutriez
+  IPA: /dy.tʁi.je/
+mer du Nord
+  IPA: /mɛʁ dy nɔʁ/
+Itxassou
+  IPA: /it.sa.su/
+Arbonne
+  IPA: /aʁ.bɔn/
+Souraïde
+  IPA: /su.ʁa.id/
+Macaye
+  IPA: /ma.kɛj/
+Guéthary
+  IPA: /ɡe.ta.ʁi/
+Bidart
+  IPA: /bi.daʁ/
+Louhossoa
+  IPA: /lu.ɔ.sɔ.a/
+Ascarat
+  IPA: /as.ka.ʁa/
+Saint-Jean-de-Luz
+  IPA: /sɛ̃.ʒə.ɑ̃.d(ə).ly/
+Argelès
+  IPA: /aʁ.ʒə.lɛ/
+Espelette
+  IPA: /ɛs.pə.lɛt/
+Arcangues
+  IPA: /aʁ.kɑ̃ɡ/
+Bassussarry
+  IPA: /ba.sy.sa.ʁi/
+Murdochville
+  IPA: /mœʁ.dɔk.vil/
+Saint-Pascal
+  IPA: /sɛ̃.pas.kal/
+Baie-Comeau
+  IPA: /bɛ.kɔ.mo/
+Le Boulou
+  IPA: /lə bu.lu/
+Havre-Saint-Pierre
+  IPA: /a.vʁə.sɛ̃.pjɛʁ/
+Baie-Saint-Paul
+  IPA: /bɛ.sɛ̃.pol/
+Mont-Joli
+  IPA: /mɔ̃.ʒɔ.li/
+Trois-Pistoles
+  IPA: /tʁwa.pis.tɔl/
+Vaudreuil-Dorion
+  IPA: /vo.dʁœj.dɔ.ʁjɔ̃/
+Lourdes-de-Blanc-Sablon
+  IPA: /luʁ.d(ə).də.blɑ̃.sa.blɔ̃/
+Sainte-Anne-des-Monts
+  IPA: /sɛ̃.tan.de.mɔ̃/
+Saint-Jean-Pla-de-Corts
+  IPA: /sɛ̃.ʒə.ɑ̃.pla.d(ə).kɔʁ/
+Saint-Lambert-de-Lauzon
+  IPA: /sɛ̃.lɑ̃.bɛʁ.də.lo.zɔ̃/
+Canet-en-Roussillon
+  IPA: /ka.nɛ.ɑ̃.ʁu.si.jɔ̃/
+Lebel-sur-Quévillon
+  IPA: /lə.bɛl.syʁ.ke.vi.jɔ̃/
+Saint-Augustin-de-Desmaures
+  IPA: /sɛ̃.t‿o.ɡys.tɛ̃.də.de.mɔʁ/
+Sorel-Tracy
+  IPA: /sɔ.ʁɛl.tʁa.si/
+Saint-Jean-sur-Richelieu
+  IPA: /sɛ̃.ʒɑ̃.syʁ.ʁi.ʃə.ljø/
+Marsoui
+  IPA: /maʁ.swi/
+Argelès-sur-Mer
+  IPA: /aʁ.ʒə.lɛ.syʁ.mɛʁ/
+Salaberry-de-Valleyfield
+  IPA: /sa.la.bɛ.ʁi.d(ə).va.le.fild/
+  IPA: /sa.la.be.ʁi.d(ə).va.le.fild/
+Saint-Joseph-de-Beauce
+  IPA: /sɛ̃.ʒo.zɛf.də.bos/
+Saint-Laurent-de-la-Salanque
+  IPA: /sɛ̃.lɔ.ʁɑ̃.d(ə).la.sa.lɑ̃k/
+Prétoria
+  IPA: /pʁe.tɔ.ʁja/
+Lecumberry
+  IPA: /lə.kœ̃.bɛ.ʁi/
+  IPA: /lə.kœ̃.be.ʁi/
+Dédé
+  IPA: /de.de/
+Thessalie
+  IPA: /tɛ.sa.li/
+  IPA: /te.sa.li/
+Tigranocerte
+  IPA: /ti.ɡʁa.nɔ.sɛʁt/
+Threads
+  IPA: /tʁɛd/
+  IPA: /tʁɛdz/
+  IPA: /sʁɛdz/
+Trentin-Haut-Adige
+  IPA: /tʁɑ̃.tɛ̃.o.a.diʒ/
+Émilie-Romagne
+  IPA: /e.mi.li.ʁɔ.maɲ/
+Lépine
+  IPA: /le.pin/
+Lépine
+  IPA: /le.pin/
+Séguier
+  IPA: /se.ɡje/
+Trébizonde
+  IPA: /tʁe.bi.zɔ̃d/
+Moselotte
+  IPA: /moz.lɔt/
+Chipiez
+  IPA: /ʃi.pje/
+Cimiez
+  IPA: /si.mje/
+Crémone
+  IPA: /kʁe.mɔn/
+Numance
+  IPA: /ny.mɑ̃s/
+Guillou
+  IPA: /ɡi.ju/
+perfide Albion
+  IPA: /pɛʁ.fid al.bjɔ̃/
+Jaille
+  IPA: /ʒaj/
+Djaïpour
+  IPA: /dʒa.i.puʁ/
+Thiellement
+  IPA: /tjɛl.mɑ̃/
+Chautemps
+  IPA: /ʃo.tɑ̃/
+Yorgantz
+  IPA: /jɔʁ.ɡɑ̃ts/
+Ardouin
+  IPA: /aʁ.dwɛ̃/
+Ardouin
+  IPA: /aʁ.dwɛ̃/
+Lacan
+  IPA: /la.kɑ̃/
+Bakavi
+  IPA: /ba.ka.vi/
+Cournut
+  IPA: /kuʁ.ny/
+Hotevilla-Bacavi
+  IPA: /ɔt.vi.ja.ba.ka.vi/
+Egor
+  IPA: /ə.ɡɔʁ/
+Balazeïkine
+  IPA: /ba.la.zə.i.kin/
+Noëlla
+  IPA: /nɔ.la/
+Tôtes
+  IPA: /tot/
+Laliberté
+  IPA: /la.li.bɛʁ.te/
+île Seguin
+  IPA: /il sə.ɡɛ̃/
+Deslauriers
+  IPA: /də.slɔ.ʁje/
+Dieu le Saint-Esprit
+  IPA: /djø l(ə) sɛ̃ ɛs.pʁi/
+Vioulac
+  IPA: /vju.lak/
+Laureline
+  IPA: /lɔʁ.lin/
+Lardeux
+  IPA: /laʁ.dø/
+Raybaud
+  IPA: /ʁɛj.bo/
+Tiyana
+  IPA: /ti.ja.na/
+Guerlain
+  IPA: /ɡɛʁ.lɛ̃/
+Symè
+  IPA: /si.mɛ/
+Poirot
+  IPA: /pwa.ʁo/
+Boriaud
+  IPA: /bɔ.ʁjo/
+Simmi
+  IPA: /si.mi/
+Chersonèse Taurique
+  IPA: /kɛʁ.sɔ.nɛz tɔ.ʁik/
+  IPA: /kɛʁ.sɔ.nɛz to.ʁik/
+Symi
+  IPA: /si.mi/
+Moncoq
+  IPA: /mɔ̃.kɔk/
+Australasie
+  IPA: /os.tʁa.la.zi/
+Kinew
+  IPA: /ki.nɛw/
+Laloum
+  IPA: /la.lum/
+Lalloum
+  IPA: /la.lum/
+Cazalé
+  IPA: /ka.za.le/
+Rocher
+  IPA: /ʁɔ.ʃe/
+Buchez
+  IPA: /by.ʃe/
+Clémie
+  IPA: /kle.mi/
+Andréassian
+  IPA: /ɑ̃.dʁe.a.sjɑ̃/
+Andreassian
+  IPA: /ɑ̃.dʁe.a.sjɑ̃/
+Marwan
+  IPA: /ma.ʁwan/
+Alizée
+  IPA: /a.li.ze/
+K. T.
+  IPA: /k. t./
+Toulou
+  IPA: /tu.lu/
+Toulouze
+  IPA: /tu.luz/
+Thoulouze
+  IPA: /tu.luz/
+Toulouges
+  IPA: /tu.luʒ/
+Tagliaferro
+  IPA: /ta.ɡli.ja.fɛ.ʁo/
+  IPA: /ta.ɡli.ja.fe.ʁo/
+Béa
+  IPA: /be.a/
+Alexanian
+  IPA: /a.lɛk.sa.njɑ̃/
+Milosavljevic
+  IPA: /mi.lo.za.vlʒə.vik/
+Mandurie
+  IPA: /mɑ̃.dy.ʁi/
+Vinciane
+  IPA: /vɛ̃.sjan/
+Despret
+  IPA: /dɛs.pʁɛ/
+Desprets
+  IPA: /dɛs.pʁɛ/
+Sanssouci
+  IPA: /sɑ̃.su.si/
+Koumetz
+  IPA: /ku.mɛts/
+Hannedouche
+  IPA: /an.duʃ/
+Archag
+  IPA: /aʁ.ʃaɡ/
+Tchobanian
+  IPA: /tʃɔ.ba.njɑ̃/
+Grenier de Lascouinettes
+  IPA: /ɡʁə.nje d(ə) las.kwi.nɛt/
+Rida
+  IPA: /ʁi.da/
+Guignol
+  IPA: /ɡi.ɲɔl/
+Mödlareuth
+  IPA: /mɔ.dla.ʁøt/
+Tits
+  IPA: /ti/
+Grolet
+  IPA: /ɡʁɔ.lɛ/
+Europe de l'Ouest
+  IPA: /ø.ʁɔp də l‿wɛst/
+Europe de l'Est
+  IPA: /ø.ʁɔp də l‿ɛst/
+Shoemaker-Levy 9
+  IPA: /ʃu.mɛ.kœʁ.lə.vi nœf/
+  IPA: /ʃu.me.kœʁ.lə.vi nœf/
+Topsent
+  IPA: /tɔp.sɑ̃/
+Swift-Tuttle
+  IPA: /swif.t(ə).tø.tɛl/
+Shongopavi
+  IPA: /ʃɔ̃.ɡɔ.pa.vi/
+Petit Colorado
+  IPA: /pə.ti kɔ.lɔ.ʁa.do/
+Ewlyn
+  IPA: /ɛw.lin/
+Wuwuchin
+  IPA: /wu.wu.ʃin/
+Powamu
+  IPA: /pɔ.wa.mu/
+Walpi
+  IPA: /wal.pi/
+Niman Katchina
+  IPA: /ni.man kat.ʃi.na/
+Shongopovi
+  IPA: /ʃɔ̃.ɡɔ.pɔ.vi/
+  IPA: /ʃɔŋ.ɡɔ.pɔ.vi/
+Wuwuchim
+  IPA: /wu.wu.ʃim/
+  IPA: /wu.wut.ʃim/
+Soyal
+  IPA: /sɔ.jal/
+Quatrième Univers
+  IPA: /ka.tʁi.jɛm y.ni.vɛʁ/
+Premier Univers
+  IPA: /pʁə.mje y.ni.vɛʁ/
+Garance
+  IPA: /ɡa.ʁɑ̃s/
+Debès
+  IPA: /də.bɛ/
+Debes
+  IPA: /dœb/
+Maistre
+  IPA: /mɛstʁ/
+Albouy
+  IPA: /al.bwij/
+Eyssartier
+  IPA: /ɛj.saʁ.tje/
+Cinquième Monde
+  IPA: /sɛ̃.kjɛm mɔ̃d/
+Cinquième Univers
+  IPA: /sɛ̃.kjɛm y.ni.vɛʁ/
+Diable
+  IPA: /djabl/
+Athénaïs
+  IPA: /a.te.na.is/
+Tailleur
+  IPA: /ta.jœʁ/
+Mazamet
+  IPA: /ma.za.mɛ/
+Pierre le Grand
+  IPA: /pjɛʁ lə ɡʁɑ̃/
+Graulhet
+  IPA: /ɡʁo.lɛ/
+Circassie
+  IPA: /siʁ.ka.si/
+Richepance
+  IPA: /ʁiʃ.pɑ̃s/
+Ramond
+  IPA: /ʁɛ.mɔ̃/
+  IPA: /ʁe.mɔ̃/
+Phazanie
+  IPA: /fa.za.ni/
+Philis
+  IPA: /fi.lis/
+mer de Weddell
+  IPA: /mɛʁ də wɛ.dɛl/
+  IPA: /mɛʁ də we.dɛl/
+A23a
+  IPA: /a vɛ̃t.tʁwa a/
+plate-forme de glace
+  IPA: /plat.fɔʁ.m(ə) də ɡlas/
+plate-forme de glace Filchner-Ronne
+  IPA: /plat.fɔʁ.m(ə) də ɡlas filʃ.nœʁ.ʁɔn/
+plateforme de glace Filchner-Ronne
+  IPA: /plat.fɔʁ.m(ə) də ɡlas filʃ.nœʁ.ʁɔn/
+plateforme de glace
+  IPA: /plat.fɔʁ.m(ə) də ɡlas/
+Madaune
+  IPA: /ma.don/
+Planty
+  IPA: /plɑ̃.ti/
+Rhènè
+  IPA: /ʁɛ.nɛ/
+  IPA: /ʁe.nɛ/
+Waldteufel
+  IPA: /val.tø.fɛl/
+Braudel
+  IPA: /bʁo.dɛl/
+Herménégilde
+  IPA: /ɛʁ.me.ne.ʒild/
+Signoret
+  IPA: /si.ɲɔ.ʁɛ/
+Noûr
+  IPA: /nuʁ/
+Dadou
+  IPA: /da.du/
+Dadou
+  IPA: /da.du/
+Shungopavi
+  IPA: /ʃœ̃.ɡɔ.pa.vi/
+Rodgold
+  IPA: /ʁɔd.ɡɔld/
+Bardawil
+  IPA: /baʁ.da.wil/
+Messac
+  IPA: /mɛ.sak/
+  IPA: /me.sak/
+Besacier
+  IPA: /bə.za.sje/
+Magarat
+  IPA: /ma.ɡa.ʁat/
+Saint-Félix-Lauragais
+  IPA: /sɛ̃.fe.lik.slɔ.ʁa.ɡɛ/
+Baliar
+  IPA: /ba.ljaʁ/
+Monesple
+  IPA: /mɔ.nɛspl/
+Canet Plage
+  IPA: /ka.nɛ plaʒ/
+Agde
+  IPA: /aɡd/
+  IPA: /aɡ.də/
+Valjean
+  IPA: /val.ʒə.ɑ̃/
+Akhannouch
+  IPA: /a.ka.nuʃ/
+Urvoas
+  IPA: /yʁ.vwa | yʁ.vwas/
+Montbrun
+  IPA: /mɔ̃t.bʁœ̃/
+FDLP
+  IPA: /ɛf.de.ɛl.pe/
+Saxe-Anhalt
+  IPA: /sak.sa.nal/
+Bade-Wurtemberg
+  IPA: /bad.vyʁ.tɑ̃.bɛʁ/
+Mecklembourg-Poméranie-Occidentale
+  IPA: /mɛ.klɑ̃.buʁ.pɔ.me.ʁa.ni.ɔk.si.dɑ̃.tal/
+  IPA: /me.klɑ̃.buʁ.pɔ.me.ʁa.ni.ɔk.si.dɑ̃.tal/
+Organisation mondiale du commerce
+  IPA: /ɔʁ.ɡa.ni.za.sjɔ̃ mɔ̃.djal dy kɔ.mɛʁs/
+Organisation du traité de sécurité collective
+  IPA: /ɔʁ.ɡa.ni.za.sjɔ̃ dy tʁɛ.te d(ə) se.ky.ʁi.te kɔ.lɛk.tiv/
+  IPA: /ɔʁ.ɡa.ni.za.sjɔ̃ dy tʁe.te d(ə) se.ky.ʁi.te kɔ.lɛk.tiv/
+Fallières
+  IPA: /fa.ljɛʁ/
+Kryvy Rih
+  IPA: /kʁi.vi ʁi/
+Porochenko
+  IPA: /pɔ.ʁɔ.ʃɛn.ko/
+Bakhmout
+  IPA: /bak.mut/
+Marioupol
+  IPA: /ma.ʁju.pɔl/
+Kryvyï Rih
+  IPA: /kʁi.vji ʁi/
+Ianoukovitch
+  IPA: /ja.nu.kɔ.vitʃ/
+Gueldre
+  IPA: /ɡɛldʁ/
+Brabant-Septentrional
+  IPA: /bʁa.bɑ̃.sɛp.tɑ̃.tʁi.jɔ.nal/
+Hollande-Méridionale
+  IPA: /ɔ.lɑ̃d.me.ʁi.djɔ.nal/
+Hollande-Septentrionale
+  IPA: /ɔ.lɑ̃d.sɛp.tɑ̃.tʁi.jɔ.nal/
+Quatrième Monde
+  IPA: /ka.tʁi.jɛm mɔ̃d/
+Choulguine
+  IPA: /ʃul.ɡin/
+Pouchiline
+  IPA: /pu.ʃi.lin/
+Appenzell Rhodes-Extérieures
+  IPA: /a.pɑ̃.zɛl ʁɔ.dɛk.ste.ʁjœʁ/
+Bâle-Ville
+  IPA: /bal.vij/
+  IPA: /bɑl.vij/
+Appenzell Rhodes-Intérieures
+  IPA: /a.pɑ̃.zɛl ʁɔ.dɛ̃.te.ʁjœʁ/
+Bâle-Campagne
+  IPA: /bal.kɑ̃.paɲ/
+  IPA: /bɑl.kɑ̃.paɲ/
+Glaris
+  IPA: /ɡla.ʁis/
+Argovie
+  IPA: /aʁ.ɡɔ.vi/
+Nidwald
+  IPA: /ni.dwal/
+Schaffhouse
+  IPA: /ʃa.fuz/
+Saint-Gall
+  IPA: /sɛ̃.ɡal/
+Obwald
+  IPA: /ɔ.bwal/
+Schwytz
+  IPA: /ʃvit͡/
+Tilsitt
+  IPA: /til.sit/
+Presbourg
+  IPA: /pʁɛs.buʁ/
+Ghouafria
+  IPA: /ɡwa.fʁi.ja/
+Guemrirene
+  IPA: /ɡɛm.ʁi.ʁɛn/
+Belmessous
+  IPA: /bɛl.mɛ.sus/
+  IPA: /bɛl.me.sus/
+Hacène
+  IPA: /a.sɛn/
+Boudokhane
+  IPA: /bu.dɔ.kan/
+Maizoué
+  IPA: /mɛ.zwe/
+  IPA: /me.zwe/
+Amarouche
+  IPA: /a.ma.ʁuʃ/
+Expilly
+  IPA: /ɛk.spi.ji/
+Vernègues
+  IPA: /vɛʁ.nɛɡ/
+Manneville-sur-Risle
+  IPA: /man.vil.syʁ.ʁil/
+Corneville-sur-Risle
+  IPA: /kɔʁ.nə.vil.syʁ.ʁil/
+Saint-Cannat
+  IPA: /sɛ̃.ka.na/
+Risle
+  IPA: /ʁil/
+Bougareit
+  IPA: /bu.ɡa.ʁɛt/
+L'Haÿ-les-Roses
+  IPA: /l‿a.i.le.ʁoz/
+Bucovine
+  IPA: /by.kɔ.vin/
+Bazille
+  IPA: /ba.zij/
+Poipet
+  IPA: /pɔj.pɛt/
+Jénine
+  IPA: /ʒe.nin/
+Chabanais
+  IPA: /ʃa.ba.nɛ/
+Saint-Junien
+  IPA: /sɛ̃.ʒy.njɛ̃/
+Rochechouart
+  IPA: /ʁɔ.ʃə.ʃwaʁ/
+  IPA: /ʁɔ.ʃwaʁ/
+Étiennette
+  IPA: /e.tjɛn.nɛt/
+Barbe-Bleue
+  IPA: /baʁ.b(ə).blø/
+Bainghen
+  IPA: /bɛ̃.ɡɑ̃/
+Malesherbes
+  IPA: /mal.zɛʁb/
+Hagetmau
+  IPA: /a.ʒɛt.mo/
+Puyoô
+  IPA: /pɥi.jɔ.o/
+Despourrins
+  IPA: /dɛs.pu.ʁɛ̃/
+Haute-Autriche
+  IPA: /o.to.tʁiʃ/
+Saint-Boès
+  IPA: /sɛ̃.bɔ.ɛ/
+Basse-Autriche
+  IPA: /ba.so.tʁiʃ/
+Baigts-de-Béarn
+  IPA: /batʃ.də.be.aʁn/
+Saint-Girons-en-Béarn
+  IPA: /sɛ̃.ʒi.ʁɔ̃.ɑ̃.be.aʁn/
+Chalosse
+  IPA: /ʃa.lɔs/
+Sormiou
+  IPA: /sɔʁ.mju/
+Accous
+  IPA: /a.kus/
+Cette
+  IPA: /sɛt/
+Cuqueron
+  IPA: /ky.kʁɔ̃/
+Cucuron
+  IPA: /ky.ky.ʁɔ̃/
+Cuguron
+  IPA: /ky.ɡy.ʁɔ̃/
+Mouterre-sur-Blourde
+  IPA: /mu.tɛʁ.syʁ.bluʁd/
+Cette-Eygun
+  IPA: /sɛ.tɛ.ɡœ̃/
+  IPA: /se.te.ɡœ̃/
+Eygun
+  IPA: /ɛj.ɡœ̃/
+Eygun
+  IPA: /ɛj.ɡœ̃/
+Ossages
+  IPA: /ɔ.saʒ/
+Susmiou
+  IPA: /sys.mju/
+Carinthie
+  IPA: /ka.ʁɛ̃.ti/
+FPLP
+  IPA: /ɛf.pe.ɛl.pe/
+Botnie
+  IPA: /bɔt.ni/
+Carcellier
+  IPA: /kaʁ.sɛ.lje/
+  IPA: /kaʁ.se.lje/
+Pélissier
+  IPA: /pe.li.sje/
+Pellicier
+  IPA: /pɛ.li.sje/
+  IPA: /pe.li.sje/
+Pellissier
+  IPA: /pɛ.li.sje/
+  IPA: /pe.li.sje/
+Grosclaude
+  IPA: /ɡʁo.klod/
+Gabarrou
+  IPA: /ɡa.ba.ʁu/
+Gabarret
+  IPA: /ɡa.ba.ʁɛ/
+Gabarrot
+  IPA: /ɡa.ba.ʁo/
+Gabarre
+  IPA: /ɡa.baʁ/
+Bicêtre
+  IPA: /bi.sɛtʁ/
+Hellade
+  IPA: /e.lad/
+Moïsette
+  IPA: /mɔ.i.zɛt/
+Orthez
+  IPA: /ɔʁ.tɛz/
+Orthez
+  IPA: /ɔʁ.tɛz/
+Darrigrand
+  IPA: /da.ʁi.ɡʁɑ̃/
+Sentaurens
+  IPA: /sɑ̃.tɔ.ʁɛ̃s/
+Sentaraille
+  IPA: /sɑ̃.ta.ʁaj/
+Sentaraille
+  IPA: /sɑ̃.ta.ʁaj/
+Xaintrailles
+  IPA: /ɡzɛ̃.tʁaj/
+Xaintrailles
+  IPA: /ɡzɛ̃.tʁaj/
+Saint-Araille
+  IPA: /sɛ̃.a.ʁaj/
+Saint-Araille
+  IPA: /sɛ̃.a.ʁaj/
+Gadames
+  IPA: /ɡa.dam/
+Volpatti
+  IPA: /vɔl.pa.ti/
+Pimpaneau
+  IPA: /pɛ̃.pa.no/
+Soumy
+  IPA: /su.mi/
+Grecs du roi
+  IPA: /ɡʁɛk dy ʁwa/
+Ouranos
+  IPA: /u.ʁa.nɔs/
+Sagesse
+  IPA: /sa.ʒɛs/
+2 Maccabées
+  IPA: /dø ma.ka.be/
+1 Maccabées
+  IPA: /œ̃ ma.ka.be/
+Plotin
+  IPA: /plɔ.tɛ̃/
+OCI
+  IPA: /ɔ.se.i/
+État de Palestine
+  IPA: /e.ta d(ə) pa.lɛs.tin/
+Aubrac
+  IPA: /o.bʁak/
+Aubrac
+  IPA: /o.bʁak/
+Aubrac
+  IPA: /o.bʁak/
+Pierrefonds
+  IPA: /pjɛʁ.fɔ̃/ (Tags: Europe)
+  IPA: /pjaɛ̯ʁ.fõ/ (Tags: Canada)
+Boucles d'or
+  IPA: /bu.klə d‿ɔʁ/
+Hurbache
+  IPA: /yʁ.baʃ/
+Sidonie
+  IPA: /si.dɔ.ni/
+Smadja
+  IPA: /sma.dʒa/
+Lathus
+  IPA: /la.tys/
+Afrique de l'Ouest
+  IPA: /a.fʁik də l‿wɛst/
+CEDEAO
+  IPA: /se.de.a.o/
+Lodève
+  IPA: /lɔ.dɛv/
+Asie du Sud-Est
+  IPA: /a.zi dy sy.d‿ɛst/
+Le Tellier
+  IPA: /lə tɛ.lje/
+  IPA: /lə te.lje/
+Quiquetonne
+  IPA: /kik.tɔn/
+Tallandier
+  IPA: /ta.lɑ̃.dje/
+Lhotellier
+  IPA: /lɔ.tɛ.lje/
+  IPA: /lɔ.te.lje/
+Lhôtellier
+  IPA: /lo.tɛ.lje/
+  IPA: /lo.te.lje/
+Mallemort
+  IPA: /mal.mɔʁ/
+Chemin-Bas-d'Avignon
+  IPA: /ʃə.mɛ̃.ba.d‿a.vi.ɲɔ̃/
+  IPA: /ʃə.mɛ̃.bɑ.d‿a.vi.ɲɔ̃/
+Sisteron
+  IPA: /sis.tə.ʁɔ̃/
+Fursy
+  IPA: /fyʁ.si/
+Babolein
+  IPA: /ba.bɔ.lɛ̃/
+Champs
+  IPA: /ʃɑ̃/
+Phisalix
+  IPA: /fi.za.li/
+Champs-sur-Marne
+  IPA: /ʃɑ̃.syʁ.maʁn/
+Nantilde
+  IPA: /nɑ̃.tild/
+Ducoin
+  IPA: /dy.kwɛ̃/
+Saâcy-sur-Marne
+  IPA: /sa.a.si.syʁ.maʁn/
+  IPA: /sa.ɑ.si.syʁ.maʁn/
+Orge
+  IPA: /ɔʁʒ/
+Chanteraine
+  IPA: /ʃɑ̃.tʁɛn/
+Chanteraine
+  IPA: /ʃɑ̃.tʁɛn/
+Fraignaud
+  IPA: /fʁɛ.ɲo/
+  IPA: /fʁe.ɲo/
+Karas
+  IPA: /ka.ʁas/
+Compostelle
+  IPA: /kɔ̃.pɔs.tɛl/
+Saint-Jacques-de-Compostelle
+  IPA: /sɛ̃.ʒak.də.kɔ̃.pɔs.tɛl/
+Chemin de Saint-Jacques
+  IPA: /ʃə.mɛ̃ d(ə) sɛ̃.ʒak/
+Saint-Jacques
+  IPA: /sɛ̃.ʒak/
+Kikoïne
+  IPA: /ki.kɔ.in/
+Poidatz
+  IPA: /pwa.da/
+Houat
+  IPA: /wat/
+Hœdic
+  IPA: /e.dik/
+Concots
+  IPA: /kɔ̃.ko/
+Crégols
+  IPA: /kʁe.ɡɔl/
+Arnault
+  IPA: /aʁ.nol/
+Gaillet
+  IPA: /ɡa.jɛ/
+Céret
+  IPA: /se.ʁɛ/
+Jougla
+  IPA: /ʒu.ɡla/
+La Canée
+  IPA: /la ka.ne/
+Stéphen
+  IPA: /ste.fɛ̃/
+Rostain
+  IPA: /ʁɔs.tɛ̃/
+Toussus-le-Noble
+  IPA: /tu.sy.l(ə).nɔbl/
+Vignely
+  IPA: /vi.ɲə.li/
+Trilbardou
+  IPA: /tʁil.baʁ.du/
+Charmentray
+  IPA: /ʃaʁ.mɑ̃.tʁɛ/
+Pantin
+  IPA: /pɑ̃.tɛ̃/
+Saint-Blaise
+  IPA: /sɛ̃.blɛz/
+Robinet
+  IPA: /ʁɔ.bi.nɛ/
+Testard
+  IPA: /tɛs.taʁ/
+Naouri
+  IPA: /na.u.ʁi/
+Forough
+  IPA: /fɔ.ʁuɡ/
+Alphandéry
+  IPA: /al.fɑ̃.de.ʁi/
+Keramati
+  IPA: /kə.ʁa.ma.ti/
+Farrokhzad
+  IPA: /fa.ʁɔk.za/
+Aslani
+  IPA: /a.sla.ni/
+Mahtab
+  IPA: /ma.tab/
+Chokri
+  IPA: /ʃɔ.kʁi/
+Chtiba
+  IPA: /ʃti.ba/
+Aymen
+  IPA: /aj.mɛn/
+Alfandari
+  IPA: /al.fɑ̃.da.ʁi/
+Macheret
+  IPA: /maʃ.ʁɛ/
+Belaïd
+  IPA: /bə.la.id/
+Racht
+  IPA: /ʁaʃt/
+Faramarz
+  IPA: /fa.ʁa.maʁz/
+Guinefort
+  IPA: /ɡin.fɔʁ/
+Marcabru
+  IPA: /maʁ.ka.bʁy/
+Cruou
+  IPA: /kʁy.u/
+Firmi
+  IPA: /fiʁ.mi/
+Créneau
+  IPA: /kʁe.no/
+Valady
+  IPA: /va.la.di/
+Mondalazac
+  IPA: /mɔ̃.da.la.zak/
+Marcillac-Vallon
+  IPA: /maʁ.si.jak.va.lɔ̃/
+Conques-en-Rouergue
+  IPA: /kɔ̃.kɑ̃.ʁwɛʁɡ/
+Salles-la-Source
+  IPA: /sal.la.suʁs/
+Saint-Christophe-Vallon
+  IPA: /sɛ̃.kʁis.tɔf.va.lɔ̃/
+Saint-Cyprien-sur-Dourdou
+  IPA: /sɛ̃.si.pʁi.jɛ̃.syʁ.duʁ.du/
+Nauviale
+  IPA: /no.vjal/
+Dédale
+  IPA: /de.dal/
+La Cavalerie
+  IPA: /la ka.val.ʁi/
+Thiérache
+  IPA: /tje.ʁaʃ/
+Vervins
+  IPA: /vɛʁ.vɛ̃/
+Thenailles
+  IPA: /tə.naj/
+Fontaine-lès-Vervins
+  IPA: /fɔ̃.tɛn.lɛ.vɛʁ.vɛ̃/
+Delavay
+  IPA: /də.la.vɛ/
+Le Nevé
+  IPA: /lə n(ə).ve/
+Luynes
+  IPA: /lɥijn/
+Luynes
+  IPA: /lɥijn/
+Luynes
+  IPA: /lɥijn/
+Tachrift
+  IPA: /taʃ.ʁift/
+Hichem
+  IPA: /i.ʃɛm/
+Quart
+  IPA: /kaʁ/
+Liamone
+  IPA: /lja.mɔn/
+Taravo
+  IPA: /ta.ʁa.vo/
+Prunelli
+  IPA: /pʁy.nɛ.li/
+  IPA: /pʁy.ne.li/
+Fiumorbo
+  IPA: /fjy.mɔʁ.bo/
+Rizzanese
+  IPA: /ʁi.za.nɛz/
+Restonica
+  IPA: /ʁɛs.tɔ.ni.ka/
+Martiré
+  IPA: /maʁ.ti.ʁe/
+Lenne
+  IPA: /lɛn/
+Thévenot
+  IPA: /tev.no/
+  IPA: /tɛv.no/
+Théveneau
+  IPA: /tev.no/
+  IPA: /tɛv.no/
+Melchisédech
+  IPA: /mɛl.ʃi.ze.dɛk/
+Sauvage
+  IPA: /so.vaʒ/
+Vaxelaire
+  IPA: /vak.sə.lɛʁ/
+Robotyne
+  IPA: /ʁɔ.bɔ.ti.ne/
+Caplet
+  IPA: /ka.plɛ/
+Nakab
+  IPA: /na.kab/
+Boulbi
+  IPA: /bul.bi/
+Grasset
+  IPA: /ɡʁa.sɛ/
+Molène
+  IPA: /mɔˈlɛn/
+Arcachon
+  IPA: /aʁ.ka.ʃɔ̃/
+Imsouane
+  IPA: /im.swan/
+Hadjadji
+  IPA: /a.dʒa.dʒi/
+Yankovitch
+  IPA: /jɑ̃.kɔ.vitʃ/
+Bektach
+  IPA: /bɛk.taʃ/
+Pessa'h
+  IPA: /pɛ.saʁ/
+  IPA: /pe.saʁ/
+Monthieu
+  IPA: /mɔ̃.tjø/
+Monthieux
+  IPA: /mɔ̃.tjø/
+Monthieux
+  IPA: /mɔ̃.tjø/
+Amiel
+  IPA: /a.mjɛl/
+Martres-Tolosane
+  IPA: /maʁ.tʁə.tɔ.lo.zan/
+Mazères-sur-Salat
+  IPA: /ma.zɛʁ.syʁ.sa.lat/
+Daeninckx
+  IPA: /da.nɛ̃kks/
+Daeninck
+  IPA: /da.nɛ̃k/
+Colomiers
+  IPA: /kɔ.lɔ.mje/
+Figarol
+  IPA: /fi.ɡa.ʁɔl/
+Figarol
+  IPA: /fi.ɡa.ʁɔl/
+Néerlande
+  IPA: /ne.ɛʁ.lɑ̃d/
+Cucugnan
+  IPA: /ky.ky.ɲɑ̃/
+pays du Matin-Calme
+  IPA: /pɛ.i dy ma.tɛ̃.kalm/
+  IPA: /pe.i dy ma.tɛ̃.kalm/
+Sarcelles
+  IPA: /saʁ.sɛl/
+Mélusine
+  IPA: /me.ly.zin/
+Éguilles
+  IPA: /e.ɡɥij/
+Egvonne
+  IPA: /ɛɡ.vɔn/
+Malnoue
+  IPA: /mal.nu/
+Malnoue
+  IPA: /mal.nu/
+Soubeyran
+  IPA: /su.bɛj.ʁɑ̃/
+Oneille
+  IPA: /ɔ.nɛj/
+Eyquem
+  IPA: /ɛj.kɛm/
+Esplas-de-Sérou
+  IPA: /ɛs.pla.d(ə).se.ʁu/
+  IPA: /ɛs.plɑ.d(ə).se.ʁu/
+Cité du Vatican
+  IPA: /si.te dy va.ti.kɑ̃/
+Birette
+  IPA: /bi.ʁɛt/
+Mirouze
+  IPA: /mi.ʁuz/
+Cabanel
+  IPA: /ka.ba.nɛl/
+Clignancourt
+  IPA: /kli.ɲɑ̃.kuʁ/
+Rzepski
+  IPA: /ʁzɛp.ski/
+Peltekian
+  IPA: /pɛl.tə.kjɑ̃/
+Kiwewa
+  IPA: /ki.we.wa/
+Aznavourian
+  IPA: /az.na.vu.ʁjɑ̃/
+Bardella
+  IPA: /baʁ.dɛ.la/
+  IPA: /baʁ.de.la/
+OHI
+  IPA: /ɔ.a.ʃ‿i/
+Tatinghem
+  IPA: /ta.tɛ̃.ɡɛm/
+Salperwick
+  IPA: /sal.pə.ʁwik/
+Blendecques
+  IPA: /blɑ̃.dɛk/
+comté de Siskiyou
+  IPA: /kɔm.te d(ə) sis.ki.ju/
+pari de Pascal
+  IPA: /pa.ʁi d(ə) pas.kal/
+Deezer
+  IPA: /dizœʁ/
+République populaire de Louhansk
+  IPA: /ʁe.py.blik pɔ.py.lɛʁ də lwɑ̃sk/
+Ingouchie
+  IPA: /ɛ̃.ɡu.ʃi/
+Oufa
+  IPA: /u.fa/
+Lougansk
+  IPA: /lu.ɡansk/
+Irkoutsk
+  IPA: /iʁ.kutsk/
+Oulan-Oudé
+  IPA: /u.la.n‿u.de/
+Tcheliabinsk
+  IPA: /tʃɛ.lja.binsk/
+  IPA: /tʃe.lja.binsk/
+Louhansk
+  IPA: /lwansk/
+Liége
+  IPA: /ljeʒ/
+Labourd
+  IPA: /la.buʁ/
+La Ciotat
+  IPA: /la sjɔ.ta/
+Empire romain d'Orient
+  IPA: /ɑ̃.piʁ ʁɔ.mɛ̃ d‿ɔ.ʁjɑ̃/
+Empire romain d'Occident
+  IPA: /ɑ̃.piʁ ʁɔ.mɛ̃ d‿ɔk.si.dɑ̃/
+Phérécrate
+  IPA: /fe.ʁe.kʁat/
+Phérékratès
+  IPA: /fe.ʁe.kʁa.tɛs/
+Magdalénien
+  IPA: /maɡ.da.le.njɛ̃/
+grande dame de fer
+  IPA: /ɡʁɑ̃d dam də fɛʁ/
+Baloutchistan
+  IPA: /ba.lut.ʃis.tɑ̃/
+Noailles
+  IPA: /nɔ.aj/
+Neuilly
+  IPA: /nœ.ji/
+Pigalle
+  IPA: /pi.ɡal/
+Guillouard
+  IPA: /ɡij.waʁ/
+Tourlonias
+  IPA: /tuʁ.lɔ.nja/
+  IPA: /tuʁ.lɔ.njɑ/
+Chneiweiss
+  IPA: /ʃnɛ.vɛjs/
+  IPA: /ʃne.vɛjs/
+Farès
+  IPA: /fa.ʁɛs/
+Schneeweiss
+  IPA: /ʃnɛ.vɛjs/
+  IPA: /ʃne.vɛjs/
+Beigbeder
+  IPA: /bɛɡ.be.de/
+La Nouvelle-Ibérie
+  IPA: /la nu.vɛ.li.be.ʁi/
+Vègre
+  IPA: /vɛɡʁ/
+Perrineau
+  IPA: /pɛ.ʁi.no/
+  IPA: /pe.ʁi.no/
+Perneau
+  IPA: /pɛʁ.no/
+Atambaïev
+  IPA: /a.tɑ̃.ba.jɛv/
+Dobrokhotov
+  IPA: /dɔ.bʁɔ.kɔ.tɔv/
+Sinnamary
+  IPA: /si.na.ma.ʁi/
+État palestinien
+  IPA: /e.ta pa.lɛs.ti.njɛ̃/
+Dourov
+  IPA: /du.ʁɔv/
+Durov
+  IPA: /dy.ʁɔv/
+Guerre de Trente Ans
+  IPA: /ɡɛʁ də tʁɑ̃t ɑ̃/
+Guerre de Sept Ans
+  IPA: /ɡɛʁ də sɛ.t‿ɑ̃/
+Sankharé
+  IPA: /sɑ̃.ka.ʁe/
+Hincmar
+  IPA: /ɛ̃k.maʁ/
+Queloz
+  IPA: /kə.lo/
+Servan
+  IPA: /sɛʁ.vɑ̃/
+Grand Colombier
+  IPA: /ɡʁɑ̃ kɔ.lɔ̃.bje/
+Ruffieux
+  IPA: /ʁy.fjø/
+Ruffieux
+  IPA: /ʁy.fjø/
+Anglefort
+  IPA: /ɑ̃.ɡlə.fɔʁ/
+Soz
+  IPA: /soz/
+Bugey
+  IPA: /by.ʒɛj/
+Valromey
+  IPA: /val.ʁɔ.mɛj/
+Pilou
+  IPA: /pi.lu/
+Floflo
+  IPA: /flɔ.flo/
+Belley
+  IPA: /bɛ.lɛj/
+  IPA: /be.lɛj/
+Colombier
+  IPA: /kɔ.lɔ̃.bje/
+Colombier
+  IPA: /kɔ.lɔ̃.bje/
+Colombier
+  IPA: /kɔ.lɔ̃.bje/
+Saint-Cyprien
+  IPA: /sɛ̃.si.pʁi.jɛ̃/
+Elne
+  IPA: /ɛln/
+Inzirillo
+  IPA: /ɛ̃.zi.ʁi.jo/
+Charbonier
+  IPA: /ʃaʁ.bɔ.nje/
+Marcazeau
+  IPA: /maʁ.ka.zo/
+Merdançon
+  IPA: /mɛʁ.dɑ̃.sɔ̃/
+Zabou
+  IPA: /za.bu/
+Chaumette
+  IPA: /ʃo.mɛt/
+Yatir
+  IPA: /ja.tiʁ/
+Montardit
+  IPA: /mɔ̃.taʁ.dit/
+Beit Nouba
+  IPA: /bɛjt nu.ba/
+Lecœuvre
+  IPA: /lə.kœvʁ/
+Hatchondo
+  IPA: /at.ʃɔ̃.do/
+Delpuech
+  IPA: /dɛl.pɥɛʃ/
+forêt de Yatir
+  IPA: /fɔ.ʁɛ d(ə) ja.tiʁ/
+Souriaux
+  IPA: /su.ʁjo/
+Sourieau
+  IPA: /su.ʁjo/
+Souriaud
+  IPA: /su.ʁjo/
+Souriau
+  IPA: /su.ʁjo/
+Abiteboul
+  IPA: /a.bit.bul/
+Abitbol
+  IPA: /a.bit.bɔl/
+Boutboul
+  IPA: /but.bul/
+Chaumuzy
+  IPA: /ʃo.my.zi/
+Tinqueux
+  IPA: /tɛ̃.kø/
+Courtagnon
+  IPA: /kuʁ.ta.ɲɔ̃/
+Bligny
+  IPA: /bli.ɲi/
+Marfaux
+  IPA: /maʁ.fo/
+Cérons
+  IPA: /se.ʁɔ̃/
+Lubbon
+  IPA: /ly.bɔ̃/
+Nescus
+  IPA: /nɛs.kys/
+Alzen
+  IPA: /al.zœ̃/
+La Bastide-de-Sérou
+  IPA: /la bas.tid.də.se.ʁu/
+Tonnerre
+  IPA: /tɔ.nɛʁ/
+Koutaïssi
+  IPA: /ku.ta.i.si/
+Dantou
+  IPA: /dɑ̃.tu/
+Tourtoirac
+  IPA: /tuʁ.twa.ʁak/
+forêt du Ciron
+  IPA: /fɔ.ʁɛ dy si.ʁɔ̃/
+Klavatz
+  IPA: /kla.vats/
+Brunschvicg
+  IPA: /bʁœ̃ʃ.vik/
+Jousseaume
+  IPA: /ʒu.som/
+Goudeket
+  IPA: /ɡud.kɛ/
+Zoug
+  IPA: /zu/
+Cattelot
+  IPA: /ka.tlo/
+Bouygues
+  IPA: /bwijɡ/
+Nouvian
+  IPA: /nu.vjɑ̃/
+Hublin
+  IPA: /y.blɛ̃/
+Nouvion
+  IPA: /nu.vjɔ̃/
+En marche
+  IPA: /ɑ̃ maʁʃ/
+Parti socialiste
+  IPA: /paʁ.ti sɔ.sja.list/
+Les Républicains
+  IPA: /le ʁe.py.bli.kɛ̃/
+La France insoumise
+  IPA: /la fʁɑ̃s ɛ̃.su.miz/
+J.-C.
+  IPA: /ʒe.zy.kʁi/

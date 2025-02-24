@@ -1,0 +1,727 @@
+gratis
+  IPA: /ˈɡɾatis/
+  IPA: [ˈɡɾa.t̪is̺]
+  IPA: /ˈɡɾatis/ (Tags: standard)
+  IPA: [ˈɡɾa.t̪is̺] (Tags: standard)
+  IPA: /ˈħɾatis/
+  IPA: [ˈħɾa.t̪is̺]
+menos
+  IPA: [ˈmenʊs]
+en
+  IPA: /eŋ/
+non
+  IPA: [nʊ̃ŋ]
+  IPA: [ˈnõŋ]
+case
+  IPA: [ˈkɑsɪ]
+barato
+  IPA: /baˈɾato/
+  IPA: [baˈɾa.t̪ʊ]
+tan
+  IPA: /ˈtaŋ/
+  IPA: [ˈt̪ɑŋ]
+elegantemente
+  IPA: /eleˌɡanteˈmente/
+  IPA: [e.leˌɣ̞ɑn̪.t̪eˈmẽn̪.t̪ɪ]
+  IPA: /eleˌɡanteˈmente/ (Tags: standard)
+  IPA: [e.leˌɣ̞ɑn̪.t̪eˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /eleˌħanteˈmente/
+  IPA: [e.leˌħɑn̪.t̪eˈmẽn̪.t̪ɪ]
+rapidamente
+  IPA: /ˌrapidaˈmente/
+  IPA: [ˌra.pi.ð̞aˈmẽn̪.t̪ɪ]
+ben
+  IPA: /ˈbɛŋ/
+  IPA: [ˈbɛŋ]
+nin
+  IPA: /ˈniŋ/
+  IPA: [ˈnĩŋ]
+mal
+  IPA: /ˈmal/
+  IPA: [ˈmɑɫ]
+tanto
+  IPA: [ˈtantʊ]
+agora
+  IPA: /aˈɡoɾa/
+  IPA: [ɑˈɣ̞o.ɾɐ]
+  IPA: /aˈɡoɾa/ (Tags: standard)
+  IPA: [ɑˈɣ̞o.ɾɐ] (Tags: standard)
+  IPA: /aˈħoɾa/
+  IPA: [ɑˈħo.ɾɐ]
+u
+  IPA: /ˈu/
+ar
+  IPA: [ˈaɾ]
+aquí
+  IPA: /aˈki/
+acá
+  IPA: /aˈka/
+hoxe
+  IPA: /ˈoʃe/
+  IPA: [ˈo.ʃɪ]
+  IPA: /ˈoʃ/ (Tags: regional)
+  IPA: [ˈoʃ] (Tags: regional)
+alto
+  IPA: [ˈaltʊ]
+consigo
+  IPA: [konˈsiɣʊ]
+pronto
+  IPA: /ˈpɾonto/
+  IPA: [ˈpɾon̪.t̪ʊ]
+moi
+  IPA: /moj/
+gordo
+  IPA: [ˈɡoɾðʊ]
+algo
+  IPA: [ˈal.ɣʊ]
+antes
+  IPA: /ˈantes/
+  IPA: [ˈan̪.t̪es̺]
+pois
+  IPA: [ˈpojs]
+de novo
+  IPA: [deˈnɔβʊ]
+aló
+  IPA: /aˈlo/
+logo
+  IPA: /ˈlɔɡo/
+  IPA: [ˈlɔ.ɣ̞ʊ]
+  IPA: /ˈlɔɡo/ (Tags: standard)
+  IPA: [ˈlɔ.ɣ̞ʊ] (Tags: standard)
+  IPA: /ˈlɔħo/
+  IPA: [ˈlɔ.ħʊ]
+só
+  IPA: [ˈsɔː]
+ora
+  IPA: [ˈɔɾɐ]
+que
+  IPA: /kɪ/
+nunca
+  IPA: /ˈnuŋka/
+  IPA: [ˈnũŋ.kɐ]
+sempre
+  IPA: /ˈsɛmpɾe/
+  IPA: [ˈs̺ɛm.pɾɪ]
+peor
+  IPA: [peˈoɾ]
+  IPA: [ˈpjoɾ]
+quizá
+  IPA: /kiˈθa/
+  IPA: [kiˈθa]
+  IPA: /kiˈθa/ (Tags: standard)
+  IPA: [kiˈθa] (Tags: standard)
+  IPA: /kiˈsa/
+  IPA: [kiˈsa]
+quedo
+  IPA: /ˈkedo/
+  IPA: [ˈke.ð̞ʊ]
+duro
+  IPA: [ˈduɾʊ]
+como
+  IPA: /ˈkomo/
+  IPA: [ˈko.mʊ]
+medio
+  IPA: /ˈmedjo/
+  IPA: [ˈme.ð̞jʊ]
+devagar
+  IPA: /debaˈɡaɾ/
+  IPA: [d̪e.β̞ɑˈɣ̞ɑɾ]
+  IPA: /debaˈɡaɾ/ (Tags: standard)
+  IPA: [d̪e.β̞ɑˈɣ̞ɑɾ] (Tags: standard)
+  IPA: /debaˈħaɾ/
+  IPA: [d̪e.β̞ɑˈħɑɾ]
+intencionalmente
+  IPA: /intenθjoˌnalˈmente/
+  IPA: [in̪.t̪en̪.θjoˌnɑlˈmẽn̪.t̪ɪ]
+  IPA: /intenθjoˌnalˈmente/ (Tags: standard)
+  IPA: [in̪.t̪en̪.θjoˌnɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /intensjoˌnalˈmente/
+  IPA: [in̪.t̪en.sjoˌnɑlˈmẽn̪.t̪ɪ]
+actualmente
+  IPA: /aktuˌalˈmente/
+  IPA: [ɑk.t̪uˌɑlˈmẽn̪.t̪ɪ]
+rápido
+  IPA: /ˈrapido/
+  IPA: [ˈra.pi.ð̞ʊ]
+bastante
+  IPA: /basˈtante/
+  IPA: [bas̺ˈt̪an̪.t̪ɪ]
+igual
+  IPA: /iˈɡwal/
+  IPA: [iˈɣ̞wɑɫ]
+  IPA: /iˈɡwal/ (Tags: standard)
+  IPA: [iˈɣ̞wɑɫ] (Tags: standard)
+  IPA: /iˈħwal/
+  IPA: [iˈħwɑɫ]
+riba
+  IPA: /ˈriβa̝/
+completamente
+  IPA: /komˌplɛtaˈmente/
+  IPA: [komˌplɛ.t̪aˈmẽn̪.t̪ɪ]
+onde
+  IPA: /ˈonde̝/
+paso
+  IPA: /ˈpaso/
+  IPA: [ˈpa.s̺ʊ]
+xa
+  IPA: /ˈʃa/
+  IPA: [ˈʃa]
+normalmente
+  IPA: /nɔɾˌmalˈmente/
+  IPA: [nɔɾˌmɑlˈmẽn̪.t̪ɪ]
+disque
+  IPA: /ˈdiske̝/
+  IPA: /ˈdiħke̝/ (Tags: dialectal)
+igualmente
+  IPA: /iˌɡwalˈmente/
+  IPA: [iˌɣ̞wɑlˈmẽn̪.t̪ɪ]
+  IPA: /iˌɡwalˈmente/ (Tags: standard)
+  IPA: [iˌɣ̞wɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /iˌħwalˈmente/
+  IPA: [iˌħwɑlˈmẽn̪.t̪ɪ]
+pouco
+  IPA: /ˈpowko̝/
+afeito
+  IPA: [aˈfejtʊ]
+catar
+  IPA: /kaˈtaɾ/
+arreo
+  IPA: /aˈreo/
+  IPA: [aˈre.ʊ]
+engorde
+  IPA: [eŋˈɡɔɾðe̝]
+repelo
+  IPA: [reˈpɛlʊ]
+demasiado
+  IPA: /demasiˈado/
+  IPA: [d̪e.ma.s̺iˈa.ð̞ʊ]
+ironicamente
+  IPA: /iˌɾɔnikaˈmente/
+  IPA: [iˌɾɔ.ni.kɑˈmẽn̪.t̪ɪ]
+facilmente
+  IPA: /ˌfaθilˈmente/
+  IPA: [ˌfa.θilˈmẽn̪.t̪ɪ]
+  IPA: /ˌfaθilˈmente/ (Tags: standard)
+  IPA: [ˌfa.θilˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /ˌfasilˈmente/
+  IPA: [ˌfa.silˈmẽn̪.t̪ɪ]
+principalmente
+  IPA: /pɾinθiˌpalˈmente/
+  IPA: [pɾin̪.θiˌpɑlˈmẽn̪.t̪ɪ]
+  IPA: /pɾinθiˌpalˈmente/ (Tags: standard)
+  IPA: [pɾin̪.θiˌpɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /pɾinsiˌpalˈmente/
+  IPA: [pɾin.siˌpɑlˈmẽn̪.t̪ɪ]
+simplemente
+  IPA: /ˌsimpleˈmente/
+  IPA: [ˌs̺im.pleˈmẽn̪.t̪ɪ]
+relativamente
+  IPA: /relaˌtibaˈmente/
+  IPA: [re.laˌt̪i.β̞aˈmẽn̪.t̪ɪ]
+especialmente
+  IPA: /espeˌθjalˈmente/
+  IPA: [es̺.peˌθjɑlˈmẽn̪.t̪ɪ]
+  IPA: /espeˌθjalˈmente/ (Tags: standard)
+  IPA: [es̺.peˌθjɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /espeˌsjalˈmente/
+  IPA: [es.peˌsjɑlˈmẽn̪.t̪ɪ]
+atrás
+  IPA: /aˈtɾas/
+continuamente
+  IPA: /konˌtinwaˈmente/
+  IPA: [kon̪ˌt̪i.nwaˈmẽn̪.t̪ɪ]
+mentalmente
+  IPA: /menˌtalˈmente/
+  IPA: [mẽn̪ˌt̪ɑlˈmẽn̪.t̪ɪ]
+  IPA: /mɛnˌtalˈmente/
+  IPA: [mɛ̃n̪ˌt̪ɑlˈmẽn̪.t̪ɪ]
+toste
+  IPA: [ˈtɔstɪ]
+inmediatamente
+  IPA: /iŋmeˌdjataˈmente/
+  IPA: [iŋ.meˌð̞ja.t̪aˈmẽn̪.t̪ɪ]
+profundamente
+  IPA: /pɾoˌfundaˈmente/
+  IPA: [pɾoˌfun̪.d̪aˈmẽn̪.t̪ɪ]
+posteriormente
+  IPA: /postɛˌɾjoɾˈmente/
+  IPA: [pos̺.t̪ɛˌɾjoɾˈmẽn̪.t̪ɪ]
+sinceramente
+  IPA: /sinˌθɛɾaˈmente/
+  IPA: [s̺in̪ˌθɛ.ɾaˈmẽn̪.t̪ɪ]
+  IPA: /sinˌθɛɾaˈmente/ (Tags: standard)
+  IPA: [s̺in̪ˌθɛ.ɾaˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /sinˌsɛɾaˈmente/
+  IPA: [sinˌsɛ.ɾaˈmẽn̪.t̪ɪ]
+separadamente
+  IPA: /sepaˌɾadaˈmente/
+  IPA: [s̺e.paˌɾa.ð̞aˈmẽn̪.t̪ɪ]
+onte
+  IPA: /ˈɔnte/
+  IPA: [ˈɔn̪.t̪ɪ]
+embora
+  IPA: /emˈbɔɾa/
+  IPA: [emˈbɔ.ɾɐ]
+pior
+  IPA: [pɨˈɔɾ]
+preto
+  IPA: /ˈpɾeto/
+  IPA: [ˈpɾe.t̪ʊ]
+abaixo
+  IPA: /aˈbajʃo/
+  IPA: [aˈβ̞a̠j.ʃʊ]
+diariamente
+  IPA: /djaɾjaˈmente/
+  IPA: [d̪ja.ɾjaˈmẽn̪.t̪ɪ]
+en balde
+  IPA: [emˈbaldɪ]
+de balde
+  IPA: [deˈβaldɪ]
+gradualmente
+  IPA: /ɡɾaduˌalˈmente/
+  IPA: [ɡɾa.ð̞uˌɑlˈmẽn̪.t̪ɪ]
+  IPA: /ɡɾaduˌalˈmente/ (Tags: standard)
+  IPA: [ɡɾa.ð̞uˌɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /ħɾaduˌalˈmente/
+  IPA: [ħɾa.ð̞uˌɑlˈmẽn̪.t̪ɪ]
+mesmo
+  IPA: /ˈmɛsmo/
+  IPA: [ˈmɛz̺.mʊ]
+  IPA: /ˈmiɾmo/
+  IPA: [ˈmiɾ.mʊ]
+adrede
+  IPA: /aˈðɾeðe̝/
+ricamente
+  IPA: /ˌrikaˈmente/
+  IPA: [ˌri.kɑˈmẽn̪.t̪ɪ]
+uniformemente
+  IPA: /uniˌfɔɾmeˈmente/
+  IPA: [u.niˌfɔɾ.mẽˈmẽn̪.t̪ɪ]
+entusiasticamente
+  IPA: /entusjasˌtikaˈmente/
+  IPA: [en̪.t̪u.s̺jas̺ˌt̪i.kɑˈmẽn̪.t̪ɪ]
+incondicionalmente
+  IPA: /iŋkondiˌθjonalˈmente/
+  IPA: [iŋ.kon̪.d̪iˌθjo.nɑlˈmẽn̪.t̪ɪ]
+  IPA: /iŋkondiˌθjonalˈmente/ (Tags: standard)
+  IPA: [iŋ.kon̪.d̪iˌθjo.nɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /iŋkondiˌsjonalˈmente/
+  IPA: [iŋ.kon̪.d̪iˌsjo.nɑlˈmẽn̪.t̪ɪ]
+aceptablemente
+  IPA: /aθɛpˌtableˈmente/
+  IPA: [a.θɛpˌt̪a.β̞leˈmẽn̪.t̪ɪ]
+  IPA: /aθɛpˌtableˈmente/ (Tags: standard)
+  IPA: [a.θɛpˌt̪a.β̞leˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /asɛpˌtableˈmente/
+  IPA: [a.sɛpˌt̪a.β̞leˈmẽn̪.t̪ɪ]
+alá
+  IPA: /aˈla/
+alor
+  IPA: /aˈlɔɾ/
+primeiro
+  IPA: [pɾiˈmejɾʊ]
+libremente
+  IPA: /ˌlibɾeˈmente/
+  IPA: [ˌli.β̞ɾeˈmẽn̪.t̪ɪ]
+inicialmente
+  IPA: /iniˌθjalˈmente/
+  IPA: [i.niˌθjɑlˈmẽn̪.t̪ɪ]
+  IPA: /iniˌθjalˈmente/ (Tags: standard)
+  IPA: [i.niˌθjɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /iniˌsjalˈmente/
+  IPA: [i.niˌsjɑlˈmẽn̪.t̪ɪ]
+parcialmente
+  IPA: /paɾˌθjalˈmente/
+  IPA: [paɾˌθjɑlˈmẽn̪.t̪ɪ]
+  IPA: /paɾˌθjalˈmente/ (Tags: standard)
+  IPA: [paɾˌθjɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /paɾˌsjalˈmente/
+  IPA: [paɾˌsjɑlˈmẽn̪.t̪ɪ]
+dolorosamente
+  IPA: [doloɾosaˈmentɪ]
+activamente
+  IPA: /akˌtibaˈmente/
+  IPA: [ɑkˌt̪i.β̞aˈmẽn̪.t̪ɪ]
+arredor
+  IPA: [areˈdoɾ]
+abondo
+  IPA: /aˈbondo/
+  IPA: [aˈβ̞on̪.d̪ʊ]
+máis
+  IPA: /ˈmajs/
+abofé
+  IPA: /aboˈfɛ/
+  IPA: [a.β̞oˈfɛ]
+tamén
+  IPA: /taˈmɛŋ/
+  IPA: [t̪aˈmɛ̃ŋ]
+despois
+  IPA: /dɪsˈpojs/
+mañá
+  IPA: /ma.ˈɲa/
+endexamais
+  IPA: [endeʃaˈmai̯s]
+xamais
+  IPA: /ʃaˈmajs/
+  IPA: [ʃaˈma̠js̺]
+avante
+  IPA: [aˈβantɪ]
+agora mesmo
+  IPA: /aɣoɾaˈmɛsmo̝/
+de vez
+  IPA: [deˈβeθ]
+  IPA: [deˈβes] (Tags: Western)
+pouco a pouco
+  IPA: [ˈpow.ko̯a ˈpow.kʊ]
+  IPA: [ˈpow.ka ˈpow.kʊ]
+verdadeiramente
+  IPA: /beɾdaˌdejɾaˈmente/
+  IPA: [beɾ.ð̞aˌð̞ej.ɾaˈmẽn̪.t̪ɪ]
+primeiramente
+  IPA: [pɾimejɾaˈmentɪ]
+tampouco
+  IPA: /tamˈpowko/
+  IPA: [t̪amˈpow.kʊ]
+inda
+  IPA: [ˈindɐ]
+mellor
+  IPA: [mɪˈʎoɾ]
+visiblemente
+  IPA: /biˌsibleˈmente/
+  IPA: [biˌs̺i.β̞leˈmẽn̪.t̪ɪ]
+estoicamente
+  IPA: /esˌtɔjkaˈmente/
+  IPA: [es̺ˌt̪ɔj.kɑˈmẽn̪.t̪ɪ]
+aínda
+  IPA: [aˈindɐ]
+amodo
+  IPA: /aˈmɔðo̝/
+ambiciosamente
+  IPA: /ambiθjosaˈmente/
+  IPA: [am.bi.θjo.s̺aˈmẽn̪.t̪ɪ]
+  IPA: /ambiθjosaˈmente/ (Tags: standard)
+  IPA: [am.bi.θjo.s̺aˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /ambisjosaˈmente/
+  IPA: [am.bi.sjo.saˈmẽn̪.t̪ɪ]
+fóra
+  IPA: /ˈfoɾa/
+  IPA: [ˈfo.ɾɐ]
+sequera
+  IPA: [seˈkɛɾɐ]
+diante
+  IPA: /ˈdjante̝/
+  IPA: /diˈante̝/
+miúdo
+  IPA: [miˈuðʊ]
+chus
+  IPA: /ˈt͡ʃus/
+daquela
+  IPA: /daˈkɛla/
+  IPA: /daˈkela/
+adiante
+  IPA: [aˈðjantɪ]
+abertamente
+  IPA: /aˌbɛɾtaˈmente/
+  IPA: [aˌβ̞ɛɾ.t̪aˈmẽn̪.t̪ɪ]
+algures
+  IPA: /alˈɡuɾes/
+outrora
+  IPA: /ow.ˈtɾɔ.ɾa/
+supostamente
+  IPA: /suˌpɔstaˈmente/
+  IPA: [s̺uˌpɔs̺.t̪aˈmẽn̪.t̪ɪ]
+acolá
+  IPA: /akoˈla/
+  IPA: [ɑ.koˈla]
+decote
+  IPA: /deˈkɔte̝/
+moito
+  IPA: /ˈmojto/
+  IPA: [ˈmoj.t̪ʊ]
+entrementres
+  IPA: [entɾeˈmɛntɾɪs]
+  IPA: [entɾeˈmentɾɪs]
+mentres
+  IPA: [ˈmentɾɪs]
+  IPA: [ˈmɛntɾɪs]
+lonxe
+  IPA: /ˈlonʃe/
+  IPA: [ˈlonʲ.ʃɪ]
+outra vez
+  IPA: [ou̯tɾaˈβeθ]
+  IPA: [ou̯tɾaˈβes] (Tags: Western)
+crás
+  IPA: /ˈkɾas/
+a pé
+  IPA: [aˈpɛ]
+a eito
+  IPA: [aˈej.tʊ]
+de todo
+  IPA: [de ˈtoðʊ]
+de seguro
+  IPA: [deseˈɣuɾʊ]
+antonte
+  IPA: [an.ˈtɔn.tɪ]
+lixeiro
+  IPA: [liˈʃejɾʊ]
+por pouco
+  IPA: [poɾ ˈpow.kʊ]
+antano
+  IPA: [anˈtanʊ]
+de pé
+  IPA: [deˈpɛ]
+circunstancialmente
+  IPA: /θiɾkunstanˌθjalˈmente/
+  IPA: [θiɾ.kuns̺.t̪an̪ˌθjɑlˈmẽn̪.t̪ɪ]
+  IPA: /θiɾkunstanˌθjalˈmente/ (Tags: standard)
+  IPA: [θiɾ.kuns̺.t̪an̪ˌθjɑlˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /siɾkunstanˌsjalˈmente/
+  IPA: [siɾ.kuns.t̪anˌsjɑlˈmẽn̪.t̪ɪ]
+aos poucos
+  IPA: [ɔs ˈpow.kʊs]
+dabondo
+  IPA: /daˈbondo/
+  IPA: [d̪aˈβ̞on̪.d̪ʊ]
+decotío
+  IPA: /dekoˈtio̝/
+acotío
+  IPA: /akoˈtio̝/
+no intre
+  IPA: /no̝ˈintɾe̝/
+entre lusco e fusco
+  IPA: /entɾeˈlusko̯ɛˈfusko̝/
+  IPA: /entɾeˈluskɛˈfusko̝/
+a maiores
+  IPA: /amaˈjoɾes/
+ao chou
+  IPA: /ɔːˈt͡ʃow/
+axiña
+  IPA: /aˈʃiɲa/
+  IPA: [aˈʃi.ɲɐ]
+alí
+  IPA: /aˈli/
+a carón
+  IPA: /a kaˈɾoŋ/
+  IPA: [ɐ kɑˈɾoŋ]
+adoito
+  IPA: /aˈðojto̝/
+enfesta
+  IPA: /eɱˈfɛsta̝/
+asemade
+  IPA: /aseˈmaðe̝/
+por outra banda
+  IPA: /poɾowtɾaˈβanda̝/
+a lume de biqueira
+  IPA: /aˈlume.ðe.βiˈkejɾa̝/
+ás apalpadas
+  IPA: /asapalˈpaða̝s/
+ao len
+  IPA: /ɔˈleŋ/
+nimigalla
+  IPA: /nimiˈɣaʎa̝/
+á mantenta
+  IPA: /aːmanˈtenta̝/
+a rolos
+  IPA: /aˈrɔlo̝s/
+esforzadamente
+  IPA: /esfoɾˌθadaˈmente/
+  IPA: [es̺.foɾˌθa.ð̞aˈmẽn̪.t̪ɪ]
+  IPA: /esfoɾˌθadaˈmente/ (Tags: standard)
+  IPA: [es̺.foɾˌθa.ð̞aˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /esfoɾˌsadaˈmente/
+  IPA: [es.foɾˌsa.ð̞aˈmẽn̪.t̪ɪ]
+aínda bo
+  IPA: /aˈindaˈβo/
+  IPA: /ˈindaˈβo/
+alén
+  IPA: /aˈlɛŋ/
+  IPA: [aˈlɛŋ]
+aínda ben non
+  IPA: /aˈindaˈβɛŋno̝ŋ/
+a velas vir
+  IPA: /aˈβelasˈβiɾ/
+a miúdo
+  IPA: /amiˈuðo̝/
+ridiculamente
+  IPA: /riˌdikulaˈmente/
+  IPA: [riˌð̞i.ku.laˈmẽn̪.t̪ɪ]
+xalundes
+  IPA: /ʃaˈlundes/
+ningures
+  IPA: /niŋˈɡuɾe̝s/
+entón
+  IPA: /enˈtoŋ/
+  IPA: [en̪ˈt̪oŋ]
+se cadra
+  IPA: [se ˈkɑ.ðɾɐ]
+quizais
+  IPA: [kiˈθajs]
+  IPA: [kiˈsajs] (Tags: Western)
+ó chou
+  IPA: /ɔˈt͡ʃow/
+randón
+  IPA: /ranˈdoŋ/
+  IPA: [ran̪ˈd̪oŋ]
+seica
+  IPA: /ˈsejka/
+  IPA: [ˈs̺ej.kɐ]
+decontado
+  IPA: [dekonˈtaðʊ]
+aínda por riba
+  IPA: [aˈindɐ po‿ˈriβɐ]
+de esguello
+  IPA: /de esˈɣeʎo̝/
+  IPA: /desˈɣeʎo̝/
+ás veces
+  IPA: /as ˈβeθe̝s/
+  IPA: /as ˈβese̝s/ (Tags: Western)
+enfesto
+  IPA: /eɱˈfɛsto̝/
+a rente
+  IPA: /a ˈrɛnte/
+  IPA: [ɐ ˈrɛn̪.t̪ɪ]
+  IPA: /a ˈrente/
+  IPA: [ɐ ˈren̪.t̪ɪ]
+en forma
+  IPA: [eɱ‿ˈfoɾmɐ]
+amodiño
+  IPA: [a.mɔ.ˈði.ɲʊ]
+rexo
+  IPA: [ˈre.ʃʊ]
+pouco e pouco
+  IPA: [ˈpow.ko̯e ˈpow.kʊ]
+  IPA: [ˈpow.ke ˈpow.kʊ]
+paseniño
+  IPA: [paseˈniɲʊ]
+de a cabalo
+  IPA: [da kaˈβalʊ]
+de todo corazón
+  IPA: /de ˈtoðo koraˈθoŋ/
+a pre
+  IPA: /aˈpɾɛ/
+hogano
+  IPA: /oˈɡano/
+  IPA: [oˈɣ̞ɑ.nʊ]
+  IPA: /oˈɡano/ (Tags: standard)
+  IPA: [oˈɣ̞ɑ.nʊ] (Tags: standard)
+  IPA: /oˈħano/
+  IPA: [oˈħɑ.nʊ]
+á noite
+  IPA: [aː ˈnojtɪ]
+onte á noite
+  IPA: [ˈɔntaːˈnojtɪ]
+deseguido
+  IPA: [deseˈɣiðʊ]
+deseguida
+  IPA: [deseˈɣiðɐ]
+máis pouco
+  IPA: [ˈmajs ˈpowkʊ]
+e logo
+  IPA: [e ˈlɔɣʊ]
+  IPA: [e ˈlɔ]
+aínda non
+  IPA: [aˈinda ˈnoŋ]
+nada máis
+  IPA: [ˈnaða ˈmajs]
+  IPA: [naˈmajs]
+dou ao demo
+  IPA: [ˈdow ɔˈðɛmʊ]
+secasí
+  IPA: [sekɑˈsi]
+ende ben
+  IPA: [endeˈβɛŋ]
+de moca
+  IPA: [deˈmɔkɐ]
+sexa como for
+  IPA: [ˈseʃa ˈkomo ˈfoɾ]
+a valmontes
+  IPA: [aβalˈmontes]
+a festo
+  IPA: [aˈfɛstʊ]
+ás vegadas
+  IPA: [as βeˈɣaðɐs]
+en crequenas
+  IPA: [eŋkɾeˈkenɐs]
+paso e paso
+  IPA: [ˈpaso eˈpasʊ]
+trasantonte
+  IPA: [tɾasanˈtɔntɪ]
+outro antonte
+  IPA: [owtɾʊ̯anˈtɔntɪ]
+a barrisco
+  IPA: [aβaˈriskʊ]
+a deshora
+  IPA: [aðeˈsoɾɐ]
+de súpeto
+  IPA: [deˈsupɪtʊ]
+ás agachadas
+  IPA: [asaɣaˈt͡ʃaðɐs]
+a xeito
+  IPA: [aˈʃei̯tʊ]
+por riba
+  IPA: [poɾˈriβɐ]
+  IPA: [poˈriβɐ]
+cagando chispas
+  IPA: [kaˈɣando ˈt͡ʃispɐs]
+a rego cheo
+  IPA: [aˈreɣo ˈt͡ʃeʊ]
+  IPA: [aˈreɣo ˈt͡ʃeʊ̯]
+de reollo
+  IPA: [dereˈoʎʊ]
+a cugulo
+  IPA: [akuˈɣulʊ]
+unha vez
+  IPA: [ˈuŋa ˈβeθ]
+manseliño
+  IPA: [manseˈliɲʊ]
+a esgalla
+  IPA: [ae̯sˈɣaʎɐ]
+  IPA: [asˈɣaʎɐ]
+aquén
+  IPA: /aˈkeŋ/
+boamente
+  IPA: [boaˈmentɪ]
+acó
+  IPA: /aˈko/
+ao dereito
+  IPA: [ɔˈðɾejtʊ]
+poida que
+  IPA: [ˈpɔjðɐkɪ]
+de gatiñas
+  IPA: [deɣaˈtiɲɐs]
+de banda a banda
+  IPA: [deˈβandɐ‿ˈβandɐ]
+de parola
+  IPA: [depaˈɾɔlɐ]
+á présa
+  IPA: [aːˈpɾɛsɐ]
+desta volta
+  IPA: [destaˈβɔltɐ]
+desta vez
+  IPA: [destaˈβeθ]
+  IPA: [destaˈβes] (Tags: Western)
+ao cabo
+  IPA: [ɔˈkaβʊ]
+hoxe en día
+  IPA: [ˈoʃ‿enˈdiɐ]
+á forza
+  IPA: [aˈfɔɾθɐ]
+a cara de can
+  IPA: [aˈkaɾɐ ðeˈkaŋ]
+egoistamente
+  IPA: /eˌɡojstaˈmente/
+  IPA: [eˌɣ̞ojs̺.t̪aˈmẽn̪.t̪ɪ]
+  IPA: /eˌɡojstaˈmente/ (Tags: standard)
+  IPA: [eˌɣ̞ojs̺.t̪aˈmẽn̪.t̪ɪ] (Tags: standard)
+  IPA: /eˌħojstaˈmente/
+  IPA: [eˌħojs̺.t̪aˈmẽn̪.t̪ɪ]
+ao primeiro
+  IPA: [ɔ.pɾiˈmej.ɾʊ]
+de antemán
+  IPA: /de anteˈmaŋ/
+  IPA: [d̪ɪ an̪.t̪eˈmɑ̃ŋ]
+outramente
+  IPA: /owtɾaˈmente/
+  IPA: [ow.t̪ɾaˈmẽn̪.t̪ɪ]
+a destro e sinistro
+  IPA: [ɐ ˈð̞ɛs̺.t̪ɾʊ ɪ s̺iˈnis̺.t̪ɾʊ]

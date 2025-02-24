@@ -1,0 +1,161 @@
+tan
+  IPA: /tɑ̃/
+son
+  IPA: /sɔ̃/
+  IPA: /sɔ̃.n‿/
+  IPA: /sɔ.n‿/
+man
+  IPA: /mɑ̃/
+tout
+  IPA: /tu/
+  IPA: /tu.t‿/
+  IPA: /tʊt/ (Tags: Quebec)
+certain
+  IPA: /sɛʁ.tɛ̃/
+  IPA: /sɛʁ.tɛ.n‿/
+san
+  IPA: /san/
+  IPA: /sɑ̃/
+ta
+  IPA: /ta/
+ce
+  IPA: /sə/
+  IPA: /sø/ (Tags: Paris)
+vos
+  IPA: /vo/
+ton
+  IPA: /tɔ̃/
+  IPA: /tɔ̃.n‿/
+  IPA: /tɔ.n‿/
+  IPA: /tõ/ (Tags: Quebec)
+  IPA: /tõ.n‿/ (Tags: Quebec)
+  IPA: /tɔ.n‿/ (Tags: Quebec)
+nos
+  IPA: /no/
+sa
+  IPA: /sa/
+mes
+  IPA: /mɛ/
+  IPA: /mɛ.z‿/
+  IPA: /me/
+  IPA: /me.z‿/
+ma
+  IPA: /ma/
+mon
+  IPA: /mɔ̃/
+  IPA: /mɔ̃.n‿/
+  IPA: /mɔ.n‿/
+  IPA: [mɒ̃ʊ̯̃] (Tags: Quebec)
+ledit
+  IPA: /lə.di/
+nul
+  IPA: /nyl/
+cette
+  IPA: /sɛt/
+toute
+  IPA: /tut/
+  IPA: /tʊt/ (Tags: Quebec)
+leur
+  IPA: /lœʁ/
+ses
+  IPA: /sɛ/
+  IPA: /sɛ.z‿/
+  IPA: /se.z‿/
+  IPA: /se/
+  IPA: /se.z‿/
+tes
+  IPA: /tɛ/
+  IPA: /tɛ.z‿/
+  IPA: /te.z‿/
+  IPA: /te/
+  IPA: /te.z‿/
+ces
+  IPA: /se/
+  IPA: /se.z‿/
+votre
+  IPA: /vɔtʁ/
+  IPA: /vɔt/ (Tags: informal)
+notre
+  IPA: /nɔtʁ/
+  IPA: /nɔt/ (Tags: informal)
+cet
+  IPA: /sɛ.t‿/
+  IPA: /se.t‿/
+  IPA: /st‿/
+quelque
+  IPA: /kɛlk/
+  IPA: /kɛl.kə/
+  IPA: /kɛk/
+toutes
+  IPA: /tut/
+  IPA: /tʊt/ (Tags: Quebec)
+quel
+  IPA: /kɛl/
+leurs
+  IPA: /lœʁ/
+  IPA: /lœʁ.z‿/
+aucune
+  IPA: /o.kyn/
+aucun
+  IPA: /o.kœ̃/
+  IPA: /o.kœ̃.n‿/
+quelconque
+  IPA: /kɛl.kɔ̃k/
+vôtre
+  IPA: /votʁ/
+nôtre
+  IPA: /notʁ/
+vostre
+  IPA: /vɔstʁ/
+maint
+  IPA: /mɛ̃/
+tondit
+  IPA: /tɔ̃.di/
+énormément
+  IPA: /e.nɔʁ.me.mɑ̃/
+aucunes
+  IPA: /o.kyn/
+aucuns
+  IPA: /o.kœ̃/
+tous deux
+  IPA: /tu dø/
+quel que soit
+  IPA: /kɛl kə swa/
+leurdit
+  IPA: /lœʁ.di/
+sondit
+  IPA: /sɔ̃.di/
+mondit
+  IPA: /mɔ̃.di/
+votredit
+  IPA: /vɔ.tʁə.di/
+notredit
+  IPA: /nɔ.tʁə.di/
+quel qu'ait été
+  IPA: /kɛl k‿ɛ.t‿e.te/
+quel qu'eût été
+  IPA: /kɛl k‿y.t‿e.te/
+quel que fût
+  IPA: /kɛl kə fy/
+n'importe quel
+  IPA: /n‿ɛ̃.pɔʁ.t(ə) kɛl/
+d'autres
+  IPA: /d‿otʁ/
+bien d'autres
+  IPA: /bjɛ̃ d‿otʁ/
+une autre
+  IPA: /y.n‿otʁ/
+un autre
+  IPA: /œ̃.n‿otʁ/
+cettes
+  IPA: /sɛt/
+deux ou trois
+  IPA: /dø u tʁwa/
+tant et plus
+  IPA: /tɑ̃.t‿e plys/
+mille et un
+  IPA: /mij e œ̃/
+nombre de
+  IPA: /nɔ̃.bʁə də/
+tu parles de
+  IPA: /ty paʁ.l(ə) də/

@@ -1,0 +1,121 @@
+son
+  IPA: /sun/ (Tags: Balearic, Central)
+  IPA: /son/ (Tags: Valencia)
+ton
+  IPA: /tun/ (Tags: Balearic, Central)
+  IPA: /ton/ (Tags: Valencia)
+mos
+  IPA: /mus/ (Tags: Balearic, Central)
+  IPA: /mos/ (Tags: Valencia)
+cap
+  IPA: [ˈkap] (Tags: Balearic, Central, Valencia)
+mes
+  IPA: /məs/ (Tags: Balearic, Central)
+  IPA: /mes/
+ma
+  IPA: [mə] (Tags: Balearic, Central)
+  IPA: [ma] (Tags: Valencia)
+mon
+  IPA: /mun/ (Tags: Balearic, Central)
+  IPA: /mon/ (Tags: Valencia)
+este
+  IPA: [ˈes.tə] (Tags: Balearic, Central)
+  IPA: [ˈes.te] (Tags: Valencia)
+ses
+  IPA: /səs/ (Tags: Balearic, Central)
+  IPA: /ses/
+tes
+  IPA: [təs] (Tags: Balearic, Central)
+  IPA: [tes] (Tags: Valencia)
+tos
+  IPA: /tus/ (Tags: Balearic, Central)
+  IPA: /tos/ (Tags: Valencia)
+estos
+  IPA: [ˈes.tus] (Tags: Central)
+  IPA: [ˈes.tos] (Tags: Balearic, Valencia)
+esta
+  IPA: [ˈes.tə] (Tags: Balearic, Central)
+  IPA: [ˈes.ta] (Tags: Valencia)
+tons
+  IPA: /tuns/ (Tags: Balearic, Central)
+  IPA: /tons/ (Tags: Valencia)
+llur
+  IPA: [ˈʎur] (Tags: Balearic, Central, Valencia)
+nostre
+  IPA: [ˈnɔs.tɾə] (Tags: Balearic, Central)
+  IPA: [ˈnɔs.tɾe] (Tags: Valencia)
+alguna
+  IPA: [əlˈɣu.nə] (Tags: Balearic, Central)
+  IPA: [alˈɣu.na] (Tags: Valencia)
+vostre
+  IPA: [ˈbɔs.tɾə] (Tags: Central)
+  IPA: [ˈvɔs.tɾə] (Tags: Balearic)
+  IPA: [ˈvɔs.tɾe] (Tags: Valencia)
+mons
+  IPA: /muns/ (Tags: Balearic, Central)
+  IPA: /mons/ (Tags: Valencia)
+qualcun
+  IPA: [kwəlˈkun] (Tags: Balearic, Central)
+  IPA: [kwalˈkun] (Tags: Valencia)
+qualcuna
+  IPA: [kwəlˈku.nə] (Tags: Balearic, Central)
+  IPA: [kwalˈku.na] (Tags: Valencia)
+algun
+  IPA: [əlˈɣun] (Tags: Balearic, Central)
+  IPA: [alˈɣun] (Tags: Valencia)
+eixe
+  IPA: [ˈe.ʃə] (Tags: Balearic, Central)
+  IPA: [ˈej.ʃe] (Tags: Valencia)
+estes
+  IPA: [ˈes.təs] (Tags: Balearic, Central)
+  IPA: [ˈes.tes] (Tags: Valencia)
+mateix
+  IPA: [məˈteʃ] (Tags: Balearic, Central)
+  IPA: [maˈtejʃ] (Tags: Valencia)
+cadascun
+  IPA: [kə.ðəsˈkun] (Tags: Balearic, Central)
+  IPA: [ka.ðasˈkun] (Tags: Valencia)
+poc
+  IPA: [ˈpɔk] (Tags: Balearic, Central, Valencia)
+aquell
+  IPA: [əˈkɛʎ] (Tags: Central)
+  IPA: [əˈkəʎ] (Tags: Balearic)
+  IPA: [aˈkeʎ] (Tags: Valencia)
+aquest
+  IPA: [əˈkɛst] (Tags: Central)
+  IPA: [əˈkəst] (Tags: Balearic)
+  IPA: [aˈkest] (Tags: Valencia)
+  IPA: [əˈkɛt] (Tags: Central)
+  IPA: [əˈkət] (Tags: Balearic)
+  IPA: [aˈket] (Tags: Valencia)
+algunes
+  IPA: [əlˈɣu.nəs] (Tags: Balearic, Central)
+  IPA: [alˈɣu.nes] (Tags: Valencia)
+qualsevol
+  IPA: [ˌkwal.səˈβɔl] (Tags: Central)
+  IPA: [ˌkwal.səˈvɔl] (Tags: Balearic)
+  IPA: [ˌkwal.seˈvɔl] (Tags: Valencia)
+ambdós
+  IPA: [əmˈdos] (Tags: Balearic, Central)
+  IPA: [amˈdos] (Tags: Valencia)
+qualque
+  IPA: [ˈkwal.kə] (Tags: Balearic, Central)
+  IPA: [ˈkwal.ke] (Tags: Valencia)
+aqueix
+  IPA: [əˈkɛʃ] (Tags: Central)
+  IPA: [əˈkəʃ] (Tags: Balearic)
+  IPA: [aˈkejʃ] (Tags: Valencia)
+ambdues
+  IPA: [əmˈdu.əs] (Tags: Balearic, Central)
+  IPA: [amˈdu.es] (Tags: Valencia)
+pocs
+  IPA: [ˈpɔks] (Tags: Balearic, Central, Valencia)
+qualsessia
+  IPA: [ˌkwal.səˈsi.ə] (Tags: Balearic, Central)
+  IPA: [ˌkwal.seˈsi.a] (Tags: Valencia)
+qualcuns
+  IPA: [kwəlˈkuns] (Tags: Balearic, Central)
+  IPA: [kwalˈkuns] (Tags: Valencia)
+qualcunes
+  IPA: [kwəlˈku.nəs] (Tags: Balearic, Central)
+  IPA: [kwalˈku.nes] (Tags: Valencia)

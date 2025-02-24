@@ -1,0 +1,4230 @@
+gratis
+  IPA: [ˈɡɾa.tis] (Tags: Balearic, Central, Valencia)
+on
+  IPA: [ˈon] (Tags: Balearic, Central, Valencia)
+ans
+  IPA: [ˈans] (Tags: Balearic, Central, Valencia)
+tan
+  IPA: [ˈtan] (Tags: Balearic, Central, Valencia)
+ben
+  IPA: [ˈben] (Tags: Balearic, Central, Valencia)
+ran
+  IPA: [ˈran] (Tags: Balearic, Central, Valencia)
+mal
+  IPA: [ˈmal] (Tags: Balearic, Central, Valencia)
+ni
+  IPA: [ni] (Tags: Balearic, Central, Valencia)
+sí
+  IPA: [ˈsi] (Tags: Balearic, Central, Valencia)
+allí
+  IPA: [əˈʎi] (Tags: Balearic, Central)
+  IPA: [aˈʎi] (Tags: Valencia)
+ahí
+  IPA: /aˈi/ (Tags: Valencia)
+aquí
+  IPA: [əˈki] (Tags: Balearic, Central)
+  IPA: [aˈki] (Tags: Valencia)
+net
+  IPA: [ˈnɛt] (Tags: Central)
+  IPA: [ˈnət] (Tags: Balearic)
+  IPA: [ˈnet] (Tags: Valencia)
+just
+  IPA: [ˈʒust] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒust] (Tags: Valencia)
+ja
+  IPA: [ˈʒa] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒa] (Tags: Valencia)
+presto
+  IPA: [ˈpɾes.tu] (Tags: Central)
+  IPA: [ˈpɾes.to] (Tags: Balearic, Valencia)
+massa
+  IPA: [ˈma.sə] (Tags: Balearic, Central)
+  IPA: [ˈma.sa] (Tags: Valencia)
+prop
+  IPA: [ˈpɾɔp] (Tags: Balearic, Central, Valencia)
+avant
+  IPA: [əˈβan] (Tags: Central)
+  IPA: [əˈvant] (Tags: Balearic)
+  IPA: [aˈvant] (Tags: Valencia)
+mes
+  IPA: [ˈmes] (Tags: Balearic, Central, Valencia)
+pus
+  IPA: [ˈpus] (Tags: Balearic, Central, Valencia)
+primer
+  IPA: [pɾiˈme] (Tags: Balearic, Central)
+  IPA: [pɾiˈmeɾ] (Tags: Valencia)
+pas
+  IPA: [ˈpas] (Tags: Balearic, Central, Valencia)
+però
+  IPA: [pəˈɾɔ] (Tags: Balearic, Central)
+  IPA: [peˈɾɔ] (Tags: Valencia)
+  IPA: /ˈpeɾo/
+  IPA: /pɾɔ/ (Tags: Eastern, colloquial)
+  IPA: /ˈpoɾo/ (Tags: Valencian, dialectal)
+hoc
+  IPA: [ˈɔk] (Tags: Balearic, Central, Valencia)
+mai
+  IPA: [ˈmaj] (Tags: Balearic, Central, Valencia)
+fort
+  IPA: [ˈfɔrt] (Tags: Balearic, Central)
+  IPA: [ˈfɔɾt] (Tags: Valencia)
+que
+  IPA: /kə/
+  IPA: /ke/
+tal
+  IPA: [ˈtal] (Tags: Balearic, Central, Valencia)
+quasi
+  IPA: [ˈkwa.zi] (Tags: Balearic, Central, Valencia)
+gens
+  IPA: [ˈʒens] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒens] (Tags: Valencia)
+fondo
+  IPA: [ˈfon.du] (Tags: Central)
+  IPA: [ˈfon.do] (Tags: Balearic, Valencia)
+sempre
+  IPA: [ˈsem.pɾə] (Tags: Balearic, Central)
+  IPA: [ˈsem.pɾe] (Tags: Valencia)
+fora
+  IPA: [ˈfɔ.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈfɔ.ɾa] (Tags: Valencia)
+tard
+  IPA: [ˈtart] (Tags: Balearic, Central)
+  IPA: [ˈtaɾt] (Tags: Valencia)
+ça
+  IPA: [ˈsa] (Tags: Balearic, Central, Valencia)
+com
+  IPA: [ˈkɔm] (Tags: Balearic, Central)
+  IPA: [ˈkom] (Tags: Valencia)
+bis
+  IPA: [ˈbis] (Tags: Balearic, Central, Valencia)
+ací
+  IPA: [əˈsi] (Tags: Balearic, Central)
+  IPA: [aˈsi] (Tags: Valencia)
+molt
+  IPA: [ˈmol] (Tags: Central)
+  IPA: [ˈmolt] (Tags: Balearic, Valencia)
+envers
+  IPA: [əmˈbɛrs] (Tags: Central)
+  IPA: [əɱˈves] (Tags: Balearic)
+  IPA: [eɱˈvers] (Tags: Valencia)
+contra
+  IPA: [ˈkɔn.tɾə] (Tags: Balearic, Central)
+  IPA: [ˈkon.tɾa] (Tags: Valencia)
+sota
+  IPA: [ˈso.tə] (Tags: Balearic, Central)
+  IPA: [ˈso.ta] (Tags: Valencia)
+hui
+  IPA: /wi/ (Tags: Valencia)
+poder
+  IPA: [puˈðe] (Tags: Central)
+  IPA: [poˈðe] (Tags: Balearic)
+  IPA: [poˈðeɾ] (Tags: Valencia)
+tant
+  IPA: [ˈtan] (Tags: Central)
+  IPA: [ˈtant] (Tags: Balearic, Valencia)
+ara
+  IPA: [ˈa.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈa.ɾa] (Tags: Valencia)
+hon
+  IPA: [ˈon] (Tags: Balearic, Central, Valencia)
+recte
+  IPA: [ˈrɛk.tə] (Tags: Balearic, Central)
+  IPA: [ˈrɛk.te] (Tags: Valencia)
+después
+  IPA: [dəs.puˈes] (Tags: Balearic, Central)
+  IPA: [des.puˈes] (Tags: Valencia)
+simplement
+  IPA: [ˌsim.pləˈmen] (Tags: Central)
+  IPA: [ˌsim.pləˈment] (Tags: Balearic)
+  IPA: [ˌsim.pleˈment] (Tags: Valencia)
+més
+  IPA: [ˈmes] (Tags: Balearic, Central, Valencia)
+vora
+  IPA: [ˈbɔ.ɾə] (Tags: Central)
+  IPA: [ˈvɔ.ɾə] (Tags: Balearic)
+  IPA: [ˈvɔ.ɾa] (Tags: Valencia)
+almón
+  IPA: [əlˈmon] (Tags: Balearic, Central)
+  IPA: [alˈmon] (Tags: Valencia)
+almon
+  IPA: [əlˈmon] (Tags: Balearic, Central)
+  IPA: [alˈmon] (Tags: Valencia)
+avui
+  IPA: [əˈβuj] (Tags: Central)
+  IPA: [əˈvuj] (Tags: Balearic)
+  IPA: [aˈvuj] (Tags: Valencia)
+ahir
+  IPA: [əˈi] (Tags: Balearic, Central)
+  IPA: [aˈiɾ] (Tags: Valencia)
+probablement
+  IPA: [pɾuˌβab.bləˈmen] (Tags: Central)
+  IPA: [pɾoˌbab.bləˈment] (Tags: Balearic)
+  IPA: [pɾoˌba.bleˈment] (Tags: Valencia)
+bé
+  IPA: [ˈbe] (Tags: Balearic, Central, Valencia)
+sols
+  IPA: [ˈsɔls] (Tags: Balearic, Central, Valencia)
+dins
+  IPA: [ˈdins] (Tags: Balearic, Central, Valencia)
+encara
+  IPA: [əŋˈka.ɾə] (Tags: Balearic, Central)
+  IPA: [eŋˈka.ɾa] (Tags: Valencia)
+en bloc
+  IPA: [əm ˈblɔk] (Tags: Balearic, Central)
+  IPA: [em ˈblɔk] (Tags: Valencia)
+no
+  IPA: [ˈno] (Tags: Balearic, Central, Valencia)
+tost
+  IPA: [ˈtɔst] (Tags: Balearic, Central, Valencia)
+quan
+  IPA: [ˈkwan] (Tags: Balearic, Central, Valencia)
+possiblement
+  IPA: [puˌsib.bləˈmen] (Tags: Central)
+  IPA: [puˌsib.bləˈment] (Tags: Balearic)
+  IPA: [poˌsi.bleˈment] (Tags: Valencia)
+súper
+  IPA: [ˈsu.pər] (Tags: Central)
+  IPA: [ˈsu.per] (Tags: Valencia)
+manco
+  IPA: [ˈmaŋ.ku] (Tags: Central)
+  IPA: [ˈmaŋ.ko] (Tags: Balearic, Valencia)
+per sempre
+  IPA: [pər ˈsem.pɾə] (Tags: Balearic, Central)
+  IPA: [per ˈsem.pɾe] (Tags: Valencia)
+dintre
+  IPA: [ˈdin.tɾə] (Tags: Balearic, Central)
+  IPA: [ˈdin.tɾe] (Tags: Valencia)
+força
+  IPA: [ˈfɔr.sə] (Tags: Balearic, Central)
+  IPA: [ˈfɔɾ.sa] (Tags: Valencia)
+també
+  IPA: [təmˈbe] (Tags: Balearic, Central)
+  IPA: [tamˈbe] (Tags: Valencia)
+dessota
+  IPA: [dəˈso.tə] (Tags: Balearic, Central)
+  IPA: [deˈso.ta] (Tags: Valencia)
+enllà
+  IPA: [əɲˈʎa] (Tags: Balearic, Central)
+  IPA: [eɲˈʎa] (Tags: Valencia)
+damunt
+  IPA: [dəˈmun] (Tags: Central)
+  IPA: [dəˈmunt] (Tags: Balearic)
+  IPA: [daˈmunt] (Tags: Valencia)
+junt
+  IPA: [ˈʒun] (Tags: Central)
+  IPA: [ˈʒunt] (Tags: Balearic)
+  IPA: [ˈd͡ʒunt] (Tags: Valencia)
+potser
+  IPA: [putˈsɛ] (Tags: Central)
+  IPA: [potˈsə] (Tags: Balearic)
+  IPA: [potˈseɾ] (Tags: Valencia)
+de sobte
+  IPA: [də ˈsop.tə] (Tags: Balearic, Central)
+  IPA: [de ˈsop.te] (Tags: Valencia)
+collons
+  IPA: [kuˈʎons] (Tags: Central)
+  IPA: [koˈʎons] (Tags: Balearic, Valencia)
+diables
+  IPA: [diˈab.bləs] (Tags: Balearic, Central)
+  IPA: [diˈa.bles] (Tags: Valencia)
+malgrat
+  IPA: [məlˈɣɾat] (Tags: Balearic, Central)
+  IPA: [malˈɣɾat] (Tags: Valencia)
+favorablement
+  IPA: [fə.βuˌɾab.bləˈmen] (Tags: Central)
+  IPA: [fə.voˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [fa.voˌɾa.bleˈment] (Tags: Valencia)
+sensiblement
+  IPA: [sənˌsib.bləˈmen] (Tags: Central)
+  IPA: [sənˌsib.bləˈment] (Tags: Balearic)
+  IPA: [senˌsi.bleˈment] (Tags: Valencia)
+abominablement
+  IPA: [ə.βu.miˌnab.bləˈmen] (Tags: Central)
+  IPA: [ə.bo.miˌnab.bləˈment] (Tags: Balearic)
+  IPA: [a.bo.miˌna.bleˈment] (Tags: Valencia)
+llavors
+  IPA: [ʎəˈβɔs] (Tags: Central)
+  IPA: [ʎəˈvɔs] (Tags: Balearic)
+  IPA: [ʎaˈvɔrs] (Tags: Valencia)
+  IPA: [ʎaˈvɔs] (Tags: Valencia)
+a la romana
+  IPA: [ə lə ruˈma.nə] (Tags: Central)
+  IPA: [ə lə roˈma.nə] (Tags: Balearic)
+  IPA: [a la roˈma.na] (Tags: Valencia)
+prou
+  IPA: [ˈpɾɔw] (Tags: Balearic, Central, Valencia)
+directe
+  IPA: [diˈɾɛk.tə] (Tags: Balearic, Central)
+  IPA: [diˈɾɛk.te] (Tags: Valencia)
+visiblement
+  IPA: [biˌzib.bləˈmen] (Tags: Central)
+  IPA: [viˌzib.bləˈment] (Tags: Balearic)
+  IPA: [viˌzi.bleˈment] (Tags: Valencia)
+admirablement
+  IPA: [əd.miˌɾab.bləˈmen] (Tags: Central)
+  IPA: [əd.miˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [ad.miˌɾa.bleˈment] (Tags: Valencia)
+tantost
+  IPA: [tənˈtɔst] (Tags: Balearic, Central)
+  IPA: [tanˈtɔst] (Tags: Valencia)
+deçà
+  IPA: [dəˈsa] (Tags: Balearic, Central)
+  IPA: [deˈsa] (Tags: Valencia)
+científicament
+  IPA: [si.ənˌti.fi.kəˈmen] (Tags: Central)
+  IPA: [si.ənˌti.fi.kəˈment] (Tags: Balearic)
+  IPA: [si.enˌti.fi.kaˈment] (Tags: Valencia)
+arran
+  IPA: [əˈran] (Tags: Balearic, Central)
+  IPA: [aˈran] (Tags: Valencia)
+horriblement
+  IPA: [uˌrib.bləˈmen] (Tags: Central)
+  IPA: [uˌrib.bləˈment] (Tags: Balearic)
+  IPA: [oˌri.bleˈment] (Tags: Valencia)
+impossiblement
+  IPA: [im.puˌsib.bləˈmen] (Tags: Central)
+  IPA: [im.puˌsib.bləˈment] (Tags: Balearic)
+  IPA: [im.poˌsi.bleˈment] (Tags: Valencia)
+adorablement
+  IPA: [ə.ðuˌɾab.bləˈmen] (Tags: Central)
+  IPA: [ə.ðoˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [a.ðoˌɾa.bleˈment] (Tags: Valencia)
+sovint
+  IPA: [suˈβin] (Tags: Central)
+  IPA: [suˈvint] (Tags: Balearic)
+  IPA: [soˈvint] (Tags: Valencia)
+rarament
+  IPA: [ˌra.ɾəˈmen] (Tags: Central)
+  IPA: [ˌra.ɾəˈment] (Tags: Balearic)
+  IPA: [ˌra.ɾaˈment] (Tags: Valencia)
+aviat
+  IPA: [ə.βiˈat] (Tags: Central)
+  IPA: [ə.viˈat] (Tags: Balearic)
+  IPA: [a.viˈat] (Tags: Valencia)
+justament
+  IPA: [ˌʒus.təˈmen] (Tags: Central)
+  IPA: [ˌʒus.təˈment] (Tags: Balearic)
+  IPA: [ˌd͡ʒus.taˈment] (Tags: Valencia)
+heus
+  IPA: [ˈɛws] (Tags: Central)
+  IPA: [ˈəws] (Tags: Balearic)
+  IPA: [ˈews] (Tags: Valencia)
+formidablement
+  IPA: [fur.miˌðab.bləˈmen] (Tags: Central)
+  IPA: [for.miˌðab.bləˈment] (Tags: Balearic)
+  IPA: [foɾ.miˌða.bleˈment] (Tags: Valencia)
+anàrquicament
+  IPA: [əˌnar.ki.kəˈmen] (Tags: Central)
+  IPA: [əˌnar.ki.kəˈment] (Tags: Balearic)
+  IPA: [aˌnaɾ.ki.kaˈment] (Tags: Valencia)
+per què
+  IPA: [pər ˈkɛ] (Tags: Central)
+  IPA: [pər ˈkə] (Tags: Balearic)
+  IPA: [per ˈke] (Tags: Valencia)
+pla
+  IPA: [ˈpla] (Tags: Balearic, Central, Valencia)
+lamentablement
+  IPA: [lə.mənˌtab.bləˈmen] (Tags: Central)
+  IPA: [lə.mənˌtab.bləˈment] (Tags: Balearic)
+  IPA: [la.menˌta.bleˈment] (Tags: Valencia)
+gaire
+  IPA: [ˈɡaj.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈɡaj.ɾe] (Tags: Valencia)
+rere
+  IPA: [ˈre.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈre.ɾe] (Tags: Valencia)
+anit
+  IPA: [əˈnit] (Tags: Balearic, Central)
+  IPA: [aˈnit] (Tags: Valencia)
+personalment
+  IPA: [pər.suˌnalˈmen] (Tags: Central)
+  IPA: [pər.soˌnalˈment] (Tags: Balearic)
+  IPA: [peɾ.soˌnalˈment] (Tags: Valencia)
+fonamentalment
+  IPA: [fu.nə.mənˌtalˈmen] (Tags: Central)
+  IPA: [fo.nə.mənˌtalˈment] (Tags: Balearic)
+  IPA: [fo.na.menˌtalˈment] (Tags: Valencia)
+clarament
+  IPA: [ˌkla.ɾəˈmen] (Tags: Central)
+  IPA: [ˌkla.ɾəˈment] (Tags: Balearic)
+  IPA: [ˌkla.ɾaˈment] (Tags: Valencia)
+fàcilment
+  IPA: [ˌfa.silˈmen] (Tags: Central)
+  IPA: [ˌfa.silˈment] (Tags: Balearic, Valencia)
+essencialment
+  IPA: [ə.sən.siˌalˈmen] (Tags: Central)
+  IPA: [ə.sən.siˌalˈment] (Tags: Balearic)
+  IPA: [e.sen.siˌalˈment] (Tags: Valencia)
+alfabèticament
+  IPA: [əl.fəˌβɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [əl.fəˌbɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [al.faˌbɛ.ti.kaˈment] (Tags: Valencia)
+  IPA: [aɫ.faˌβɛ.ti.kaˈmen]
+naturalment
+  IPA: [nə.tuˌɾalˈmen] (Tags: Central)
+  IPA: [nə.tuˌɾalˈment] (Tags: Balearic)
+  IPA: [na.tuˌɾalˈment] (Tags: Valencia)
+estrictament
+  IPA: [əsˌtɾik.təˈmen] (Tags: Central)
+  IPA: [əsˌtɾik.təˈment] (Tags: Balearic)
+  IPA: [esˌtɾik.taˈment] (Tags: Valencia)
+tradicionalment
+  IPA: [tɾə.ði.si.uˌnalˈmen] (Tags: Central)
+  IPA: [tɾə.ði.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [tɾa.ði.si.oˌnalˈment] (Tags: Valencia)
+lingüísticament
+  IPA: [liŋˌɡwis.ti.kəˈmen] (Tags: Central)
+  IPA: [liŋˌɡwis.ti.kəˈment] (Tags: Balearic)
+  IPA: [liŋˌɡwis.ti.kaˈment] (Tags: Valencia)
+inicialment
+  IPA: [i.ni.siˌalˈmen] (Tags: Central)
+  IPA: [i.ni.siˌalˈment] (Tags: Balearic, Valencia)
+doncs
+  IPA: [ˈdɔŋs] (Tags: Balearic, Central, Valencia)
+parcialment
+  IPA: [pər.siˌalˈmen] (Tags: Central)
+  IPA: [pər.siˌalˈment] (Tags: Balearic)
+  IPA: [paɾ.siˌalˈment] (Tags: Valencia)
+completament
+  IPA: [kumˌplɛ.təˈmen] (Tags: Central)
+  IPA: [komˌplɛ.təˈment] (Tags: Balearic)
+  IPA: [komˌple.təˈment] (Tags: Balearic)
+  IPA: [komˌple.taˈment] (Tags: Valencia)
+efectivament
+  IPA: [ə.fəkˌti.βəˈmen] (Tags: Central)
+  IPA: [ə.fəkˌti.vəˈment] (Tags: Balearic)
+  IPA: [e.fekˌti.vaˈment] (Tags: Valencia)
+inútilment
+  IPA: [iˌnu.tilˈmen] (Tags: Central)
+  IPA: [iˌnu.tilˈment] (Tags: Balearic, Valencia)
+directament
+  IPA: [diˌɾɛk.təˈmen] (Tags: Central)
+  IPA: [diˌɾɛk.təˈment] (Tags: Balearic)
+  IPA: [diˌɾɛk.taˈment] (Tags: Valencia)
+per exemple
+  IPA: [pər əɡˈzem.plə] (Tags: Balearic, Central)
+  IPA: [per eɡˈzɛm.ple] (Tags: Valencia)
+menys
+  IPA: [ˈmɛɲs] (Tags: Central)
+  IPA: [ˈmeɲs] (Tags: Balearic, Valencia)
+sobretot
+  IPA: [ˌso.βɾəˈtot] (Tags: Central)
+  IPA: [ˌso.bɾəˈtot] (Tags: Balearic)
+  IPA: [ˌso.bɾeˈtot] (Tags: Valencia)
+més o menys
+  IPA: [ˈmez u ˈmɛɲs] (Tags: Central)
+  IPA: [ˈmez o ˈmeɲs] (Tags: Balearic, Valencia)
+exclusivament
+  IPA: [əks.kluˌzi.βəˈmen] (Tags: Central)
+  IPA: [əks.kluˌzi.vəˈment] (Tags: Balearic)
+  IPA: [eks.kluˌzi.vaˈment] (Tags: Valencia)
+immediatament
+  IPA: [im.mə.ðiˌa.təˈmen] (Tags: Central)
+  IPA: [im.mə.ðiˌa.təˈment] (Tags: Balearic)
+  IPA: [im.me.ðiˌa.taˈment] (Tags: Valencia)
+generosament
+  IPA: [ʒə.nəˌɾo.zəˈmen] (Tags: Central)
+  IPA: [ʒə.nəˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [d͡ʒe.neˌɾo.zaˈment] (Tags: Valencia)
+extremament
+  IPA: [əksˌtɾe.məˈmen] (Tags: Central)
+  IPA: [əksˌtɾe.məˈment] (Tags: Balearic)
+  IPA: [eksˌtɾe.maˈment] (Tags: Valencia)
+respectivament
+  IPA: [rəs.pəkˌti.βəˈmen] (Tags: Central)
+  IPA: [rəs.pəkˌti.vəˈment] (Tags: Balearic)
+  IPA: [res.pekˌti.vaˈment] (Tags: Valencia)
+paral·lelament
+  IPA: [pə.ɾəlˌlɛ.ləˈmen] (Tags: Central)
+  IPA: [pə.ɾəlˌlɛ.ləˈment] (Tags: Balearic)
+  IPA: [pa.ɾalˌlɛ.laˈment] (Tags: Valencia)
+oficialment
+  IPA: [u.fi.siˌalˈmen] (Tags: Central)
+  IPA: [o.fi.siˌalˈment] (Tags: Balearic, Valencia)
+indubtablement
+  IPA: [in.dupˌtab.bləˈmen] (Tags: Central)
+  IPA: [in.dupˌtab.bləˈment] (Tags: Balearic)
+  IPA: [in.dupˌta.bleˈment] (Tags: Valencia)
+definitivament
+  IPA: [də.fi.niˌti.βəˈmen] (Tags: Central)
+  IPA: [də.fi.niˌti.vəˈment] (Tags: Balearic)
+  IPA: [de.fi.niˌti.vaˈment] (Tags: Valencia)
+després
+  IPA: [dəsˈpɾes] (Tags: Balearic, Central)
+  IPA: [desˈpɾes] (Tags: Valencia)
+antigament
+  IPA: [ənˌti.ɣəˈmen] (Tags: Central)
+  IPA: [ənˌti.ɣəˈment] (Tags: Balearic)
+  IPA: [anˌti.ɣaˈment] (Tags: Valencia)
+abans
+  IPA: [əˈβans] (Tags: Central)
+  IPA: [əˈbans] (Tags: Balearic)
+  IPA: [aˈbans] (Tags: Valencia)
+pòstumament
+  IPA: [ˌpɔs.tu.məˈmen] (Tags: Central)
+  IPA: [ˌpɔs.tu.məˈment] (Tags: Balearic)
+  IPA: [ˌpɔs.tu.maˈment] (Tags: Valencia)
+íntegrament
+  IPA: [ˌin.tə.ɣɾəˈmen] (Tags: Central)
+  IPA: [ˌin.tə.ɣɾəˈment] (Tags: Balearic)
+  IPA: [ˌin.te.ɣɾaˈment] (Tags: Valencia)
+com de costum
+  IPA: [ˈkɔm də kusˈtum] (Tags: Balearic, Central)
+  IPA: [ˈkom de kosˈtum] (Tags: Valencia)
+noblement
+  IPA: [ˌnɔb.bləˈmen] (Tags: Central)
+  IPA: [ˌnɔb.bləˈment] (Tags: Balearic)
+  IPA: [ˌno.bleˈment] (Tags: Valencia)
+especialment
+  IPA: [əs.pə.siˌalˈmen] (Tags: Central)
+  IPA: [əs.pə.siˌalˈment] (Tags: Balearic)
+  IPA: [es.pe.siˌalˈment] (Tags: Valencia)
+indirectament
+  IPA: [in.diˌɾɛk.təˈmen] (Tags: Central)
+  IPA: [in.diˌɾɛk.təˈment] (Tags: Balearic)
+  IPA: [in.diˌɾɛk.taˈment] (Tags: Valencia)
+segurament
+  IPA: [səˌɣu.ɾəˈmen] (Tags: Central)
+  IPA: [səˌɣu.ɾəˈment] (Tags: Balearic)
+  IPA: [seˌɣu.ɾaˈment] (Tags: Valencia)
+honorablement
+  IPA: [u.nuˌɾab.bləˈmen] (Tags: Central)
+  IPA: [o.noˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [o.noˌɾa.bleˈment] (Tags: Valencia)
+improbablement
+  IPA: [im.pɾuˌβab.bləˈmen] (Tags: Central)
+  IPA: [im.pɾoˌbab.bləˈment] (Tags: Balearic)
+  IPA: [im.pɾoˌba.bleˈment] (Tags: Valencia)
+invisiblement
+  IPA: [im.biˌzib.bləˈmen] (Tags: Central)
+  IPA: [iɱ.viˌzib.bləˈment] (Tags: Balearic)
+  IPA: [iɱ.viˌzi.bleˈment] (Tags: Valencia)
+inflexiblement
+  IPA: [iɱ.fləkˌsib.bləˈmen] (Tags: Central)
+  IPA: [iɱ.fləkˌsib.bləˈment] (Tags: Balearic)
+  IPA: [iɱ.flekˌsi.bleˈment] (Tags: Valencia)
+imperceptiblement
+  IPA: [im.pər.səpˌtib.bləˈmen] (Tags: Central)
+  IPA: [im.pər.səpˌtib.bləˈment] (Tags: Balearic)
+  IPA: [im.peɾ.sepˌti.bleˈment] (Tags: Valencia)
+inexplicablement
+  IPA: [in.əks.pliˌkab.bləˈmen] (Tags: Central)
+  IPA: [in.əks.pliˌkab.bləˈment] (Tags: Balearic)
+  IPA: [in.eks.pliˌka.bleˈment] (Tags: Valencia)
+invariablement
+  IPA: [im.bə.ɾiˌab.bləˈmen] (Tags: Central)
+  IPA: [iɱ.və.ɾiˌab.bləˈment] (Tags: Balearic)
+  IPA: [iɱ.va.ɾiˌa.bleˈment] (Tags: Valencia)
+variablement
+  IPA: [bə.ɾiˌab.bləˈmen] (Tags: Central)
+  IPA: [və.ɾiˌab.bləˈment] (Tags: Balearic)
+  IPA: [va.ɾiˌa.bleˈment] (Tags: Valencia)
+de nou
+  IPA: [də ˈnɔw] (Tags: Balearic, Central)
+  IPA: [de ˈnɔw] (Tags: Valencia)
+enrere
+  IPA: [ənˈre.ɾə] (Tags: Balearic, Central)
+  IPA: [enˈre.ɾe] (Tags: Valencia)
+darrere
+  IPA: [dəˈre.ɾə] (Tags: Balearic, Central)
+  IPA: [daˈre.ɾe] (Tags: Valencia)
+poc
+  IPA: [ˈpɔk] (Tags: Balearic, Central, Valencia)
+allà
+  IPA: [əˈʎa] (Tags: Balearic, Central)
+  IPA: [aˈʎa] (Tags: Valencia)
+així
+  IPA: [əˈʃi] (Tags: Balearic, Central)
+  IPA: [ajˈʃi] (Tags: Valencia)
+quelcom
+  IPA: [kəlˈkɔm] (Tags: Balearic, Central)
+  IPA: [kelˈkɔm] (Tags: Valencia)
+de fet
+  IPA: [də ˈfet] (Tags: Balearic, Central)
+  IPA: [de ˈfet] (Tags: Valencia)
+demà
+  IPA: [dəˈma] (Tags: Balearic, Central)
+  IPA: [deˈma] (Tags: Valencia)
+sisplau
+  IPA: [sisˈplaw] (Tags: Balearic, Central, Valencia)
+si us plau
+  IPA: [si us ˈplaw] (Tags: Balearic, Central, Valencia)
+només
+  IPA: [nuˈmes] (Tags: Central)
+  IPA: [noˈmes] (Tags: Balearic, Valencia)
+gairebé
+  IPA: [ɡəj.ɾəˈβe] (Tags: Central)
+  IPA: [ɡəj.ɾəˈbe] (Tags: Balearic)
+  IPA: [ɡaj.ɾeˈbe] (Tags: Valencia)
+lluny
+  IPA: [ˈʎuɲ] (Tags: Balearic, Central, Valencia)
+llarg
+  IPA: [ˈʎark] (Tags: Balearic, Central)
+  IPA: [ˈʎaɾk] (Tags: Valencia)
+com a màxim
+  IPA: [ˈkɔm ə ˈmak.sim] (Tags: Balearic, Central)
+  IPA: [ˈkom a ˈmak.sim] (Tags: Valencia)
+com a molt
+  IPA: [ˈkɔm ə ˈmol] (Tags: Central)
+  IPA: [ˈkɔm ə ˈmolt] (Tags: Balearic)
+  IPA: [ˈkom a ˈmolt] (Tags: Valencia)
+per fi
+  IPA: [pər ˈfi] (Tags: Balearic, Central)
+  IPA: [per ˈfi] (Tags: Valencia)
+en fi
+  IPA: [əɱ ˈfi] (Tags: Balearic, Central)
+  IPA: [eɱ ˈfi] (Tags: Valencia)
+tanmateix
+  IPA: [təm.məˈteʃ] (Tags: Balearic, Central)
+  IPA: [tam.maˈtejʃ] (Tags: Valencia)
+per ara
+  IPA: [pər ˈa.ɾə] (Tags: Balearic, Central)
+  IPA: [per ˈa.ɾa] (Tags: Valencia)
+literalment
+  IPA: [li.təˌɾalˈmen] (Tags: Central)
+  IPA: [li.təˌɾalˈment] (Tags: Balearic)
+  IPA: [li.teˌɾalˈment] (Tags: Valencia)
+per sort
+  IPA: [pər ˈsɔrt] (Tags: Balearic, Central)
+  IPA: [per ˈsɔɾt] (Tags: Valencia)
+tampoc
+  IPA: [təmˈpɔk] (Tags: Balearic, Central)
+  IPA: [tamˈpɔk] (Tags: Valencia)
+aixà
+  IPA: [əˈʃa] (Tags: Balearic, Central)
+  IPA: [ajˈʃa] (Tags: Valencia)
+intempestivament
+  IPA: [in.təm.pəsˌti.βəˈmen] (Tags: Central)
+  IPA: [in.təm.pəsˌti.vəˈment] (Tags: Balearic)
+  IPA: [in.tem.pesˌti.vaˈment] (Tags: Valencia)
+artificialment
+  IPA: [ər.ti.fi.siˌalˈmen] (Tags: Central)
+  IPA: [ər.ti.fi.siˌalˈment] (Tags: Balearic)
+  IPA: [aɾ.ti.fi.siˌalˈment] (Tags: Valencia)
+irònicament
+  IPA: [iˌɾɔ.ni.kəˈmen] (Tags: Central)
+  IPA: [iˌɾɔ.ni.kəˈment] (Tags: Balearic)
+  IPA: [iˌɾɔ.ni.kaˈment] (Tags: Valencia)
+permanentment
+  IPA: [pər.məˌnemˈmen] (Tags: Central)
+  IPA: [pər.məˌnemˈment] (Tags: Balearic)
+  IPA: [peɾ.maˌnemˈment] (Tags: Valencia)
+centralment
+  IPA: [sənˌtɾalˈmen] (Tags: Central)
+  IPA: [sənˌtɾalˈment] (Tags: Balearic)
+  IPA: [senˌtɾalˈment] (Tags: Valencia)
+feliçment
+  IPA: [fəˌlizˈmen] (Tags: Central)
+  IPA: [fəˌlizˈment] (Tags: Balearic)
+  IPA: [feˌlizˈment] (Tags: Valencia)
+davant
+  IPA: [dəˈβan] (Tags: Central)
+  IPA: [dəˈvant] (Tags: Balearic)
+  IPA: [daˈvant] (Tags: Valencia)
+per cert
+  IPA: [pər ˈsɛrt] (Tags: Balearic, Central)
+  IPA: [per ˈsɛɾt] (Tags: Valencia)
+figurativament
+  IPA: [fi.ɣu.ɾəˌti.βəˈmen] (Tags: Central)
+  IPA: [fi.ɣu.ɾəˌti.vəˈment] (Tags: Balearic)
+  IPA: [fi.ɣu.ɾaˌti.vaˈment] (Tags: Valencia)
+contínuament
+  IPA: [kunˌti.nu.əˈmen] (Tags: Central)
+  IPA: [kunˌti.nu.əˈment] (Tags: Balearic)
+  IPA: [konˌti.nu.aˈment] (Tags: Valencia)
+únicament
+  IPA: [ˌu.ni.kəˈmen] (Tags: Central)
+  IPA: [ˌu.ni.kəˈment] (Tags: Balearic)
+  IPA: [ˌu.ni.kaˈment] (Tags: Valencia)
+solament
+  IPA: [ˌsɔ.ləˈmen] (Tags: Central)
+  IPA: [ˌsɔ.ləˈment] (Tags: Balearic)
+  IPA: [ˌsɔ.laˈment] (Tags: Valencia)
+genealògicament
+  IPA: [ʒə.ne.əˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ʒə.ne.əˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [d͡ʒe.ne.aˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+endins
+  IPA: [ənˈdins] (Tags: Balearic, Central)
+  IPA: [enˈdins] (Tags: Valencia)
+lliurement
+  IPA: [ˌʎiw.ɾəˈmen] (Tags: Central)
+  IPA: [ˌʎiw.ɾəˈment] (Tags: Balearic)
+  IPA: [ˌʎiw.ɾeˈment] (Tags: Valencia)
+d'aquí poc
+  IPA: [d‿əˈki ˈpɔk] (Tags: Balearic, Central)
+  IPA: [d‿aˈki ˈpɔk] (Tags: Valencia)
+diàriament
+  IPA: [diˌa.ɾi.əˈmen] (Tags: Central)
+  IPA: [diˌa.ɾi.əˈment] (Tags: Balearic)
+  IPA: [diˌa.ɾi.aˈment] (Tags: Valencia)
+primerament
+  IPA: [pɾiˌme.ɾəˈmen] (Tags: Central)
+  IPA: [pɾiˌme.ɾəˈment] (Tags: Balearic)
+  IPA: [pɾiˌme.ɾaˈment] (Tags: Valencia)
+intermitentment
+  IPA: [in.tər.miˌtemˈmen] (Tags: Central)
+  IPA: [in.tər.miˌtemˈment] (Tags: Balearic)
+  IPA: [in.teɾ.miˌtemˈment] (Tags: Valencia)
+pitjor
+  IPA: [piˈd͡ʒo] (Tags: Balearic, Central)
+  IPA: [piˈd͡ʒoɾ] (Tags: Valencia)
+temporalment
+  IPA: [təm.puˌɾalˈmen] (Tags: Central)
+  IPA: [təm.poˌɾalˈment] (Tags: Balearic)
+  IPA: [tem.poˌɾalˈment] (Tags: Valencia)
+independentment
+  IPA: [in.də.pənˌdemˈmen] (Tags: Central)
+  IPA: [in.də.pənˌdemˈment] (Tags: Balearic)
+  IPA: [in.de.penˌdemˈment] (Tags: Valencia)
+silenciosament
+  IPA: [si.lən.siˌo.zəˈmen] (Tags: Central)
+  IPA: [si.lən.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [si.len.siˌo.zaˈment] (Tags: Valencia)
+almenys
+  IPA: [əlˈmɛɲs] (Tags: Central)
+  IPA: [əlˈmeɲs] (Tags: Balearic)
+  IPA: [alˈmeɲs] (Tags: Valencia)
+pacientment
+  IPA: [pə.siˌemˈmen] (Tags: Central)
+  IPA: [pə.siˌemˈment] (Tags: Balearic)
+  IPA: [pa.siˌemˈment] (Tags: Valencia)
+mentrestant
+  IPA: [mən.tɾəsˈtan] (Tags: Central)
+  IPA: [mən.tɾəsˈtant] (Tags: Balearic)
+  IPA: [men.tɾesˈtant] (Tags: Valencia)
+enigmàticament
+  IPA: [ə.niɡˌma.ti.kəˈmen] (Tags: Central)
+  IPA: [ə.niɡˌma.ti.kəˈment] (Tags: Balearic)
+  IPA: [e.niɡˌma.ti.kaˈment] (Tags: Valencia)
+imaginàriament
+  IPA: [i.mə.ʒiˌna.ɾi.əˈmen] (Tags: Central)
+  IPA: [i.mə.ʒiˌna.ɾi.əˈment] (Tags: Balearic)
+  IPA: [i.ma.d͡ʒiˌna.ɾi.aˈment] (Tags: Valencia)
+aleshores
+  IPA: [ə.ləˈzɔ.ɾəs] (Tags: Balearic, Central)
+  IPA: [a.leˈzɔ.ɾes] (Tags: Valencia)
+il·legalment
+  IPA: [il.ləˌɣalˈmen] (Tags: Central)
+  IPA: [il.ləˌɣalˈment] (Tags: Balearic)
+  IPA: [il.leˌɣalˈment] (Tags: Valencia)
+enormement
+  IPA: [əˌnor.məˈmen] (Tags: Central)
+  IPA: [əˌnor.məˈment] (Tags: Balearic)
+  IPA: [eˌnoɾ.meˈment] (Tags: Valencia)
+almanco
+  IPA: [əlˈmaŋ.ku] (Tags: Central)
+  IPA: [əlˈmaŋ.ko] (Tags: Balearic)
+  IPA: [alˈmaŋ.ko] (Tags: Valencia)
+col·lectivament
+  IPA: [kul.ləkˌti.βəˈmen] (Tags: Central)
+  IPA: [kol.ləkˌti.vəˈment] (Tags: Balearic)
+  IPA: [kol.lekˌti.vaˈment] (Tags: Valencia)
+dimonis
+  IPA: [diˈmɔ.nis] (Tags: Balearic, Central, Valencia)
+baix
+  IPA: [ˈbaʃ] (Tags: Balearic, Central)
+  IPA: [ˈbajʃ] (Tags: Valencia)
+notablement
+  IPA: [nuˌtab.bləˈmen] (Tags: Central)
+  IPA: [noˌtab.bləˈment] (Tags: Balearic)
+  IPA: [noˌta.bleˈment] (Tags: Valencia)
+setmanalment
+  IPA: [səm.məˌnalˈmen] (Tags: Central)
+  IPA: [səm.məˌnalˈment] (Tags: Balearic)
+  IPA: [se.maˌnalˈment] (Tags: Valencia)
+avantatjosament
+  IPA: [ə.βən.təˌd͡ʒo.zəˈmen] (Tags: Central)
+  IPA: [ə.vən.təˌd͡ʒo.zəˈment] (Tags: Balearic)
+  IPA: [a.van.taˌd͡ʒo.zaˈment] (Tags: Valencia)
+en realitat
+  IPA: [ən re.ə.liˈtat] (Tags: Balearic, Central)
+  IPA: [en re.a.liˈtat] (Tags: Valencia)
+humilment
+  IPA: [uˌmilˈmen] (Tags: Central)
+  IPA: [uˌmilˈment] (Tags: Balearic, Valencia)
+en canvi
+  IPA: [əŋ ˈkam.bi] (Tags: Central)
+  IPA: [əŋ ˈkaɱ.vi] (Tags: Balearic)
+  IPA: [eŋ ˈkaɱ.vi] (Tags: Valencia)
+fins ara
+  IPA: [ˈfinz ˈa.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈfinz ˈa.ɾa] (Tags: Valencia)
+fotogràficament
+  IPA: [fu.tuˌɣɾa.fi.kəˈmen] (Tags: Central)
+  IPA: [fo.toˌɣɾa.fi.kəˈment] (Tags: Balearic)
+  IPA: [fo.toˌɣɾa.fi.kaˈment] (Tags: Valencia)
+legalment
+  IPA: [ləˌɣalˈmen] (Tags: Central)
+  IPA: [ləˌɣalˈment] (Tags: Balearic)
+  IPA: [leˌɣalˈment] (Tags: Valencia)
+perfectament
+  IPA: [pərˌfek.təˈmen] (Tags: Central)
+  IPA: [pərˌfɛk.təˈment] (Tags: Balearic)
+  IPA: [peɾˌfɛk.taˈment] (Tags: Valencia)
+veritablement
+  IPA: [bə.ɾiˌtab.bləˈmen] (Tags: Central)
+  IPA: [və.ɾiˌtab.bləˈment] (Tags: Balearic)
+  IPA: [ve.ɾiˌta.bleˈment] (Tags: Valencia)
+secretament
+  IPA: [səˌkɾe.təˈmen] (Tags: Central)
+  IPA: [səˌkɾə.təˈment] (Tags: Balearic)
+  IPA: [seˌkɾe.taˈment] (Tags: Valencia)
+moltíssim
+  IPA: [mulˈti.sim] (Tags: Balearic, Central)
+  IPA: [molˈti.sim] (Tags: Valencia)
+respectuosament
+  IPA: [rəs.pək.tuˌo.zəˈmen] (Tags: Central)
+  IPA: [rəs.pək.tuˌo.zəˈment] (Tags: Balearic)
+  IPA: [res.pek.tuˌo.zaˈment] (Tags: Valencia)
+experimentalment
+  IPA: [əks.pə.ɾi.mənˌtalˈmen] (Tags: Central)
+  IPA: [əks.pə.ɾi.mənˌtalˈment] (Tags: Balearic)
+  IPA: [eks.pe.ɾi.menˌtalˈment] (Tags: Valencia)
+recíprocament
+  IPA: [rəˌsi.pɾu.kəˈmen] (Tags: Central)
+  IPA: [rəˌsi.pɾo.kəˈment] (Tags: Balearic)
+  IPA: [reˌsi.pɾo.kaˈment] (Tags: Valencia)
+ràpidament
+  IPA: [ˌra.pi.ðəˈmen] (Tags: Central)
+  IPA: [ˌra.pi.ðəˈment] (Tags: Balearic)
+  IPA: [ˌra.pi.ðaˈment] (Tags: Valencia)
+ràpid
+  IPA: [ˈra.pit] (Tags: Balearic, Central, Valencia)
+francament
+  IPA: [ˌfɾaŋ.kəˈmen] (Tags: Central)
+  IPA: [ˌfɾaŋ.kəˈment] (Tags: Balearic)
+  IPA: [ˌfɾaŋ.kaˈment] (Tags: Valencia)
+curiosament
+  IPA: [ku.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [ku.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [ku.ɾiˌo.zaˈment] (Tags: Valencia)
+a poc a poc
+  IPA: [ə ˈpɔk ə ˈpɔk] (Tags: Balearic, Central)
+  IPA: [a ˈpɔk a ˈpɔk] (Tags: Valencia)
+suficientment
+  IPA: [su.fi.siˌemˈmen] (Tags: Central)
+  IPA: [su.fi.siˌemˈment] (Tags: Balearic, Valencia)
+instantàniament
+  IPA: [ins.tənˌta.ni.əˈmen] (Tags: Central)
+  IPA: [ins.tənˌta.ni.əˈment] (Tags: Balearic)
+  IPA: [ins.tanˌta.ni.aˈment] (Tags: Valencia)
+lleugerament
+  IPA: [ʎəwˌʒe.ɾəˈmen] (Tags: Central)
+  IPA: [ʎəwˌʒe.ɾəˈment] (Tags: Balearic)
+  IPA: [ʎewˌd͡ʒe.ɾaˈment] (Tags: Valencia)
+  IPA: [ʎawˌd͡ʒe.ɾaˈment] (Tags: Valencia)
+de mica en mica
+  IPA: [də ˈmi.kə əm ˈmi.kə] (Tags: Balearic, Central)
+  IPA: [de ˈmi.ka em ˈmi.ka] (Tags: Valencia)
+tranquil·lament
+  IPA: [tɾəŋˌkil.ləˈmen] (Tags: Central)
+  IPA: [tɾəŋˌkil.ləˈment] (Tags: Balearic)
+  IPA: [tɾaŋˌkil.laˈment] (Tags: Valencia)
+convenientment
+  IPA: [kum.bə.niˌemˈmen] (Tags: Central)
+  IPA: [koɱ.və.niˌemˈment] (Tags: Balearic)
+  IPA: [koɱ.ve.niˌemˈment] (Tags: Valencia)
+igualment
+  IPA: [iˌɣwalˈmen] (Tags: Central)
+  IPA: [iˌɣwalˈment] (Tags: Balearic, Valencia)
+gràficament
+  IPA: [ˌɡɾa.fi.kəˈmen] (Tags: Central)
+  IPA: [ˌɡɾa.fi.kəˈment] (Tags: Balearic)
+  IPA: [ˌɡɾa.fi.kaˈment] (Tags: Valencia)
+democràticament
+  IPA: [də.muˌkɾa.ti.kəˈmen] (Tags: Central)
+  IPA: [də.moˌkɾa.ti.kəˈment] (Tags: Balearic)
+  IPA: [de.moˌkɾa.ti.kaˈment] (Tags: Valencia)
+habitualment
+  IPA: [ə.βi.tuˌalˈmen] (Tags: Central)
+  IPA: [ə.bi.tuˌalˈment] (Tags: Balearic)
+  IPA: [a.bi.tuˌalˈment] (Tags: Valencia)
+eficaçment
+  IPA: [ə.fiˌkazˈmen] (Tags: Central)
+  IPA: [ə.fiˌkazˈment] (Tags: Balearic)
+  IPA: [e.fiˌkazˈment] (Tags: Valencia)
+ricament
+  IPA: [ˌri.kəˈmen] (Tags: Central)
+  IPA: [ˌri.kəˈment] (Tags: Balearic)
+  IPA: [ˌri.kaˈment] (Tags: Valencia)
+satisfactòriament
+  IPA: [sə.tis.fəkˌtɔ.ɾi.əˈmen] (Tags: Central)
+  IPA: [sə.tis.fəkˌtɔ.ɾi.əˈment] (Tags: Balearic)
+  IPA: [sa.tis.fakˌtɔ.ɾi.aˈment] (Tags: Valencia)
+tímidament
+  IPA: [ˌti.mi.ðəˈmen] (Tags: Central)
+  IPA: [ˌti.mi.ðəˈment] (Tags: Balearic)
+  IPA: [ˌti.mi.ðaˈment] (Tags: Valencia)
+doblement
+  IPA: [ˌdob.bləˈmen] (Tags: Central)
+  IPA: [ˌdob.bləˈment] (Tags: Balearic)
+  IPA: [ˌdo.bleˈment] (Tags: Valencia)
+ocasionalment
+  IPA: [u.kə.zi.uˌnalˈmen] (Tags: Central)
+  IPA: [o.kə.zi.oˌnalˈment] (Tags: Balearic)
+  IPA: [o.ka.zi.oˌnalˈment] (Tags: Valencia)
+atentament
+  IPA: [əˌten.təˈmen] (Tags: Central)
+  IPA: [əˌten.təˈment] (Tags: Balearic)
+  IPA: [aˌten.taˈment] (Tags: Valencia)
+realment
+  IPA: [reˌalˈmen] (Tags: Central)
+  IPA: [reˌalˈment] (Tags: Balearic, Valencia)
+afortunadament
+  IPA: [ə.fur.tuˌna.ðəˈmen] (Tags: Central)
+  IPA: [ə.for.tuˌna.ðəˈment] (Tags: Balearic)
+  IPA: [a.foɾ.tuˌna.ðaˈment] (Tags: Valencia)
+injustament
+  IPA: [iɲˌʒus.təˈmen] (Tags: Central)
+  IPA: [iɲˌʒus.təˈment] (Tags: Balearic)
+  IPA: [iɲˌd͡ʒus.taˈment] (Tags: Valencia)
+misteriosament
+  IPA: [mis.tə.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [mis.tə.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [mis.te.ɾiˌo.zaˈment] (Tags: Valencia)
+malament
+  IPA: [ˌma.ləˈmen] (Tags: Central)
+  IPA: [ˌma.ləˈment] (Tags: Balearic)
+  IPA: [ˌma.laˈment] (Tags: Valencia)
+enginyosament
+  IPA: [əɲ.ʒiˌɲo.zəˈmen] (Tags: Central)
+  IPA: [əɲ.ʒiˌɲo.zəˈment] (Tags: Balearic)
+  IPA: [eɲ.d͡ʒiˌɲo.zaˈment] (Tags: Valencia)
+presumiblement
+  IPA: [pɾə.zuˌmib.bləˈmen] (Tags: Central)
+  IPA: [pɾə.zuˌmib.bləˈment] (Tags: Balearic)
+  IPA: [pɾe.zuˌmi.bleˈment] (Tags: Valencia)
+d'antelació
+  IPA: [d‿ən.tə.lə.siˈo] (Tags: Balearic, Central)
+  IPA: [d‿an.te.la.siˈo] (Tags: Valencia)
+principalment
+  IPA: [pɾin.siˌpalˈmen] (Tags: Central)
+  IPA: [pɾin.siˌpalˈment] (Tags: Balearic, Valencia)
+mecànicament
+  IPA: [məˌka.ni.kəˈmen] (Tags: Central)
+  IPA: [məˌka.ni.kəˈment] (Tags: Balearic)
+  IPA: [meˌka.ni.kaˈment] (Tags: Valencia)
+orgullosament
+  IPA: [ur.ɡuˌʎo.zəˈmen] (Tags: Central)
+  IPA: [or.ɡuˌʎo.zəˈment] (Tags: Balearic)
+  IPA: [oɾ.ɣuˌʎo.zaˈment] (Tags: Valencia)
+voluntàriament
+  IPA: [bu.lunˌta.ɾi.əˈmen] (Tags: Central)
+  IPA: [vo.lunˌta.ɾi.əˈment] (Tags: Balearic)
+  IPA: [vo.lunˌta.ɾi.aˈment] (Tags: Valencia)
+matemàticament
+  IPA: [mə.təˌma.ti.kəˈmen] (Tags: Central)
+  IPA: [mə.təˌma.ti.kəˈment] (Tags: Balearic)
+  IPA: [ma.teˌma.ti.kaˈment] (Tags: Valencia)
+seriosament
+  IPA: [sə.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [sə.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [se.ɾiˌo.zaˈment] (Tags: Valencia)
+alegrement
+  IPA: [əˌle.ɣɾəˈmen] (Tags: Central)
+  IPA: [əˌle.ɣɾəˈment] (Tags: Balearic)
+  IPA: [aˌle.ɣɾeˈment] (Tags: Valencia)
+relativament
+  IPA: [rə.ləˌti.βəˈmen] (Tags: Central)
+  IPA: [rə.ləˌti.vəˈment] (Tags: Balearic)
+  IPA: [re.laˌti.vaˈment] (Tags: Valencia)
+despuis
+  IPA: [dəsˈpujs] (Tags: Balearic, Central)
+  IPA: [desˈpujs] (Tags: Valencia)
+axiomàticament
+  IPA: [ək.si.uˌma.ti.kəˈmen] (Tags: Central)
+  IPA: [ək.si.oˌma.ti.kəˈment] (Tags: Balearic)
+  IPA: [ak.si.oˌma.ti.kaˈment] (Tags: Valencia)
+amablement
+  IPA: [əˌmab.bləˈmen] (Tags: Central)
+  IPA: [əˌmab.bləˈment] (Tags: Balearic)
+  IPA: [aˌma.bleˈment] (Tags: Valencia)
+abundantment
+  IPA: [ə.βunˌdamˈmen] (Tags: Central)
+  IPA: [ə.bunˌdamˈment] (Tags: Balearic)
+  IPA: [a.bunˌdamˈment] (Tags: Valencia)
+anyalment
+  IPA: [əˌɲalˈmen] (Tags: Central)
+  IPA: [əˌɲalˈment] (Tags: Balearic)
+  IPA: [aˌɲalˈment] (Tags: Valencia)
+cobertament
+  IPA: [kuˌβɛr.təˈmen] (Tags: Central)
+  IPA: [koˌbɛr.təˈment] (Tags: Balearic)
+  IPA: [koˌbɛɾ.taˈment] (Tags: Valencia)
+greument
+  IPA: [ˌɡɾewˈmen] (Tags: Central)
+  IPA: [ˌɡɾewˈment] (Tags: Balearic, Valencia)
+civilment
+  IPA: [siˌβilˈmen] (Tags: Central)
+  IPA: [siˌvilˈment] (Tags: Balearic, Valencia)
+anualment
+  IPA: [ə.nuˌalˈmen] (Tags: Central)
+  IPA: [ə.nuˌalˈment] (Tags: Balearic)
+  IPA: [a.nuˌalˈment] (Tags: Valencia)
+anònimament
+  IPA: [əˌnɔ.ni.məˈmen] (Tags: Central)
+  IPA: [əˌnɔ.ni.məˈment] (Tags: Balearic)
+  IPA: [aˌnɔ.ni.maˈment] (Tags: Valencia)
+agressivament
+  IPA: [ə.ɣɾəˌsi.βəˈmen] (Tags: Central)
+  IPA: [ə.ɣɾəˌsi.vəˈment] (Tags: Balearic)
+  IPA: [a.ɣɾeˌsi.vaˈment] (Tags: Valencia)
+agradablement
+  IPA: [ə.ɣɾəˌðab.bləˈmen] (Tags: Central)
+  IPA: [ə.ɣɾəˌðab.bləˈment] (Tags: Balearic)
+  IPA: [a.ɣɾaˌða.bleˈment] (Tags: Valencia)
+afectuosament
+  IPA: [ə.fək.tuˌo.zəˈmen] (Tags: Central)
+  IPA: [ə.fək.tuˌo.zəˈment] (Tags: Balearic)
+  IPA: [a.fek.tuˌo.zaˈment] (Tags: Valencia)
+alternativament
+  IPA: [əl.tər.nəˌti.βəˈmen] (Tags: Central)
+  IPA: [əl.tər.nəˌti.vəˈment] (Tags: Balearic)
+  IPA: [al.teɾ.naˌti.vaˈment] (Tags: Valencia)
+angèlicament
+  IPA: [əɲˌʒɛ.li.kəˈmen] (Tags: Central)
+  IPA: [əɲˌʒɛ.li.kəˈment] (Tags: Balearic)
+  IPA: [aɲˌd͡ʒɛ.li.kaˈment] (Tags: Valencia)
+arrogantment
+  IPA: [ə.ruˌɣamˈmen] (Tags: Central)
+  IPA: [ə.roˌɣamˈment] (Tags: Balearic)
+  IPA: [a.roˌɣamˈment] (Tags: Valencia)
+amorosament
+  IPA: [ə.muˌɾo.zəˈmen] (Tags: Central)
+  IPA: [ə.moˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [a.moˌɾo.zaˈment] (Tags: Valencia)
+apassionadament
+  IPA: [ə.pə.si.uˌna.ðəˈmen] (Tags: Central)
+  IPA: [ə.pə.si.oˌna.ðəˈment] (Tags: Balearic)
+  IPA: [a.pa.si.oˌna.ðaˈment] (Tags: Valencia)
+amistosament
+  IPA: [ə.misˌto.zəˈmen] (Tags: Central)
+  IPA: [ə.misˌto.zəˈment] (Tags: Balearic)
+  IPA: [a.misˌto.zaˈment] (Tags: Valencia)
+apàticament
+  IPA: [əˌpa.ti.kəˈmen] (Tags: Central)
+  IPA: [əˌpa.ti.kəˈment] (Tags: Balearic)
+  IPA: [aˌpa.ti.kaˈment] (Tags: Valencia)
+activament
+  IPA: [əkˌti.βəˈmen] (Tags: Central)
+  IPA: [əkˌti.vəˈment] (Tags: Balearic)
+  IPA: [akˌti.vaˈment] (Tags: Valencia)
+bellament
+  IPA: [ˌbe.ʎəˈmen] (Tags: Central)
+  IPA: [ˌbe.ʎəˈment] (Tags: Balearic)
+  IPA: [ˌbe.ʎaˈment] (Tags: Valencia)
+aproximadament
+  IPA: [ə.pɾuk.siˌma.ðəˈmen] (Tags: Central)
+  IPA: [ə.pɾok.siˌma.ðəˈment] (Tags: Balearic)
+  IPA: [a.pɾok.siˌma.ðaˈment] (Tags: Valencia)
+políticament
+  IPA: [puˌli.ti.kəˈmen] (Tags: Central)
+  IPA: [puˌli.ti.kəˈment] (Tags: Balearic)
+  IPA: [poˌli.ti.kaˈment] (Tags: Valencia)
+breument
+  IPA: [ˌbɾewˈmen] (Tags: Central)
+  IPA: [ˌbɾewˈment] (Tags: Balearic, Valencia)
+apologèticament
+  IPA: [ə.pu.luˌʒɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [ə.po.loˌʒɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [a.po.loˌd͡ʒɛ.ti.kaˈment] (Tags: Valencia)
+artísticament
+  IPA: [ərˌtis.ti.kəˈmen] (Tags: Central)
+  IPA: [ərˌtis.ti.kəˈment] (Tags: Balearic)
+  IPA: [aɾˌtis.ti.kaˈment] (Tags: Valencia)
+bojament
+  IPA: [ˌbɔ.ʒəˈmen] (Tags: Central)
+  IPA: [ˌbɔ.ʒəˈment] (Tags: Balearic)
+  IPA: [ˌbɔ.d͡ʒaˈment] (Tags: Valencia)
+autènticament
+  IPA: [əwˌtɛn.ti.kəˈmen] (Tags: Central)
+  IPA: [əwˌtɛn.ti.kəˈment] (Tags: Balearic)
+  IPA: [awˌtɛn.ti.kaˈment] (Tags: Valencia)
+cegament
+  IPA: [ˌse.ɣəˈmen] (Tags: Central)
+  IPA: [ˌse.ɣəˈment] (Tags: Balearic)
+  IPA: [ˌse.ɣaˈment] (Tags: Valencia)
+caòticament
+  IPA: [kəˌɔ.ti.kəˈmen] (Tags: Central)
+  IPA: [kəˌɔ.ti.kəˈment] (Tags: Balearic)
+  IPA: [kaˌɔ.ti.kaˈment] (Tags: Valencia)
+incertament
+  IPA: [inˌsɛr.təˈmen] (Tags: Central)
+  IPA: [inˌsɛr.təˈment] (Tags: Balearic)
+  IPA: [inˌsɛɾ.taˈment] (Tags: Valencia)
+coherentment
+  IPA: [ku.əˌɾemˈmen] (Tags: Central)
+  IPA: [ko.əˌɾemˈment] (Tags: Balearic)
+  IPA: [ko.eˌɾemˈment] (Tags: Valencia)
+certament
+  IPA: [ˌsɛr.təˈmen] (Tags: Central)
+  IPA: [ˌsɛr.təˈment] (Tags: Balearic)
+  IPA: [ˌsɛɾ.taˈment] (Tags: Valencia)
+incoherentment
+  IPA: [iŋ.ku.əˌɾemˈmen] (Tags: Central)
+  IPA: [iŋ.ko.əˌɾemˈment] (Tags: Balearic)
+  IPA: [iŋ.ko.eˌɾemˈment] (Tags: Valencia)
+atroçment
+  IPA: [əˌtɾɔzˈmen] (Tags: Central)
+  IPA: [əˌtɾɔzˈment] (Tags: Balearic)
+  IPA: [aˌtɾozˈment] (Tags: Valencia)
+absolutament
+  IPA: [əp.suˌlu.təˈmen] (Tags: Central)
+  IPA: [əp.suˌlu.təˈment] (Tags: Balearic)
+  IPA: [ap.soˌlu.taˈment] (Tags: Valencia)
+asimètricament
+  IPA: [ə.ziˌmɛ.tɾi.kəˈmen] (Tags: Central)
+  IPA: [ə.ziˌmɛ.tɾi.kəˈment] (Tags: Balearic)
+  IPA: [a.ziˌmɛ.tɾi.kaˈment] (Tags: Valencia)
+freqüentment
+  IPA: [fɾəˌkwemˈmen] (Tags: Central)
+  IPA: [fɾəˌkwemˈment] (Tags: Balearic)
+  IPA: [fɾeˌkwemˈment] (Tags: Valencia)
+comercialment
+  IPA: [ku.mər.siˌalˈmen] (Tags: Central)
+  IPA: [ko.mər.siˌalˈment] (Tags: Balearic)
+  IPA: [ko.meɾ.siˌalˈment] (Tags: Valencia)
+comunament
+  IPA: [kuˌmu.nəˈmen] (Tags: Central)
+  IPA: [kuˌmu.nəˈment] (Tags: Balearic)
+  IPA: [koˌmu.naˈment] (Tags: Valencia)
+ambiguament
+  IPA: [əmˌbi.ɣwəˈmen] (Tags: Central)
+  IPA: [əmˌbi.ɣwəˈment] (Tags: Balearic)
+  IPA: [amˌbi.ɣwaˈment] (Tags: Valencia)
+inconvenientment
+  IPA: [iŋ.kum.bə.niˌemˈmen] (Tags: Central)
+  IPA: [iŋ.koɱ.və.niˌemˈment] (Tags: Balearic)
+  IPA: [iŋ.koɱ.ve.niˌemˈment] (Tags: Valencia)
+correctament
+  IPA: [kuˌrɛk.təˈmen] (Tags: Central)
+  IPA: [koˌrɛk.təˈment] (Tags: Balearic)
+  IPA: [koˌrɛk.taˈment] (Tags: Valencia)
+críticament
+  IPA: [ˌkɾi.ti.kəˈmen] (Tags: Central)
+  IPA: [ˌkɾi.ti.kəˈment] (Tags: Balearic)
+  IPA: [ˌkɾi.ti.kaˈment] (Tags: Valencia)
+considerablement
+  IPA: [kun.si.ðəˌɾab.bləˈmen] (Tags: Central)
+  IPA: [kon.si.ðəˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [kon.si.ðeˌɾa.bleˈment] (Tags: Valencia)
+honestament
+  IPA: [uˌnes.təˈmen] (Tags: Central)
+  IPA: [oˌnes.təˈment] (Tags: Balearic)
+  IPA: [oˌnes.taˈment] (Tags: Valencia)
+descriptivament
+  IPA: [dəs.kɾipˌti.βəˈmen] (Tags: Central)
+  IPA: [dəs.kɾipˌti.vəˈment] (Tags: Balearic)
+  IPA: [des.kɾipˌti.vaˈment] (Tags: Valencia)
+incòmodament
+  IPA: [iŋˌkɔ.mu.ðəˈmen] (Tags: Central)
+  IPA: [iŋˌkɔ.mo.ðəˈment] (Tags: Balearic)
+  IPA: [iŋˌkɔ.mo.ðaˈment] (Tags: Valencia)
+cronològicament
+  IPA: [kɾu.nuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [kɾo.noˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [kɾo.noˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+deshonestament
+  IPA: [də.zuˌnes.təˈmen] (Tags: Central)
+  IPA: [də.zoˌnes.təˈment] (Tags: Balearic)
+  IPA: [de.zoˌnes.taˈment] (Tags: Valencia)
+coratjosament
+  IPA: [ku.ɾəˌd͡ʒo.zəˈmen] (Tags: Central)
+  IPA: [ko.ɾəˌd͡ʒo.zəˈment] (Tags: Balearic)
+  IPA: [ko.ɾaˌd͡ʒo.zaˈment] (Tags: Valencia)
+interessadament
+  IPA: [in.tə.ɾəˌsa.ðəˈmen] (Tags: Central)
+  IPA: [in.tə.ɾəˌsa.ðəˈment] (Tags: Balearic)
+  IPA: [in.te.ɾeˌsa.ðaˈment] (Tags: Valencia)
+desinteressadament
+  IPA: [də.zin.tə.ɾəˌsa.ðəˈmen] (Tags: Central)
+  IPA: [də.zin.tə.ɾəˌsa.ðəˈment] (Tags: Balearic)
+  IPA: [de.zin.te.ɾeˌsa.ðaˈment] (Tags: Valencia)
+incorrectament
+  IPA: [iŋ.kuˌrɛk.təˈmen] (Tags: Central)
+  IPA: [iŋ.koˌrɛk.təˈment] (Tags: Balearic)
+  IPA: [iŋ.koˌrɛk.taˈment] (Tags: Valencia)
+còmodament
+  IPA: [ˌkɔ.mu.ðəˈmen] (Tags: Central)
+  IPA: [ˌkɔ.mo.ðəˈment] (Tags: Balearic)
+  IPA: [ˌkɔ.mo.ðaˈment] (Tags: Valencia)
+generalment
+  IPA: [ʒə.nəˌɾalˈmen] (Tags: Central)
+  IPA: [ʒə.nəˌɾalˈment] (Tags: Balearic)
+  IPA: [d͡ʒe.neˌɾalˈment] (Tags: Valencia)
+òbviament
+  IPA: [ˌɔb.bi.əˈmen] (Tags: Central)
+  IPA: [ˌɔb.vi.əˈment] (Tags: Balearic)
+  IPA: [ˌɔb.vi.aˈment] (Tags: Valencia)
+imparcialment
+  IPA: [im.pər.siˌalˈmen] (Tags: Central)
+  IPA: [im.pər.siˌalˈment] (Tags: Balearic)
+  IPA: [im.paɾ.siˌalˈment] (Tags: Valencia)
+totalment
+  IPA: [tuˌtalˈmen] (Tags: Central)
+  IPA: [toˌtalˈment] (Tags: Balearic, Valencia)
+àgilment
+  IPA: [ˌa.ʒilˈmen] (Tags: Central)
+  IPA: [ˌa.ʒilˈment] (Tags: Balearic)
+  IPA: [ˌa.d͡ʒilˈment] (Tags: Valencia)
+consideradament
+  IPA: [kun.si.ðəˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [kon.si.ðəˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [kon.si.ðeˌɾa.ðaˈment] (Tags: Valencia)
+imperfectament
+  IPA: [im.pərˌfek.təˈmen] (Tags: Central)
+  IPA: [im.pərˌfɛk.təˈment] (Tags: Balearic)
+  IPA: [im.peɾˌfɛk.taˈment] (Tags: Valencia)
+superficialment
+  IPA: [su.pər.fi.siˌalˈmen] (Tags: Central)
+  IPA: [su.pər.fi.siˌalˈment] (Tags: Balearic)
+  IPA: [su.peɾ.fi.siˌalˈment] (Tags: Valencia)
+eròticament
+  IPA: [əˌɾɔ.ti.kəˈmen] (Tags: Central)
+  IPA: [əˌɾɔ.ti.kəˈment] (Tags: Balearic)
+  IPA: [eˌɾɔ.ti.kaˈment] (Tags: Valencia)
+perpètuament
+  IPA: [pərˌpɛ.tu.əˈmen] (Tags: Central)
+  IPA: [pərˌpɛ.tu.əˈment] (Tags: Balearic)
+  IPA: [peɾˌpɛ.tu.aˈment] (Tags: Valencia)
+perpetualment
+  IPA: [pər.pə.tuˌalˈmen] (Tags: Central)
+  IPA: [pər.pə.tuˌalˈment] (Tags: Balearic)
+  IPA: [peɾ.pe.tuˌalˈment] (Tags: Valencia)
+típicament
+  IPA: [ˌti.pi.kəˈmen] (Tags: Central)
+  IPA: [ˌti.pi.kəˈment] (Tags: Balearic)
+  IPA: [ˌti.pi.kaˈment] (Tags: Valencia)
+públicament
+  IPA: [ˌpub.bli.kəˈmen] (Tags: Central)
+  IPA: [ˌpub.bli.kəˈment] (Tags: Balearic)
+  IPA: [ˌpu.bli.kaˈment] (Tags: Valencia)
+transparentment
+  IPA: [tɾəns.pəˌɾemˈmen] (Tags: Central)
+  IPA: [tɾəns.pəˌɾemˈment] (Tags: Balearic)
+  IPA: [tɾans.paˌɾemˈment] (Tags: Valencia)
+inconsideradament
+  IPA: [iŋ.kun.si.ðəˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [iŋ.kon.si.ðəˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [iŋ.kon.si.ðeˌɾa.ðaˈment] (Tags: Valencia)
+didàcticament
+  IPA: [diˌðak.ti.kəˈmen] (Tags: Central)
+  IPA: [diˌðak.ti.kəˈment] (Tags: Balearic)
+  IPA: [diˌðak.ti.kaˈment] (Tags: Valencia)
+familiarment
+  IPA: [fə.mi.liˌarˈmen] (Tags: Central)
+  IPA: [fə.mi.liˌaˈment] (Tags: Balearic)
+  IPA: [fa.mi.liˌaɾˈment] (Tags: Valencia)
+victoriosament
+  IPA: [bik.tu.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [vik.to.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [vik.to.ɾiˌo.zaˈment] (Tags: Valencia)
+inesperadament
+  IPA: [i.nəs.pəˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [i.nəs.pəˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [i.nes.peˌɾa.ðaˈment] (Tags: Valencia)
+dolorosament
+  IPA: [du.luˌɾo.zəˈmen] (Tags: Central)
+  IPA: [do.loˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [do.loˌɾo.zaˈment] (Tags: Valencia)
+econòmicament
+  IPA: [ə.kuˌnɔ.mi.kəˈmen] (Tags: Central)
+  IPA: [ə.koˌnɔ.mi.kəˈment] (Tags: Balearic)
+  IPA: [e.koˌnɔ.mi.kaˈment] (Tags: Valencia)
+dinàmicament
+  IPA: [diˌna.mi.kəˈmen] (Tags: Central)
+  IPA: [diˌna.mi.kəˈment] (Tags: Balearic)
+  IPA: [diˌna.mi.kaˈment] (Tags: Valencia)
+dolçament
+  IPA: [ˌdol.səˈmen] (Tags: Central)
+  IPA: [ˌdol.səˈment] (Tags: Balearic)
+  IPA: [ˌdol.saˈment] (Tags: Valencia)
+difícilment
+  IPA: [diˌfi.silˈmen] (Tags: Central)
+  IPA: [diˌfi.silˈment] (Tags: Balearic, Valencia)
+elegantment
+  IPA: [ə.ləˌɣamˈmen] (Tags: Central)
+  IPA: [ə.ləˌɣamˈment] (Tags: Balearic)
+  IPA: [e.leˌɣamˈment] (Tags: Valencia)
+increïblement
+  IPA: [iŋ.kɾəˌib.bləˈmen] (Tags: Central)
+  IPA: [iŋ.kɾəˌib.bləˈment] (Tags: Balearic)
+  IPA: [iŋ.kɾeˌi.bleˈment] (Tags: Valencia)
+preferiblement
+  IPA: [pɾə.fəˌɾib.bləˈmen] (Tags: Central)
+  IPA: [pɾə.fəˌɾib.bləˈment] (Tags: Balearic)
+  IPA: [pɾe.feˌɾi.bleˈment] (Tags: Valencia)
+elèctricament
+  IPA: [əˌlɛk.tɾi.kəˈmen] (Tags: Central)
+  IPA: [əˌlɛk.tɾi.kəˈment] (Tags: Balearic)
+  IPA: [eˌlɛk.tɾi.kaˈment] (Tags: Valencia)
+diferentment
+  IPA: [di.fəˌɾemˈmen] (Tags: Central)
+  IPA: [di.fəˌɾemˈment] (Tags: Balearic)
+  IPA: [di.feˌɾemˈment] (Tags: Valencia)
+dramàticament
+  IPA: [dɾəˌma.ti.kəˈmen] (Tags: Central)
+  IPA: [dɾəˌma.ti.kəˈment] (Tags: Balearic)
+  IPA: [dɾaˌma.ti.kaˈment] (Tags: Valencia)
+específicament
+  IPA: [əs.pəˌsi.fi.kəˈmen] (Tags: Central)
+  IPA: [əs.pəˌsi.fi.kəˈment] (Tags: Balearic)
+  IPA: [es.peˌsi.fi.kaˈment] (Tags: Valencia)
+estúpidament
+  IPA: [əsˌtu.pi.ðəˈmen] (Tags: Central)
+  IPA: [əsˌtu.pi.ðəˈment] (Tags: Balearic)
+  IPA: [esˌtu.pi.ðaˈment] (Tags: Valencia)
+innocentment
+  IPA: [in.nuˌsemˈmen] (Tags: Central)
+  IPA: [in.noˌsemˈment] (Tags: Balearic, Valencia)
+dependentment
+  IPA: [də.pənˌdemˈmen] (Tags: Central)
+  IPA: [də.pənˌdemˈment] (Tags: Balearic)
+  IPA: [de.penˌdemˈment] (Tags: Valencia)
+incomprensiblement
+  IPA: [iŋ.kum.pɾənˌsib.bləˈmen] (Tags: Central)
+  IPA: [iŋ.kom.pɾənˌsib.bləˈment] (Tags: Balearic)
+  IPA: [iŋ.kom.pɾenˌsi.bleˈment] (Tags: Valencia)
+mensualment
+  IPA: [mən.suˌalˈmen] (Tags: Central)
+  IPA: [mən.suˌalˈment] (Tags: Balearic)
+  IPA: [men.suˌalˈment] (Tags: Valencia)
+cortesament
+  IPA: [kurˌtɛ.zəˈmen] (Tags: Central)
+  IPA: [korˌtə.zəˈment] (Tags: Balearic)
+  IPA: [koɾˌte.zaˈment] (Tags: Valencia)
+comprensiblement
+  IPA: [kum.pɾənˌsib.bləˈmen] (Tags: Central)
+  IPA: [kom.pɾənˌsib.bləˈment] (Tags: Balearic)
+  IPA: [kom.pɾenˌsi.bleˈment] (Tags: Valencia)
+simètricament
+  IPA: [siˌmɛ.tɾi.kəˈmen] (Tags: Central)
+  IPA: [siˌmɛ.tɾi.kəˈment] (Tags: Balearic)
+  IPA: [siˌmɛ.tɾi.kaˈment] (Tags: Valencia)
+ordinàriament
+  IPA: [ur.diˌna.ɾi.əˈmen] (Tags: Central)
+  IPA: [or.diˌna.ɾi.əˈment] (Tags: Balearic)
+  IPA: [oɾ.ðiˌna.ɾi.aˈment] (Tags: Valencia)
+cruelment
+  IPA: [kɾuˌɛlˈmen] (Tags: Central)
+  IPA: [kɾuˌɛlˈment] (Tags: Balearic, Valencia)
+privadament
+  IPA: [pɾiˌβa.ðəˈmen] (Tags: Central)
+  IPA: [pɾiˌva.ðəˈment] (Tags: Balearic)
+  IPA: [pɾiˌva.ðaˈment] (Tags: Valencia)
+extraordinàriament
+  IPA: [əks.tɾə.ur.diˌna.ɾi.əˈmen] (Tags: Central)
+  IPA: [əks.tɾə.or.diˌna.ɾi.əˈment] (Tags: Balearic)
+  IPA: [eks.tɾa.oɾ.ðiˌna.ɾi.aˈment] (Tags: Valencia)
+regularment
+  IPA: [rə.ɣuˌlarˈmen] (Tags: Central)
+  IPA: [rə.ɣuˌlaˈment] (Tags: Balearic)
+  IPA: [re.ɣuˌlaɾˈment] (Tags: Valencia)
+irregularment
+  IPA: [i.rə.ɣuˌlarˈmen] (Tags: Central)
+  IPA: [i.rə.ɣuˌlaˈment] (Tags: Balearic)
+  IPA: [i.re.ɣuˌlaɾˈment] (Tags: Valencia)
+perillosament
+  IPA: [pə.ɾiˌʎo.zəˈmen] (Tags: Central)
+  IPA: [pə.ɾiˌʎo.zəˈment] (Tags: Balearic)
+  IPA: [pe.ɾiˌʎo.zaˈment] (Tags: Valencia)
+abruptament
+  IPA: [əˌβɾup.təˈmen] (Tags: Central)
+  IPA: [əˌbɾup.təˈment] (Tags: Balearic)
+  IPA: [aˌbɾup.taˈment] (Tags: Valencia)
+adequadament
+  IPA: [ə.ðəˌkwa.ðəˈmen] (Tags: Central)
+  IPA: [ə.ðəˌkwa.ðəˈment] (Tags: Balearic)
+  IPA: [a.ðeˌkwa.ðaˈment] (Tags: Valencia)
+abusivament
+  IPA: [ə.βuˌzi.βəˈmen] (Tags: Central)
+  IPA: [ə.buˌzi.vəˈment] (Tags: Balearic)
+  IPA: [a.buˌzi.vaˈment] (Tags: Valencia)
+inadequadament
+  IPA: [i.nə.ðəˌkwa.ðəˈmen] (Tags: Central)
+  IPA: [i.nə.ðəˌkwa.ðəˈment] (Tags: Balearic)
+  IPA: [i.na.ðeˌkwa.ðaˈment] (Tags: Valencia)
+ambiciosament
+  IPA: [əm.bi.siˌo.zəˈmen] (Tags: Central)
+  IPA: [əm.bi.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [am.bi.siˌo.zaˈment] (Tags: Valencia)
+adjectivament
+  IPA: [ə.d͡ʒəkˌti.βəˈmen] (Tags: Central)
+  IPA: [ə.d͡ʒəkˌti.vəˈment] (Tags: Balearic)
+  IPA: [a.d͡ʒekˌti.vaˈment] (Tags: Valencia)
+adverbialment
+  IPA: [əd.bər.biˌalˈmen] (Tags: Central)
+  IPA: [əd.vər.biˌalˈment] (Tags: Balearic)
+  IPA: [ad.veɾ.biˌalˈment] (Tags: Valencia)
+analíticament
+  IPA: [ə.nəˌli.ti.kəˈmen] (Tags: Central)
+  IPA: [ə.nəˌli.ti.kəˈment] (Tags: Balearic)
+  IPA: [a.naˌli.ti.kaˈment] (Tags: Valencia)
+ansiosament
+  IPA: [ən.siˌo.zəˈmen] (Tags: Central)
+  IPA: [ən.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [an.siˌo.zaˈment] (Tags: Valencia)
+intensament
+  IPA: [inˌtɛn.səˈmen] (Tags: Central)
+  IPA: [inˌtɛn.səˈment] (Tags: Balearic)
+  IPA: [inˌten.saˈment] (Tags: Valencia)
+absurdament
+  IPA: [əpˌsur.dəˈmen] (Tags: Central)
+  IPA: [əpˌsur.dəˈment] (Tags: Balearic)
+  IPA: [apˌsuɾ.ðaˈment] (Tags: Valencia)
+acadèmicament
+  IPA: [ə.kəˌðɛ.mi.kəˈmen] (Tags: Central)
+  IPA: [ə.kəˌðɛ.mi.kəˈment] (Tags: Balearic)
+  IPA: [a.kaˌðɛ.mi.kaˈment] (Tags: Valencia)
+anatòmicament
+  IPA: [ə.nəˌtɔ.mi.kəˈmen] (Tags: Central)
+  IPA: [ə.nəˌtɔ.mi.kəˈment] (Tags: Balearic)
+  IPA: [a.naˌtɔ.mi.kaˈment] (Tags: Valencia)
+bruscament
+  IPA: [ˌbɾus.kəˈmen] (Tags: Central)
+  IPA: [ˌbɾus.kəˈment] (Tags: Balearic)
+  IPA: [ˌbɾus.kaˈment] (Tags: Valencia)
+acceptablement
+  IPA: [ək.səpˌtab.bləˈmen] (Tags: Central)
+  IPA: [ək.səpˌtab.bləˈment] (Tags: Balearic)
+  IPA: [ak.sepˌta.bleˈment] (Tags: Valencia)
+aleatòriament
+  IPA: [ə.le.əˌtɔ.ɾi.əˈmen] (Tags: Central)
+  IPA: [ə.le.əˌtɔ.ɾi.əˈment] (Tags: Balearic)
+  IPA: [a.le.aˌtɔ.ɾi.aˈment] (Tags: Valencia)
+dubtosament
+  IPA: [dupˌto.zəˈmen] (Tags: Central)
+  IPA: [dupˌto.zəˈment] (Tags: Balearic)
+  IPA: [dupˌto.zaˈment] (Tags: Valencia)
+supèrfluament
+  IPA: [suˌpɛr.flu.əˈmen] (Tags: Central)
+  IPA: [suˌpɛr.flu.əˈment] (Tags: Balearic)
+  IPA: [suˌpɛɾ.flu.aˈment] (Tags: Valencia)
+mentalment
+  IPA: [mənˌtalˈmen] (Tags: Central)
+  IPA: [mənˌtalˈment] (Tags: Balearic)
+  IPA: [menˌtalˈment] (Tags: Valencia)
+al·legòricament
+  IPA: [əl.ləˌɣɔ.ɾi.kəˈmen] (Tags: Central)
+  IPA: [əl.ləˌɣɔ.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [al.leˌɣɔ.ɾi.kaˈment] (Tags: Valencia)
+aristocràticament
+  IPA: [ə.ɾis.tuˌkɾa.ti.kəˈmen] (Tags: Central)
+  IPA: [ə.ɾis.toˌkɾa.ti.kəˈment] (Tags: Balearic)
+  IPA: [a.ɾis.toˌkɾa.ti.kaˈment] (Tags: Valencia)
+diabòlicament
+  IPA: [di.əˌβɔ.li.kəˈmen] (Tags: Central)
+  IPA: [di.əˌbɔ.li.kəˈment] (Tags: Balearic)
+  IPA: [di.aˌbɔ.li.kaˈment] (Tags: Valencia)
+metafòricament
+  IPA: [mə.təˌfɔ.ɾi.kəˈmen] (Tags: Central)
+  IPA: [mə.təˌfɔ.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [me.taˌfɔ.ɾi.kaˈment] (Tags: Valencia)
+sarcàsticament
+  IPA: [sərˌkas.ti.kəˈmen] (Tags: Central)
+  IPA: [sərˌkas.ti.kəˈment] (Tags: Balearic)
+  IPA: [saɾˌkas.ti.kaˈment] (Tags: Valencia)
+intel·ligentment
+  IPA: [in.təl.liˌʒemˈmen] (Tags: Central)
+  IPA: [in.təl.liˌʒemˈment] (Tags: Balearic)
+  IPA: [in.tel.liˌd͡ʒemˈment] (Tags: Valencia)
+tirànicament
+  IPA: [tiˌɾa.ni.kəˈmen] (Tags: Central)
+  IPA: [tiˌɾa.ni.kəˈment] (Tags: Balearic)
+  IPA: [tiˌɾa.ni.kaˈment] (Tags: Valencia)
+necessàriament
+  IPA: [nə.səˌsa.ɾi.əˈmen] (Tags: Central)
+  IPA: [nə.səˌsa.ɾi.əˈment] (Tags: Balearic)
+  IPA: [ne.seˌsa.ɾi.aˈment] (Tags: Valencia)
+innecessàriament
+  IPA: [in.nə.səˌsa.ɾi.əˈmen] (Tags: Central)
+  IPA: [in.nə.səˌsa.ɾi.əˈment] (Tags: Balearic)
+  IPA: [in.ne.seˌsa.ɾi.aˈment] (Tags: Valencia)
+crònicament
+  IPA: [ˌkɾɔ.ni.kəˈmen] (Tags: Central)
+  IPA: [ˌkɾɔ.ni.kəˈment] (Tags: Balearic)
+  IPA: [ˌkɾɔ.ni.kaˈment] (Tags: Valencia)
+miraculosament
+  IPA: [mi.ɾə.kuˌlo.zəˈmen] (Tags: Central)
+  IPA: [mi.ɾə.kuˌlo.zəˈment] (Tags: Balearic)
+  IPA: [mi.ɾa.kuˌlo.zaˈment] (Tags: Valencia)
+a peu
+  IPA: [ə ˈpɛw] (Tags: Balearic, Central)
+  IPA: [a ˈpɛw] (Tags: Valencia)
+fidelment
+  IPA: [fiˌðɛlˈmen] (Tags: Central)
+  IPA: [fiˌðɛlˈment] (Tags: Balearic, Valencia)
+infidelment
+  IPA: [iɱ.fiˌðɛlˈmen] (Tags: Central)
+  IPA: [iɱ.fiˌðɛlˈment] (Tags: Balearic, Valencia)
+lentament
+  IPA: [ˌlen.təˈmen] (Tags: Central)
+  IPA: [ˌlen.təˈment] (Tags: Balearic)
+  IPA: [ˌlen.taˈment] (Tags: Valencia)
+creïblement
+  IPA: [kɾəˌib.bləˈmen] (Tags: Central)
+  IPA: [kɾəˌib.bləˈment] (Tags: Balearic)
+  IPA: [kɾeˌi.bleˈment] (Tags: Valencia)
+consistentment
+  IPA: [kun.sisˌtemˈmen] (Tags: Central)
+  IPA: [kon.sisˌtemˈment] (Tags: Balearic, Valencia)
+històricament
+  IPA: [isˌtɔ.ɾi.kəˈmen] (Tags: Central)
+  IPA: [isˌtɔ.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [isˌtɔ.ɾi.kaˈment] (Tags: Valencia)
+horitzontalment
+  IPA: [u.ɾi.d͡zunˌtalˈmen] (Tags: Central)
+  IPA: [o.ɾi.d͡zonˌtalˈment] (Tags: Balearic)
+  IPA: [o.ɾi.zonˌtalˈment] (Tags: Valencia)
+simultàniament
+  IPA: [si.mulˌta.ni.əˈmen] (Tags: Central)
+  IPA: [si.mulˌta.ni.əˈment] (Tags: Balearic)
+  IPA: [si.mulˌta.ni.aˈment] (Tags: Valencia)
+verticalment
+  IPA: [bər.tiˌkalˈmen] (Tags: Central)
+  IPA: [vər.tiˌkalˈment] (Tags: Balearic)
+  IPA: [veɾ.tiˌkalˈment] (Tags: Valencia)
+pràcticament
+  IPA: [ˌpɾak.ti.kəˈmen] (Tags: Central)
+  IPA: [ˌpɾak.ti.kəˈment] (Tags: Balearic)
+  IPA: [ˌpɾak.ti.kaˈment] (Tags: Valencia)
+com una exhalació
+  IPA: [ˈkɔm ˈu.nə əɡ.zə.lə.siˈo] (Tags: Balearic, Central)
+  IPA: [ˈkom ˈu.na eɡ.za.la.siˈo] (Tags: Valencia)
+teòricament
+  IPA: [teˌɔ.ɾi.kəˈmen] (Tags: Central)
+  IPA: [teˌɔ.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [teˌɔ.ɾi.kaˈment] (Tags: Valencia)
+monstruosament
+  IPA: [muns.tɾuˌo.zəˈmen] (Tags: Central)
+  IPA: [mons.tɾuˌo.zəˈment] (Tags: Balearic)
+  IPA: [mons.tɾuˌo.zaˈment] (Tags: Valencia)
+involuntàriament
+  IPA: [im.bu.lunˌta.ɾi.əˈmen] (Tags: Central)
+  IPA: [iɱ.vo.lunˌta.ɾi.əˈment] (Tags: Balearic)
+  IPA: [iɱ.vo.lunˌta.ɾi.aˈment] (Tags: Valencia)
+importantment
+  IPA: [im.purˌtamˈmen] (Tags: Central)
+  IPA: [im.porˌtamˈment] (Tags: Balearic)
+  IPA: [im.poɾˌtamˈment] (Tags: Valencia)
+irreparablement
+  IPA: [i.rə.pəˌɾab.bləˈmen] (Tags: Central)
+  IPA: [i.rə.pəˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [i.re.paˌɾa.bleˈment] (Tags: Valencia)
+diagonalment
+  IPA: [di.ə.ɣuˌnalˈmen] (Tags: Central)
+  IPA: [di.ə.ɣoˌnalˈment] (Tags: Balearic)
+  IPA: [di.a.ɣoˌnalˈment] (Tags: Valencia)
+excel·lentment
+  IPA: [ək.səlˌlemˈmen] (Tags: Central)
+  IPA: [ək.səlˌlemˈment] (Tags: Balearic)
+  IPA: [ek.selˌlemˈment] (Tags: Valencia)
+febrilment
+  IPA: [fəˌβɾilˈmen] (Tags: Central)
+  IPA: [fəˌbɾilˈment] (Tags: Balearic)
+  IPA: [feˌbɾilˈment] (Tags: Valencia)
+formalment
+  IPA: [furˌmalˈmen] (Tags: Central)
+  IPA: [forˌmalˈment] (Tags: Balearic)
+  IPA: [foɾˌmalˈment] (Tags: Valencia)
+informalment
+  IPA: [iɱ.furˌmalˈmen] (Tags: Central)
+  IPA: [iɱ.forˌmalˈment] (Tags: Balearic)
+  IPA: [iɱ.foɾˌmalˈment] (Tags: Valencia)
+moralment
+  IPA: [muˌɾalˈmen] (Tags: Central)
+  IPA: [moˌɾalˈment] (Tags: Balearic, Valencia)
+irracionalment
+  IPA: [i.rə.si.uˌnalˈmen] (Tags: Central)
+  IPA: [i.rə.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [i.ra.si.oˌnalˈment] (Tags: Valencia)
+racionalment
+  IPA: [rə.si.uˌnalˈmen] (Tags: Central)
+  IPA: [rə.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [ra.si.oˌnalˈment] (Tags: Valencia)
+transitivament
+  IPA: [tɾən.ziˌti.βəˈmen] (Tags: Central)
+  IPA: [tɾən.ziˌti.vəˈment] (Tags: Balearic)
+  IPA: [tɾan.ziˌti.vaˈment] (Tags: Valencia)
+intransitivament
+  IPA: [in.tɾən.ziˌti.βəˈmen] (Tags: Central)
+  IPA: [in.tɾən.ziˌti.vəˈment] (Tags: Balearic)
+  IPA: [in.tɾan.ziˌti.vaˈment] (Tags: Valencia)
+immoralment
+  IPA: [im.muˌɾalˈmen] (Tags: Central)
+  IPA: [im.moˌɾalˈment] (Tags: Balearic, Valencia)
+impacientment
+  IPA: [im.pə.siˌemˈmen] (Tags: Central)
+  IPA: [im.pə.siˌemˈment] (Tags: Balearic)
+  IPA: [im.pa.siˌemˈment] (Tags: Valencia)
+internacionalment
+  IPA: [in.tər.nə.si.uˌnalˈmen] (Tags: Central)
+  IPA: [in.tər.nə.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [in.teɾ.na.si.oˌnalˈment] (Tags: Valencia)
+dedins
+  IPA: [dəˈðins] (Tags: Balearic, Central)
+  IPA: [deˈðins] (Tags: Valencia)
+vocalment
+  IPA: [buˌkalˈmen] (Tags: Central)
+  IPA: [voˌkalˈment] (Tags: Balearic, Valencia)
+ininterrompudament
+  IPA: [i.nin.tə.rumˌpu.ðəˈmen] (Tags: Central)
+  IPA: [i.nin.tə.rumˌpu.ðəˈment] (Tags: Balearic)
+  IPA: [i.nin.te.romˌpu.ðaˈment] (Tags: Valencia)
+senzillament
+  IPA: [sənˌzi.ʎəˈmen] (Tags: Central)
+  IPA: [sənˌzi.ʎəˈment] (Tags: Balearic)
+  IPA: [senˌzi.ʎaˈment] (Tags: Valencia)
+rítmicament
+  IPA: [ˌrid.mi.kəˈmen] (Tags: Central)
+  IPA: [ˌrid.mi.kəˈment] (Tags: Balearic)
+  IPA: [ˌrid.mi.kaˈment] (Tags: Valencia)
+sexualment
+  IPA: [sək.suˌalˈmen] (Tags: Central)
+  IPA: [sək.suˌalˈment] (Tags: Balearic)
+  IPA: [sek.suˌalˈment] (Tags: Valencia)
+vigorosament
+  IPA: [bi.ɣuˌɾo.zəˈmen] (Tags: Central)
+  IPA: [vi.ɣoˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [vi.ɣoˌɾo.zaˈment] (Tags: Valencia)
+simbòlicament
+  IPA: [simˌbɔ.li.kəˈmen] (Tags: Central)
+  IPA: [simˌbɔ.li.kəˈment] (Tags: Balearic)
+  IPA: [simˌbɔ.li.kaˈment] (Tags: Valencia)
+particularment
+  IPA: [pər.ti.kuˌlarˈmen] (Tags: Central)
+  IPA: [pər.ti.kuˌlaˈment] (Tags: Balearic)
+  IPA: [paɾ.ti.kuˌlaɾˈment] (Tags: Valencia)
+jamai
+  IPA: [ʒəˈmaj] (Tags: Balearic, Central)
+  IPA: [d͡ʒaˈmaj] (Tags: Valencia)
+precisament
+  IPA: [pɾəˌsi.zəˈmen] (Tags: Central)
+  IPA: [pɾəˌsi.zəˈment] (Tags: Balearic)
+  IPA: [pɾeˌsi.zaˈment] (Tags: Valencia)
+sintàcticament
+  IPA: [sinˌtak.ti.kəˈmen] (Tags: Central)
+  IPA: [sinˌtak.ti.kəˈment] (Tags: Balearic)
+  IPA: [sinˌtak.ti.kaˈment] (Tags: Valencia)
+forsis
+  IPA: /ˈfolsis/
+suara
+  IPA: [suˈa.ɾə] (Tags: Balearic, Central)
+  IPA: [suˈa.ɾa] (Tags: Valencia)
+devers
+  IPA: [dəˈβɛrs] (Tags: Central)
+  IPA: [dəˈves] (Tags: Balearic)
+  IPA: [deˈvers] (Tags: Valencia)
+  IPA: [deˈves] (Tags: Valencia)
+gradualment
+  IPA: [ɡɾə.ðuˌalˈmen] (Tags: Central)
+  IPA: [ɡɾə.ðuˌalˈment] (Tags: Balearic)
+  IPA: [ɡɾa.ðuˌalˈment] (Tags: Valencia)
+enguany
+  IPA: [əŋˈɡwaɲ] (Tags: Balearic, Central)
+  IPA: [eŋˈɡwaɲ] (Tags: Valencia)
+mundialment
+  IPA: [mun.diˌalˈmen] (Tags: Central)
+  IPA: [mun.diˌalˈment] (Tags: Balearic, Valencia)
+globalment
+  IPA: [ɡluˌβalˈmen] (Tags: Central)
+  IPA: [ɡloˌbalˈment] (Tags: Balearic, Valencia)
+monòtonament
+  IPA: [muˌnɔ.tu.nəˈmen] (Tags: Central)
+  IPA: [moˌnɔ.to.nəˈment] (Tags: Balearic)
+  IPA: [moˌnɔ.to.naˈment] (Tags: Valencia)
+morfològicament
+  IPA: [mur.fuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [mor.foˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [moɾ.foˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+hostilment
+  IPA: [usˌtilˈmen] (Tags: Central)
+  IPA: [usˌtilˈment] (Tags: Balearic)
+  IPA: [osˌtilˈment] (Tags: Valencia)
+fràgilment
+  IPA: [ˌfɾa.ʒilˈmen] (Tags: Central)
+  IPA: [ˌfɾa.ʒilˈment] (Tags: Balearic)
+  IPA: [ˌfɾa.d͡ʒilˈment] (Tags: Valencia)
+gastronòmicament
+  IPA: [ɡəs.tɾuˌnɔ.mi.kəˈmen] (Tags: Central)
+  IPA: [ɡəs.tɾoˌnɔ.mi.kəˈment] (Tags: Balearic)
+  IPA: [ɡas.tɾoˌnɔ.mi.kaˈment] (Tags: Valencia)
+condicionalment
+  IPA: [kun.di.si.uˌnalˈmen] (Tags: Central)
+  IPA: [kon.di.si.oˌnalˈment] (Tags: Balearic, Valencia)
+insípidament
+  IPA: [inˌsi.pi.ðəˈmen] (Tags: Central)
+  IPA: [inˌsi.pi.ðəˈment] (Tags: Balearic)
+  IPA: [inˌsi.pi.ðaˈment] (Tags: Valencia)
+excepcionalment
+  IPA: [ək.səp.si.uˌnalˈmen] (Tags: Central)
+  IPA: [ək.səp.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [ek.sep.si.oˌnalˈment] (Tags: Valencia)
+delicadament
+  IPA: [də.liˌka.ðəˈmen] (Tags: Central)
+  IPA: [də.liˌka.ðəˈment] (Tags: Balearic)
+  IPA: [de.liˌka.ðaˈment] (Tags: Valencia)
+fabulosament
+  IPA: [fə.βuˌlo.zəˈmen] (Tags: Central)
+  IPA: [fə.buˌlo.zəˈment] (Tags: Balearic)
+  IPA: [fa.buˌlo.zaˈment] (Tags: Valencia)
+satíricament
+  IPA: [səˌti.ɾi.kəˈmen] (Tags: Central)
+  IPA: [səˌti.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [saˌti.ɾi.kaˈment] (Tags: Valencia)
+vagament
+  IPA: [ˌba.ɣəˈmen] (Tags: Central)
+  IPA: [ˌva.ɣəˈment] (Tags: Balearic)
+  IPA: [ˌva.ɣaˈment] (Tags: Valencia)
+lògicament
+  IPA: [ˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [ˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+il·lògicament
+  IPA: [ilˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ilˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [ilˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+bastant
+  IPA: [bəsˈtan] (Tags: Central)
+  IPA: [bəsˈtant] (Tags: Balearic)
+  IPA: [basˈtant] (Tags: Valencia)
+escandalosament
+  IPA: [əs.kən.dəˌlo.zəˈmen] (Tags: Central)
+  IPA: [əs.kən.dəˌlo.zəˈment] (Tags: Balearic)
+  IPA: [es.kan.daˌlo.zaˈment] (Tags: Valencia)
+maliciosament
+  IPA: [mə.li.siˌo.zəˈmen] (Tags: Central)
+  IPA: [mə.li.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [ma.li.siˌo.zaˈment] (Tags: Valencia)
+interminablement
+  IPA: [in.tər.miˌnab.bləˈmen] (Tags: Central)
+  IPA: [in.tər.miˌnab.bləˈment] (Tags: Balearic)
+  IPA: [in.teɾ.miˌna.bleˈment] (Tags: Valencia)
+geològicament
+  IPA: [ʒə.uˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ʒə.oˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [d͡ʒe.oˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+astronòmicament
+  IPA: [əs.tɾuˌnɔ.mi.kəˈmen] (Tags: Central)
+  IPA: [əs.tɾoˌnɔ.mi.kəˈment] (Tags: Balearic)
+  IPA: [as.tɾoˌnɔ.mi.kaˈment] (Tags: Valencia)
+vanament
+  IPA: [ˌba.nəˈmen] (Tags: Central)
+  IPA: [ˌva.nəˈment] (Tags: Balearic)
+  IPA: [ˌva.naˈment] (Tags: Valencia)
+netament
+  IPA: [ˌnɛ.təˈmen] (Tags: Central)
+  IPA: [ˌnə.təˈment] (Tags: Balearic)
+  IPA: [ˌne.taˈment] (Tags: Valencia)
+frívolament
+  IPA: [ˌfɾi.βu.ləˈmen] (Tags: Central)
+  IPA: [ˌfɾi.vo.ləˈment] (Tags: Balearic)
+  IPA: [ˌfɾi.vo.laˈment] (Tags: Valencia)
+salvatgement
+  IPA: [səlˌβa.d͡ʒəˈmen] (Tags: Central)
+  IPA: [səlˌva.d͡ʒəˈment] (Tags: Balearic)
+  IPA: [salˌva.d͡ʒeˈment] (Tags: Valencia)
+tendenciosament
+  IPA: [tən.dən.siˌo.zəˈmen] (Tags: Central)
+  IPA: [tən.dən.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [ten.den.siˌo.zaˈment] (Tags: Valencia)
+distintament
+  IPA: [disˌtin.təˈmen] (Tags: Central)
+  IPA: [disˌtin.təˈment] (Tags: Balearic)
+  IPA: [disˌtin.taˈment] (Tags: Valencia)
+separadament
+  IPA: [sə.pəˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [sə.pəˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [se.paˌɾa.ðaˈment] (Tags: Valencia)
+espaiosament
+  IPA: [əs.pəˌjo.zəˈmen] (Tags: Central)
+  IPA: [əs.pəˌjo.zəˈment] (Tags: Balearic)
+  IPA: [es.paˌjo.zaˈment] (Tags: Valencia)
+patriòticament
+  IPA: [pə.tɾiˌɔ.ti.kəˈmen] (Tags: Central)
+  IPA: [pə.tɾiˌɔ.ti.kəˈment] (Tags: Balearic)
+  IPA: [pa.tɾiˌɔ.ti.kaˈment] (Tags: Valencia)
+sincerament
+  IPA: [sinˌse.ɾəˈmen] (Tags: Central)
+  IPA: [sinˌse.ɾəˈment] (Tags: Balearic)
+  IPA: [sinˌse.ɾaˈment] (Tags: Valencia)
+sòlidament
+  IPA: [ˌsɔ.li.ðəˈmen] (Tags: Central)
+  IPA: [ˌsɔ.li.ðəˈment] (Tags: Balearic)
+  IPA: [ˌsɔ.li.ðaˈment] (Tags: Valencia)
+solemnement
+  IPA: [suˌlɛm.nəˈmen] (Tags: Central)
+  IPA: [soˌlem.nəˈment] (Tags: Balearic)
+  IPA: [soˌlen.nəˈment] (Tags: Balearic)
+  IPA: [soˌlem.neˈment] (Tags: Valencia)
+consecutivament
+  IPA: [kun.sə.kuˌti.βəˈmen] (Tags: Central)
+  IPA: [kon.sə.kuˌti.vəˈment] (Tags: Balearic)
+  IPA: [kon.se.kuˌti.vaˈment] (Tags: Valencia)
+succintament
+  IPA: [sukˌsin.təˈmen] (Tags: Central)
+  IPA: [sukˌsin.təˈment] (Tags: Balearic)
+  IPA: [sukˌsin.taˈment] (Tags: Valencia)
+obscenament
+  IPA: [upˌsɛ.nəˈmen] (Tags: Central)
+  IPA: [opˌse.nəˈment] (Tags: Balearic)
+  IPA: [opˌse.naˈment] (Tags: Valencia)
+quirúrgicament
+  IPA: [kiˌɾur.ʒi.kəˈmen] (Tags: Central)
+  IPA: [kiˌɾur.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [kiˌɾuɾ.d͡ʒi.kaˈment] (Tags: Valencia)
+impurament
+  IPA: [imˌpu.ɾəˈmen] (Tags: Central)
+  IPA: [imˌpu.ɾəˈment] (Tags: Balearic)
+  IPA: [imˌpu.ɾaˈment] (Tags: Valencia)
+vigilantment
+  IPA: [bi.ʒiˌlamˈmen] (Tags: Central)
+  IPA: [vi.ʒiˌlamˈment] (Tags: Balearic)
+  IPA: [vi.d͡ʒiˌlamˈment] (Tags: Valencia)
+vivaçment
+  IPA: [biˌβazˈmen] (Tags: Central)
+  IPA: [viˌvazˈment] (Tags: Balearic, Valencia)
+virtuosament
+  IPA: [bir.tuˌo.zəˈmen] (Tags: Central)
+  IPA: [vir.tuˌo.zəˈment] (Tags: Balearic)
+  IPA: [viɾ.tuˌo.zaˈment] (Tags: Valencia)
+herèticament
+  IPA: [əˌɾɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [əˌɾɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [eˌɾɛ.ti.kaˈment] (Tags: Valencia)
+poèticament
+  IPA: [puˌɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [poˌɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [poˌɛ.ti.kaˈment] (Tags: Valencia)
+implícitament
+  IPA: [imˌpli.si.təˈmen] (Tags: Central)
+  IPA: [imˌpli.si.təˈment] (Tags: Balearic)
+  IPA: [imˌpli.si.taˈment] (Tags: Valencia)
+explícitament
+  IPA: [əksˌpli.si.təˈmen] (Tags: Central)
+  IPA: [əksˌpli.si.təˈment] (Tags: Balearic)
+  IPA: [eksˌpli.si.taˈment] (Tags: Valencia)
+fisiològicament
+  IPA: [fi.zi.uˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [fi.zi.oˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [fi.zi.oˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+químicament
+  IPA: [ˌki.mi.kəˈmen] (Tags: Central)
+  IPA: [ˌki.mi.kəˈment] (Tags: Balearic)
+  IPA: [ˌki.mi.kaˈment] (Tags: Valencia)
+paradoxalment
+  IPA: [pə.ɾə.ðukˌsalˈmen] (Tags: Central)
+  IPA: [pə.ɾə.ðokˌsalˈment] (Tags: Balearic)
+  IPA: [pa.ɾa.ðokˌsalˈment] (Tags: Valencia)
+parabòlicament
+  IPA: [pə.ɾəˌβɔ.li.kəˈmen] (Tags: Central)
+  IPA: [pə.ɾəˌbɔ.li.kəˈment] (Tags: Balearic)
+  IPA: [pa.ɾaˌbɔ.li.kaˈment] (Tags: Valencia)
+passivament
+  IPA: [pəˌsi.βəˈmen] (Tags: Central)
+  IPA: [pəˌsi.vəˈment] (Tags: Balearic)
+  IPA: [paˌsi.vaˈment] (Tags: Valencia)
+periòdicament
+  IPA: [pə.ɾiˌɔ.ði.kəˈmen] (Tags: Central)
+  IPA: [pə.ɾiˌɔ.ði.kəˈment] (Tags: Balearic)
+  IPA: [pe.ɾiˌɔ.ði.kaˈment] (Tags: Valencia)
+persuasivament
+  IPA: [pər.su.əˌzi.βəˈmen] (Tags: Central)
+  IPA: [pər.su.əˌzi.vəˈment] (Tags: Balearic)
+  IPA: [peɾ.su.aˌzi.vaˈment] (Tags: Valencia)
+plausiblement
+  IPA: [pləwˌzib.bləˈmen] (Tags: Central)
+  IPA: [pləwˌzib.bləˈment] (Tags: Balearic)
+  IPA: [plawˌzi.bleˈment] (Tags: Valencia)
+pomposament
+  IPA: [pumˌpo.zəˈmen] (Tags: Central)
+  IPA: [pomˌpo.zəˈment] (Tags: Balearic)
+  IPA: [pomˌpo.zaˈment] (Tags: Valencia)
+promíscuament
+  IPA: [pɾuˌmis.ku.əˈmen] (Tags: Central)
+  IPA: [pɾuˌmis.ku.əˈment] (Tags: Balearic)
+  IPA: [pɾoˌmis.ku.aˈment] (Tags: Valencia)
+professionalment
+  IPA: [pɾu.fə.si.uˌnalˈmen] (Tags: Central)
+  IPA: [pɾo.fə.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [pɾo.fe.si.oˌnalˈment] (Tags: Valencia)
+meticulosament
+  IPA: [mə.ti.kuˌlo.zəˈmen] (Tags: Central)
+  IPA: [mə.ti.kuˌlo.zəˈment] (Tags: Balearic)
+  IPA: [me.ti.kuˌlo.zaˈment] (Tags: Valencia)
+filosòficament
+  IPA: [fi.luˌzɔ.fi.kəˈmen] (Tags: Central)
+  IPA: [fi.loˌzɔ.fi.kəˈment] (Tags: Balearic)
+  IPA: [fi.loˌzɔ.fi.kaˈment] (Tags: Valencia)
+establement
+  IPA: [əsˌtab.bləˈmen] (Tags: Central)
+  IPA: [əsˌtab.bləˈment] (Tags: Balearic)
+  IPA: [esˌta.bleˈment] (Tags: Valencia)
+inseparablement
+  IPA: [in.sə.pəˌɾab.bləˈmen] (Tags: Central)
+  IPA: [in.sə.pəˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [in.se.paˌɾa.bleˈment] (Tags: Valencia)
+arbitràriament
+  IPA: [ər.biˌtɾa.ɾi.əˈmen] (Tags: Central)
+  IPA: [ər.biˌtɾa.ɾi.əˈment] (Tags: Balearic)
+  IPA: [aɾ.biˌtɾa.ɾi.aˈment] (Tags: Valencia)
+lleialment
+  IPA: [ʎəˌjalˈmen] (Tags: Central)
+  IPA: [ʎəˌjalˈment] (Tags: Balearic)
+  IPA: [ʎeˌjalˈment] (Tags: Valencia)
+deslleialment
+  IPA: [dəz.ʎəˌjalˈmen] (Tags: Central)
+  IPA: [dəz.ʎəˌjalˈment] (Tags: Balearic)
+  IPA: [dez.ʎeˌjalˈment] (Tags: Valencia)
+tangiblement
+  IPA: [təɲˌʒib.bləˈmen] (Tags: Central)
+  IPA: [təɲˌʒib.bləˈment] (Tags: Balearic)
+  IPA: [taɲˌd͡ʒi.bleˈment] (Tags: Valencia)
+nerviosament
+  IPA: [nər.biˌo.zəˈmen] (Tags: Central)
+  IPA: [nər.viˌo.zəˈment] (Tags: Balearic)
+  IPA: [neɾ.viˌo.zaˈment] (Tags: Valencia)
+impecablement
+  IPA: [im.pəˌkab.bləˈmen] (Tags: Central)
+  IPA: [im.pəˌkab.bləˈment] (Tags: Balearic)
+  IPA: [im.peˌka.bleˈment] (Tags: Valencia)
+infamement
+  IPA: [iɱˌfa.məˈmen] (Tags: Central)
+  IPA: [iɱˌfa.məˈment] (Tags: Balearic)
+  IPA: [iɱˌfa.meˈment] (Tags: Valencia)
+religiosament
+  IPA: [rə.li.ʒiˌo.zəˈmen] (Tags: Central)
+  IPA: [rə.li.ʒiˌo.zəˈment] (Tags: Balearic)
+  IPA: [re.li.d͡ʒiˌo.zaˈment] (Tags: Valencia)
+geogràficament
+  IPA: [ʒə.uˌɣɾa.fi.kəˈmen] (Tags: Central)
+  IPA: [ʒə.oˌɣɾa.fi.kəˈment] (Tags: Balearic)
+  IPA: [d͡ʒe.oˌɣɾa.fi.kaˈment] (Tags: Valencia)
+subjectivament
+  IPA: [sub.ʒəkˌti.βəˈmen] (Tags: Central)
+  IPA: [sub.ʒəkˌti.vəˈment] (Tags: Balearic)
+  IPA: [sub.d͡ʒekˌti.vaˈment] (Tags: Valencia)
+inevitablement
+  IPA: [i.nə.βiˌtab.bləˈmen] (Tags: Central)
+  IPA: [i.nə.viˌtab.bləˈment] (Tags: Balearic)
+  IPA: [i.ne.viˌta.bleˈment] (Tags: Valencia)
+enterament
+  IPA: [ənˌte.ɾəˈmen] (Tags: Central)
+  IPA: [ənˌte.ɾəˈment] (Tags: Balearic)
+  IPA: [enˌte.ɾaˈment] (Tags: Valencia)
+incompletament
+  IPA: [iŋ.kumˌplɛ.təˈmen] (Tags: Central)
+  IPA: [iŋ.komˌplɛ.təˈment] (Tags: Balearic)
+  IPA: [iŋ.komˌple.təˈment] (Tags: Balearic)
+  IPA: [iŋ.komˌple.taˈment] (Tags: Valencia)
+incondicionalment
+  IPA: [iŋ.kun.di.si.uˌnalˈmen] (Tags: Central)
+  IPA: [iŋ.kon.di.si.oˌnalˈment] (Tags: Balearic, Valencia)
+follament
+  IPA: [ˌfo.ʎəˈmen] (Tags: Central)
+  IPA: [ˌfo.ʎəˈment] (Tags: Balearic)
+  IPA: [ˌfo.ʎaˈment] (Tags: Valencia)
+nacionalment
+  IPA: [nə.si.uˌnalˈmen] (Tags: Central)
+  IPA: [nə.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [na.si.oˌnalˈment] (Tags: Valencia)
+contradictòriament
+  IPA: [kun.tɾə.ðikˌtɔ.ɾi.əˈmen] (Tags: Central)
+  IPA: [kon.tɾə.ðikˌtɔ.ɾi.əˈment] (Tags: Balearic)
+  IPA: [kon.tɾa.ðikˌtɔ.ɾi.aˈment] (Tags: Valencia)
+espiritualment
+  IPA: [əs.pi.ɾi.tuˌalˈmen] (Tags: Central)
+  IPA: [əs.pi.ɾi.tuˌalˈment] (Tags: Balearic)
+  IPA: [es.pi.ɾi.tuˌalˈment] (Tags: Valencia)
+estratègicament
+  IPA: [əs.tɾəˌtɛ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [əs.tɾəˌtɛ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [es.tɾaˌtɛ.d͡ʒi.kaˈment] (Tags: Valencia)
+filològicament
+  IPA: [fi.luˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [fi.loˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [fi.loˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+joiosament
+  IPA: [ʒuˌjo.zəˈmen] (Tags: Central)
+  IPA: [ʒoˌjo.zəˈment] (Tags: Balearic)
+  IPA: [d͡ʒoˌjo.zaˈment] (Tags: Valencia)
+semblantment
+  IPA: [səmˌblamˈmen] (Tags: Central)
+  IPA: [səmˌblamˈment] (Tags: Balearic)
+  IPA: [semˌblamˈment] (Tags: Valencia)
+obsequiosament
+  IPA: [up.sə.kiˌo.zəˈmen] (Tags: Central)
+  IPA: [op.sə.kiˌo.zəˈment] (Tags: Balearic)
+  IPA: [op.se.kiˌo.zaˈment] (Tags: Valencia)
+inertament
+  IPA: [iˌnɛr.təˈmen] (Tags: Central)
+  IPA: [iˌnɛr.təˈment] (Tags: Balearic)
+  IPA: [iˌnɛɾ.taˈment] (Tags: Valencia)
+anteriorment
+  IPA: [ən.tə.ɾiˌorˈmen] (Tags: Central)
+  IPA: [ən.tə.ɾiˌoˈment] (Tags: Balearic)
+  IPA: [an.te.ɾiˌoɾˈment] (Tags: Valencia)
+prèviament
+  IPA: [ˌpɾɛ.βi.əˈmen] (Tags: Central)
+  IPA: [ˌpɾɛ.vi.əˈment] (Tags: Balearic)
+  IPA: [ˌpɾɛ.vi.aˈment] (Tags: Valencia)
+enèrgicament
+  IPA: [əˌnɛr.ʒi.kəˈmen] (Tags: Central)
+  IPA: [əˌnɛr.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [eˌnɛɾ.d͡ʒi.kaˈment] (Tags: Valencia)
+idènticament
+  IPA: [iˌðɛn.ti.kəˈmen] (Tags: Central)
+  IPA: [iˌðɛn.ti.kəˈment] (Tags: Balearic)
+  IPA: [iˌðɛn.ti.kaˈment] (Tags: Valencia)
+innòcuament
+  IPA: [inˌnɔ.ku.əˈmen] (Tags: Central)
+  IPA: [inˌnɔ.ku.əˈment] (Tags: Balearic)
+  IPA: [inˌnɔ.ku.aˈment] (Tags: Valencia)
+intel·ligiblement
+  IPA: [in.təl.liˌʒib.bləˈmen] (Tags: Central)
+  IPA: [in.təl.liˌʒib.bləˈment] (Tags: Balearic)
+  IPA: [in.tel.liˌd͡ʒi.bleˈment] (Tags: Valencia)
+inintel·ligiblement
+  IPA: [i.nin.təl.liˌʒib.bləˈmen] (Tags: Central)
+  IPA: [i.nin.təl.liˌʒib.bləˈment] (Tags: Balearic)
+  IPA: [i.nin.tel.liˌd͡ʒi.bleˈment] (Tags: Valencia)
+ençà
+  IPA: [ənˈsa] (Tags: Balearic, Central)
+  IPA: [enˈsa] (Tags: Valencia)
+immensament
+  IPA: [imˌmɛn.səˈmen] (Tags: Central)
+  IPA: [imˌmɛn.səˈment] (Tags: Balearic)
+  IPA: [imˌmen.saˈment] (Tags: Valencia)
+útilment
+  IPA: [ˌu.tilˈmen] (Tags: Central)
+  IPA: [ˌu.tilˈment] (Tags: Balearic, Valencia)
+espontàniament
+  IPA: [əs.punˌta.ni.əˈmen] (Tags: Central)
+  IPA: [əs.ponˌta.ni.əˈment] (Tags: Balearic)
+  IPA: [es.ponˌta.ni.aˈment] (Tags: Valencia)
+insuficientment
+  IPA: [in.su.fi.siˌemˈmen] (Tags: Central)
+  IPA: [in.su.fi.siˌemˈment] (Tags: Balearic, Valencia)
+indistintament
+  IPA: [in.disˌtin.təˈmen] (Tags: Central)
+  IPA: [in.disˌtin.təˈment] (Tags: Balearic)
+  IPA: [in.disˌtin.taˈment] (Tags: Valencia)
+sacrílegament
+  IPA: [səˌkɾi.lə.ɣəˈmen] (Tags: Central)
+  IPA: [səˌkɾi.lə.ɣəˈment] (Tags: Balearic)
+  IPA: [saˌkɾi.le.ɣaˈment] (Tags: Valencia)
+danyosament
+  IPA: [dəˌɲo.zəˈmen] (Tags: Central)
+  IPA: [dəˌɲo.zəˈment] (Tags: Balearic)
+  IPA: [daˌɲo.zaˈment] (Tags: Valencia)
+irresistiblement
+  IPA: [i.rə.zisˌtib.bləˈmen] (Tags: Central)
+  IPA: [i.rə.zisˌtib.bləˈment] (Tags: Balearic)
+  IPA: [i.re.zisˌti.bleˈment] (Tags: Valencia)
+irremeiablement
+  IPA: [i.rə.məˌjab.bləˈmen] (Tags: Central)
+  IPA: [i.rə.məˌjab.bləˈment] (Tags: Balearic)
+  IPA: [i.re.meˌja.bleˈment] (Tags: Valencia)
+secament
+  IPA: [ˌsɛ.kəˈmen] (Tags: Central)
+  IPA: [ˌsə.kəˈment] (Tags: Balearic)
+  IPA: [ˌse.kaˈment] (Tags: Valencia)
+eixutament
+  IPA: [əˌʃu.təˈmen] (Tags: Central)
+  IPA: [əˌʃu.təˈment] (Tags: Balearic)
+  IPA: [ejˌʃu.taˈment] (Tags: Valencia)
+rígidament
+  IPA: [ˌri.ʒi.ðəˈmen] (Tags: Central)
+  IPA: [ˌri.ʒi.ðəˈment] (Tags: Balearic)
+  IPA: [ˌri.d͡ʒi.ðaˈment] (Tags: Valencia)
+raonablement
+  IPA: [rə.uˌnab.bləˈmen] (Tags: Central)
+  IPA: [rə.oˌnab.bləˈment] (Tags: Balearic)
+  IPA: [ra.oˌna.bleˈment] (Tags: Valencia)
+hipotèticament
+  IPA: [i.puˌtɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [i.poˌtɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [i.poˌtɛ.ti.kaˈment] (Tags: Valencia)
+desproporcionadament
+  IPA: [dəs.pɾu.pur.si.uˌna.ðəˈmen] (Tags: Central)
+  IPA: [dəs.pɾo.por.si.oˌna.ðəˈment] (Tags: Balearic)
+  IPA: [des.pɾo.poɾ.si.oˌna.ðaˈment] (Tags: Valencia)
+peresosament
+  IPA: [pə.ɾəˌzo.zəˈmen] (Tags: Central)
+  IPA: [pə.ɾəˌzo.zəˈment] (Tags: Balearic)
+  IPA: [pe.ɾeˌzo.zaˈment] (Tags: Valencia)
+sorprenentment
+  IPA: [sur.pɾəˌnemˈmen] (Tags: Central)
+  IPA: [sor.pɾəˌnemˈment] (Tags: Balearic)
+  IPA: [soɾ.pɾeˌnemˈment] (Tags: Valencia)
+tossudament
+  IPA: [tuˌsu.ðəˈmen] (Tags: Central)
+  IPA: [tuˌsu.ðəˈment] (Tags: Balearic)
+  IPA: [toˌsu.ðaˈment] (Tags: Valencia)
+suaument
+  IPA: [suˌawˈmen] (Tags: Central)
+  IPA: [suˌawˈment] (Tags: Balearic, Valencia)
+sospitosament
+  IPA: [sus.piˌto.zəˈmen] (Tags: Central)
+  IPA: [sos.piˌto.zəˈment] (Tags: Balearic)
+  IPA: [sos.piˌto.zaˈment] (Tags: Valencia)
+tristament
+  IPA: [ˌtɾis.təˈmen] (Tags: Central)
+  IPA: [ˌtɾis.təˈment] (Tags: Balearic)
+  IPA: [ˌtɾis.taˈment] (Tags: Valencia)
+amunt
+  IPA: [əˈmun] (Tags: Central)
+  IPA: [əˈmunt] (Tags: Balearic)
+  IPA: [aˈmunt] (Tags: Valencia)
+avall
+  IPA: [əˈβaʎ] (Tags: Central)
+  IPA: [əˈvaʎ] (Tags: Balearic)
+  IPA: [aˈvaʎ] (Tags: Valencia)
+socialment
+  IPA: [su.siˌalˈmen] (Tags: Central)
+  IPA: [so.siˌalˈment] (Tags: Balearic, Valencia)
+significativament
+  IPA: [siŋ.ni.fi.kəˌti.βəˈmen] (Tags: Central)
+  IPA: [siŋ.ni.fi.kəˌti.vəˈment] (Tags: Balearic)
+  IPA: [siŋ.ni.fi.kaˌti.vaˈment] (Tags: Valencia)
+expressivament
+  IPA: [əks.pɾəˌsi.βəˈmen] (Tags: Central)
+  IPA: [əks.pɾəˌsi.vəˈment] (Tags: Balearic)
+  IPA: [eks.pɾeˌsi.vaˈment] (Tags: Valencia)
+repetidament
+  IPA: [rə.pəˌti.ðəˈmen] (Tags: Central)
+  IPA: [rə.pəˌti.ðəˈment] (Tags: Balearic)
+  IPA: [re.peˌti.ðaˈment] (Tags: Valencia)
+fonèticament
+  IPA: [fuˌnɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [foˌnɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [foˌnɛ.ti.kaˈment] (Tags: Valencia)
+escèpticament
+  IPA: [əˌsɛp.ti.kəˈmen] (Tags: Central)
+  IPA: [əˌsɛp.ti.kəˈment] (Tags: Balearic)
+  IPA: [eˌsɛp.ti.kaˈment] (Tags: Valencia)
+onsevulga
+  IPA: [un.səˈβul.ɣə] (Tags: Central)
+  IPA: [on.səˈvul.ɣə] (Tags: Balearic)
+  IPA: [on.seˈvul.ɣa] (Tags: Valencia)
+aparentment
+  IPA: [ə.pəˌɾemˈmen] (Tags: Central)
+  IPA: [ə.pəˌɾemˈment] (Tags: Balearic)
+  IPA: [a.paˌɾemˈment] (Tags: Valencia)
+atlèticament
+  IPA: [əlˌlɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [əlˌlɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [adˌlɛ.ti.kaˈment] (Tags: Valencia)
+idealment
+  IPA: [i.ðeˌalˈmen] (Tags: Central)
+  IPA: [i.ðeˌalˈment] (Tags: Balearic, Valencia)
+individualment
+  IPA: [in.di.βi.ðuˌalˈmen] (Tags: Central)
+  IPA: [in.di.vi.ðuˌalˈment] (Tags: Balearic, Valencia)
+davall
+  IPA: [dəˈβaʎ] (Tags: Central)
+  IPA: [dəˈvaʎ] (Tags: Balearic)
+  IPA: [daˈvaʎ] (Tags: Valencia)
+enlloc
+  IPA: [əɲˈʎɔk] (Tags: Balearic, Central)
+  IPA: [eɲˈʎɔk] (Tags: Valencia)
+  IPA: /aɲˈʎɔk/
+  IPA: /aˈɲɔk/
+tendrament
+  IPA: [ˌtɛn.dɾəˈmen] (Tags: Central)
+  IPA: [ˌtɛn.dɾəˈment] (Tags: Balearic)
+  IPA: [ˌtɛn.dɾaˈment] (Tags: Valencia)
+erròniament
+  IPA: [əˌrɔ.ni.əˈmen] (Tags: Central)
+  IPA: [əˌrɔ.ni.əˈment] (Tags: Balearic)
+  IPA: [eˌrɔ.ni.aˈment] (Tags: Valencia)
+dalt
+  IPA: [ˈdal] (Tags: Central)
+  IPA: [ˈdalt] (Tags: Balearic, Valencia)
+excessivament
+  IPA: [ək.səˌsi.βəˈmen] (Tags: Central)
+  IPA: [ək.səˌsi.vəˈment] (Tags: Balearic)
+  IPA: [ek.seˌsi.vaˈment] (Tags: Valencia)
+fortament
+  IPA: [ˌfɔr.təˈmen] (Tags: Central)
+  IPA: [ˌfɔr.təˈment] (Tags: Balearic)
+  IPA: [ˌfɔɾ.taˈment] (Tags: Valencia)
+confidentment
+  IPA: [kuɱ.fiˌðemˈmen] (Tags: Central)
+  IPA: [koɱ.fiˌðemˈment] (Tags: Balearic, Valencia)
+telepàticament
+  IPA: [tə.ləˌpa.ti.kəˈmen] (Tags: Central)
+  IPA: [tə.ləˌpa.ti.kəˈment] (Tags: Balearic)
+  IPA: [te.leˌpa.ti.kaˈment] (Tags: Valencia)
+a penes
+  IPA: [ə ˈpɛ.nəs] (Tags: Central)
+  IPA: [ə ˈpe.nəs] (Tags: Balearic)
+  IPA: [a ˈpe.nes] (Tags: Valencia)
+altrament
+  IPA: [ˌal.tɾəˈmen] (Tags: Central)
+  IPA: [ˌal.tɾəˈment] (Tags: Balearic)
+  IPA: [ˌal.tɾaˈment] (Tags: Valencia)
+legítimament
+  IPA: [ləˌʒi.ti.məˈmen] (Tags: Central)
+  IPA: [ləˌʒi.ti.məˈment] (Tags: Balearic)
+  IPA: [leˌd͡ʒi.ti.maˈment] (Tags: Valencia)
+arreu
+  IPA: [əˈrɛw] (Tags: Central)
+  IPA: [əˈrəw] (Tags: Balearic)
+  IPA: [aˈrew] (Tags: Valencia)
+originàriament
+  IPA: [u.ɾi.ʒiˌna.ɾi.əˈmen] (Tags: Central)
+  IPA: [o.ɾi.ʒiˌna.ɾi.əˈment] (Tags: Balearic)
+  IPA: [o.ɾi.d͡ʒiˌna.ɾi.aˈment] (Tags: Valencia)
+palpablement
+  IPA: [pəlˌpab.bləˈmen] (Tags: Central)
+  IPA: [pəlˌpab.bləˈment] (Tags: Balearic)
+  IPA: [palˌpa.bleˈment] (Tags: Valencia)
+perceptiblement
+  IPA: [pər.səpˌtib.bləˈmen] (Tags: Central)
+  IPA: [pər.səpˌtib.bləˈment] (Tags: Balearic)
+  IPA: [peɾ.sepˌti.bleˈment] (Tags: Valencia)
+redundantment
+  IPA: [rə.ðunˌdamˈmen] (Tags: Central)
+  IPA: [rə.ðunˌdamˈment] (Tags: Balearic)
+  IPA: [re.ðunˌdamˈment] (Tags: Valencia)
+interrogativament
+  IPA: [in.tə.ru.ɣəˌti.βəˈmen] (Tags: Central)
+  IPA: [in.tə.ro.ɣəˌti.vəˈment] (Tags: Balearic)
+  IPA: [in.te.ro.ɣaˌti.vaˈment] (Tags: Valencia)
+supersticiosament
+  IPA: [su.pərs.ti.siˌo.zəˈmen] (Tags: Central)
+  IPA: [su.pərs.ti.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [su.peɾs.ti.siˌo.zaˈment] (Tags: Valencia)
+pler
+  IPA: [ˈplɛ] (Tags: Central)
+  IPA: [ˈplə] (Tags: Balearic)
+  IPA: [ˈpleɾ] (Tags: Valencia)
+impersonalment
+  IPA: [im.pər.suˌnalˈmen] (Tags: Central)
+  IPA: [im.pər.soˌnalˈment] (Tags: Balearic)
+  IPA: [im.peɾ.soˌnalˈment] (Tags: Valencia)
+quotidianament
+  IPA: [kwu.ti.ðiˌa.nəˈmen] (Tags: Central)
+  IPA: [kwo.ti.ðiˌa.nəˈment] (Tags: Balearic)
+  IPA: [kwo.ti.ðiˌa.naˈment] (Tags: Valencia)
+cara a cara
+  IPA: [ˈka.ɾə ə ˈka.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈka.ɾa a ˈka.ɾa] (Tags: Valencia)
+inintel·ligentment
+  IPA: [i.nin.təl.liˌʒemˈmen] (Tags: Central)
+  IPA: [i.nin.təl.liˌʒemˈment] (Tags: Balearic)
+  IPA: [i.nin.tel.liˌd͡ʒemˈment] (Tags: Valencia)
+en definitiva
+  IPA: [ən də.fi.niˈti.βə] (Tags: Central)
+  IPA: [ən də.fi.niˈti.və] (Tags: Balearic)
+  IPA: [en de.fi.niˈti.va] (Tags: Valencia)
+endavant
+  IPA: [ən.dəˈβan] (Tags: Central)
+  IPA: [ən.dəˈvant] (Tags: Balearic)
+  IPA: [en.daˈvant] (Tags: Valencia)
+pejorativament
+  IPA: [pə.ʒu.ɾəˌti.βəˈmen] (Tags: Central)
+  IPA: [pə.ʒo.ɾəˌti.vəˈment] (Tags: Balearic)
+  IPA: [pe.d͡ʒo.ɾaˌti.vaˈment] (Tags: Valencia)
+despectivament
+  IPA: [dəs.pəkˌti.βəˈmen] (Tags: Central)
+  IPA: [dəs.pəkˌti.vəˈment] (Tags: Balearic)
+  IPA: [des.pekˌti.vaˈment] (Tags: Valencia)
+diplomàticament
+  IPA: [di.pluˌma.ti.kəˈmen] (Tags: Central)
+  IPA: [di.ploˌma.ti.kəˈment] (Tags: Balearic)
+  IPA: [di.ploˌma.ti.kaˈment] (Tags: Valencia)
+malauradament
+  IPA: [ˌma.ləwˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [ˌma.ləwˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [ˌma.lawˌɾa.ðaˈment] (Tags: Valencia)
+exprés
+  IPA: [əksˈpɾes] (Tags: Balearic, Central)
+  IPA: [eksˈpɾes] (Tags: Valencia)
+degudament
+  IPA: [dəˌɣu.ðəˈmen] (Tags: Central)
+  IPA: [dəˌɣu.ðəˈment] (Tags: Balearic)
+  IPA: [deˌɣu.ðaˈment] (Tags: Valencia)
+magníficament
+  IPA: [məŋˌni.fi.kəˈmen] (Tags: Central)
+  IPA: [məŋˌni.fi.kəˈment] (Tags: Balearic)
+  IPA: [maŋˌni.fi.kaˈment] (Tags: Valencia)
+si et plau
+  IPA: [si ət ˈplaw] (Tags: Balearic, Central)
+  IPA: [si et ˈplaw] (Tags: Valencia)
+en total
+  IPA: [ən tuˈtal] (Tags: Central)
+  IPA: [ən toˈtal] (Tags: Balearic)
+  IPA: [en toˈtal] (Tags: Valencia)
+per favor
+  IPA: [pər fəˈβor] (Tags: Central)
+  IPA: [pər fəˈvo] (Tags: Balearic)
+  IPA: [per faˈvoɾ] (Tags: Valencia)
+posteriorment
+  IPA: [pus.tə.ɾiˌorˈmen] (Tags: Central)
+  IPA: [pos.tə.ɾiˌoˈment] (Tags: Balearic)
+  IPA: [pos.te.ɾiˌoɾˈment] (Tags: Valencia)
+juntament
+  IPA: [ˌʒun.təˈmen] (Tags: Central)
+  IPA: [ˌʒun.təˈment] (Tags: Balearic)
+  IPA: [ˌd͡ʒun.taˈment] (Tags: Valencia)
+alhora
+  IPA: [əˈlɔ.ɾə] (Tags: Balearic, Central)
+  IPA: [aˈlɔ.ɾa] (Tags: Valencia)
+recentment
+  IPA: [rəˌsemˈmen] (Tags: Central)
+  IPA: [rəˌsemˈment] (Tags: Balearic)
+  IPA: [reˌsemˈment] (Tags: Valencia)
+originalment
+  IPA: [u.ɾi.ʒiˌnalˈmen] (Tags: Central)
+  IPA: [o.ɾi.ʒiˌnalˈment] (Tags: Balearic)
+  IPA: [o.ɾi.d͡ʒiˌnalˈment] (Tags: Valencia)
+majoritàriament
+  IPA: [mə.ʒu.ɾiˌta.ɾi.əˈmen] (Tags: Central)
+  IPA: [mə.ʒo.ɾiˌta.ɾi.əˈment] (Tags: Balearic)
+  IPA: [ma.d͡ʒo.ɾiˌta.ɾi.aˈment] (Tags: Valencia)
+bàsicament
+  IPA: [ˌba.zi.kəˈmen] (Tags: Central)
+  IPA: [ˌba.zi.kəˈment] (Tags: Balearic)
+  IPA: [ˌba.zi.kaˈment] (Tags: Valencia)
+suposadament
+  IPA: [su.puˌza.ðəˈmen] (Tags: Central)
+  IPA: [su.poˌza.ðəˈment] (Tags: Balearic)
+  IPA: [su.poˌza.ðaˈment] (Tags: Valencia)
+pròpiament
+  IPA: [ˌpɾɔ.pi.əˈmen] (Tags: Central)
+  IPA: [ˌpɾɔ.pi.əˈment] (Tags: Balearic)
+  IPA: [ˌpɾɔ.pi.aˈment] (Tags: Valencia)
+constantment
+  IPA: [kunsˌtamˈmen] (Tags: Central)
+  IPA: [konsˌtamˈment] (Tags: Balearic, Valencia)
+popularment
+  IPA: [pu.puˌlarˈmen] (Tags: Central)
+  IPA: [po.puˌlaˈment] (Tags: Balearic)
+  IPA: [po.puˌlaɾˈment] (Tags: Valencia)
+usualment
+  IPA: [u.zuˌalˈmen] (Tags: Central)
+  IPA: [u.zuˌalˈment] (Tags: Balearic, Valencia)
+concretament
+  IPA: [kuŋˌkɾe.təˈmen] (Tags: Central)
+  IPA: [koŋˌkɾe.təˈment] (Tags: Balearic)
+  IPA: [koŋˌkɾe.taˈment] (Tags: Valencia)
+corrents
+  IPA: [kuˈrens] (Tags: Central)
+  IPA: [koˈrens] (Tags: Balearic, Valencia)
+extremadament
+  IPA: [əks.tɾəˌma.ðəˈmen] (Tags: Central)
+  IPA: [əks.tɾəˌma.ðəˈment] (Tags: Balearic)
+  IPA: [eks.tɾeˌma.ðaˈment] (Tags: Valencia)
+durament
+  IPA: [ˌdu.ɾəˈmen] (Tags: Central)
+  IPA: [ˌdu.ɾəˈment] (Tags: Balearic)
+  IPA: [ˌdu.ɾaˈment] (Tags: Valencia)
+progressivament
+  IPA: [pɾu.ɣɾəˌsi.βəˈmen] (Tags: Central)
+  IPA: [pɾo.ɣɾəˌsi.vəˈment] (Tags: Balearic)
+  IPA: [pɾo.ɣɾeˌsi.vaˈment] (Tags: Valencia)
+profundament
+  IPA: [pɾuˌfun.dəˈmen] (Tags: Central)
+  IPA: [pɾuˌfun.dəˈment] (Tags: Balearic)
+  IPA: [pɾoˌfun.daˈment] (Tags: Valencia)
+conjuntament
+  IPA: [kuɲˌʒun.təˈmen] (Tags: Central)
+  IPA: [kuɲˌʒun.təˈment] (Tags: Balearic)
+  IPA: [koɲˌd͡ʒun.taˈment] (Tags: Valencia)
+exactament
+  IPA: [əɡˌzak.təˈmen] (Tags: Central)
+  IPA: [əɡˌzak.təˈment] (Tags: Balearic)
+  IPA: [eɡˌzak.taˈment] (Tags: Valencia)
+successivament
+  IPA: [suk.səˌsi.βəˈmen] (Tags: Central)
+  IPA: [suk.səˌsi.vəˈment] (Tags: Balearic)
+  IPA: [suk.seˌsi.vaˈment] (Tags: Valencia)
+àmpliament
+  IPA: [ˌam.pli.əˈmen] (Tags: Central)
+  IPA: [ˌam.pli.əˈment] (Tags: Balearic)
+  IPA: [ˌam.pli.aˈment] (Tags: Valencia)
+plenament
+  IPA: [ˌplɛ.nəˈmen] (Tags: Central)
+  IPA: [ˌplə.nəˈment] (Tags: Balearic)
+  IPA: [ˌple.naˈment] (Tags: Valencia)
+altament
+  IPA: [ˌal.təˈmen] (Tags: Central)
+  IPA: [ˌal.təˈment] (Tags: Balearic)
+  IPA: [ˌal.taˈment] (Tags: Valencia)
+mot a mot
+  IPA: [ˈmot ə ˈmot] (Tags: Balearic, Central)
+  IPA: [ˈmot a ˈmot] (Tags: Valencia)
+estretament
+  IPA: [əsˌtɾɛ.təˈmen] (Tags: Central)
+  IPA: [əsˌtɾə.təˈment] (Tags: Balearic)
+  IPA: [esˌtɾe.taˈment] (Tags: Valencia)
+administrativament
+  IPA: [əd.mi.nis.tɾəˌti.βəˈmen] (Tags: Central)
+  IPA: [əd.mi.nis.tɾəˌti.vəˈment] (Tags: Balearic)
+  IPA: [ad.mi.nis.tɾaˌti.vaˈment] (Tags: Valencia)
+modernament
+  IPA: [muˌðɛr.nəˈmen] (Tags: Central)
+  IPA: [moˌðɛr.nəˈment] (Tags: Balearic)
+  IPA: [moˌðɛɾ.naˈment] (Tags: Valencia)
+rigorosament
+  IPA: [ri.ɣuˌɾo.zəˈmen] (Tags: Central)
+  IPA: [ri.ɣoˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [ri.ɣoˌɾo.zaˈment] (Tags: Valencia)
+de moda
+  IPA: [də ˈmɔ.ðə] (Tags: Balearic, Central)
+  IPA: [de ˈmɔ.ða] (Tags: Valencia)
+sobtadament
+  IPA: [supˌta.ðəˈmen] (Tags: Central)
+  IPA: [sopˌta.ðəˈment] (Tags: Balearic)
+  IPA: [sopˌta.ðaˈment] (Tags: Valencia)
+mant
+  IPA: [ˈman] (Tags: Central)
+  IPA: [ˈmant] (Tags: Balearic, Valencia)
+tal vegada
+  IPA: [ˈtal βəˈɣa.ðə] (Tags: Central)
+  IPA: [ˈtal vəˈɣa.ðə] (Tags: Balearic)
+  IPA: [ˈtal veˈɣa.ða] (Tags: Valencia)
+de vegades
+  IPA: [də βəˈɣa.ðəs] (Tags: Central)
+  IPA: [də vəˈɣa.ðəs] (Tags: Balearic)
+  IPA: [de veˈɣa.ðes] (Tags: Valencia)
+a la vegada
+  IPA: [ə lə βəˈɣa.ðə] (Tags: Central)
+  IPA: [ə lə vəˈɣa.ðə] (Tags: Balearic)
+  IPA: [a la veˈɣa.ða] (Tags: Valencia)
+d'una vegada
+  IPA: [ˈd‿u.nə βəˈɣa.ðə] (Tags: Central)
+  IPA: [ˈd‿u.nə vəˈɣa.ðə] (Tags: Balearic)
+  IPA: [ˈd‿u.na veˈɣa.ða] (Tags: Valencia)
+enfront
+  IPA: [əɱˈfɾon] (Tags: Central)
+  IPA: [əɱˈfɾont] (Tags: Balearic)
+  IPA: [eɱˈfɾont] (Tags: Valencia)
+radicalment
+  IPA: [rə.ðiˌkalˈmen] (Tags: Central)
+  IPA: [rə.ðiˌkalˈment] (Tags: Balearic)
+  IPA: [ra.ðiˌkalˈment] (Tags: Valencia)
+etcètera
+  IPA: [ətˈsɛ.tə.ɾə] (Tags: Balearic, Central)
+  IPA: [etˈsɛ.te.ɾa] (Tags: Valencia)
+  IPA: [ətˈsɛ.tɾə] (Tags: Balearic, Central)
+  IPA: [etˈsɛ.tɾa] (Tags: Valencia)
+expressament
+  IPA: [əksˌpɾe.səˈmen] (Tags: Central)
+  IPA: [əksˌpɾe.səˈment] (Tags: Balearic)
+  IPA: [eksˌpɾe.saˈment] (Tags: Valencia)
+preferentment
+  IPA: [pɾə.fəˌɾemˈmen] (Tags: Central)
+  IPA: [pɾə.fəˌɾemˈment] (Tags: Balearic)
+  IPA: [pɾe.feˌɾemˈment] (Tags: Valencia)
+inclús
+  IPA: [iŋˈklus] (Tags: Balearic, Central, Valencia)
+màgicament
+  IPA: [ˌma.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ˌma.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [ˌma.d͡ʒi.kaˈment] (Tags: Valencia)
+falsament
+  IPA: [ˌfal.səˈmen] (Tags: Central)
+  IPA: [ˌfal.səˈment] (Tags: Balearic)
+  IPA: [ˌfal.saˈment] (Tags: Valencia)
+teològicament
+  IPA: [tə.uˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [tə.oˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [te.oˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+subtilment
+  IPA: [supˌtilˈmen] (Tags: Central)
+  IPA: [supˌtilˈment] (Tags: Balearic, Valencia)
+homogèniament
+  IPA: [u.muˌʒɛ.ni.əˈmen] (Tags: Central)
+  IPA: [o.moˌʒɛ.ni.əˈment] (Tags: Balearic)
+  IPA: [o.moˌd͡ʒɛ.ni.aˈment] (Tags: Valencia)
+lúcidament
+  IPA: [ˌlu.si.ðəˈmen] (Tags: Central)
+  IPA: [ˌlu.si.ðəˈment] (Tags: Balearic)
+  IPA: [ˌlu.si.ðaˈment] (Tags: Valencia)
+sentimentalment
+  IPA: [sən.ti.mənˌtalˈmen] (Tags: Central)
+  IPA: [sən.ti.mənˌtalˈment] (Tags: Balearic)
+  IPA: [sen.ti.menˌtalˈment] (Tags: Valencia)
+geomètricament
+  IPA: [ʒə.uˌmɛ.tɾi.kəˈmen] (Tags: Central)
+  IPA: [ʒə.oˌmɛ.tɾi.kəˈment] (Tags: Balearic)
+  IPA: [d͡ʒe.oˌmɛ.tɾi.kaˈment] (Tags: Valencia)
+automàticament
+  IPA: [əw.tuˌma.ti.kəˈmen] (Tags: Central)
+  IPA: [əw.toˌma.ti.kəˈment] (Tags: Balearic)
+  IPA: [aw.toˌma.ti.kaˈment] (Tags: Valencia)
+incessantment
+  IPA: [in.səˌsamˈmen] (Tags: Central)
+  IPA: [in.səˌsamˈment] (Tags: Balearic)
+  IPA: [in.seˌsamˈment] (Tags: Valencia)
+heroicament
+  IPA: [əˌɾɔj.kəˈmen] (Tags: Central)
+  IPA: [əˌɾɔj.kəˈment] (Tags: Balearic)
+  IPA: [eˌɾɔj.kaˈment] (Tags: Valencia)
+infeliçment
+  IPA: [iɱ.fəˌlizˈmen] (Tags: Central)
+  IPA: [iɱ.fəˌlizˈment] (Tags: Balearic)
+  IPA: [iɱ.feˌlizˈment] (Tags: Valencia)
+de sobra
+  IPA: [də ˈsɔ.βɾə] (Tags: Central)
+  IPA: [də ˈsɔ.bɾə] (Tags: Balearic)
+  IPA: [de ˈsɔ.bɾa] (Tags: Valencia)
+eternament
+  IPA: [əˌtɛr.nəˈmen] (Tags: Central)
+  IPA: [əˌtɛr.nəˈment] (Tags: Balearic)
+  IPA: [eˌtɛɾ.naˈment] (Tags: Valencia)
+pertot
+  IPA: [pərˈtot] (Tags: Balearic, Central)
+  IPA: [peɾˈtot] (Tags: Valencia)
+judicialment
+  IPA: [ʒu.ði.siˌalˈmen] (Tags: Central)
+  IPA: [ʒu.ði.siˌalˈment] (Tags: Balearic)
+  IPA: [d͡ʒu.ði.siˌalˈment] (Tags: Valencia)
+nítidament
+  IPA: [ˌni.ti.ðəˈmen] (Tags: Central)
+  IPA: [ˌni.ti.ðəˈment] (Tags: Balearic)
+  IPA: [ˌni.ti.ðaˈment] (Tags: Valencia)
+puntualment
+  IPA: [pun.tuˌalˈmen] (Tags: Central)
+  IPA: [pun.tuˌalˈment] (Tags: Balearic, Valencia)
+avui dia
+  IPA: [əˈβuj ˈði.ə] (Tags: Central)
+  IPA: [əˈvuj ˈði.ə] (Tags: Balearic)
+  IPA: [aˈvuj ˈði.a] (Tags: Valencia)
+pretensiosament
+  IPA: [pɾə.tən.siˌo.zəˈmen] (Tags: Central)
+  IPA: [pɾə.tən.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [pɾe.ten.siˌo.zaˈment] (Tags: Valencia)
+subversivament
+  IPA: [sub.bərˌsi.βəˈmen] (Tags: Central)
+  IPA: [sub.vərˌsi.vəˈment] (Tags: Balearic)
+  IPA: [sub.veɾˌsi.vaˈment] (Tags: Valencia)
+evidentment
+  IPA: [ə.βiˌðemˈmen] (Tags: Central)
+  IPA: [ə.viˌðemˈment] (Tags: Balearic)
+  IPA: [e.viˌðemˈment] (Tags: Valencia)
+d'hora
+  IPA: [ˈd‿ɔ.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈd‿ɔ.ɾa] (Tags: Valencia)
+vehementment
+  IPA: [bə.əˌmemˈmen] (Tags: Central)
+  IPA: [və.əˌmemˈment] (Tags: Balearic)
+  IPA: [ve.eˌmemˈment] (Tags: Valencia)
+indiscutiblement
+  IPA: [in.dis.kuˌtib.bləˈmen] (Tags: Central)
+  IPA: [in.dis.kuˌtib.bləˈment] (Tags: Balearic)
+  IPA: [in.dis.kuˌti.bleˈment] (Tags: Valencia)
+darrerament
+  IPA: [dəˌre.ɾəˈmen] (Tags: Central)
+  IPA: [dəˌre.ɾəˈment] (Tags: Balearic)
+  IPA: [daˌre.ɾaˈment] (Tags: Valencia)
+últimament
+  IPA: [ˌul.ti.məˈmen] (Tags: Central)
+  IPA: [ˌul.ti.məˈment] (Tags: Balearic)
+  IPA: [ˌul.ti.maˈment] (Tags: Valencia)
+discretament
+  IPA: [disˌkɾe.təˈmen] (Tags: Central)
+  IPA: [disˌkɾe.təˈment] (Tags: Balearic)
+  IPA: [disˌkɾe.taˈment] (Tags: Valencia)
+indefinidament
+  IPA: [in.də.fiˌni.ðəˈmen] (Tags: Central)
+  IPA: [in.də.fiˌni.ðəˈment] (Tags: Balearic)
+  IPA: [in.de.fiˌni.ðaˈment] (Tags: Valencia)
+de franc
+  IPA: [də ˈfɾaŋ] (Tags: Central)
+  IPA: [də ˈfɾaŋk] (Tags: Balearic)
+  IPA: [de ˈfɾaŋk] (Tags: Valencia)
+abans-d'ahir
+  IPA: [əˌβanz.d‿əˈi] (Tags: Central)
+  IPA: [əˌbanz.d‿əˈi] (Tags: Balearic)
+  IPA: [aˌbanz.ð‿aˈiɾ] (Tags: Valencia)
+desgraciadament
+  IPA: [dəz.ɡɾə.siˌa.ðəˈmen] (Tags: Central)
+  IPA: [dəz.ɡɾə.siˌa.ðəˈment] (Tags: Balearic)
+  IPA: [dez.ɣɾa.siˌa.ðaˈment] (Tags: Valencia)
+debò
+  IPA: [dəˈβɔ] (Tags: Central)
+  IPA: [dəˈbɔ] (Tags: Balearic)
+  IPA: [deˈbɔ] (Tags: Valencia)
+de debò
+  IPA: [də ðəˈβɔ] (Tags: Central)
+  IPA: [də ðəˈbɔ] (Tags: Balearic)
+  IPA: [de ðeˈbɔ] (Tags: Valencia)
+tard o d'hora
+  IPA: [ˈtart u ˈð‿ɔ.ɾə] (Tags: Central)
+  IPA: [ˈtart o ˈð‿ɔ.ɾə] (Tags: Balearic)
+  IPA: [ˈtaɾt o ˈð‿ɔ.ɾa] (Tags: Valencia)
+de molt
+  IPA: [də ˈmol] (Tags: Central)
+  IPA: [də ˈmolt] (Tags: Balearic)
+  IPA: [de ˈmolt] (Tags: Valencia)
+com ara
+  IPA: [ˈkɔm ˈa.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈkom ˈa.ɾa] (Tags: Valencia)
+de quatre grapes
+  IPA: [də ˈkwa.tɾə ˈɣɾa.pəs] (Tags: Balearic, Central)
+  IPA: [de ˈkwa.tɾe ˈɣɾa.pes] (Tags: Valencia)
+canònicament
+  IPA: [kəˌnɔ.ni.kəˈmen] (Tags: Central)
+  IPA: [kəˌnɔ.ni.kəˈment] (Tags: Balearic)
+  IPA: [kaˌnɔ.ni.kaˈment] (Tags: Valencia)
+merament
+  IPA: [ˌme.ɾəˈmen] (Tags: Central)
+  IPA: [ˌme.ɾəˈment] (Tags: Balearic)
+  IPA: [ˌme.ɾaˈment] (Tags: Valencia)
+a tort i a dret
+  IPA: [ə ˈtɔrt i ə ˈðɾɛt] (Tags: Central)
+  IPA: [ə ˈtɔrt i ə ˈðɾət] (Tags: Balearic)
+  IPA: [a ˈtɔɾt i a ˈðɾet] (Tags: Valencia)
+col·loquialment
+  IPA: [kul.lu.kiˌalˈmen] (Tags: Central)
+  IPA: [kol.lo.kiˌalˈment] (Tags: Balearic, Valencia)
+dempeus
+  IPA: [dəmˈpɛws] (Tags: Balearic, Central)
+  IPA: [demˈpɛws] (Tags: Valencia)
+de grapes
+  IPA: [də ˈɣɾa.pəs] (Tags: Balearic, Central)
+  IPA: [de ˈɣɾa.pes] (Tags: Valencia)
+xino-xano
+  IPA: [ˌʃi.nuˈʃa.nu] (Tags: Central)
+  IPA: [ˌʃi.noˈʃa.no] (Tags: Balearic)
+  IPA: [ˌt͡ʃi.noˈt͡ʃa.no] (Tags: Valencia)
+xano-xano
+  IPA: [ˌʃa.nuˈʃa.nu] (Tags: Central)
+  IPA: [ˌʃa.noˈʃa.no] (Tags: Balearic)
+  IPA: [ˌt͡ʃa.noˈt͡ʃa.no] (Tags: Valencia)
+a corre-cuita
+  IPA: [ə ˌko.rəˈkuj.tə] (Tags: Balearic, Central)
+  IPA: [a ˌko.reˈkuj.ta] (Tags: Valencia)
+visualment
+  IPA: [bi.zuˌalˈmen] (Tags: Central)
+  IPA: [vi.zuˌalˈment] (Tags: Balearic, Valencia)
+empíricament
+  IPA: [əmˌpi.ɾi.kəˈmen] (Tags: Central)
+  IPA: [əmˌpi.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [emˌpi.ɾi.kaˈment] (Tags: Valencia)
+en orris
+  IPA: [ən ˈɔ.ris] (Tags: Balearic, Central)
+  IPA: [en ˈɔ.ris] (Tags: Valencia)
+d'altra banda
+  IPA: [ˈd‿al.tɾə ˈβan.də] (Tags: Central)
+  IPA: [ˈd‿al.tɾə ˈban.də] (Tags: Balearic)
+  IPA: [ˈd‿al.tɾa ˈban.da] (Tags: Valencia)
+de bòlit
+  IPA: [də ˈβɔ.lit] (Tags: Central)
+  IPA: [də ˈbɔ.lit] (Tags: Balearic)
+  IPA: [de ˈbɔ.lit] (Tags: Valencia)
+adés
+  IPA: [əˈðes] (Tags: Balearic, Central)
+  IPA: [aˈðes] (Tags: Valencia)
+endarrere
+  IPA: [ən.dəˈre.ɾə] (Tags: Balearic, Central)
+  IPA: [en.daˈre.ɾe] (Tags: Valencia)
+debades
+  IPA: [dəˈβa.ðəs] (Tags: Central)
+  IPA: [dəˈba.ðəs] (Tags: Balearic)
+  IPA: [deˈba.ðes] (Tags: Valencia)
+al cap i a la fi
+  IPA: [əl ˈkap i ə lə ˈfi] (Tags: Balearic, Central)
+  IPA: [al ˈkap i a la ˈfi] (Tags: Valencia)
+en teoria
+  IPA: [ən tə.uˈɾi.ə] (Tags: Balearic, Central)
+  IPA: [en te.oˈɾi.a] (Tags: Valencia)
+àdhuc
+  IPA: [ˈa.ðuk] (Tags: Balearic, Central, Valencia)
+o sigui
+  IPA: [u ˈsi.ɣi] (Tags: Central)
+  IPA: [o ˈsi.ɣi] (Tags: Balearic, Valencia)
+de tant en tant
+  IPA: [də ˈtan ən ˈtan] (Tags: Central)
+  IPA: [də ˈtant ən ˈtant] (Tags: Balearic)
+  IPA: [de ˈtant en ˈtant] (Tags: Valencia)
+de gom a gom
+  IPA: [də ˈɣom ə ˈɣom] (Tags: Balearic, Central)
+  IPA: [de ˈɣom a ˈɣom] (Tags: Valencia)
+trinco-trinco
+  IPA: [ˌtɾiŋ.kuˈtɾiŋ.ku] (Tags: Central)
+  IPA: [ˌtɾiŋ.kuˈtɾiŋ.ko] (Tags: Balearic)
+  IPA: [ˌtɾiŋ.koˈtɾiŋ.ko] (Tags: Valencia)
+daltabaix
+  IPA: [dəl.təˈβaʃ] (Tags: Central)
+  IPA: [dəl.təˈbaʃ] (Tags: Balearic)
+  IPA: [dal.taˈbajʃ] (Tags: Valencia)
+talment
+  IPA: [ˌtalˈmen] (Tags: Central)
+  IPA: [ˌtalˈment] (Tags: Balearic, Valencia)
+malbé
+  IPA: [məlˈβe] (Tags: Central)
+  IPA: [məlˈbe] (Tags: Balearic)
+  IPA: [malˈbe] (Tags: Valencia)
+enlaire
+  IPA: [ənˈlaj.ɾə] (Tags: Balearic, Central)
+  IPA: [enˈlaj.ɾe] (Tags: Valencia)
+de moment
+  IPA: [də muˈmen] (Tags: Central)
+  IPA: [də moˈment] (Tags: Balearic)
+  IPA: [de moˈment] (Tags: Valencia)
+idò
+  IPA: [iˈðɔ] (Tags: Balearic, Central, Valencia)
+per descomptat
+  IPA: [pər dəs.kumˈtat] (Tags: Central)
+  IPA: [pər dəs.komˈtat] (Tags: Balearic)
+  IPA: [per ðes.komˈtat] (Tags: Valencia)
+de reüll
+  IPA: [də rəˈuʎ] (Tags: Balearic, Central)
+  IPA: [de reˈuʎ] (Tags: Valencia)
+tal qual
+  IPA: [ˈtal ˈkwal] (Tags: Balearic, Central, Valencia)
+llampant
+  IPA: [ʎəmˈpan] (Tags: Central)
+  IPA: [ʎəmˈpant] (Tags: Balearic)
+  IPA: [ʎamˈpant] (Tags: Valencia)
+calculadament
+  IPA: [kəl.kuˌla.ðəˈmen] (Tags: Central)
+  IPA: [kəl.kuˌla.ðəˈment] (Tags: Balearic)
+  IPA: [kal.kuˌla.ðaˈment] (Tags: Valencia)
+de sobres
+  IPA: [də ˈsɔ.βɾəs] (Tags: Central)
+  IPA: [də ˈsɔ.bɾəs] (Tags: Balearic)
+  IPA: [de ˈsɔ.bɾes] (Tags: Valencia)
+curosament
+  IPA: [kuˌɾo.zəˈmen] (Tags: Central)
+  IPA: [kuˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [kuˌɾo.zaˈment] (Tags: Valencia)
+d'amagatotis
+  IPA: [d‿ə.mə.ɣəˈtɔ.tis] (Tags: Balearic, Central)
+  IPA: [d‿a.ma.ɣaˈto.tis] (Tags: Valencia)
+al capdavall
+  IPA: [əl ˌkab.dəˈβaʎ] (Tags: Central)
+  IPA: [əl ˌkab.dəˈvaʎ] (Tags: Balearic)
+  IPA: [al ˌkab.daˈvaʎ] (Tags: Valencia)
+famosament
+  IPA: [fəˌmo.zəˈmen] (Tags: Central)
+  IPA: [fəˌmo.zəˈment] (Tags: Balearic)
+  IPA: [faˌmo.zaˈment] (Tags: Valencia)
+amenaçadorament
+  IPA: [ə.mə.nə.səˌðo.ɾəˈmen] (Tags: Central)
+  IPA: [ə.mə.nə.səˌðo.ɾəˈment] (Tags: Balearic)
+  IPA: [a.me.na.saˌðo.ɾaˈment] (Tags: Valencia)
+a dretcient
+  IPA: [ə ˌðɾɛt.siˈen] (Tags: Central)
+  IPA: [ə ˌðɾət.siˈent] (Tags: Balearic)
+  IPA: [a ˌðɾet.siˈent] (Tags: Valencia)
+a cau d'orella
+  IPA: [ə ˈkaw ð‿uˈɾe.ʎə] (Tags: Central)
+  IPA: [ə ˈkaw ð‿oˈɾe.ʎə] (Tags: Balearic)
+  IPA: [a ˈkaw ð‿oˈɾe.ʎa] (Tags: Valencia)
+a la quinta forca
+  IPA: [ə lə ˈkin.tə ˈfor.kə] (Tags: Balearic, Central)
+  IPA: [a la ˈkin.ta ˈfoɾ.ka] (Tags: Valencia)
+a tot estirar
+  IPA: [ə ˈtot əs.tiˈɾa] (Tags: Balearic, Central)
+  IPA: [a ˈtot es.tiˈɾaɾ] (Tags: Valencia)
+àlies
+  IPA: [ˈa.li.əs] (Tags: Balearic, Central)
+  IPA: [ˈa.li.es] (Tags: Valencia)
+finament
+  IPA: [ˌfi.nəˈmen] (Tags: Central)
+  IPA: [ˌfi.nəˈment] (Tags: Balearic)
+  IPA: [ˌfi.naˈment] (Tags: Valencia)
+entretant
+  IPA: [ˌen.tɾəˈtan] (Tags: Central)
+  IPA: [ˌen.tɾəˈtant] (Tags: Balearic)
+  IPA: [ˌen.tɾeˈtant] (Tags: Valencia)
+moderadament
+  IPA: [mu.ðəˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [mo.ðəˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [mo.ðeˌɾa.ðaˈment] (Tags: Valencia)
+tàcitament
+  IPA: [ˌta.si.təˈmen] (Tags: Central)
+  IPA: [ˌta.si.təˈment] (Tags: Balearic)
+  IPA: [ˌta.si.taˈment] (Tags: Valencia)
+hermèticament
+  IPA: [ərˌmɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [ərˌmɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [eɾˌmɛ.ti.kaˈment] (Tags: Valencia)
+fermament
+  IPA: [ˌfɛr.məˈmen] (Tags: Central)
+  IPA: [ˌfər.məˈment] (Tags: Balearic)
+  IPA: [ˌfeɾ.maˈment] (Tags: Valencia)
+externament
+  IPA: [əksˌtɛr.nəˈmen] (Tags: Central)
+  IPA: [əksˌtɛr.nəˈment] (Tags: Balearic)
+  IPA: [eksˌtɛɾ.naˈment] (Tags: Valencia)
+verbalment
+  IPA: [bərˌbalˈmen] (Tags: Central)
+  IPA: [vərˌbalˈment] (Tags: Balearic)
+  IPA: [veɾˌbalˈment] (Tags: Valencia)
+fluix
+  IPA: [ˈfluʃ] (Tags: Balearic, Central)
+  IPA: [ˈflujʃ] (Tags: Valencia)
+nogensmenys
+  IPA: [ˌnoˌʒenzˈmɛɲs] (Tags: Central)
+  IPA: [ˌnoˌʒenzˈmeɲs] (Tags: Balearic)
+  IPA: [ˌnoˌd͡ʒenzˈmeɲs] (Tags: Valencia)
+íntimament
+  IPA: [ˌin.ti.məˈmen] (Tags: Central)
+  IPA: [ˌin.ti.məˈment] (Tags: Balearic)
+  IPA: [ˌin.ti.maˈment] (Tags: Valencia)
+convencionalment
+  IPA: [kum.bən.si.uˌnalˈmen] (Tags: Central)
+  IPA: [koɱ.vən.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [koɱ.ven.si.oˌnalˈment] (Tags: Valencia)
+antany
+  IPA: [ənˈtaɲ] (Tags: Balearic, Central)
+  IPA: [anˈtaɲ] (Tags: Valencia)
+feblement
+  IPA: [ˌfeb.bləˈmen] (Tags: Central)
+  IPA: [ˌfeb.bləˈment] (Tags: Balearic)
+  IPA: [ˌfe.bleˈment] (Tags: Valencia)
+extramurs
+  IPA: [ˌɛks.tɾəˈmurs] (Tags: Balearic, Central)
+  IPA: [ˌeks.tɾaˈmurs] (Tags: Valencia)
+reeixidament
+  IPA: [rə.əˌʃi.ðəˈmen] (Tags: Central)
+  IPA: [rə.əˌʃi.ðəˈment] (Tags: Balearic)
+  IPA: [re.ejˌʃi.ðaˈment] (Tags: Valencia)
+futbolísticament
+  IPA: [fud.buˌlis.ti.kəˈmen] (Tags: Central)
+  IPA: [fud.buˌlis.ti.kəˈment] (Tags: Balearic)
+  IPA: [fud.boˌlis.ti.kaˈment] (Tags: Valencia)
+predominantment
+  IPA: [pɾə.ðu.miˌnamˈmen] (Tags: Central)
+  IPA: [pɾə.ðo.miˌnamˈment] (Tags: Balearic)
+  IPA: [pɾe.ðo.miˌnamˈment] (Tags: Valencia)
+remotament
+  IPA: [rəˌmɔ.təˈmen] (Tags: Central)
+  IPA: [rəˌmɔ.təˈment] (Tags: Balearic)
+  IPA: [reˌmɔ.taˈment] (Tags: Valencia)
+modestament
+  IPA: [muˌðes.təˈmen] (Tags: Central)
+  IPA: [moˌðes.təˈment] (Tags: Balearic)
+  IPA: [moˌðes.taˈment] (Tags: Valencia)
+fredament
+  IPA: [ˌfɾɛ.ðəˈmen] (Tags: Central)
+  IPA: [ˌfɾə.ðəˈment] (Tags: Balearic)
+  IPA: [ˌfɾe.ðaˈment] (Tags: Valencia)
+etimològicament
+  IPA: [ə.ti.muˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ə.ti.moˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [e.ti.moˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+potencialment
+  IPA: [pu.tən.siˌalˈmen] (Tags: Central)
+  IPA: [po.tən.siˌalˈment] (Tags: Balearic)
+  IPA: [po.ten.siˌalˈment] (Tags: Valencia)
+localment
+  IPA: [luˌkalˈmen] (Tags: Central)
+  IPA: [loˌkalˈment] (Tags: Balearic, Valencia)
+gratuïtament
+  IPA: [ɡɾə.tuˌi.təˈmen] (Tags: Central)
+  IPA: [ɡɾə.tuˌi.təˈment] (Tags: Balearic)
+  IPA: [ɡɾa.tuˌi.taˈment] (Tags: Valencia)
+àvidament
+  IPA: [ˌa.βi.ðəˈmen] (Tags: Central)
+  IPA: [ˌa.vi.ðəˈment] (Tags: Balearic)
+  IPA: [ˌa.vi.ðaˈment] (Tags: Valencia)
+insolentment
+  IPA: [in.suˌlemˈmen] (Tags: Central)
+  IPA: [in.soˌlemˈment] (Tags: Balearic, Valencia)
+intolerablement
+  IPA: [in.tu.ləˌɾab.bləˈmen] (Tags: Central)
+  IPA: [in.to.ləˌɾab.bləˈment] (Tags: Balearic)
+  IPA: [in.to.leˌɾa.bleˈment] (Tags: Valencia)
+metòdicament
+  IPA: [məˌtɔ.ði.kəˈmen] (Tags: Central)
+  IPA: [məˌtɔ.ði.kəˈment] (Tags: Balearic)
+  IPA: [meˌtɔ.ði.kaˈment] (Tags: Valencia)
+insuportablement
+  IPA: [in.su.purˌtab.bləˈmen] (Tags: Central)
+  IPA: [in.su.porˌtab.bləˈment] (Tags: Balearic)
+  IPA: [in.su.poɾˌta.bleˈment] (Tags: Valencia)
+decisivament
+  IPA: [də.siˌzi.βəˈmen] (Tags: Central)
+  IPA: [də.siˌzi.vəˈment] (Tags: Balearic)
+  IPA: [de.siˌzi.vaˈment] (Tags: Valencia)
+eventualment
+  IPA: [ə.βən.tuˌalˈmen] (Tags: Central)
+  IPA: [ə.vən.tuˌalˈment] (Tags: Balearic)
+  IPA: [e.ven.tuˌalˈment] (Tags: Valencia)
+amplament
+  IPA: [ˌam.pləˈmen] (Tags: Central)
+  IPA: [ˌam.pləˈment] (Tags: Balearic)
+  IPA: [ˌam.plaˈment] (Tags: Valencia)
+imminentment
+  IPA: [im.miˌnemˈmen] (Tags: Central)
+  IPA: [im.miˌnemˈment] (Tags: Balearic, Valencia)
+sintèticament
+  IPA: [sinˌtɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [sinˌtɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [sinˌtɛ.ti.kaˈment] (Tags: Valencia)
+imperiosament
+  IPA: [im.pə.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [im.pə.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [im.pe.ɾiˌo.zaˈment] (Tags: Valencia)
+diligentment
+  IPA: [di.liˌʒemˈmen] (Tags: Central)
+  IPA: [di.liˌʒemˈment] (Tags: Balearic)
+  IPA: [di.liˌd͡ʒemˈment] (Tags: Valencia)
+dogmàticament
+  IPA: [duɡˌma.ti.kəˈmen] (Tags: Central)
+  IPA: [doɡˌma.ti.kəˈment] (Tags: Balearic)
+  IPA: [doɡˌma.ti.kaˈment] (Tags: Valencia)
+imprudentment
+  IPA: [im.pɾuˌðemˈmen] (Tags: Central)
+  IPA: [im.pɾuˌðemˈment] (Tags: Balearic, Valencia)
+entusiàsticament
+  IPA: [ən.tu.ziˌas.ti.kəˈmen] (Tags: Central)
+  IPA: [ən.tu.ziˌas.ti.kəˈment] (Tags: Balearic)
+  IPA: [en.tu.ziˌas.ti.kaˈment] (Tags: Valencia)
+concisament
+  IPA: [kunˌsi.zəˈmen] (Tags: Central)
+  IPA: [kunˌsi.zəˈment] (Tags: Balearic)
+  IPA: [konˌsi.zaˈment] (Tags: Valencia)
+sanament
+  IPA: [ˌsa.nəˈmen] (Tags: Central)
+  IPA: [ˌsa.nəˈment] (Tags: Balearic)
+  IPA: [ˌsa.naˈment] (Tags: Valencia)
+densament
+  IPA: [ˌdɛn.səˈmen] (Tags: Central)
+  IPA: [ˌdɛn.səˈment] (Tags: Balearic)
+  IPA: [ˌden.saˈment] (Tags: Valencia)
+comparativament
+  IPA: [kum.pə.ɾəˌti.βəˈmen] (Tags: Central)
+  IPA: [kom.pə.ɾəˌti.vəˈment] (Tags: Balearic)
+  IPA: [kom.pa.ɾaˌti.vaˈment] (Tags: Valencia)
+retroactivament
+  IPA: [ˌrɛ.tɾu.əkˌti.βəˈmen] (Tags: Central)
+  IPA: [ˌrɛ.tɾo.əkˌti.vəˈment] (Tags: Balearic)
+  IPA: [ˌre.tɾo.akˌti.vaˈment] (Tags: Valencia)
+ridículament
+  IPA: [riˌði.ku.ləˈmen] (Tags: Central)
+  IPA: [riˌði.ku.ləˈment] (Tags: Balearic)
+  IPA: [riˌði.ku.laˈment] (Tags: Valencia)
+intrínsecament
+  IPA: [inˌtɾin.sə.kəˈmen] (Tags: Central)
+  IPA: [inˌtɾin.sə.kəˈment] (Tags: Balearic)
+  IPA: [inˌtɾin.se.kaˈment] (Tags: Valencia)
+sorollosament
+  IPA: [su.ɾuˌʎo.zəˈmen] (Tags: Central)
+  IPA: [so.ɾoˌʎo.zəˈment] (Tags: Balearic)
+  IPA: [so.ɾoˌʎo.zaˈment] (Tags: Valencia)
+obstinadament
+  IPA: [ups.tiˌna.ðəˈmen] (Tags: Central)
+  IPA: [ops.tiˌna.ðəˈment] (Tags: Balearic)
+  IPA: [ops.tiˌna.ðaˈment] (Tags: Valencia)
+teatralment
+  IPA: [te.əˌtɾalˈmen] (Tags: Central)
+  IPA: [te.əˌtɾalˈment] (Tags: Balearic)
+  IPA: [te.aˌtɾalˈment] (Tags: Valencia)
+instintivament
+  IPA: [ins.tinˌti.βəˈmen] (Tags: Central)
+  IPA: [ins.tinˌti.vəˈment] (Tags: Balearic)
+  IPA: [ins.tinˌti.vaˈment] (Tags: Valencia)
+tal com
+  IPA: [ˈtal ˈkɔm] (Tags: Balearic, Central)
+  IPA: [ˈtal ˈkom] (Tags: Valencia)
+tècnicament
+  IPA: [ˌtɛŋ.ni.kəˈmen] (Tags: Central)
+  IPA: [ˌtɛŋ.ni.kəˈment] (Tags: Balearic)
+  IPA: [ˌtɛŋ.ni.kaˈment] (Tags: Valencia)
+mútuament
+  IPA: [ˌmu.tu.əˈmen] (Tags: Central)
+  IPA: [ˌmu.tu.əˈment] (Tags: Balearic)
+  IPA: [ˌmu.tu.aˈment] (Tags: Valencia)
+conseqüentment
+  IPA: [kun.səˌkwemˈmen] (Tags: Central)
+  IPA: [kon.səˌkwemˈment] (Tags: Balearic)
+  IPA: [kon.seˌkwemˈment] (Tags: Valencia)
+urgentment
+  IPA: [urˌʒemˈmen] (Tags: Central)
+  IPA: [urˌʒemˈment] (Tags: Balearic)
+  IPA: [uɾˌd͡ʒemˈment] (Tags: Valencia)
+seguidament
+  IPA: [səˌɣi.ðəˈmen] (Tags: Central)
+  IPA: [səˌɣi.ðəˈment] (Tags: Balearic)
+  IPA: [seˌɣi.ðaˈment] (Tags: Valencia)
+nominalment
+  IPA: [nu.miˌnalˈmen] (Tags: Central)
+  IPA: [no.miˌnalˈment] (Tags: Balearic, Valencia)
+eminentment
+  IPA: [ə.miˌnemˈmen] (Tags: Central)
+  IPA: [ə.miˌnemˈment] (Tags: Balearic)
+  IPA: [e.miˌnemˈment] (Tags: Valencia)
+severament
+  IPA: [səˌβe.ɾəˈmen] (Tags: Central)
+  IPA: [seˌve.ɾaˈment] (Tags: Valencia)
+lleu
+  IPA: [ˈʎew] (Tags: Balearic, Central, Valencia)
+substancialment
+  IPA: [sups.tən.siˌalˈmen] (Tags: Central)
+  IPA: [sups.tən.siˌalˈment] (Tags: Balearic)
+  IPA: [sups.tan.siˌalˈment] (Tags: Valencia)
+estructuralment
+  IPA: [əs.tɾuk.tuˌɾalˈmen] (Tags: Central)
+  IPA: [əs.tɾuk.tuˌɾalˈment] (Tags: Balearic)
+  IPA: [es.tɾuk.tuˌɾalˈment] (Tags: Valencia)
+militarment
+  IPA: [mi.liˌtarˈmen] (Tags: Central)
+  IPA: [mi.liˌtaˈment] (Tags: Balearic)
+  IPA: [mi.liˌtaɾˈment] (Tags: Valencia)
+negativament
+  IPA: [nə.ɣəˌti.βəˈmen] (Tags: Central)
+  IPA: [nə.ɣəˌti.vəˈment] (Tags: Balearic)
+  IPA: [ne.ɣaˌti.vaˈment] (Tags: Valencia)
+biològicament
+  IPA: [bi.uˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [bi.oˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [bi.oˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+insistentment
+  IPA: [in.sisˌtemˈmen] (Tags: Central)
+  IPA: [in.sisˌtemˈment] (Tags: Balearic, Valencia)
+brutalment
+  IPA: [bɾuˌtalˈmen] (Tags: Central)
+  IPA: [bɾuˌtalˈment] (Tags: Balearic, Valencia)
+federalment
+  IPA: [fə.ðəˌɾalˈmen] (Tags: Central)
+  IPA: [fə.ðəˌɾalˈment] (Tags: Balearic)
+  IPA: [fe.ðeˌɾalˈment] (Tags: Valencia)
+summament
+  IPA: [ˌsum.məˈmen] (Tags: Central)
+  IPA: [ˌsum.məˈment] (Tags: Balearic)
+  IPA: [ˌsum.maˈment] (Tags: Valencia)
+casualment
+  IPA: [kə.zuˌalˈmen] (Tags: Central)
+  IPA: [kə.zuˌalˈment] (Tags: Balearic)
+  IPA: [ka.zuˌalˈment] (Tags: Valencia)
+pacíficament
+  IPA: [pəˌsi.fi.kəˈmen] (Tags: Central)
+  IPA: [pəˌsi.fi.kəˈment] (Tags: Balearic)
+  IPA: [paˌsi.fi.kaˈment] (Tags: Valencia)
+dràsticament
+  IPA: [ˌdɾas.ti.kəˈmen] (Tags: Central)
+  IPA: [ˌdɾas.ti.kəˈment] (Tags: Balearic)
+  IPA: [ˌdɾas.ti.kaˈment] (Tags: Valencia)
+profusament
+  IPA: [pɾuˌfu.zəˈmen] (Tags: Central)
+  IPA: [pɾuˌfu.zəˈment] (Tags: Balearic)
+  IPA: [pɾoˌfu.zaˈment] (Tags: Valencia)
+perpendicularment
+  IPA: [pər.pən.di.kuˌlarˈmen] (Tags: Central)
+  IPA: [pər.pən.di.kuˌlaˈment] (Tags: Balearic)
+  IPA: [peɾ.pen.di.kuˌlaɾˈment] (Tags: Valencia)
+manualment
+  IPA: [mə.nuˌalˈmen] (Tags: Central)
+  IPA: [mə.nuˌalˈment] (Tags: Balearic)
+  IPA: [ma.nuˌalˈment] (Tags: Valencia)
+virtualment
+  IPA: [bir.tuˌalˈmen] (Tags: Central)
+  IPA: [vir.tuˌalˈment] (Tags: Balearic)
+  IPA: [viɾ.tuˌalˈment] (Tags: Valencia)
+majorment
+  IPA: [məˌʒoˈmen] (Tags: Central)
+  IPA: [məˌʒoˈment] (Tags: Balearic)
+  IPA: [maˌd͡ʒoɾˈment] (Tags: Valencia)
+culturalment
+  IPA: [kul.tuˌɾalˈmen] (Tags: Central)
+  IPA: [kul.tuˌɾalˈment] (Tags: Balearic, Valencia)
+prematurament
+  IPA: [pɾə.məˌtu.ɾəˈmen] (Tags: Central)
+  IPA: [pɾə.məˌtu.ɾəˈment] (Tags: Balearic)
+  IPA: [pɾe.maˌtu.ɾaˈment] (Tags: Valencia)
+provisionalment
+  IPA: [pɾu.βi.zi.uˌnalˈmen] (Tags: Central)
+  IPA: [pɾo.vi.zi.oˌnalˈment] (Tags: Balearic, Valencia)
+marcadament
+  IPA: [mərˌka.ðəˈmen] (Tags: Central)
+  IPA: [mərˌka.ðəˈment] (Tags: Balearic)
+  IPA: [maɾˌka.ðaˈment] (Tags: Valencia)
+infinitament
+  IPA: [iɱ.fiˌni.təˈmen] (Tags: Central)
+  IPA: [iɱ.fiˌni.təˈment] (Tags: Balearic)
+  IPA: [iɱ.fiˌni.taˈment] (Tags: Valencia)
+esporàdicament
+  IPA: [əs.puˌɾa.ði.kəˈmen] (Tags: Central)
+  IPA: [əs.poˌɾa.ði.kəˈment] (Tags: Balearic)
+  IPA: [es.poˌɾa.ði.kaˈment] (Tags: Valencia)
+extensament
+  IPA: [əksˌtɛn.səˈmen] (Tags: Central)
+  IPA: [əksˌtɛn.səˈment] (Tags: Balearic)
+  IPA: [eksˌten.saˈment] (Tags: Valencia)
+uniformement
+  IPA: [u.niˌfor.məˈmen] (Tags: Central)
+  IPA: [u.niˌfor.məˈment] (Tags: Balearic)
+  IPA: [u.niˌfoɾ.meˈment] (Tags: Valencia)
+clandestinament
+  IPA: [klən.dəsˌti.nəˈmen] (Tags: Central)
+  IPA: [klən.dəsˌti.nəˈment] (Tags: Balearic)
+  IPA: [klan.desˌti.naˈment] (Tags: Valencia)
+musicalment
+  IPA: [mu.ziˌkalˈmen] (Tags: Central)
+  IPA: [mu.ziˌkalˈment] (Tags: Balearic, Valencia)
+genèticament
+  IPA: [ʒəˌnɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [ʒəˌnɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [d͡ʒeˌnɛ.ti.kaˈment] (Tags: Valencia)
+universalment
+  IPA: [u.ni.βərˌsalˈmen] (Tags: Central)
+  IPA: [u.ni.vərˌsalˈment] (Tags: Balearic)
+  IPA: [u.ni.veɾˌsalˈment] (Tags: Valencia)
+positivament
+  IPA: [pu.ziˌti.βəˈmen] (Tags: Central)
+  IPA: [po.ziˌti.vəˈment] (Tags: Balearic)
+  IPA: [po.ziˌti.vaˈment] (Tags: Valencia)
+massivament
+  IPA: [məˌsi.βəˈmen] (Tags: Central)
+  IPA: [məˌsi.vəˈment] (Tags: Balearic)
+  IPA: [maˌsi.vaˈment] (Tags: Valencia)
+lleument
+  IPA: [ˌʎewˈmen] (Tags: Central)
+  IPA: [ˌʎewˈment] (Tags: Balearic, Valencia)
+escassament
+  IPA: [əsˌka.səˈmen] (Tags: Central)
+  IPA: [əsˌka.səˈment] (Tags: Balearic)
+  IPA: [esˌka.saˈment] (Tags: Valencia)
+lateralment
+  IPA: [lə.təˌɾalˈmen] (Tags: Central)
+  IPA: [lə.təˌɾalˈment] (Tags: Balearic)
+  IPA: [la.teˌɾalˈment] (Tags: Valencia)
+ètnicament
+  IPA: [ˌɛd.ni.kəˈmen] (Tags: Central)
+  IPA: [ˌɛd.ni.kəˈment] (Tags: Balearic)
+  IPA: [ˌɛd.ni.kaˈment] (Tags: Valencia)
+inversament
+  IPA: [imˌbɛr.səˈmen] (Tags: Central)
+  IPA: [iɱˌvɛr.səˈment] (Tags: Balearic)
+  IPA: [iɱˌvɛɾ.saˈment] (Tags: Valencia)
+detalladament
+  IPA: [də.təˌʎa.ðəˈmen] (Tags: Central)
+  IPA: [də.təˌʎa.ðəˈment] (Tags: Balearic)
+  IPA: [de.taˌʎa.ðaˈment] (Tags: Valencia)
+proporcionalment
+  IPA: [pɾu.pur.si.uˌnalˈmen] (Tags: Central)
+  IPA: [pɾo.por.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [pɾo.poɾ.si.oˌnalˈment] (Tags: Valencia)
+desesperadament
+  IPA: [də.zəs.pəˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [də.zəs.pəˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [de.zes.peˌɾa.ðaˈment] (Tags: Valencia)
+linealment
+  IPA: [li.neˌalˈmen] (Tags: Central)
+  IPA: [li.neˌalˈment] (Tags: Balearic, Valencia)
+genèricament
+  IPA: [ʒəˌnɛ.ɾi.kəˈmen] (Tags: Central)
+  IPA: [ʒəˌnɛ.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [d͡ʒeˌnɛ.ɾi.kaˈment] (Tags: Valencia)
+ideològicament
+  IPA: [i.ðə.uˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [i.ðə.oˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [i.ðe.oˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+unilateralment
+  IPA: [u.ni.lə.təˌɾalˈmen] (Tags: Central)
+  IPA: [u.ni.lə.təˌɾalˈment] (Tags: Balearic)
+  IPA: [u.ni.la.teˌɾalˈment] (Tags: Valencia)
+encertadament
+  IPA: [ən.sərˌta.ðəˈmen] (Tags: Central)
+  IPA: [ən.sərˌta.ðəˈment] (Tags: Balearic)
+  IPA: [en.seɾˌta.ðaˈment] (Tags: Valencia)
+filantròpicament
+  IPA: [fi.lənˌtɾɔ.pi.kəˈmen] (Tags: Central)
+  IPA: [fi.lənˌtɾɔ.pi.kəˈment] (Tags: Balearic)
+  IPA: [fi.lanˌtɾɔ.pi.kaˈment] (Tags: Valencia)
+ecològicament
+  IPA: [ə.kuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ə.koˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [e.koˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+intensivament
+  IPA: [in.tənˌsi.βəˈmen] (Tags: Central)
+  IPA: [in.tənˌsi.vəˈment] (Tags: Balearic)
+  IPA: [in.tenˌsi.vaˈment] (Tags: Valencia)
+persistentment
+  IPA: [pər.sisˌtemˈmen] (Tags: Central)
+  IPA: [pər.sisˌtemˈment] (Tags: Balearic)
+  IPA: [peɾ.sisˌtemˈment] (Tags: Valencia)
+objectivament
+  IPA: [ub.ʒəkˌti.βəˈmen] (Tags: Central)
+  IPA: [ob.ʒəkˌti.vəˈment] (Tags: Balearic)
+  IPA: [ob.d͡ʒekˌti.vaˈment] (Tags: Valencia)
+deliberadament
+  IPA: [də.li.βəˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [də.li.bəˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [de.li.beˌɾa.ðaˈment] (Tags: Valencia)
+convulsivament
+  IPA: [kum.bulˌsi.βəˈmen] (Tags: Central)
+  IPA: [koɱ.vulˌsi.vəˈment] (Tags: Balearic)
+  IPA: [koɱ.vulˌsi.vaˈment] (Tags: Valencia)
+luxosament
+  IPA: [lukˌso.zəˈmen] (Tags: Central)
+  IPA: [lukˌso.zəˈment] (Tags: Balearic)
+  IPA: [lukˌso.zaˈment] (Tags: Valencia)
+majestuosament
+  IPA: [mə.ʒəs.tuˌo.zəˈmen] (Tags: Central)
+  IPA: [mə.ʒəs.tuˌo.zəˈment] (Tags: Balearic)
+  IPA: [ma.d͡ʒes.tuˌo.zaˈment] (Tags: Valencia)
+tràgicament
+  IPA: [ˌtɾa.ʒi.kəˈmen] (Tags: Central)
+  IPA: [ˌtɾa.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [ˌtɾa.d͡ʒi.kaˈment] (Tags: Valencia)
+rès
+  IPA: [ˈrɛs] (Tags: Central)
+  IPA: [ˈrəs] (Tags: Balearic)
+  IPA: [ˈres] (Tags: Valencia)
+cínicament
+  IPA: [ˌsi.ni.kəˈmen] (Tags: Central)
+  IPA: [ˌsi.ni.kəˈment] (Tags: Balearic)
+  IPA: [ˌsi.ni.kaˈment] (Tags: Valencia)
+frenèticament
+  IPA: [fɾəˌnɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [fɾəˌnɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [fɾeˌnɛ.ti.kaˈment] (Tags: Valencia)
+criminalment
+  IPA: [kɾi.miˌnalˈmen] (Tags: Central)
+  IPA: [kɾi.miˌnalˈment] (Tags: Balearic, Valencia)
+extrajudicialment
+  IPA: [ˌɛks.tɾə.ʒu.ði.siˌalˈmen] (Tags: Central)
+  IPA: [ˌɛks.tɾə.ʒu.ði.siˌalˈment] (Tags: Balearic)
+  IPA: [ˌeks.tɾa.d͡ʒu.ði.siˌalˈment] (Tags: Valencia)
+acuradament
+  IPA: [ə.kuˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [ə.kuˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [a.kuˌɾa.ðaˈment] (Tags: Valencia)
+contràriament
+  IPA: [kunˌtɾa.ɾi.əˈmen] (Tags: Central)
+  IPA: [konˌtɾa.ɾi.əˈment] (Tags: Balearic)
+  IPA: [konˌtɾa.ɾi.aˈment] (Tags: Valencia)
+secularment
+  IPA: [sə.kuˌlarˈmen] (Tags: Central)
+  IPA: [sə.kuˌlaˈment] (Tags: Balearic)
+  IPA: [se.kuˌlaɾˈment] (Tags: Valencia)
+minuciosament
+  IPA: [mi.nu.siˌo.zəˈmen] (Tags: Central)
+  IPA: [mi.nu.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [mi.nu.siˌo.zaˈment] (Tags: Valencia)
+ensems
+  IPA: [ənˈsɛms] (Tags: Central)
+  IPA: [ənˈsəms] (Tags: Balearic)
+  IPA: [enˈsems] (Tags: Valencia)
+astutament
+  IPA: [əsˌtu.təˈmen] (Tags: Central)
+  IPA: [əsˌtu.təˈment] (Tags: Balearic)
+  IPA: [asˌtu.taˈment] (Tags: Valencia)
+tothora
+  IPA: [tuˈtɔ.ɾə] (Tags: Central)
+  IPA: [toˈtɔ.ɾə] (Tags: Balearic)
+  IPA: [toˈtɔ.ɾa] (Tags: Valencia)
+quissà
+  IPA: [kiˈsa] (Tags: Balearic, Central, Valencia)
+despús
+  IPA: [dəsˈpus] (Tags: Balearic, Central)
+  IPA: [desˈpus] (Tags: Valencia)
+despús-demà
+  IPA: [dəsˌpuz.dəˈma] (Tags: Balearic, Central)
+  IPA: [desˌpuz.ðeˈma] (Tags: Valencia)
+mentrimentres
+  IPA: [mən.tɾiˈmen.tɾəs] (Tags: Balearic, Central)
+  IPA: [men.tɾiˈmen.tɾes] (Tags: Valencia)
+ensús
+  IPA: [ənˈsus] (Tags: Balearic, Central)
+  IPA: [enˈsus] (Tags: Valencia)
+endalt
+  IPA: [ənˈdal] (Tags: Central)
+  IPA: [ənˈdalt] (Tags: Balearic)
+  IPA: [enˈdalt] (Tags: Valencia)
+ensota
+  IPA: [ənˈso.tə] (Tags: Balearic, Central)
+  IPA: [enˈso.ta] (Tags: Valencia)
+impetuosament
+  IPA: [im.pə.tuˌo.zəˈmen] (Tags: Central)
+  IPA: [im.pə.tuˌo.zəˈment] (Tags: Balearic)
+  IPA: [im.pe.tuˌo.zaˈment] (Tags: Valencia)
+obedientment
+  IPA: [u.βə.ðiˌemˈmen] (Tags: Central)
+  IPA: [o.bə.ðiˌemˈment] (Tags: Balearic)
+  IPA: [o.be.ðiˌemˈment] (Tags: Valencia)
+còmicament
+  IPA: [ˌkɔ.mi.kəˈmen] (Tags: Central)
+  IPA: [ˌkɔ.mi.kəˈment] (Tags: Balearic)
+  IPA: [ˌkɔ.mi.kaˈment] (Tags: Valencia)
+incansablement
+  IPA: [iŋ.kənˌsab.bləˈmen] (Tags: Central)
+  IPA: [iŋ.kənˌsab.bləˈment] (Tags: Balearic)
+  IPA: [iŋ.kanˌsa.bleˈment] (Tags: Valencia)
+animosament
+  IPA: [ə.niˌmo.zəˈmen] (Tags: Central)
+  IPA: [ə.niˌmo.zəˈment] (Tags: Balearic)
+  IPA: [a.niˌmo.zaˈment] (Tags: Valencia)
+intolerantment
+  IPA: [in.tu.ləˌɾamˈmen] (Tags: Central)
+  IPA: [in.to.ləˌɾamˈment] (Tags: Balearic)
+  IPA: [in.to.leˌɾamˈment] (Tags: Valencia)
+indiferentment
+  IPA: [in.di.fəˌɾemˈmen] (Tags: Central)
+  IPA: [in.di.fəˌɾemˈment] (Tags: Balearic)
+  IPA: [in.di.feˌɾemˈment] (Tags: Valencia)
+audaçment
+  IPA: [əwˌðazˈmen] (Tags: Central)
+  IPA: [əwˌðazˈment] (Tags: Balearic)
+  IPA: [awˌðazˈment] (Tags: Valencia)
+malastrugament
+  IPA: [ˌma.ləsˌtɾu.ɣəˈmen] (Tags: Central)
+  IPA: [ˌma.ləsˌtɾu.ɣəˈment] (Tags: Balearic)
+  IPA: [ˌma.lasˌtɾu.ɣaˈment] (Tags: Valencia)
+cautelosament
+  IPA: [kəw.təˌlo.zəˈmen] (Tags: Central)
+  IPA: [kəw.təˌlo.zəˈment] (Tags: Balearic)
+  IPA: [kaw.teˌlo.zaˈment] (Tags: Valencia)
+apropiadament
+  IPA: [ə.pɾu.piˌa.ðəˈmen] (Tags: Central)
+  IPA: [ə.pɾo.piˌa.ðəˈment] (Tags: Balearic)
+  IPA: [a.pɾo.piˌa.ðaˈment] (Tags: Valencia)
+preliminarment
+  IPA: [pɾə.li.miˌnarˈmen] (Tags: Central)
+  IPA: [pɾə.li.miˌnaˈment] (Tags: Balearic)
+  IPA: [pɾe.li.miˌnaɾˈment] (Tags: Valencia)
+espectacularment
+  IPA: [əs.pək.tə.kuˌlarˈmen] (Tags: Central)
+  IPA: [əs.pək.tə.kuˌlaˈment] (Tags: Balearic)
+  IPA: [es.pek.ta.kuˌlaɾˈment] (Tags: Valencia)
+pesadament
+  IPA: [pəˌza.ðəˈmen] (Tags: Central)
+  IPA: [pəˌza.ðəˈment] (Tags: Balearic)
+  IPA: [peˌza.ðaˈment] (Tags: Valencia)
+divertidament
+  IPA: [di.βərˌti.ðəˈmen] (Tags: Central)
+  IPA: [di.vərˌti.ðəˈment] (Tags: Balearic)
+  IPA: [di.veɾˌti.ðaˈment] (Tags: Valencia)
+feixugament
+  IPA: [fəˌʃu.ɣəˈmen] (Tags: Central)
+  IPA: [fəˌʃu.ɣəˈment] (Tags: Balearic)
+  IPA: [fejˌʃu.ɣaˈment] (Tags: Valencia)
+cansadament
+  IPA: [kənˌsa.ðəˈmen] (Tags: Central)
+  IPA: [kənˌsa.ðəˈment] (Tags: Balearic)
+  IPA: [kanˌsa.ðaˈment] (Tags: Valencia)
+mandrosament
+  IPA: [mənˌdɾo.zəˈmen] (Tags: Central)
+  IPA: [mənˌdɾo.zəˈment] (Tags: Balearic)
+  IPA: [manˌdɾo.zaˈment] (Tags: Valencia)
+opressivament
+  IPA: [u.pɾəˌsi.βəˈmen] (Tags: Central)
+  IPA: [o.pɾəˌsi.vəˈment] (Tags: Balearic)
+  IPA: [o.pɾeˌsi.vaˈment] (Tags: Valencia)
+harmònicament
+  IPA: [ərˌmɔ.ni.kəˈmen] (Tags: Central)
+  IPA: [ərˌmɔ.ni.kəˈment] (Tags: Balearic)
+  IPA: [aɾˌmɔ.ni.kaˈment] (Tags: Valencia)
+premeditadament
+  IPA: [pɾə.mə.ðiˌta.ðəˈmen] (Tags: Central)
+  IPA: [pɾə.mə.ðiˌta.ðəˈment] (Tags: Balearic)
+  IPA: [pɾe.me.ðiˌta.ðaˈment] (Tags: Valencia)
+sordament
+  IPA: [ˌsor.dəˈmen] (Tags: Central)
+  IPA: [ˌsor.dəˈment] (Tags: Balearic)
+  IPA: [ˌsoɾ.ðaˈment] (Tags: Valencia)
+temeràriament
+  IPA: [tə.məˌɾa.ɾi.əˈmen] (Tags: Central)
+  IPA: [tə.məˌɾa.ɾi.əˈment] (Tags: Balearic)
+  IPA: [te.meˌɾa.ɾi.aˈment] (Tags: Valencia)
+inofensivament
+  IPA: [i.nu.fənˌsi.βəˈmen] (Tags: Central)
+  IPA: [i.no.fənˌsi.vəˈment] (Tags: Balearic)
+  IPA: [i.no.fenˌsi.vaˈment] (Tags: Valencia)
+meravellosament
+  IPA: [mə.ɾə.βəˌʎo.zəˈmen] (Tags: Central)
+  IPA: [mə.ɾə.vəˌʎo.zəˈment] (Tags: Balearic)
+  IPA: [me.ɾa.veˌʎo.zaˈment] (Tags: Valencia)
+grotescament
+  IPA: [ɡɾuˌtɛs.kəˈmen] (Tags: Central)
+  IPA: [ɡɾoˌtəs.kəˈment] (Tags: Balearic)
+  IPA: [ɡɾoˌtes.kaˈment] (Tags: Valencia)
+nocivament
+  IPA: [nuˌsi.βəˈmen] (Tags: Central)
+  IPA: [nuˌsi.vəˈment] (Tags: Balearic)
+  IPA: [noˌsi.vaˈment] (Tags: Valencia)
+perspicaçment
+  IPA: [pərs.piˌkazˈmen] (Tags: Central)
+  IPA: [pərs.piˌkazˈment] (Tags: Balearic)
+  IPA: [peɾs.piˌkazˈment] (Tags: Valencia)
+furiosament
+  IPA: [fu.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [fu.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [fu.ɾiˌo.zaˈment] (Tags: Valencia)
+simbiòticament
+  IPA: [sim.biˌɔ.ti.kəˈmen] (Tags: Central)
+  IPA: [sim.biˌɔ.ti.kəˈment] (Tags: Balearic)
+  IPA: [sim.biˌɔ.ti.kaˈment] (Tags: Valencia)
+tumultuosament
+  IPA: [tu.mul.tuˌo.zəˈmen] (Tags: Central)
+  IPA: [tu.mul.tuˌo.zəˈment] (Tags: Balearic)
+  IPA: [tu.mul.tuˌo.zaˈment] (Tags: Valencia)
+simpàticament
+  IPA: [simˌpa.ti.kəˈmen] (Tags: Central)
+  IPA: [simˌpa.ti.kəˈment] (Tags: Balearic)
+  IPA: [simˌpa.ti.kaˈment] (Tags: Valencia)
+deliciosament
+  IPA: [də.li.siˌo.zəˈmen] (Tags: Central)
+  IPA: [də.li.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [de.li.siˌo.zaˈment] (Tags: Valencia)
+aritmèticament
+  IPA: [ə.ɾidˌmɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [ə.ɾidˌmɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [a.ɾidˌmɛ.ti.kaˈment] (Tags: Valencia)
+càusticament
+  IPA: [ˌkaws.ti.kəˈmen] (Tags: Central)
+  IPA: [ˌkaws.ti.kəˈment] (Tags: Balearic)
+  IPA: [ˌkaws.ti.kaˈment] (Tags: Valencia)
+estèticament
+  IPA: [əsˌtɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [əsˌtɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [esˌtɛ.ti.kaˈment] (Tags: Valencia)
+imaginativament
+  IPA: [i.mə.ʒi.nəˌti.βəˈmen] (Tags: Central)
+  IPA: [i.mə.ʒi.nəˌti.vəˈment] (Tags: Balearic)
+  IPA: [i.ma.d͡ʒi.naˌti.vaˈment] (Tags: Valencia)
+fonològicament
+  IPA: [fu.nuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [fo.noˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [fo.noˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+subcutàniament
+  IPA: [sup.kuˌta.ni.əˈmen] (Tags: Central)
+  IPA: [sup.kuˌta.ni.əˈment] (Tags: Balearic)
+  IPA: [sup.kuˌta.ni.aˈment] (Tags: Valencia)
+desafortunadament
+  IPA: [də.zə.fur.tuˌna.ðəˈmen] (Tags: Central)
+  IPA: [də.zə.for.tuˌna.ðəˈment] (Tags: Balearic)
+  IPA: [de.za.foɾ.tuˌna.ðaˈment] (Tags: Valencia)
+transitòriament
+  IPA: [tɾən.ziˌtɔ.ɾi.əˈmen] (Tags: Central)
+  IPA: [tɾən.ziˌtɔ.ɾi.əˈment] (Tags: Balearic)
+  IPA: [tɾan.ziˌtɔ.ɾi.aˈment] (Tags: Valencia)
+despietadament
+  IPA: [dəs.pi.əˌta.ðəˈmen] (Tags: Central)
+  IPA: [dəs.pi.əˌta.ðəˈment] (Tags: Balearic)
+  IPA: [des.pi.eˌta.ðaˈment] (Tags: Valencia)
+rudimentàriament
+  IPA: [ru.ði.mənˌta.ɾi.əˈmen] (Tags: Central)
+  IPA: [ru.ði.mənˌta.ɾi.əˈment] (Tags: Balearic)
+  IPA: [ru.ði.menˌta.ɾi.aˈment] (Tags: Valencia)
+desapercebudament
+  IPA: [də.zə.pər.səˌβu.ðəˈmen] (Tags: Central)
+  IPA: [də.zə.pər.səˌbu.ðəˈment] (Tags: Balearic)
+  IPA: [de.za.peɾ.seˌbu.ðaˈment] (Tags: Valencia)
+patològicament
+  IPA: [pə.tuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [pə.toˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [pa.toˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+secundàriament
+  IPA: [sə.kunˌda.ɾi.əˈmen] (Tags: Central)
+  IPA: [sə.kunˌda.ɾi.əˈment] (Tags: Balearic)
+  IPA: [se.kunˌda.ɾi.aˈment] (Tags: Valencia)
+tecnològicament
+  IPA: [təŋ.nuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [təŋ.noˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [teŋ.noˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+ominosament
+  IPA: [u.miˌno.zəˈmen] (Tags: Central)
+  IPA: [o.miˌno.zəˈment] (Tags: Balearic)
+  IPA: [o.miˌno.zaˈment] (Tags: Valencia)
+avariciosament
+  IPA: [ə.βə.ɾi.siˌo.zəˈmen] (Tags: Central)
+  IPA: [ə.və.ɾi.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [a.va.ɾi.siˌo.zaˈment] (Tags: Valencia)
+desastrosament
+  IPA: [də.zəsˌtɾo.zəˈmen] (Tags: Central)
+  IPA: [də.zəsˌtɾo.zəˈment] (Tags: Balearic)
+  IPA: [de.zasˌtɾo.zaˈment] (Tags: Valencia)
+qualitativament
+  IPA: [kwə.li.təˌti.βəˈmen] (Tags: Central)
+  IPA: [kwə.li.təˌti.vəˈment] (Tags: Balearic)
+  IPA: [kwa.li.taˌti.vaˈment] (Tags: Valencia)
+pàl·lidament
+  IPA: [ˌpal.li.ðəˈmen] (Tags: Central)
+  IPA: [ˌpal.li.ðəˈment] (Tags: Balearic)
+  IPA: [ˌpal.li.ðaˈment] (Tags: Valencia)
+imperativament
+  IPA: [im.pə.ɾəˌti.βəˈmen] (Tags: Central)
+  IPA: [im.pə.ɾəˌti.vəˈment] (Tags: Balearic)
+  IPA: [im.pe.ɾaˌti.vaˈment] (Tags: Valencia)
+precoçment
+  IPA: [pɾəˌkozˈmen] (Tags: Central)
+  IPA: [pɾəˌkozˈment] (Tags: Balearic)
+  IPA: [pɾeˌkozˈment] (Tags: Valencia)
+profanament
+  IPA: [pɾuˌfa.nəˈmen] (Tags: Central)
+  IPA: [pɾoˌfa.nəˈment] (Tags: Balearic)
+  IPA: [pɾoˌfa.naˈment] (Tags: Valencia)
+vergonyosament
+  IPA: [bər.ɡuˌɲo.zəˈmen] (Tags: Central)
+  IPA: [vər.ɡoˌɲo.zəˈment] (Tags: Balearic)
+  IPA: [veɾ.ɣoˌɲo.zaˈment] (Tags: Valencia)
+aptament
+  IPA: [ˌap.təˈmen] (Tags: Central)
+  IPA: [ˌap.təˈment] (Tags: Balearic)
+  IPA: [ˌap.taˈment] (Tags: Valencia)
+cognitivament
+  IPA: [kuŋ.niˌti.βəˈmen] (Tags: Central)
+  IPA: [koŋ.niˌti.vəˈment] (Tags: Balearic)
+  IPA: [koŋ.niˌti.vaˈment] (Tags: Valencia)
+malenconiosament
+  IPA: [mə.ləŋ.ku.niˌo.zəˈmen] (Tags: Central)
+  IPA: [mə.ləŋ.ko.niˌo.zəˈment] (Tags: Balearic)
+  IPA: [ma.leŋ.ko.niˌo.zaˈment] (Tags: Valencia)
+anòmalament
+  IPA: [əˌnɔ.mə.ləˈmen] (Tags: Central)
+  IPA: [əˌnɔ.mə.ləˈment] (Tags: Balearic)
+  IPA: [aˌnɔ.ma.laˈment] (Tags: Valencia)
+melòdicament
+  IPA: [məˌlɔ.ði.kəˈmen] (Tags: Central)
+  IPA: [məˌlɔ.ði.kəˈment] (Tags: Balearic)
+  IPA: [meˌlɔ.ði.kaˈment] (Tags: Valencia)
+benèficament
+  IPA: [bəˌnɛ.fi.kəˈmen] (Tags: Central)
+  IPA: [bəˌnɛ.fi.kəˈment] (Tags: Balearic)
+  IPA: [beˌnɛ.fi.kaˈment] (Tags: Valencia)
+sediciosament
+  IPA: [sə.ði.siˌo.zəˈmen] (Tags: Central)
+  IPA: [sə.ði.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [se.ði.siˌo.zaˈment] (Tags: Valencia)
+obsessivament
+  IPA: [up.səˌsi.βəˈmen] (Tags: Central)
+  IPA: [op.səˌsi.vəˈment] (Tags: Balearic)
+  IPA: [op.seˌsi.vaˈment] (Tags: Valencia)
+melodiosament
+  IPA: [mə.lu.ðiˌo.zəˈmen] (Tags: Central)
+  IPA: [mə.lo.ðiˌo.zəˈment] (Tags: Balearic)
+  IPA: [me.lo.ðiˌo.zaˈment] (Tags: Valencia)
+tenaçment
+  IPA: [təˌnazˈmen] (Tags: Central)
+  IPA: [təˌnazˈment] (Tags: Balearic)
+  IPA: [teˌnazˈment] (Tags: Valencia)
+esplèndidament
+  IPA: [əsˌplɛn.di.ðəˈmen] (Tags: Central)
+  IPA: [əsˌplɛn.di.ðəˈment] (Tags: Balearic)
+  IPA: [esˌplɛn.di.ðaˈment] (Tags: Valencia)
+emfàticament
+  IPA: [əmˌfa.ti.kəˈmen] (Tags: Central)
+  IPA: [əmˌfa.ti.kəˈment] (Tags: Balearic)
+  IPA: [emˌfa.ti.kaˈment] (Tags: Valencia)
+supremament
+  IPA: [suˌpɾe.məˈmen] (Tags: Central)
+  IPA: [suˌpɾe.məˈment] (Tags: Balearic)
+  IPA: [suˌpɾɛ.məˈment] (Tags: Balearic)
+  IPA: [suˌpɾe.maˈment] (Tags: Valencia)
+bíblicament
+  IPA: [ˌbi.βli.kəˈmen] (Tags: Central)
+  IPA: [ˌbi.bli.kəˈment] (Tags: Balearic)
+  IPA: [ˌbi.bli.kaˈment] (Tags: Valencia)
+innegablement
+  IPA: [in.nəˌɣab.bləˈmen] (Tags: Central)
+  IPA: [in.nəˌɣab.bləˈment] (Tags: Balearic)
+  IPA: [in.neˌɣa.bleˈment] (Tags: Valencia)
+llordament
+  IPA: [ˌʎor.dəˈmen] (Tags: Central)
+  IPA: [ˌʎor.dəˈment] (Tags: Balearic)
+  IPA: [ˌʎoɾ.ðaˈment] (Tags: Valencia)
+brutament
+  IPA: [ˌbɾu.təˈmen] (Tags: Central)
+  IPA: [ˌbɾu.təˈment] (Tags: Balearic)
+  IPA: [ˌbɾu.taˈment] (Tags: Valencia)
+fastigosament
+  IPA: [fəs.tiˌɣo.zəˈmen] (Tags: Central)
+  IPA: [fəs.tiˌɣo.zəˈment] (Tags: Balearic)
+  IPA: [fas.tiˌɣo.zaˈment] (Tags: Valencia)
+sutzament
+  IPA: [ˌsu.d͡zəˈmen] (Tags: Central)
+  IPA: [ˌsu.d͡zəˈment] (Tags: Balearic)
+  IPA: [ˌsu.d͡zaˈment] (Tags: Valencia)
+contenciosament
+  IPA: [kun.tən.siˌo.zəˈmen] (Tags: Central)
+  IPA: [kon.tən.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [kon.ten.siˌo.zaˈment] (Tags: Valencia)
+anàlogament
+  IPA: [əˌna.lu.ɣəˈmen] (Tags: Central)
+  IPA: [əˌna.lo.ɣəˈment] (Tags: Balearic)
+  IPA: [aˌna.lo.ɣaˈment] (Tags: Valencia)
+representativament
+  IPA: [rə.pɾə.zən.təˌti.βəˈmen] (Tags: Central)
+  IPA: [rə.pɾə.zən.təˌti.vəˈment] (Tags: Balearic)
+  IPA: [re.pɾe.zen.taˌti.vaˈment] (Tags: Valencia)
+opacament
+  IPA: [uˌpa.kəˈmen] (Tags: Central)
+  IPA: [oˌpa.kəˈment] (Tags: Balearic)
+  IPA: [oˌpa.kaˈment] (Tags: Valencia)
+dissortadament
+  IPA: [di.surˌta.ðəˈmen] (Tags: Central)
+  IPA: [di.sorˌta.ðəˈment] (Tags: Balearic)
+  IPA: [di.soɾˌta.ðaˈment] (Tags: Valencia)
+èticament
+  IPA: [ˌɛ.ti.kəˈmen] (Tags: Central)
+  IPA: [ˌɛ.ti.kəˈment] (Tags: Balearic)
+  IPA: [ˌɛ.ti.kaˈment] (Tags: Valencia)
+influentment
+  IPA: [iɱ.fluˌemˈmen] (Tags: Central)
+  IPA: [iɱ.fluˌemˈment] (Tags: Balearic, Valencia)
+sumptuosament
+  IPA: [sum.tuˌo.zəˈmen] (Tags: Central)
+  IPA: [sum.tuˌo.zəˈment] (Tags: Balearic)
+  IPA: [sum.tuˌo.zaˈment] (Tags: Valencia)
+metafísicament
+  IPA: [mə.təˌfi.zi.kəˈmen] (Tags: Central)
+  IPA: [mə.təˌfi.zi.kəˈment] (Tags: Balearic)
+  IPA: [me.taˌfi.zi.kaˈment] (Tags: Valencia)
+esquerpament
+  IPA: [əsˌkɛr.pəˈmen] (Tags: Central)
+  IPA: [əsˌker.pəˈment] (Tags: Balearic)
+  IPA: [esˌkeɾ.paˈment] (Tags: Valencia)
+injustificablement
+  IPA: [iɲ.ʒus.ti.fiˌkab.bləˈmen] (Tags: Central)
+  IPA: [iɲ.ʒus.ti.fiˌkab.bləˈment] (Tags: Balearic)
+  IPA: [iɲ.d͡ʒus.ti.fiˌka.bleˈment] (Tags: Valencia)
+festivament
+  IPA: [fəsˌti.βəˈmen] (Tags: Central)
+  IPA: [fəsˌti.vəˈment] (Tags: Balearic)
+  IPA: [fesˌti.vaˈment] (Tags: Valencia)
+il·lícitament
+  IPA: [ilˌli.si.təˈmen] (Tags: Central)
+  IPA: [ilˌli.si.təˈment] (Tags: Balearic)
+  IPA: [ilˌli.si.taˈment] (Tags: Valencia)
+inexactament
+  IPA: [in.əɡˌzak.təˈmen] (Tags: Central)
+  IPA: [in.əɡˌzak.təˈment] (Tags: Balearic)
+  IPA: [in.eɡˌzak.taˈment] (Tags: Valencia)
+subordinadament
+  IPA: [su.βur.diˌna.ðəˈmen] (Tags: Central)
+  IPA: [su.bor.diˌna.ðəˈment] (Tags: Balearic)
+  IPA: [su.boɾ.ðiˌna.ðaˈment] (Tags: Valencia)
+hàbilment
+  IPA: [ˌa.βilˈmen] (Tags: Central)
+  IPA: [ˌa.bilˈment] (Tags: Balearic, Valencia)
+brillantment
+  IPA: [bɾiˌʎamˈmen] (Tags: Central)
+  IPA: [bɾiˌʎamˈment] (Tags: Balearic, Valencia)
+lànguidament
+  IPA: [ˌlaŋ.ɡi.ðəˈmen] (Tags: Central)
+  IPA: [ˌlaŋ.ɡi.ðəˈment] (Tags: Balearic)
+  IPA: [ˌlaŋ.ɡi.ðaˈment] (Tags: Valencia)
+ortogràficament
+  IPA: [ur.tuˌɣɾa.fi.kəˈmen] (Tags: Central)
+  IPA: [or.toˌɣɾa.fi.kəˈment] (Tags: Balearic)
+  IPA: [oɾ.toˌɣɾa.fi.kaˈment] (Tags: Valencia)
+caritativament
+  IPA: [kə.ɾi.təˌti.βəˈmen] (Tags: Central)
+  IPA: [kə.ɾi.təˌti.vəˈment] (Tags: Balearic)
+  IPA: [ka.ɾi.taˌti.vaˈment] (Tags: Valencia)
+conclusivament
+  IPA: [kuŋ.kluˌzi.βəˈmen] (Tags: Central)
+  IPA: [koŋ.kluˌzi.vəˈment] (Tags: Balearic)
+  IPA: [koŋ.kluˌzi.vaˈment] (Tags: Valencia)
+estadísticament
+  IPA: [əs.təˌðis.ti.kəˈmen] (Tags: Central)
+  IPA: [əs.təˌðis.ti.kəˈment] (Tags: Balearic)
+  IPA: [es.taˌðis.ti.kaˈment] (Tags: Valencia)
+fortuïtament
+  IPA: [fur.tuˌi.təˈmen] (Tags: Central)
+  IPA: [for.tuˌi.təˈment] (Tags: Balearic)
+  IPA: [foɾ.tuˌi.taˈment] (Tags: Valencia)
+determinadament
+  IPA: [də.tər.miˌna.ðəˈmen] (Tags: Central)
+  IPA: [də.tər.miˌna.ðəˈment] (Tags: Balearic)
+  IPA: [de.teɾ.miˌna.ðaˈment] (Tags: Valencia)
+afirmativament
+  IPA: [ə.fir.məˌti.βəˈmen] (Tags: Central)
+  IPA: [ə.fir.məˌti.vəˈment] (Tags: Balearic)
+  IPA: [a.fiɾ.maˌti.vaˈment] (Tags: Valencia)
+feroçment
+  IPA: [fəˌɾɔzˈmen] (Tags: Central)
+  IPA: [fəˌɾɔzˈment] (Tags: Balearic)
+  IPA: [fəˌɾozˈment] (Tags: Balearic)
+  IPA: [feˌɾozˈment] (Tags: Valencia)
+telefònicament
+  IPA: [tə.ləˌfɔ.ni.kəˈmen] (Tags: Central)
+  IPA: [tə.ləˌfɔ.ni.kəˈment] (Tags: Balearic)
+  IPA: [te.leˌfɔ.ni.kaˈment] (Tags: Valencia)
+prudentment
+  IPA: [pɾuˌðemˈmen] (Tags: Central)
+  IPA: [pɾuˌðemˈment] (Tags: Balearic, Valencia)
+gelosament
+  IPA: [ʒəˌlo.zəˈmen] (Tags: Central)
+  IPA: [ʒəˌlo.zəˈment] (Tags: Balearic)
+  IPA: [d͡ʒeˌlo.zaˈment] (Tags: Valencia)
+harmoniosament
+  IPA: [ər.mu.niˌo.zəˈmen] (Tags: Central)
+  IPA: [ər.mo.niˌo.zəˈment] (Tags: Balearic)
+  IPA: [aɾ.mo.niˌo.zaˈment] (Tags: Valencia)
+precàriament
+  IPA: [pɾəˌka.ɾi.əˈmen] (Tags: Central)
+  IPA: [pɾəˌka.ɾi.əˈment] (Tags: Balearic)
+  IPA: [pɾeˌka.ɾi.aˈment] (Tags: Valencia)
+sardònicament
+  IPA: [sərˌdɔ.ni.kəˈmen] (Tags: Central)
+  IPA: [sərˌdɔ.ni.kəˈment] (Tags: Balearic)
+  IPA: [saɾˌðɔ.ni.kaˈment] (Tags: Valencia)
+mitològicament
+  IPA: [mi.tuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [mi.toˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [mi.toˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+sagaçment
+  IPA: [səˌɣazˈmen] (Tags: Central)
+  IPA: [səˌɣazˈment] (Tags: Balearic)
+  IPA: [saˌɣazˈment] (Tags: Valencia)
+fanàticament
+  IPA: [fəˌna.ti.kəˈmen] (Tags: Central)
+  IPA: [fəˌna.ti.kəˈment] (Tags: Balearic)
+  IPA: [faˌna.ti.kaˈment] (Tags: Valencia)
+rabiosament
+  IPA: [rə.βiˌo.zəˈmen] (Tags: Central)
+  IPA: [rə.biˌo.zəˈment] (Tags: Balearic)
+  IPA: [ra.biˌo.zaˈment] (Tags: Valencia)
+calladament
+  IPA: [kəˌʎa.ðəˈmen] (Tags: Central)
+  IPA: [kəˌʎa.ðəˈment] (Tags: Balearic)
+  IPA: [kaˌʎa.ðaˈment] (Tags: Valencia)
+envejablement
+  IPA: [əm.bəˌʒab.bləˈmen] (Tags: Central)
+  IPA: [əɱ.vəˌʒab.bləˈment] (Tags: Balearic)
+  IPA: [eɱ.veˌd͡ʒa.bleˈment] (Tags: Valencia)
+altivament
+  IPA: [əlˌti.βəˈmen] (Tags: Central)
+  IPA: [əlˌti.vəˈment] (Tags: Balearic)
+  IPA: [alˌti.vaˈment] (Tags: Valencia)
+tediosament
+  IPA: [tə.ðiˌo.zəˈmen] (Tags: Central)
+  IPA: [tə.ðiˌo.zəˈment] (Tags: Balearic)
+  IPA: [te.ðiˌo.zaˈment] (Tags: Valencia)
+perniciosament
+  IPA: [pər.ni.siˌo.zəˈmen] (Tags: Central)
+  IPA: [pər.ni.siˌo.zəˈment] (Tags: Balearic)
+  IPA: [peɾ.ni.siˌo.zaˈment] (Tags: Valencia)
+presencialment
+  IPA: [pɾə.zən.siˌalˈmen] (Tags: Central)
+  IPA: [pɾə.zən.siˌalˈment] (Tags: Balearic)
+  IPA: [pɾe.zen.siˌalˈment] (Tags: Valencia)
+abundosament
+  IPA: [ə.βunˌdo.zəˈmen] (Tags: Central)
+  IPA: [ə.bunˌdo.zəˈment] (Tags: Balearic)
+  IPA: [a.bunˌdo.zaˈment] (Tags: Valencia)
+fenomenalment
+  IPA: [fə.nu.məˌnalˈmen] (Tags: Central)
+  IPA: [fə.no.məˌnalˈment] (Tags: Balearic)
+  IPA: [fe.no.meˌnalˈment] (Tags: Valencia)
+desitjablement
+  IPA: [də.ziˌd͡ʒab.bləˈmen] (Tags: Central)
+  IPA: [də.ziˌd͡ʒab.bləˈment] (Tags: Balearic)
+  IPA: [de.ziˌd͡ʒa.bleˈment] (Tags: Valencia)
+dignament
+  IPA: [ˌdiŋ.nəˈmen] (Tags: Central)
+  IPA: [ˌdiŋ.nəˈment] (Tags: Balearic)
+  IPA: [ˌdiŋ.naˈment] (Tags: Valencia)
+austerament
+  IPA: [əwsˌte.rəˈmen] (Tags: Central)
+  IPA: [əwsˌte.rəˈment] (Tags: Balearic)
+  IPA: [awsˌte.raˈment] (Tags: Valencia)
+furtivament
+  IPA: [furˌti.βəˈmen] (Tags: Central)
+  IPA: [furˌti.vəˈment] (Tags: Balearic)
+  IPA: [fuɾˌti.vaˈment] (Tags: Valencia)
+genuïnament
+  IPA: [ʒə.nuˌi.nəˈmen] (Tags: Central)
+  IPA: [ʒə.nuˌi.nəˈment] (Tags: Balearic)
+  IPA: [d͡ʒe.nuˌi.naˈment] (Tags: Valencia)
+desagradablement
+  IPA: [də.zə.ɣɾəˌðab.bləˈmen] (Tags: Central)
+  IPA: [də.zə.ɣɾəˌðab.bləˈment] (Tags: Balearic)
+  IPA: [de.za.ɣɾaˌða.bleˈment] (Tags: Valencia)
+ferventment
+  IPA: [fərˌbemˈmen] (Tags: Central)
+  IPA: [fərˌvemˈment] (Tags: Balearic)
+  IPA: [feɾˌvemˈment] (Tags: Valencia)
+fervorosament
+  IPA: [fər.buˌɾo.zəˈmen] (Tags: Central)
+  IPA: [fər.voˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [feɾ.voˌɾo.zaˈment] (Tags: Valencia)
+voraçment
+  IPA: [buˌɾazˈmen] (Tags: Central)
+  IPA: [voˌɾazˈment] (Tags: Balearic, Valencia)
+encantadorament
+  IPA: [əŋ.kən.təˌðo.ɾəˈmen] (Tags: Central)
+  IPA: [əŋ.kən.təˌðo.ɾəˈment] (Tags: Balearic)
+  IPA: [eŋ.kan.taˌðo.ɾaˈment] (Tags: Valencia)
+industriosament
+  IPA: [in.dus.tɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [in.dus.tɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [in.dus.tɾiˌo.zaˈment] (Tags: Valencia)
+eclècticament
+  IPA: [əˌklɛk.ti.kəˈmen] (Tags: Central)
+  IPA: [əˌklɛk.ti.kəˈment] (Tags: Balearic)
+  IPA: [eˌklɛk.ti.kaˈment] (Tags: Valencia)
+orgànicament
+  IPA: [urˌɡa.ni.kəˈmen] (Tags: Central)
+  IPA: [orˌɡa.ni.kəˈment] (Tags: Balearic)
+  IPA: [oɾˌɣa.ni.kaˈment] (Tags: Valencia)
+poderosament
+  IPA: [pu.ðəˌɾo.zəˈmen] (Tags: Central)
+  IPA: [po.ðəˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [po.ðeˌɾo.zaˈment] (Tags: Valencia)
+ingènuament
+  IPA: [iɲˌʒɛ.nu.əˈmen] (Tags: Central)
+  IPA: [iɲˌʒɛ.nu.əˈment] (Tags: Balearic)
+  IPA: [iɲˌd͡ʒɛ.nu.aˈment] (Tags: Valencia)
+psicològicament
+  IPA: [psi.kuˌlɔ.ʒi.kəˈmen] (Tags: Central)
+  IPA: [psi.koˌlɔ.ʒi.kəˈment] (Tags: Balearic)
+  IPA: [psi.koˌlɔ.d͡ʒi.kaˈment] (Tags: Valencia)
+laboriosament
+  IPA: [lə.βu.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [lə.bo.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [la.bo.ɾiˌo.zaˈment] (Tags: Valencia)
+extensivament
+  IPA: [əks.tənˌsi.βəˈmen] (Tags: Central)
+  IPA: [əks.tənˌsi.vəˈment] (Tags: Balearic)
+  IPA: [eks.tenˌsi.vaˈment] (Tags: Valencia)
+subseqüentment
+  IPA: [sup.səˌkwemˈmen] (Tags: Central)
+  IPA: [sup.səˌkwemˈment] (Tags: Balearic)
+  IPA: [sup.seˌkwemˈment] (Tags: Valencia)
+subsegüentment
+  IPA: [sup.səˌɣwemˈmen] (Tags: Central)
+  IPA: [sup.səˌɣwemˈment] (Tags: Balearic)
+  IPA: [sup.seˌɣwemˈment] (Tags: Valencia)
+confidencialment
+  IPA: [kuɱ.fi.ðən.siˌalˈmen] (Tags: Central)
+  IPA: [koɱ.fi.ðən.siˌalˈment] (Tags: Balearic)
+  IPA: [koɱ.fi.ðen.siˌalˈment] (Tags: Valencia)
+creativament
+  IPA: [kɾe.əˌti.βəˈmen] (Tags: Central)
+  IPA: [kɾe.əˌti.vəˈment] (Tags: Balearic)
+  IPA: [kɾe.aˌti.vaˈment] (Tags: Valencia)
+convincentment
+  IPA: [kum.binˌsemˈmen] (Tags: Central)
+  IPA: [koɱ.vinˌsemˈment] (Tags: Balearic, Valencia)
+intuïtivament
+  IPA: [in.tu.iˌti.βəˈmen] (Tags: Central)
+  IPA: [in.tu.iˌti.vəˈment] (Tags: Balearic)
+  IPA: [in.tu.iˌti.vaˈment] (Tags: Valencia)
+en resum
+  IPA: [ən rəˈzum] (Tags: Balearic, Central)
+  IPA: [en reˈzum] (Tags: Valencia)
+aixina
+  IPA: [əˈʃi.nə] (Tags: Balearic, Central)
+  IPA: [ajˈʃi.na] (Tags: Valencia)
+gaiament
+  IPA: [ˌɡa.jəˈmen] (Tags: Central)
+  IPA: [ˌɡa.jəˈment] (Tags: Balearic)
+  IPA: [ˌɡa.jaˈment] (Tags: Valencia)
+gloriosament
+  IPA: [ɡlu.ɾiˌo.zəˈmen] (Tags: Central)
+  IPA: [ɡlo.ɾiˌo.zəˈment] (Tags: Balearic)
+  IPA: [ɡlo.ɾiˌo.zaˈment] (Tags: Valencia)
+algèbricament
+  IPA: [əʎˌʒɛ.βɾi.kəˈmen] (Tags: Central)
+  IPA: [əʎˌʒɛ.bɾi.kəˈment] (Tags: Balearic)
+  IPA: [aʎˌd͡ʒɛ.bɾi.kaˈment] (Tags: Valencia)
+exponencialment
+  IPA: [əks.pu.nən.siˌalˈmen] (Tags: Central)
+  IPA: [əks.po.nən.siˌalˈment] (Tags: Balearic)
+  IPA: [eks.po.nen.siˌalˈment] (Tags: Valencia)
+algebraicament
+  IPA: [əʎ.ʒəˌβɾaj.kəˈmen] (Tags: Central)
+  IPA: [əʎ.ʒəˌbɾaj.kəˈment] (Tags: Balearic)
+  IPA: [aʎ.d͡ʒeˌbɾaj.kaˈment] (Tags: Valencia)
+inherentment
+  IPA: [i.nəˌɾemˈmen] (Tags: Central)
+  IPA: [i.nəˌɾemˈment] (Tags: Balearic)
+  IPA: [i.neˌɾemˈment] (Tags: Valencia)
+indiscriminadament
+  IPA: [in.dis.kɾi.miˌna.ðəˈmen] (Tags: Central)
+  IPA: [in.dis.kɾi.miˌna.ðəˈment] (Tags: Balearic)
+  IPA: [in.dis.kɾi.miˌna.ðaˈment] (Tags: Valencia)
+d'estranquis
+  IPA: [d‿əsˈtɾaŋ.kis] (Tags: Balearic, Central)
+  IPA: [d‿esˈtɾaŋ.kis] (Tags: Valencia)
+olímpicament
+  IPA: [uˌlim.pi.kəˈmen] (Tags: Central)
+  IPA: [uˌlim.pi.kəˈment] (Tags: Balearic)
+  IPA: [oˌlim.pi.kaˈment] (Tags: Valencia)
+de totes totes
+  IPA: [də ˈto.təs ˈto.təs] (Tags: Balearic, Central)
+  IPA: [de ˈto.tes ˈto.tes] (Tags: Valencia)
+categòricament
+  IPA: [kə.təˌɣɔ.ɾi.kəˈmen] (Tags: Central)
+  IPA: [kə.təˌɣɔ.ɾi.kəˈment] (Tags: Balearic)
+  IPA: [ka.teˌɣɔ.ɾi.kaˈment] (Tags: Valencia)
+unànimement
+  IPA: [uˌna.ni.məˈmen] (Tags: Central)
+  IPA: [uˌna.ni.məˈment] (Tags: Balearic)
+  IPA: [uˌna.ni.meˈment] (Tags: Valencia)
+d'una banda
+  IPA: [ˈd‿u.nə ˈβan.də] (Tags: Central)
+  IPA: [ˈd‿u.nə ˈban.də] (Tags: Balearic)
+  IPA: [ˈd‿u.na ˈban.da] (Tags: Valencia)
+llisament
+  IPA: [ˌʎi.zəˈmen] (Tags: Central)
+  IPA: [ˌʎi.zəˈment] (Tags: Balearic)
+  IPA: [ˌʎi.zaˈment] (Tags: Valencia)
+competentment
+  IPA: [kum.pəˌtemˈmen] (Tags: Central)
+  IPA: [kom.pəˌtemˈment] (Tags: Balearic)
+  IPA: [kom.peˌtemˈment] (Tags: Valencia)
+poquet
+  IPA: [puˈkɛt] (Tags: Central)
+  IPA: [poˈkət] (Tags: Balearic)
+  IPA: [poˈket] (Tags: Valencia)
+digitalment
+  IPA: [di.ʒiˌtalˈmen] (Tags: Central)
+  IPA: [di.ʒiˌtalˈment] (Tags: Balearic)
+  IPA: [di.d͡ʒiˌtalˈment] (Tags: Valencia)
+fumudament
+  IPA: [fuˌmu.ðəˈmen] (Tags: Central)
+  IPA: [fuˌmu.ðəˈment] (Tags: Balearic)
+  IPA: [fuˌmu.ðaˈment] (Tags: Valencia)
+defensivament
+  IPA: [də.fənˌsi.βəˈmen] (Tags: Central)
+  IPA: [də.fənˌsi.vəˈment] (Tags: Balearic)
+  IPA: [de.fenˌsi.vaˈment] (Tags: Valencia)
+a collibè
+  IPA: [ə ku.ʎiˈβɛ] (Tags: Central)
+  IPA: [ə ko.ʎiˈbə] (Tags: Balearic)
+  IPA: [a ko.ʎiˈbe] (Tags: Valencia)
+en rústica
+  IPA: [ən ˈrus.ti.kə] (Tags: Balearic, Central)
+  IPA: [en ˈrus.ti.ka] (Tags: Valencia)
+oralment
+  IPA: [uˌɾalˈmen] (Tags: Central)
+  IPA: [oˌɾalˈment] (Tags: Balearic, Valencia)
+malèvolament
+  IPA: [məˌlɛ.βu.ləˈmen] (Tags: Central)
+  IPA: [məˌlɛ.vo.ləˈment] (Tags: Balearic)
+  IPA: [maˌlɛ.vo.laˈment] (Tags: Valencia)
+per omissió
+  IPA: [pər u.mi.siˈo] (Tags: Central)
+  IPA: [pər o.mi.siˈo] (Tags: Balearic)
+  IPA: [per o.mi.siˈo] (Tags: Valencia)
+de correguda
+  IPA: [də ku.rəˈɣu.ðə] (Tags: Central)
+  IPA: [də ko.rəˈɣu.ðə] (Tags: Balearic)
+  IPA: [de ko.reˈɣu.ða] (Tags: Valencia)
+de genollons
+  IPA: [də ʒə.nuˈʎons] (Tags: Central)
+  IPA: [də ʒə.noˈʎons] (Tags: Balearic)
+  IPA: [de d͡ʒe.noˈʎons] (Tags: Valencia)
+enganyosament
+  IPA: [əŋ.ɡəˌɲo.zəˈmen] (Tags: Central)
+  IPA: [əŋ.ɡəˌɲo.zəˈment] (Tags: Balearic)
+  IPA: [eŋ.ɡaˌɲo.zaˈment] (Tags: Valencia)
+de cop
+  IPA: [də ˈkɔp] (Tags: Balearic, Central)
+  IPA: [de ˈkɔp] (Tags: Valencia)
+intencionalment
+  IPA: [in.tən.si.uˌnalˈmen] (Tags: Central)
+  IPA: [in.tən.si.oˌnalˈment] (Tags: Balearic)
+  IPA: [in.ten.si.oˌnalˈment] (Tags: Valencia)
+endemés
+  IPA: [ən.dəˈmes] (Tags: Balearic, Central)
+  IPA: [en.deˈmes] (Tags: Valencia)
+demés
+  IPA: [dəˈmes] (Tags: Balearic, Central)
+  IPA: [deˈmes] (Tags: Valencia)
+en va
+  IPA: [əm ˈba] (Tags: Central)
+  IPA: [əɱ ˈva] (Tags: Balearic)
+  IPA: [eɱ ˈva] (Tags: Valencia)
+eficientment
+  IPA: [ə.fi.siˌemˈmen] (Tags: Central)
+  IPA: [ə.fi.siˌemˈment] (Tags: Balearic)
+  IPA: [e.fi.siˌemˈment] (Tags: Valencia)
+d'ara endavant
+  IPA: [ˈd‿a.ɾə ən.dəˈβan] (Tags: Central)
+  IPA: [ˈd‿a.ɾə ən.dəˈvant] (Tags: Balearic)
+  IPA: [ˈd‿a.ɾa en.daˈvant] (Tags: Valencia)
+per endavant
+  IPA: [pər ən.dəˈβan] (Tags: Central)
+  IPA: [pər ən.dəˈvant] (Tags: Balearic)
+  IPA: [per en.daˈvant] (Tags: Valencia)
+d'avui endavant
+  IPA: [d‿əˈβuj ən.dəˈβan] (Tags: Central)
+  IPA: [d‿əˈvuj ən.dəˈvant] (Tags: Balearic)
+  IPA: [d‿aˈvuj en.daˈvant] (Tags: Valencia)
+perversament
+  IPA: [pərˌbɛr.səˈmen] (Tags: Central)
+  IPA: [pərˌvɛr.səˈment] (Tags: Balearic)
+  IPA: [peɾˌvɛɾ.saˈment] (Tags: Valencia)
+rotundament
+  IPA: [ruˌtun.dəˈmen] (Tags: Central)
+  IPA: [ruˌtun.dəˈment] (Tags: Balearic)
+  IPA: [roˌtun.daˈment] (Tags: Valencia)
+magnànimament
+  IPA: [məŋˌna.ni.məˈmen] (Tags: Central)
+  IPA: [məŋˌna.ni.məˈment] (Tags: Balearic)
+  IPA: [maŋˌna.ni.maˈment] (Tags: Valencia)
+de cop i volta
+  IPA: [də ˈkɔp i ˈβɔl.tə] (Tags: Central)
+  IPA: [də ˈkɔp i ˈvɔl.tə] (Tags: Balearic)
+  IPA: [de ˈkɔp i ˈvɔl.ta] (Tags: Valencia)
+gustosament
+  IPA: [ɡusˌto.zəˈmen] (Tags: Central)
+  IPA: [ɡusˌto.zəˈment] (Tags: Balearic)
+  IPA: [ɡusˌto.zaˈment] (Tags: Valencia)
+papissot
+  IPA: [pə.piˈsɔt] (Tags: Balearic, Central)
+  IPA: [pa.piˈsɔt] (Tags: Valencia)
+descomunalment
+  IPA: [dəs.ku.muˌnalˈmen] (Tags: Central)
+  IPA: [dəs.ko.muˌnalˈment] (Tags: Balearic)
+  IPA: [des.ko.muˌnalˈment] (Tags: Valencia)
+refinadament
+  IPA: [rə.fiˌna.ðəˈmen] (Tags: Central)
+  IPA: [rə.fiˌna.ðəˈment] (Tags: Balearic)
+  IPA: [re.fiˌna.ðaˈment] (Tags: Valencia)
+com a
+  IPA: [ˈkɔm ə] (Tags: Balearic, Central)
+  IPA: [ˈkom a] (Tags: Valencia)
+baldament
+  IPA: [ˌbal.dəˈmen] (Tags: Central)
+  IPA: [ˌbal.dəˈment] (Tags: Balearic)
+  IPA: [ˌbal.daˈment] (Tags: Valencia)
+defora
+  IPA: [dəˈfɔ.ɾə] (Tags: Balearic, Central)
+  IPA: [deˈfɔ.ɾa] (Tags: Valencia)
+de bat a bat
+  IPA: [də ˈβat ə ˈβat] (Tags: Central)
+  IPA: [də ˈbat ə ˈbat] (Tags: Balearic)
+  IPA: [de ˈbat a ˈbat] (Tags: Valencia)
+clínicament
+  IPA: [ˌkli.ni.kəˈmen] (Tags: Central)
+  IPA: [ˌkli.ni.kəˈment] (Tags: Balearic)
+  IPA: [ˌkli.ni.kaˈment] (Tags: Valencia)
+a orri
+  IPA: [ə ˈɔ.ri] (Tags: Balearic, Central)
+  IPA: [a ˈɔ.ri] (Tags: Valencia)
+en orri
+  IPA: [ən ˈɔ.ri] (Tags: Balearic, Central)
+  IPA: [en ˈɔ.ri] (Tags: Valencia)
+a rodolons
+  IPA: [ə ru.ðuˈlons] (Tags: Central)
+  IPA: [ə ro.ðoˈlons] (Tags: Balearic)
+  IPA: [a ro.ðoˈlons] (Tags: Valencia)
+xau-xau
+  IPA: [ˌʃawˈʃaw] (Tags: Balearic, Central)
+  IPA: [ˌt͡ʃawˈt͡ʃaw] (Tags: Valencia)
+constructivament
+  IPA: [kuns.tɾukˌti.βəˈmen] (Tags: Central)
+  IPA: [kons.tɾukˌti.vəˈment] (Tags: Balearic)
+  IPA: [kons.tɾukˌti.vaˈment] (Tags: Valencia)
+selectivament
+  IPA: [sə.ləkˌti.βəˈmen] (Tags: Central)
+  IPA: [sə.ləkˌti.vəˈment] (Tags: Balearic)
+  IPA: [se.lekˌti.vaˈment] (Tags: Valencia)
+reiteradament
+  IPA: [rə.i.təˌɾa.ðəˈmen] (Tags: Central)
+  IPA: [rə.i.təˌɾa.ðəˈment] (Tags: Balearic)
+  IPA: [re.i.teˌɾa.ðaˈment] (Tags: Valencia)
+ofensivament
+  IPA: [u.fənˌsi.βəˈmen] (Tags: Central)
+  IPA: [o.fənˌsi.vəˈment] (Tags: Balearic)
+  IPA: [o.fenˌsi.vaˈment] (Tags: Valencia)
+provocativament
+  IPA: [pɾu.βu.kəˌti.βəˈmen] (Tags: Central)
+  IPA: [pɾo.vo.kəˌti.vəˈment] (Tags: Balearic)
+  IPA: [pɾo.vo.kaˌti.vaˈment] (Tags: Valencia)
+humanament
+  IPA: [uˌma.nəˈmen] (Tags: Central)
+  IPA: [uˌma.nəˈment] (Tags: Balearic)
+  IPA: [uˌma.naˈment] (Tags: Valencia)
+preventivament
+  IPA: [pɾə.βənˌti.βəˈmen] (Tags: Central)
+  IPA: [pɾə.vənˌti.vəˈment] (Tags: Balearic)
+  IPA: [pɾe.venˌti.vaˈment] (Tags: Valencia)
+periodísticament
+  IPA: [pə.ɾi.uˌðis.ti.kəˈmen] (Tags: Central)
+  IPA: [pə.ɾi.uˌðis.ti.kəˈment] (Tags: Balearic)
+  IPA: [pe.ɾi.oˌðis.ti.kaˈment] (Tags: Valencia)
+de camí
+  IPA: [də kəˈmi] (Tags: Balearic, Central)
+  IPA: [de kaˈmi] (Tags: Valencia)
+a pèl
+  IPA: [ə ˈpɛl] (Tags: Balearic, Central)
+  IPA: [a ˈpɛl] (Tags: Valencia)
+per lo tant
+  IPA: [pər lu ˈtan] (Tags: Central)
+  IPA: [pər lo ˈtant] (Tags: Balearic)
+  IPA: [per lo ˈtant] (Tags: Valencia)
+girientorn
+  IPA: [ʒi.ɾi.ənˈtorn] (Tags: Balearic, Central)
+  IPA: [d͡ʒi.ɾi.enˈtoɾn] (Tags: Valencia)
+emperò
+  IPA: [əm.pəˈɾɔ] (Tags: Balearic, Central)
+  IPA: [em.peˈɾɔ] (Tags: Valencia)
+de peus
+  IPA: [də ˈpɛws] (Tags: Balearic, Central)
+  IPA: [de ˈpɛws] (Tags: Valencia)
+per cosa
+  IPA: /pɛˈkɔza/
+  IPA: /pɛˈkɔ/
+aixana
+  IPA: [əˈʃa.nə] (Tags: Balearic, Central)
+  IPA: [ajˈʃa.na] (Tags: Valencia)
+de popa a proa
+  IPA: [də ˈpo.pə ə ˈpɾo.ə] (Tags: Balearic, Central)
+  IPA: [de ˈpo.pa a ˈpɾo.a] (Tags: Valencia)
+remorosament
+  IPA: [rə.muˌɾo.zəˈmen] (Tags: Central)
+  IPA: [rə.moˌɾo.zəˈment] (Tags: Balearic)
+  IPA: [re.moˌɾo.zaˈment] (Tags: Valencia)
+de conya
+  IPA: [də ˈko.ɲə] (Tags: Balearic, Central)
+  IPA: [de ˈko.ɲa] (Tags: Valencia)
+aixís
+  IPA: [əˈʃis] (Tags: Balearic, Central)
+  IPA: [ajˈʃis] (Tags: Valencia)
+d'arròs
+  IPA: [d‿əˈrɔs] (Tags: Balearic, Central)
+  IPA: [d‿aˈrɔs] (Tags: Valencia)
+per plaier
+  IPA: [pər pləˈje] (Tags: Balearic, Central)
+  IPA: [per plaˈjeɾ] (Tags: Valencia)
+al vol
+  IPA: [əl ˈβɔl] (Tags: Central)
+  IPA: [əl ˈvɔl] (Tags: Balearic)
+  IPA: [al ˈvɔl] (Tags: Valencia)
+adesiara
+  IPA: [ə.ðə.ziˈa.ɾə] (Tags: Balearic, Central)
+  IPA: [a.ðe.ziˈa.ɾa] (Tags: Valencia)
+de fit a fit
+  IPA: [də ˈfit ə ˈfit] (Tags: Balearic, Central)
+  IPA: [de ˈfit a ˈfit] (Tags: Valencia)
+no contrastant això
+  IPA: [ˈno kun.tɾəsˈtan əˈʃɔ] (Tags: Central)
+  IPA: [ˈno kon.tɾəsˈtant əˈʃɔ] (Tags: Balearic)
+  IPA: [ˈno kon.tɾasˈtant ajˈʃɔ] (Tags: Valencia)
+entremig
+  IPA: [ˌen.tɾəˈmit͡ʃ] (Tags: Balearic, Central)
+  IPA: [ˌen.tɾeˈmit͡ʃ] (Tags: Valencia)
+pròximament
+  IPA: [ˌpɾɔk.si.məˈmen] (Tags: Central)
+  IPA: [ˌpɾɔk.si.məˈment] (Tags: Balearic)
+  IPA: [ˌpɾɔk.si.maˈment] (Tags: Valencia)
+enguanyasses
+  IPA: [əŋ.ɡwəˈɲa.səs] (Tags: Balearic, Central)
+  IPA: [eŋ.ɡwaˈɲa.ses] (Tags: Valencia)
+llavonses
+  IPA: [ʎəˈβɔn.səs] (Tags: Central)
+  IPA: [ʎəˈvɔn.səs] (Tags: Balearic)
+  IPA: [ʎaˈvɔn.ses] (Tags: Valencia)
+llavons
+  IPA: [ʎəˈβɔns] (Tags: Central)
+  IPA: [ʎəˈvɔns] (Tags: Balearic)
+  IPA: [ʎaˈvɔns] (Tags: Valencia)
+en fila
+  IPA: [əɱ ˈfi.lə] (Tags: Balearic, Central)
+  IPA: [eɱ ˈfi.la] (Tags: Valencia)
+de gairell
+  IPA: [də ɣəjˈɾeʎ] (Tags: Balearic, Central)
+  IPA: [de ɣajˈɾeʎ] (Tags: Valencia)
+d'esquitllèbit
+  IPA: [d‿əs.kiʎˈʎɛ.βit] (Tags: Central)
+  IPA: [d‿əs.kiˈʎɛ.bit] (Tags: Balearic)
+  IPA: [d‿es.kiˈʎɛ.bit] (Tags: Valencia)
+de gairó
+  IPA: [də ɣəjˈɾo] (Tags: Balearic, Central)
+  IPA: [de ɣajˈɾo] (Tags: Valencia)
+a gust
+  IPA: [ə ˈɣust] (Tags: Balearic, Central)
+  IPA: [a ˈɣust] (Tags: Valencia)
+allèn
+  IPA: [əˈʎɛn] (Tags: Balearic, Central)
+  IPA: [aˈʎɛn] (Tags: Valencia)
+en breu
+  IPA: [əm ˈbɾew] (Tags: Balearic, Central)
+  IPA: [em ˈbɾew] (Tags: Valencia)
+presumptivament
+  IPA: [pɾə.zumˌti.βəˈmen] (Tags: Central)
+  IPA: [pɾə.zumˌti.vəˈment] (Tags: Balearic)
+  IPA: [pɾe.zumˌti.vaˈment] (Tags: Valencia)
+d'incògnit
+  IPA: [d‿iŋˈkɔŋ.nit] (Tags: Balearic, Central, Valencia)
+constitucionalment
+  IPA: [kuns.ti.tu.si.uˌnalˈmen] (Tags: Central)
+  IPA: [kons.ti.tu.si.oˌnalˈment] (Tags: Balearic, Valencia)
+a l'uf
+  IPA: [ə ˈl‿uf] (Tags: Balearic, Central)
+  IPA: [a ˈl‿uf] (Tags: Valencia)
+despuix
+  IPA: [dəsˈpuʃ] (Tags: Balearic, Central)
+  IPA: [desˈpujʃ] (Tags: Valencia)
+educadament
+  IPA: [ə.ðuˌka.ðəˈmen] (Tags: Central)
+  IPA: [ə.ðuˌka.ðəˈment] (Tags: Balearic)
+  IPA: [e.ðuˌka.ðaˈment] (Tags: Valencia)
+obligatòriament
+  IPA: [u.βli.ɣəˌtɔ.ɾi.əˈmen] (Tags: Central)
+  IPA: [o.bli.ɣəˌtɔ.ɾi.əˈment] (Tags: Balearic)
+  IPA: [o.bli.ɣaˌtɔ.ɾi.aˈment] (Tags: Valencia)
+llavòrens
+  IPA: [ʎəˈβɔ.ɾəns] (Tags: Central)
+  IPA: [ʎəˈvɔ.ɾəns] (Tags: Balearic)
+  IPA: [ʎaˈvɔ.ɾens] (Tags: Valencia)
+despús-ahir
+  IPA: [dəsˌpus.əˈi] (Tags: Balearic, Central)
+  IPA: [desˌpus.aˈiɾ] (Tags: Valencia)
+com una seda
+  IPA: [ˈkɔm ˈu.nə ˈsɛ.ðə] (Tags: Central)
+  IPA: [ˈkɔm ˈu.nə ˈsə.ðə] (Tags: Balearic)
+  IPA: [ˈkom ˈu.na ˈse.ða] (Tags: Valencia)
+a mitges
+  IPA: [ə ˈmi.d͡ʒəs] (Tags: Balearic, Central)
+  IPA: [a ˈmi.d͡ʒes] (Tags: Valencia)
+semànticament
+  IPA: [səˌman.ti.kəˈmen] (Tags: Central)
+  IPA: [səˌman.ti.kəˈment] (Tags: Balearic)
+  IPA: [seˌman.ti.kaˈment] (Tags: Valencia)
+vulgarment
+  IPA: [bulˌɣarˈmen] (Tags: Central)
+  IPA: [vulˌɣaˈment] (Tags: Balearic)
+  IPA: [vulˌɣaɾˈment] (Tags: Valencia)
+conscientment
+  IPA: [kun.siˌemˈmen] (Tags: Central)
+  IPA: [kon.siˌemˈment] (Tags: Balearic, Valencia)
+precipitadament
+  IPA: [pɾə.si.piˌta.ðəˈmen] (Tags: Central)
+  IPA: [pɾə.si.piˌta.ðəˈment] (Tags: Balearic)
+  IPA: [pɾe.si.piˌta.ðaˈment] (Tags: Valencia)
+exteriorment
+  IPA: [əks.tə.ɾiˌorˈmen] (Tags: Central)
+  IPA: [əks.tə.ɾiˌoˈment] (Tags: Balearic)
+  IPA: [eks.te.ɾiˌoɾˈment] (Tags: Valencia)
+romànticament
+  IPA: [ruˌman.ti.kəˈmen] (Tags: Central)
+  IPA: [roˌman.ti.kəˈment] (Tags: Balearic)
+  IPA: [roˌman.ti.kaˈment] (Tags: Valencia)
+de tomballons
+  IPA: [də tum.bəˈʎons] (Tags: Central)
+  IPA: [də tom.bəˈʎons] (Tags: Balearic)
+  IPA: [de tom.baˈʎons] (Tags: Valencia)
+per força
+  IPA: [pər ˈfɔr.sə] (Tags: Balearic, Central)
+  IPA: [per ˈfɔɾ.sa] (Tags: Valencia)
+a camades
+  IPA: [ə.kəˈma.ðəs] (Tags: Balearic, Central)
+  IPA: [a.kaˈma.ðes] (Tags: Valencia)
+de seguida
+  IPA: [də səˈɣi.ðə] (Tags: Balearic, Central)
+  IPA: [de seˈɣi.ða] (Tags: Valencia)
+panxa enlaire
+  IPA: [ˈpaɲ.ʃə ənˈlaj.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈpaɲ.t͡ʃa enˈlaj.ɾe] (Tags: Valencia)
+de bocaterrosa
+  IPA: [də ˌβo.kə.təˈro.zə] (Tags: Central)
+  IPA: [də ˌbo.kə.təˈro.zə] (Tags: Balearic)
+  IPA: [de ˌbo.ka.teˈro.za] (Tags: Valencia)
+de pressa
+  IPA: [də ˈpɾe.sə] (Tags: Balearic, Central)
+  IPA: [de ˈpɾe.sa] (Tags: Valencia)
+a reculons
+  IPA: [ə.rə.kuˈlons] (Tags: Balearic, Central)
+  IPA: [a.re.kuˈlons] (Tags: Valencia)
+a recules
+  IPA: [ə.rəˈku.ləs] (Tags: Balearic, Central)
+  IPA: [a.reˈku.les] (Tags: Valencia)

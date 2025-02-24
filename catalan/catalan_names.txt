@@ -1,0 +1,4279 @@
+Iraq
+  IPA: [iˈɾak] (Tags: Balearic, Central, Valencia)
+Bahrain
+  IPA: [bəˈɾajn] (Tags: Balearic, Central)
+  IPA: [baˈɾajn] (Tags: Valencia)
+Burundi
+  IPA: [buˈɾun.di] (Tags: Balearic, Central, Valencia)
+Belize
+  IPA: [bəˈli.zə] (Tags: Balearic, Central)
+  IPA: [beˈli.ze] (Tags: Valencia)
+Bhutan
+  IPA: [buˈtan] (Tags: Balearic, Central, Valencia)
+Gabon
+  IPA: [ɡəˈβon] (Tags: Central)
+  IPA: [ɡəˈbon] (Tags: Balearic)
+  IPA: [ɡaˈbon] (Tags: Valencia)
+Ghana
+  IPA: [ˈɡa.nə] (Tags: Balearic, Central)
+  IPA: [ˈɡa.na] (Tags: Valencia)
+Maldives
+  IPA: [məlˈdi.βəs] (Tags: Central)
+  IPA: [məlˈdi.vəs] (Tags: Balearic)
+  IPA: [malˈdi.ves] (Tags: Valencia)
+Kenya
+  IPA: [ˈkɛ.ɲə] (Tags: Central)
+Botswana
+  IPA: [butsˈwa.nə] (Tags: Central)
+  IPA: [botsˈwa.nə] (Tags: Balearic)
+  IPA: [botsˈwa.na] (Tags: Valencia)
+Argentina
+  IPA: [ər.ʒənˈti.nə] (Tags: Balearic, Central)
+  IPA: [aɾ.d͡ʒenˈti.na] (Tags: Valencia)
+Nicaragua
+  IPA: [ni.kəˈɾa.ɣwə] (Tags: Balearic, Central)
+  IPA: [ni.kaˈɾa.ɣwa] (Tags: Valencia)
+Djibouti
+  IPA: [d͡ʒiˈβu.ti] (Tags: Central)
+  IPA: [d͡ʒiˈbu.ti] (Tags: Balearic, Valencia)
+Djibouti
+  IPA: [d͡ʒiˈβu.ti] (Tags: Central)
+  IPA: [d͡ʒiˈbu.ti] (Tags: Balearic, Valencia)
+Brasil
+  IPA: [bɾəˈzil] (Tags: Balearic, Central)
+  IPA: [bɾaˈzil] (Tags: Valencia)
+Malawi
+  IPA: [məˈla.wi] (Tags: Balearic, Central)
+  IPA: [maˈla.wi] (Tags: Valencia)
+Andorra
+  IPA: [ənˈdɔ.rə] (Tags: Balearic, Central)
+  IPA: [anˈdo.ra] (Tags: Valencia)
+Oman
+  IPA: [uˈman] (Tags: Central)
+  IPA: [oˈman] (Tags: Balearic, Valencia)
+Angola
+  IPA: [əŋˈɡo.lə] (Tags: Balearic, Central)
+  IPA: [əŋˈɡɔ.lə] (Tags: Balearic, Central)
+  IPA: [aŋˈɡo.la] (Tags: Valencia)
+Guatemala
+  IPA: [ɡwə.təˈma.lə] (Tags: Balearic, Central)
+  IPA: [ɡwa.teˈma.la] (Tags: Valencia)
+Qatar
+  IPA: [kəˈtar] (Tags: Balearic, Central)
+  IPA: [kaˈtar] (Tags: Valencia)
+Kuwait
+  IPA: [kuˈβajt] (Tags: Central)
+  IPA: [kuˈvajt] (Tags: Balearic, Valencia)
+El Salvador
+  IPA: [əl səl.βəˈðo] (Tags: Central)
+  IPA: [əl səl.vəˈðo] (Tags: Balearic)
+  IPA: [el sal.vaˈðoɾ] (Tags: Valencia)
+Nepal
+  IPA: [nəˈpal] (Tags: Balearic, Central)
+  IPA: [neˈpal] (Tags: Valencia)
+Madagascar
+  IPA: [mə.ðə.ɣəsˈkar] (Tags: Balearic, Central)
+  IPA: [ma.ða.ɣasˈkar] (Tags: Valencia)
+Jamaica
+  IPA: [ʒəˈmaj.kə] (Tags: Balearic, Central)
+  IPA: [d͡ʒaˈmaj.ka] (Tags: Valencia)
+Laos
+  IPA: [ˈla.us] (Tags: Central)
+  IPA: [ˈla.os] (Tags: Balearic, Valencia)
+Nauru
+  IPA: [ˈnaw.ɾu] (Tags: Balearic, Central, Valencia)
+Mali
+  IPA: [ˈma.li] (Tags: Balearic, Central, Valencia)
+Cuba
+  IPA: [ˈku.βə] (Tags: Central)
+  IPA: [ˈku.bə] (Tags: Balearic)
+  IPA: [ˈku.ba] (Tags: Valencia)
+Israel
+  IPA: [iz.rəˈɛl] (Tags: Balearic, Central)
+  IPA: [iz.raˈɛl] (Tags: Valencia)
+Sudan
+  IPA: [suˈðan] (Tags: Balearic, Central, Valencia)
+Pakistan
+  IPA: [pə.kisˈtan] (Tags: Balearic, Central)
+  IPA: [pa.kisˈtan] (Tags: Valencia)
+Tonga
+  IPA: [ˈtoŋ.ɡə] (Tags: Balearic, Central)
+  IPA: [ˈtoŋ.ɡa] (Tags: Valencia)
+Uganda
+  IPA: [uˈɣan.də] (Tags: Balearic, Central)
+  IPA: [uˈɣan.da] (Tags: Valencia)
+Togo
+  IPA: [ˈto.ɣu] (Tags: Central)
+  IPA: [ˈto.ɣo] (Tags: Balearic, Valencia)
+Senegal
+  IPA: [sə.nəˈɣal] (Tags: Balearic, Central)
+  IPA: [se.neˈɣal] (Tags: Valencia)
+Brunei
+  IPA: [bɾuˈnɛj] (Tags: Balearic, Central, Valencia)
+Turkmenistan
+  IPA: [turɡ.mə.nisˈtan] (Tags: Balearic, Central)
+  IPA: [tuɾɡ.me.nisˈtan] (Tags: Valencia)
+Uzbekistan
+  IPA: [uz.bə.kisˈtan] (Tags: Balearic, Central)
+  IPA: [uz.be.kisˈtan] (Tags: Valencia)
+Iran
+  IPA: [iˈɾan] (Tags: Balearic, Central, Valencia)
+San Marino
+  IPA: [ˈsam məˈɾi.nu] (Tags: Central)
+  IPA: [ˈsam məˈɾi.no] (Tags: Balearic)
+  IPA: [ˈsam maˈɾi.no] (Tags: Valencia)
+Romania
+  IPA: [ru.məˈni.ə] (Tags: Central)
+  IPA: [ro.məˈni.ə] (Tags: Balearic)
+  IPA: [ro.maˈni.a] (Tags: Valencia)
+Lesotho
+  IPA: [ləˈzɔ.tu] (Tags: Central)
+  IPA: [ləˈzɔ.to] (Tags: Balearic)
+  IPA: [leˈzɔ.to] (Tags: Valencia)
+Burkina Faso
+  IPA: [burˈki.nə ˈfa.zu] (Tags: Central)
+  IPA: [burˈki.nə ˈfa.zo] (Tags: Balearic)
+  IPA: [buɾˈki.na ˈfa.zo] (Tags: Valencia)
+Kazakhstan
+  IPA: [kə.zəχsˈtan] (Tags: Balearic, Central)
+  IPA: [ka.zaχsˈtan] (Tags: Valencia)
+Dominica
+  IPA: [du.miˈni.kə] (Tags: Central)
+  IPA: [do.miˈni.kə] (Tags: Balearic)
+  IPA: [do.miˈni.ka] (Tags: Valencia)
+Fiji
+  IPA: [ˈfi.ʒi] (Tags: Balearic, Central)
+  IPA: [ˈfi.d͡ʒi] (Tags: Valencia)
+Montserrat
+  IPA: [mun.səˈrat] (Tags: Central)
+  IPA: [mon.səˈrat] (Tags: Balearic)
+  IPA: [mon.seˈrat] (Tags: Valencia)
+Costa Rica
+  IPA: [ˈkɔs.tə ˈri.kə] (Tags: Balearic, Central)
+  IPA: [ˈkɔs.ta ˈri.ka] (Tags: Valencia)
+Portugal
+  IPA: [pur.tuˈɣal] (Tags: Central)
+  IPA: [por.tuˈɣal] (Tags: Balearic)
+  IPA: [poɾ.tuˈɣal] (Tags: Valencia)
+Guinea
+  IPA: [ɡiˈne.ə] (Tags: Balearic, Central)
+  IPA: [ɡiˈne.a] (Tags: Valencia)
+Barbados
+  IPA: [bərˈba.ðus] (Tags: Central)
+  IPA: [bərˈba.ðos] (Tags: Balearic)
+  IPA: [baɾˈba.ðos] (Tags: Valencia)
+Eritrea
+  IPA: [ə.ɾiˈtɾe.ə] (Tags: Balearic, Central)
+  IPA: [e.ɾiˈtɾe.a] (Tags: Valencia)
+Congo
+  IPA: [ˈkoŋ.ɡu] (Tags: Central)
+  IPA: [ˈkoŋ.ɡo] (Tags: Balearic, Valencia)
+Malta
+  IPA: [ˈmal.tə] (Tags: Balearic, Central)
+  IPA: [ˈmal.ta] (Tags: Valencia)
+Samoa
+  IPA: [səˈmo.ə] (Tags: Balearic, Central)
+  IPA: [saˈmo.a] (Tags: Valencia)
+Vietnam
+  IPA: [bi.ənˈnam] (Tags: Central)
+  IPA: [vi.ənˈnam] (Tags: Balearic)
+  IPA: [vi.edˈnam] (Tags: Valencia)
+Taiwan
+  IPA: [təjˈwan] (Tags: Balearic, Central)
+  IPA: [tajˈwan] (Tags: Valencia)
+Montreal
+  IPA: [ˌmon.reˈal] (Tags: Balearic, Central, Valencia)
+Quebec
+  IPA: [kəˈβɛk] (Tags: Central)
+sol
+  IPA: [ˈsɔl] (Tags: Balearic, Central, Valencia)
+Gujarat
+  IPA: [ɡu.ʒəˈɾat] (Tags: Balearic, Central)
+  IPA: [ɡu.d͡ʒaˈɾat] (Tags: Valencia)
+Melbourne
+  IPA: [ˈmɛl.βurn] (Tags: Central)
+  IPA: [məlˈβur.nə] (Tags: Central)
+  IPA: [ˈmɛl.burn] (Tags: Balearic)
+  IPA: [məlˈbur.nə] (Tags: Balearic)
+  IPA: [ˈmɛl.buɾn] (Tags: Valencia)
+  IPA: [melˈbuɾ.ne] (Tags: Valencia)
+Sydney
+  IPA: [ˈsid.ni] (Tags: Balearic, Central, Valencia)
+Salvador
+  IPA: [səl.βəˈðo] (Tags: Central)
+  IPA: [səl.vəˈðo] (Tags: Balearic)
+  IPA: [sal.vaˈðoɾ] (Tags: Valencia)
+Kuala Lumpur
+  IPA: [kuˈa.lə ˈlum.pu] (Tags: Central)
+  IPA: [kuˈa.lə ˈlum.po] (Tags: Balearic)
+  IPA: [kuˈa.la ˈlum.poɾ] (Tags: Valencia)
+  IPA: [kuˈa.lə ˈlum.pu] (Tags: Balearic, Central)
+  IPA: [kuˈa.la ˈlum.puɾ] (Tags: Valencia)
+Oceania
+  IPA: [u.se.əˈni.ə] (Tags: Central)
+  IPA: [o.se.əˈni.ə] (Tags: Balearic)
+  IPA: [o.se.aˈni.a] (Tags: Valencia)
+Tibet
+  IPA: [tiˈβɛt] (Tags: Central)
+  IPA: [tiˈbet] (Tags: Valencia)
+Hawaii
+  IPA: [əˈwaj] (Tags: Balearic, Central)
+  IPA: [aˈwaj] (Tags: Valencia)
+Amsterdam
+  IPA: [əms.tərˈdam] (Tags: Balearic, Central)
+  IPA: [ams.teɾˈðam] (Tags: Valencia)
+Madrid
+  IPA: [məˈðɾit] (Tags: Balearic, Central)
+  IPA: [maˈðɾit] (Tags: Valencia)
+Toscana
+  IPA: [tusˈka.nə] (Tags: Central)
+  IPA: [tosˈka.nə] (Tags: Balearic)
+  IPA: [tosˈka.na] (Tags: Valencia)
+Albert
+  IPA: [əlˈβɛrt] (Tags: Central)
+  IPA: [əlˈbɛrt] (Tags: Balearic)
+  IPA: [alˈbɛɾt] (Tags: Valencia)
+Budapest
+  IPA: [bu.ðəˈpɛst] (Tags: Central)
+Tobago
+  IPA: [tuˈβa.ɣu] (Tags: Central)
+  IPA: [toˈba.ɣo] (Tags: Balearic, Valencia)
+Glasgow
+  IPA: [ˈɡlaz.ɡow] (Tags: Balearic, Central)
+  IPA: [ˈɡlaz.ɣow] (Tags: Valencia)
+Surinam
+  IPA: [su.ɾiˈnam] (Tags: Balearic, Central, Valencia)
+Kabul
+  IPA: [kəˈβul] (Tags: Central)
+  IPA: [kəˈbul] (Tags: Balearic)
+  IPA: [kaˈbul] (Tags: Valencia)
+Jakarta
+  IPA: [d͡ʒəˈkar.tə] (Tags: Balearic, Central)
+  IPA: [d͡ʒaˈkaɾ.ta] (Tags: Valencia)
+Tarragona
+  IPA: [tə.rəˈɣo.nə] (Tags: Balearic, Central)
+  IPA: [ta.raˈɣo.na] (Tags: Valencia)
+Gerard
+  IPA: [ʒəˈɾart] (Tags: Balearic, Central)
+  IPA: [d͡ʒeˈɾaɾt] (Tags: Valencia)
+Verona
+  IPA: [bəˈɾo.nə] (Tags: Central)
+  IPA: [vəˈɾo.nə] (Tags: Balearic)
+  IPA: [veˈɾo.na] (Tags: Valencia)
+Los Angeles
+  IPA: [luˈzaɲ.ʒə.ləs] (Tags: Central)
+  IPA: [loˈzaɲ.ʒə.ləs] (Tags: Balearic)
+  IPA: [loˈzaɲ.d͡ʒe.les] (Tags: Valencia)
+Bali
+  IPA: [ˈba.li] (Tags: Balearic, Central, Valencia)
+Tunis
+  IPA: [ˈtu.nis] (Tags: Balearic, Central, Valencia)
+Oslo
+  IPA: [ˈɔz.lo] (Tags: Balearic)
+  IPA: [ˈɔz.lu] (Tags: Central)
+Barcelona
+  IPA: [bər.səˈlo.nə] (Tags: Balearic, Central)
+  IPA: [baɾ.seˈlo.na] (Tags: Valencia)
+Jerusalem
+  IPA: [ʒə.ɾu.zəˈlɛm] (Tags: Balearic, Central)
+  IPA: [d͡ʒe.ɾu.zaˈlem] (Tags: Valencia)
+Hamburg
+  IPA: [əmˈburk] (Tags: Balearic, Central)
+  IPA: [amˈbuɾk] (Tags: Valencia)
+Daniel
+  IPA: [də.niˈɛl] (Tags: Balearic, Central)
+  IPA: [da.niˈɛl] (Tags: Valencia)
+Hainaut
+  IPA: [əjˈnawt] (Tags: Balearic, Central)
+  IPA: [ajˈnawt] (Tags: Valencia)
+Bruges
+  IPA: [ˈbɾu.ʒəs] (Tags: Balearic, Central)
+  IPA: [ˈbɾu.d͡ʒes] (Tags: Valencia)
+Zeus
+  IPA: [ˈzɛws] (Tags: Balearic, Central)
+Sofia
+  IPA: [suˈfi.ə] (Tags: Balearic, Central)
+  IPA: [soˈfi.a] (Tags: Valencia)
+Alexandria
+  IPA: [ə.ləɡ.zənˈdɾi.ə] (Tags: Balearic, Central)
+  IPA: [a.leɡ.zanˈdɾi.a] (Tags: Valencia)
+Utrecht
+  IPA: [uˈtɾɛχt] (Tags: Balearic, Central, Valencia)
+Bucarest
+  IPA: [bu.kəˈɾest] (Tags: Balearic, Central)
+  IPA: [bu.kaˈɾest] (Tags: Valencia)
+Venus
+  IPA: [ˈbɛ.nus] (Tags: Central)
+  IPA: [ˈvɛ.nus] (Tags: Balearic, Valencia)
+Aaron
+  IPA: [ə.əˈɾon] (Tags: Balearic, Central)
+  IPA: [a.aˈɾon] (Tags: Valencia)
+Saturn
+  IPA: [səˈturn] (Tags: Balearic, Central)
+  IPA: [saˈtuɾn] (Tags: Valencia)
+Teresa
+  IPA: [təˈɾɛ.zə] (Tags: Central)
+  IPA: [təˈɾə.zə] (Tags: Balearic)
+  IPA: [teˈɾe.za] (Tags: Valencia)
+Turquia
+  IPA: [turˈki.ə] (Tags: Balearic, Central)
+  IPA: [tuɾˈki.a] (Tags: Valencia)
+Ruanda
+  IPA: [ruˈan.də] (Tags: Balearic, Central)
+  IPA: [ruˈan.da] (Tags: Valencia)
+Xavier
+  IPA: [ʃə.βiˈe] (Tags: Central)
+  IPA: [ʃə.viˈe] (Tags: Balearic)
+  IPA: [t͡ʃa.viˈeɾ] (Tags: Valencia)
+Tigris
+  IPA: [ˈti.ɣɾis] (Tags: Balearic, Central, Valencia)
+Macau
+  IPA: [məˈkaw] (Tags: Balearic, Central)
+  IPA: [maˈkaw] (Tags: Valencia)
+Jura
+  IPA: [ˈʒu.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒu.ɾa] (Tags: Valencia)
+Abelard
+  IPA: [ə.βəˈlart] (Tags: Central)
+  IPA: [ə.bəˈlart] (Tags: Balearic)
+  IPA: [a.beˈlaɾt] (Tags: Valencia)
+Odessa
+  IPA: [uˈðɛ.sə] (Tags: Central)
+Texas
+  IPA: [ˈtɛk.səs] (Tags: Balearic, Central)
+Pius
+  IPA: [ˈpiws] (Tags: Balearic, Central, Valencia)
+Adam
+  IPA: [əˈðam] (Tags: Balearic, Central)
+  IPA: [aˈðam] (Tags: Valencia)
+Pamplona
+  IPA: [pəmˈplo.nə] (Tags: Balearic, Central)
+  IPA: [pamˈplo.na] (Tags: Valencia)
+Jacob
+  IPA: [ʒəˈkɔp] (Tags: Balearic, Central)
+  IPA: [d͡ʒaˈkɔp] (Tags: Valencia)
+David
+  IPA: [dəˈβit] (Tags: Central)
+  IPA: [dəˈvit] (Tags: Balearic)
+  IPA: [daˈvit] (Tags: Valencia)
+Robert
+  IPA: [ruˈβɛrt] (Tags: Central)
+  IPA: [roˈbɛrt] (Tags: Balearic)
+  IPA: [roˈbɛɾt] (Tags: Valencia)
+Hera
+  IPA: [ˈe.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈe.ɾa] (Tags: Valencia)
+Europa
+  IPA: [əwˈɾo.pə] (Tags: Balearic, Central)
+  IPA: [ewˈɾo.pa] (Tags: Valencia)
+Zaire
+  IPA: [ˈzaj.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈzaj.ɾe] (Tags: Valencia)
+Santa Claus
+  IPA: [ˈsan.tə ˈklaws] (Tags: Balearic, Central)
+  IPA: [ˈsan.ta ˈklaws] (Tags: Valencia)
+Ares
+  IPA: [ˈa.ɾəs] (Tags: Balearic, Central)
+  IPA: [ˈa.ɾes] (Tags: Valencia)
+Hades
+  IPA: [ˈa.ðəs] (Tags: Balearic, Central)
+  IPA: [ˈa.ðes] (Tags: Valencia)
+Ivan
+  IPA: [iˈβan] (Tags: Central)
+  IPA: [iˈvan] (Tags: Balearic, Valencia)
+Gibraltar
+  IPA: [ʒi.βɾəlˈta] (Tags: Central)
+  IPA: [ʒi.bɾəlˈta] (Tags: Balearic)
+  IPA: [d͡ʒi.bɾalˈtaɾ] (Tags: Valencia)
+Oliver
+  IPA: [u.liˈβe] (Tags: Central)
+  IPA: [o.liˈve] (Tags: Balearic)
+  IPA: [o.liˈveɾ] (Tags: Valencia)
+Oliver
+  IPA: [u.liˈβe] (Tags: Central)
+  IPA: [o.liˈve] (Tags: Balearic)
+  IPA: [o.liˈveɾ] (Tags: Valencia)
+Gabriel
+  IPA: [ɡə.βɾiˈɛl] (Tags: Central)
+  IPA: [ɡə.bɾiˈɛl] (Tags: Balearic)
+  IPA: [ɡa.bɾiˈɛl] (Tags: Valencia)
+Nevada
+  IPA: [nəˈβa.ðə] (Tags: Central)
+  IPA: [nəˈva.ðə] (Tags: Balearic)
+  IPA: [neˈva.ða] (Tags: Valencia)
+Inca
+  IPA: [ˈiŋ.kə] (Tags: Balearic, Central)
+  IPA: [ˈiŋ.ka] (Tags: Valencia)
+Chicago
+  IPA: [ʃiˈka.ɣu] (Tags: Central)
+  IPA: [ʃiˈka.ɣo] (Tags: Balearic)
+  IPA: [t͡ʃiˈka.ɣo] (Tags: Valencia)
+Istanbul
+  IPA: [is.təmˈbul] (Tags: Balearic, Central)
+  IPA: [is.tamˈbul] (Tags: Valencia)
+Moscou
+  IPA: [musˈkɔw] (Tags: Central)
+  IPA: [mosˈkɔw] (Tags: Balearic, Valencia)
+Júpiter
+  IPA: [ˈʒu.pi.tər] (Tags: Central)
+  IPA: [ˈd͡ʒu.pi.ter] (Tags: Valencia)
+Jesús
+  IPA: [ʒəˈzus] (Tags: Balearic, Central)
+  IPA: [d͡ʒeˈzus] (Tags: Valencia)
+Hestia
+  IPA: [əsˈti.ə] (Tags: Balearic, Central)
+  IPA: [esˈti.a] (Tags: Valencia)
+Hermes
+  IPA: [ˈer.məs] (Tags: Balearic, Central)
+  IPA: [ˈeɾ.mes] (Tags: Valencia)
+Hercegovina
+  IPA: [ər.sə.ɣuˈβi.nə] (Tags: Central)
+  IPA: [ər.sə.ɣuˈvi.nə] (Tags: Balearic)
+  IPA: [eɾ.se.ɣoˈvi.na] (Tags: Valencia)
+Melilla
+  IPA: [məˈli.ʎə] (Tags: Balearic, Central)
+  IPA: [meˈli.ʎa] (Tags: Valencia)
+Afganistan
+  IPA: [əv.ɣə.nisˈtan] (Tags: Balearic, Central)
+  IPA: [av.ɣa.nisˈtan] (Tags: Valencia)
+Alba
+  IPA: [ˈal.βə] (Tags: Central)
+  IPA: [ˈal.bə] (Tags: Balearic)
+  IPA: [ˈal.ba] (Tags: Valencia)
+Cam
+  IPA: [ˈkam] (Tags: Balearic, Central, Valencia)
+Advent
+  IPA: [ədˈben] (Tags: Central)
+  IPA: [ədˈvent] (Tags: Balearic)
+  IPA: [adˈvent] (Tags: Valencia)
+Montenegro
+  IPA: [mun.təˈnɛ.ɣɾu] (Tags: Central)
+  IPA: [mon.təˈnə.ɣɾo] (Tags: Balearic)
+  IPA: [mon.teˈne.ɣɾo] (Tags: Valencia)
+Cupido
+  IPA: [kuˈpi.ðu] (Tags: Central)
+  IPA: [kuˈpi.ðo] (Tags: Balearic, Valencia)
+Caro
+  IPA: [ˈka.ɾu] (Tags: Central)
+  IPA: [ˈka.ɾo] (Tags: Balearic, Valencia)
+Abraham
+  IPA: [ə.βɾəˈam] (Tags: Central)
+  IPA: [ə.bɾəˈam] (Tags: Balearic)
+  IPA: [a.bɾaˈam] (Tags: Valencia)
+Ada
+  IPA: [ˈa.ðə] (Tags: Balearic, Central)
+  IPA: [ˈa.ða] (Tags: Valencia)
+Dari
+  IPA: [ˈda.ɾi] (Tags: Balearic, Central, Valencia)
+Eros
+  IPA: [ˈɛ.ɾus] (Tags: Central)
+  IPA: [ˈɛ.ɾos] (Tags: Balearic)
+  IPA: [ˈe.ɾos] (Tags: Valencia)
+Juli
+  IPA: [ˈʒu.li] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒu.li] (Tags: Valencia)
+Joan
+  IPA: [ʒuˈan] (Tags: Balearic, Central)
+  IPA: [d͡ʒuˈan] (Tags: Valencia)
+Mart
+  IPA: [ˈmart] (Tags: Balearic, Central)
+  IPA: [ˈmaɾt] (Tags: Valencia)
+Marc
+  IPA: [ˈmark] (Tags: Balearic, Central)
+  IPA: [ˈmaɾk] (Tags: Valencia)
+Granada
+  IPA: [ɡɾəˈna.ðə] (Tags: Balearic, Central)
+  IPA: [ɡɾaˈna.ða] (Tags: Valencia)
+Maria
+  IPA: [məˈɾi.ə] (Tags: Balearic, Central)
+  IPA: [maˈɾi.a] (Tags: Valencia)
+Marcel
+  IPA: [mərˈsɛl] (Tags: Balearic, Central)
+  IPA: [maɾˈsɛl] (Tags: Valencia)
+Pere
+  IPA: [ˈpe.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈpe.ɾe] (Tags: Valencia)
+Ester
+  IPA: [əsˈter] (Tags: Central)
+  IPA: [esˈter] (Tags: Valencia)
+Pol
+  IPA: [ˈpɔl] (Tags: Balearic, Central, Valencia)
+Pisa
+  IPA: [ˈpi.zə] (Tags: Balearic, Central)
+  IPA: [ˈpi.za] (Tags: Valencia)
+Nil
+  IPA: [ˈnil] (Tags: Balearic, Central, Valencia)
+Mon
+  IPA: [ˈmon] (Tags: Balearic, Central, Valencia)
+Anna
+  IPA: [ˈan.nə] (Tags: Balearic, Central)
+  IPA: [ˈan.na] (Tags: Valencia)
+Terra
+  IPA: [ˈtɛ.rə] (Tags: Balearic, Central)
+  IPA: [ˈtɛ.ra] (Tags: Valencia)
+Roger
+  IPA: [ruˈʒe] (Tags: Central)
+  IPA: [roˈʒe] (Tags: Balearic)
+  IPA: [roˈd͡ʒeɾ] (Tags: Valencia)
+Rut
+  IPA: [ˈrut] (Tags: Balearic, Central, Valencia)
+York
+  IPA: [ˈjɔrk] (Tags: Balearic, Central)
+  IPA: [ˈjɔɾk] (Tags: Valencia)
+Pan
+  IPA: [ˈpan] (Tags: Balearic, Central, Valencia)
+Noruega
+  IPA: [nu.ɾuˈɛ.ɣə] (Tags: Central)
+  IPA: [no.ɾuˈə.ɣə] (Tags: Balearic)
+  IPA: [no.ɾuˈe.ɣa] (Tags: Valencia)
+Aran
+  IPA: [əˈɾan] (Tags: Balearic, Central)
+  IPA: [aˈɾan] (Tags: Valencia)
+Aran
+  IPA: [əˈɾan] (Tags: Balearic, Central)
+  IPA: [aˈɾan] (Tags: Valencia)
+Perú
+  IPA: [pəˈɾu] (Tags: Balearic, Central)
+  IPA: [peˈɾu] (Tags: Valencia)
+Urals
+  IPA: [uˈɾals] (Tags: Balearic, Central, Valencia)
+Medina
+  IPA: [məˈði.nə] (Tags: Balearic, Central)
+  IPA: [meˈði.na] (Tags: Valencia)
+Medina
+  IPA: [məˈði.nə] (Tags: Balearic, Central)
+  IPA: [meˈði.na] (Tags: Valencia)
+TV3
+  IPA: [ˌteˌβeˈtɾɛs] (Tags: Central)
+  IPA: [ˌteˌveˈtɾəs] (Tags: Balearic)
+  IPA: [ˌteˌveˈtɾes] (Tags: Valencia)
+Carib
+  IPA: [kəˈɾip] (Tags: Balearic, Central)
+  IPA: [kaˈɾip] (Tags: Valencia)
+Atlanta
+  IPA: [əlˈlan.tə] (Tags: Balearic, Central)
+  IPA: [alˈlan.ta] (Tags: Valencia)
+Palestina
+  IPA: [pə.ləsˈti.nə] (Tags: Balearic, Central)
+  IPA: [pa.lesˈti.na] (Tags: Valencia)
+Xerxes
+  IPA: [ˈʃɛr.ʃəs] (Tags: Central)
+  IPA: [ˈʃər.ʃəs] (Tags: Balearic)
+  IPA: [ˈʃeɾ.ʃes] (Tags: Valencia)
+Luxemburg
+  IPA: [luk.səmˈburk] (Tags: Balearic, Central)
+  IPA: [luk.semˈbuɾk] (Tags: Valencia)
+Panjab
+  IPA: [pəɲˈʒap] (Tags: Balearic, Central)
+  IPA: [paɲˈd͡ʒap] (Tags: Valencia)
+Singapur
+  IPA: [siŋ.ɡəˈpur] (Tags: Balearic, Central)
+  IPA: [siŋ.ɡaˈpur] (Tags: Valencia)
+Alaric
+  IPA: [ə.ləˈɾik] (Tags: Balearic, Central)
+  IPA: [a.laˈɾik] (Tags: Valencia)
+Buda
+  IPA: [ˈbu.ðə] (Tags: Balearic, Central)
+  IPA: [ˈbu.ða] (Tags: Valencia)
+Londres
+  IPA: [ˈlon.dɾəs] (Tags: Balearic, Central)
+  IPA: [ˈlon.dɾes] (Tags: Valencia)
+Homer
+  IPA: [uˈmer] (Tags: Central)
+  IPA: [oˈmer] (Tags: Balearic, Valencia)
+Polònia
+  IPA: [puˈlɔ.ni.ə] (Tags: Central)
+  IPA: [poˈlɔ.ni.ə] (Tags: Balearic)
+  IPA: [poˈlɔ.ni.a] (Tags: Valencia)
+Kosovo
+  IPA: [ˈko.su.βu] (Tags: Central)
+  IPA: [ˈko.so.vo] (Tags: Balearic, Valencia)
+Andes
+  IPA: [ˈan.dəs] (Tags: Balearic, Central)
+  IPA: [ˈan.des] (Tags: Valencia)
+Roberta
+  IPA: [ruˈβɛr.tə] (Tags: Central)
+  IPA: [roˈbɛr.tə] (Tags: Balearic)
+  IPA: [roˈbɛɾ.ta] (Tags: Valencia)
+Marta
+  IPA: [ˈmar.tə] (Tags: Balearic, Central)
+  IPA: [ˈmaɾ.ta] (Tags: Valencia)
+Afrodita
+  IPA: [ə.fɾuˈði.tə] (Tags: Balearic, Central)
+  IPA: [a.fɾoˈði.ta] (Tags: Valencia)
+Anvers
+  IPA: [əmˈbɛrs] (Tags: Central)
+  IPA: [əɱˈvɛrs] (Tags: Balearic)
+  IPA: [aɱˈvɛrs] (Tags: Valencia)
+UCI
+  IPA: [ˈu.si] (Tags: Balearic, Central, Valencia)
+Karachi
+  IPA: [kəˈɾa.t͡ʃi] (Tags: Balearic, Central)
+  IPA: [kaˈɾa.t͡ʃi] (Tags: Valencia)
+Titus
+  IPA: [ˈti.tus] (Tags: Balearic, Central, Valencia)
+Cambodja
+  IPA: [kəmˈbɔ.d͡ʒə] (Tags: Balearic, Central)
+  IPA: [kamˈbɔ.d͡ʒa] (Tags: Valencia)
+Antigua
+  IPA: [ənˈti.ɣwə] (Tags: Balearic, Central)
+  IPA: [anˈti.ɣwa] (Tags: Valencia)
+Caire
+  IPA: [ˈkaj.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈkaj.ɾe] (Tags: Valencia)
+Roland
+  IPA: [ruˈlan] (Tags: Central)
+  IPA: [roˈlant] (Tags: Balearic, Valencia)
+Gemma
+  IPA: [ˈʒem.mə] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒem.ma] (Tags: Valencia)
+Santo Domingo
+  IPA: [ˈsan.tu ðuˈmiŋ.ɡu] (Tags: Central)
+  IPA: [ˈsan.to ðuˈmiŋ.ɡo] (Tags: Balearic)
+  IPA: [ˈsan.to ðoˈmiŋ.ɡo] (Tags: Valencia)
+Brasília
+  IPA: [bɾəˈzi.li.ə] (Tags: Balearic, Central)
+  IPA: [bɾaˈzi.li.a] (Tags: Valencia)
+Andorra la Vella
+  IPA: [ənˈdɔ.rə lə ˈβe.ʎə] (Tags: Central)
+  IPA: [ənˈdɔ.rə lə ˈve.ʎə] (Tags: Balearic)
+  IPA: [anˈdo.ra la ˈve.ʎa] (Tags: Valencia)
+Santiago
+  IPA: [sən.tiˈa.ɣu] (Tags: Central)
+  IPA: [sən.tiˈa.ɣo] (Tags: Balearic)
+  IPA: [san.tiˈa.ɣo] (Tags: Valencia)
+Filip
+  IPA: [fiˈlip] (Tags: Balearic, Central, Valencia)
+Judea
+  IPA: [ʒuˈðe.ə] (Tags: Balearic, Central)
+  IPA: [d͡ʒuˈðe.a] (Tags: Valencia)
+Siam
+  IPA: [siˈam] (Tags: Balearic, Central, Valencia)
+Corea
+  IPA: [kuˈɾe.ə] (Tags: Central)
+  IPA: [koˈɾe.ə] (Tags: Balearic)
+  IPA: [koˈɾe.a] (Tags: Valencia)
+Bermudes
+  IPA: [bərˈmu.ðəs] (Tags: Balearic, Central)
+  IPA: [beɾˈmu.ðes] (Tags: Valencia)
+Salamanca
+  IPA: [sə.ləˈmaŋ.kə] (Tags: Balearic, Central)
+  IPA: [sa.laˈmaŋ.ka] (Tags: Valencia)
+Manuel
+  IPA: [mə.nuˈɛl] (Tags: Balearic, Central)
+  IPA: [ma.nuˈɛl] (Tags: Valencia)
+Adrià
+  IPA: [ə.ðɾiˈa] (Tags: Balearic, Central)
+  IPA: [a.ðɾiˈa] (Tags: Valencia)
+Hispaniola
+  IPA: [is.pə.niˈɔ.lə] (Tags: Balearic, Central)
+  IPA: [is.pa.niˈɔ.la] (Tags: Valencia)
+Crimea
+  IPA: [kɾiˈme.ə] (Tags: Balearic, Central)
+  IPA: [kɾiˈme.a] (Tags: Valencia)
+Valladolid
+  IPA: [ˌba.ʎə.ðuˈlit] (Tags: Central)
+  IPA: [ˌva.ʎə.ðuˈlit] (Tags: Balearic)
+  IPA: [ˌva.ʎa.ðoˈlit] (Tags: Valencia)
+Yukon
+  IPA: [juˈkɔn] (Tags: Balearic, Central, Valencia)
+Sevilla
+  IPA: [səˈβi.ʎə] (Tags: Central)
+  IPA: [səˈvi.ʎə] (Tags: Balearic)
+  IPA: [seˈvi.ʎa] (Tags: Valencia)
+Albí
+  IPA: [əlˈβi] (Tags: Central)
+  IPA: [əlˈbi] (Tags: Balearic)
+  IPA: [alˈbi] (Tags: Valencia)
+Albà
+  IPA: [əlˈβa] (Tags: Central)
+  IPA: [əlˈba] (Tags: Balearic)
+  IPA: [alˈba] (Tags: Valencia)
+Alfons
+  IPA: [əlˈfons] (Tags: Balearic, Central)
+  IPA: [alˈfons] (Tags: Valencia)
+Guadalajara
+  IPA: [ɡwə.ðə.ləˈʒa.ɾə] (Tags: Balearic, Central)
+  IPA: [ɡwa.ða.laˈd͡ʒa.ɾa] (Tags: Valencia)
+Extremadura
+  IPA: [əks.tɾə.məˈðu.ɾə] (Tags: Balearic, Central)
+  IPA: [eks.tɾe.maˈðu.ɾa] (Tags: Valencia)
+Comores
+  IPA: [kuˈmɔ.ɾəs] (Tags: Central)
+  IPA: [koˈmɔ.ɾəs] (Tags: Balearic)
+Açores
+  IPA: [əˈsɔ.ɾəs] (Tags: Balearic, Central)
+Tadjikistan
+  IPA: [tə.d͡ʒi.kisˈtan] (Tags: Balearic, Central)
+  IPA: [ta.d͡ʒi.kisˈtan] (Tags: Valencia)
+Saragossa
+  IPA: [sə.ɾəˈɣɔ.sə] (Tags: Balearic, Central)
+  IPA: [sa.ɾaˈɣɔ.sa] (Tags: Valencia)
+titans
+  IPA: [tiˈtans] (Tags: Balearic, Central, Valencia)
+Navarra
+  IPA: [nəˈβa.rə] (Tags: Central)
+  IPA: [nəˈva.rə] (Tags: Balearic)
+  IPA: [naˈva.ra] (Tags: Valencia)
+Tula
+  IPA: [ˈtu.lə] (Tags: Balearic, Central)
+  IPA: [ˈtu.la] (Tags: Valencia)
+Creta
+  IPA: [ˈkɾɛ.tə] (Tags: Central)
+Frederic
+  IPA: [fɾə.ðəˈɾik] (Tags: Balearic, Central)
+  IPA: [fɾe.ðeˈɾik] (Tags: Valencia)
+Islàndia
+  IPA: [izˈlan.di.ə] (Tags: Balearic, Central)
+  IPA: [izˈlan.di.a] (Tags: Valencia)
+Rússia
+  IPA: [ˈru.si.ə] (Tags: Balearic, Central)
+  IPA: [ˈru.si.a] (Tags: Valencia)
+Angles
+  IPA: [ˈaŋ.ɡləs] (Tags: Balearic, Central)
+  IPA: [ˈaŋ.ɡles] (Tags: Valencia)
+Angles
+  IPA: [ˈaŋ.ɡləs] (Tags: Balearic, Central)
+  IPA: [ˈaŋ.ɡles] (Tags: Valencia)
+Dinamarca
+  IPA: [di.nəˈmar.kə] (Tags: Balearic, Central)
+  IPA: [di.naˈmaɾ.ka] (Tags: Valencia)
+Praga
+  IPA: [ˈpɾa.ɣə] (Tags: Balearic, Central)
+  IPA: [ˈpɾa.ɣa] (Tags: Valencia)
+França
+  IPA: [ˈfɾan.sə] (Tags: Balearic, Central)
+  IPA: [ˈfɾan.sa] (Tags: Valencia)
+Irlanda
+  IPA: [irˈlan.də] (Tags: Balearic, Central)
+  IPA: [iɾˈlan.da] (Tags: Valencia)
+Nova York
+  IPA: [ˈnɔ.βə ˈjɔrk] (Tags: Central)
+  IPA: [ˈnɔ.və ˈjɔrk] (Tags: Balearic)
+  IPA: [ˈnɔ.va ˈjɔɾk] (Tags: Valencia)
+Canadà
+  IPA: [kə.nəˈða] (Tags: Balearic, Central)
+  IPA: [ka.naˈða] (Tags: Valencia)
+Epifania
+  IPA: [ə.pi.fəˈni.ə] (Tags: Balearic, Central)
+  IPA: [e.pi.faˈni.a] (Tags: Valencia)
+irlandés
+  IPA: [iɾ.lanˈdes] (Tags: Valencia)
+Francesca
+  IPA: [fɾənˈsɛs.kə] (Tags: Central)
+  IPA: [fɾənˈsəs.kə] (Tags: Balearic)
+  IPA: [fɾanˈses.ka] (Tags: Valencia)
+Belgrad
+  IPA: [bəlˈɣɾat] (Tags: Balearic, Central)
+  IPA: [belˈɣɾat] (Tags: Valencia)
+Berlín
+  IPA: [bərˈlin] (Tags: Balearic, Central)
+  IPA: [beɾˈlin] (Tags: Valencia)
+Eos
+  IPA: [ˈɛ.us] (Tags: Central)
+  IPA: [ˈɛ.os] (Tags: Balearic, Valencia)
+Mallorca
+  IPA: [məˈʎɔr.kə] (Tags: Balearic, Central)
+  IPA: [maˈʎɔɾ.ka] (Tags: Valencia)
+Sichuan
+  IPA: [si.t͡ʃuˈan] (Tags: Balearic, Central, Valencia)
+Cir
+  IPA: [ˈsir] (Tags: Central, Valencia)
+María
+  IPA: [məˈɾi.ə] (Tags: Balearic, Central)
+  IPA: [maˈɾi.a] (Tags: Valencia)
+Aaró
+  IPA: [ə.əˈɾo] (Tags: Balearic, Central)
+  IPA: [a.aˈɾo] (Tags: Valencia)
+Absaló
+  IPA: [əp.səˈlo] (Tags: Balearic, Central)
+  IPA: [ap.saˈlo] (Tags: Valencia)
+Estònia
+  IPA: [əsˈtɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [esˈtɔ.ni.a] (Tags: Valencia)
+islandés
+  IPA: [iz.lanˈdes] (Tags: Valencia)
+Caín
+  IPA: [kəˈin] (Tags: Balearic, Central)
+  IPA: [kaˈin] (Tags: Valencia)
+Antilles
+  IPA: [ənˈti.ʎəs] (Tags: Balearic, Central)
+  IPA: [anˈti.ʎes] (Tags: Valencia)
+Artur
+  IPA: [ərˈtur] (Tags: Balearic, Central)
+  IPA: [aɾˈtur] (Tags: Valencia)
+Alger
+  IPA: [əʎˈʒe] (Tags: Balearic, Central)
+  IPA: [aʎˈd͡ʒeɾ] (Tags: Valencia)
+Riad
+  IPA: [riˈat] (Tags: Balearic, Central, Valencia)
+Esaú
+  IPA: [ə.zəˈu] (Tags: Balearic, Central)
+  IPA: [e.zaˈu] (Tags: Valencia)
+París
+  IPA: [pəˈɾis] (Tags: Balearic, Central)
+  IPA: [paˈɾis] (Tags: Valencia)
+EAU
+  IPA: [ˌeˌaˈu] (Tags: Balearic, Central, Valencia)
+Prometeu
+  IPA: [pɾu.məˈtɛw] (Tags: Central)
+  IPA: [pɾo.məˈtɛw] (Tags: Balearic)
+  IPA: [pɾo.meˈtɛw] (Tags: Valencia)
+Alcíone
+  IPA: [əlˈsi.u.nə] (Tags: Central)
+  IPA: [əlˈsi.o.nə] (Tags: Balearic)
+  IPA: [alˈsi.o.ne] (Tags: Valencia)
+Perseu
+  IPA: [pərˈsɛw] (Tags: Balearic, Central)
+  IPA: [peɾˈsɛw] (Tags: Valencia)
+Hainan
+  IPA: [əjˈnan] (Tags: Balearic, Central)
+  IPA: [ajˈnan] (Tags: Valencia)
+Vic
+  IPA: [ˈbik] (Tags: Central)
+  IPA: [ˈvik] (Tags: Balearic, Valencia)
+República Dominicana
+  IPA: [rəˈpub.bli.kə ðu.mi.niˈka.nə] (Tags: Central)
+  IPA: [rəˈpub.bli.kə ðo.mi.niˈka.nə] (Tags: Balearic)
+  IPA: [reˈpu.bli.ka ðo.mi.niˈka.na] (Tags: Valencia)
+Elna
+  IPA: [ˈɛl.nə] (Tags: Balearic, Central)
+  IPA: [ˈɛl.na] (Tags: Valencia)
+  IPA: /ˈ(j)el.nə/
+Alexandre
+  IPA: [ə.ləɡˈzan.dɾə] (Tags: Balearic, Central)
+  IPA: [a.leɡˈzan.dɾe] (Tags: Valencia)
+Camerun
+  IPA: [kə.məˈɾun] (Tags: Balearic, Central)
+  IPA: [ka.meˈɾun] (Tags: Valencia)
+Josefina
+  IPA: [ʒu.zəˈfi.nə] (Tags: Central)
+  IPA: [ʒo.zəˈfi.nə] (Tags: Balearic)
+  IPA: [d͡ʒo.zeˈfi.na] (Tags: Valencia)
+Catalunya
+  IPA: [kə.təˈlu.ɲə] (Tags: Balearic, Central)
+  IPA: [ka.taˈlu.ɲa] (Tags: Valencia)
+Nils
+  IPA: [ˈnils] (Tags: Balearic, Central, Valencia)
+Troia
+  IPA: [ˈtɾɔ.jə] (Tags: Balearic, Central)
+  IPA: [ˈtɾɔ.ja] (Tags: Valencia)
+Eslovènia
+  IPA: [əz.luˈβɛ.ni.ə] (Tags: Central)
+  IPA: [əz.loˈvɛ.ni.ə] (Tags: Balearic)
+  IPA: [ez.loˈvɛ.ni.a] (Tags: Valencia)
+Índia
+  IPA: [ˈin.di.ə] (Tags: Balearic, Central)
+  IPA: [ˈin.di.a] (Tags: Valencia)
+Níger
+  IPA: [ˈni.ʒər] (Tags: Balearic, Central)
+  IPA: [ˈni.d͡ʒer] (Tags: Valencia)
+Eloi
+  IPA: [əˈlɔj] (Tags: Balearic, Central)
+  IPA: [eˈlɔj] (Tags: Valencia)
+Aina
+  IPA: [ˈaj.nə] (Tags: Balearic, Central)
+  IPA: [ˈaj.na] (Tags: Valencia)
+Azerbaidjan
+  IPA: [ə.zər.bəˈd͡ʒan] (Tags: Balearic, Central)
+  IPA: [a.zeɾ.bajˈd͡ʒan] (Tags: Valencia)
+Oltènia
+  IPA: [ulˈtɛ.ni.ə] (Tags: Central)
+  IPA: [olˈtɛ.ni.ə] (Tags: Balearic)
+  IPA: [olˈtɛ.ni.a] (Tags: Valencia)
+Egipte
+  IPA: [əˈʒip.tə] (Tags: Balearic, Central)
+  IPA: [eˈd͡ʒip.te] (Tags: Valencia)
+Teodor
+  IPA: [tə.uˈðor] (Tags: Central)
+  IPA: [tə.oˈðor] (Tags: Balearic)
+  IPA: [te.oˈðor] (Tags: Valencia)
+Eduard
+  IPA: [ə.ðuˈart] (Tags: Balearic, Central)
+  IPA: [e.ðuˈaɾt] (Tags: Valencia)
+Rafael
+  IPA: [rə.fəˈɛl] (Tags: Balearic, Central)
+  IPA: [ra.faˈɛl] (Tags: Valencia)
+Nova Gal·les del Sud
+  IPA: [ˈnɔ.βə ˈɣal.ləz dəl ˈsut] (Tags: Central)
+  IPA: [ˈnɔ.və ˈɣal.ləz dəl ˈsut] (Tags: Balearic)
+  IPA: [ˈnɔ.va ˈɣal.lez ðel ˈsut] (Tags: Valencia)
+Agnès
+  IPA: [əŋˈnɛs] (Tags: Central)
+  IPA: [əŋˈnəs] (Tags: Balearic)
+  IPA: [aŋˈnes] (Tags: Valencia)
+Tasmània
+  IPA: [təzˈma.ni.ə] (Tags: Balearic, Central)
+  IPA: [tazˈma.ni.a] (Tags: Valencia)
+Transnístria
+  IPA: [tɾənzˈnis.tɾi.ə] (Tags: Balearic, Central)
+  IPA: [tɾanzˈnis.tɾi.a] (Tags: Valencia)
+Atena
+  IPA: [əˈtɛ.nə] (Tags: Central)
+  IPA: [əˈtə.nə] (Tags: Balearic)
+  IPA: [aˈte.na] (Tags: Valencia)
+Enric
+  IPA: [ənˈrik] (Tags: Balearic, Central)
+  IPA: [enˈrik] (Tags: Valencia)
+Lancelot
+  IPA: [lən.səˈlɔt] (Tags: Balearic, Central)
+  IPA: [lan.seˈlɔt] (Tags: Valencia)
+Epir
+  IPA: [əˈpir] (Tags: Balearic, Central)
+  IPA: [eˈpir] (Tags: Valencia)
+Pandora
+  IPA: [pənˈdo.ɾə] (Tags: Balearic, Central)
+  IPA: [panˈdo.ɾa] (Tags: Valencia)
+Justina
+  IPA: [ʒusˈti.nə] (Tags: Balearic, Central)
+  IPA: [d͡ʒusˈti.na] (Tags: Valencia)
+Viena
+  IPA: [biˈɛ.nə] (Tags: Central)
+  IPA: [viˈɛ.nə] (Tags: Balearic)
+  IPA: [viˈe.na] (Tags: Valencia)
+Genoveva
+  IPA: [ʒə.nuˈβe.βə] (Tags: Central)
+  IPA: [ʒə.noˈve.və] (Tags: Balearic)
+  IPA: [d͡ʒe.noˈve.va] (Tags: Valencia)
+Roma
+  IPA: [ˈro.mə] (Tags: Balearic, Central)
+  IPA: [ˈro.ma] (Tags: Valencia)
+Corea del Nord
+  IPA: [kuˈɾe.ə ðəl ˈnɔrt] (Tags: Central)
+  IPA: [koˈɾe.ə ðəl ˈnɔrt] (Tags: Balearic)
+  IPA: [koˈɾe.a ðel ˈnɔɾt] (Tags: Valencia)
+Corea del Sud
+  IPA: [kuˈɾe.ə ðəl ˈsut] (Tags: Central)
+  IPA: [koˈɾe.ə ðəl ˈsut] (Tags: Balearic)
+  IPA: [koˈɾe.a ðel ˈsut] (Tags: Valencia)
+Aristòtil
+  IPA: [ə.ɾisˈtɔ.til] (Tags: Balearic, Central)
+  IPA: [a.ɾisˈtɔ.til] (Tags: Valencia)
+Viccionari
+  IPA: [bik.si.uˈna.ɾi] (Tags: Central)
+  IPA: [vik.si.oˈna.ɾi] (Tags: Balearic, Valencia)
+Líbia
+  IPA: [ˈli.βi.ə] (Tags: Central)
+  IPA: [ˈli.bi.ə] (Tags: Balearic)
+  IPA: [ˈli.bi.a] (Tags: Valencia)
+Paraguai
+  IPA: [pə.ɾəˈɣwaj] (Tags: Balearic, Central)
+  IPA: [pa.ɾaˈɣwaj] (Tags: Valencia)
+Síria
+  IPA: [ˈsi.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈsi.ɾi.a] (Tags: Valencia)
+Bogotà
+  IPA: [bu.ɣuˈta] (Tags: Central)
+  IPA: [bo.ɣoˈta] (Tags: Balearic, Valencia)
+Morfeu
+  IPA: [murˈfɛw] (Tags: Central)
+  IPA: [morˈfɛw] (Tags: Balearic)
+  IPA: [moɾˈfɛw] (Tags: Valencia)
+Persèfone
+  IPA: [pərˈsɛ.fu.nə] (Tags: Central)
+  IPA: [pərˈsɛ.fo.nə] (Tags: Balearic)
+  IPA: [peɾˈsɛ.fo.ne] (Tags: Valencia)
+Caterina
+  IPA: [kə.təˈɾi.nə] (Tags: Balearic, Central)
+  IPA: [ka.teˈɾi.na] (Tags: Valencia)
+Cristina
+  IPA: [kɾisˈti.nə] (Tags: Balearic, Central)
+  IPA: [kɾisˈti.na] (Tags: Valencia)
+Adelaida
+  IPA: [ə.ðəˈlaj.ðə] (Tags: Balearic, Central)
+  IPA: [a.ðeˈlaj.ða] (Tags: Valencia)
+Jordi
+  IPA: [ˈʒɔr.di] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒɔɾ.ði] (Tags: Valencia)
+Crist
+  IPA: [ˈkɾist] (Tags: Balearic, Central, Valencia)
+Barça
+  IPA: [ˈbar.sə] (Tags: Balearic, Central)
+  IPA: [ˈbaɾ.sa] (Tags: Valencia)
+Terranova
+  IPA: [tə.rəˈnɔ.βə] (Tags: Central)
+  IPA: [tə.rəˈnɔ.və] (Tags: Balearic)
+  IPA: [te.raˈnɔ.va] (Tags: Valencia)
+Ezequiel
+  IPA: [ə.zə.kiˈɛl] (Tags: Balearic, Central)
+  IPA: [e.ze.kiˈɛl] (Tags: Valencia)
+Antigua i Barbuda
+  IPA: [ənˈti.ɣwə i βərˈbu.ðə] (Tags: Central)
+  IPA: [ənˈti.ɣwə i bərˈbu.ðə] (Tags: Balearic)
+  IPA: [anˈti.ɣwa i baɾˈbu.ða] (Tags: Valencia)
+Noè
+  IPA: [nuˈɛ] (Tags: Central)
+  IPA: [noˈə] (Tags: Balearic)
+  IPA: [noˈe] (Tags: Valencia)
+Petrarca
+  IPA: [pəˈtɾar.kə] (Tags: Balearic, Central)
+  IPA: [peˈtɾaɾ.ka] (Tags: Valencia)
+Cecília
+  IPA: [səˈsi.li.ə] (Tags: Balearic, Central)
+  IPA: [seˈsi.li.a] (Tags: Valencia)
+EUA
+  IPA: [ˌeˌuˈa] (Tags: Balearic, Central, Valencia)
+nadal
+  IPA: [nəˈðal] (Tags: Balearic, Central)
+  IPA: [naˈðal] (Tags: Valencia)
+Espanya
+  IPA: [əsˈpa.ɲə] (Tags: Balearic, Central)
+  IPA: [esˈpa.ɲa] (Tags: Valencia)
+Bolívia
+  IPA: [buˈli.βi.ə] (Tags: Central)
+  IPA: [buˈli.vi.ə] (Tags: Balearic)
+  IPA: [boˈli.vi.a] (Tags: Valencia)
+Dolomites
+  IPA: [du.luˈmi.təs] (Tags: Central)
+  IPA: [do.luˈmi.təs] (Tags: Balearic)
+  IPA: [do.loˈmi.tes] (Tags: Valencia)
+superfície
+  IPA: [su.pərˈfi.si.ə] (Tags: Balearic, Central)
+  IPA: [su.peɾˈfi.si.e] (Tags: Valencia)
+Siracusa
+  IPA: [si.ɾəˈku.zə] (Tags: Balearic, Central)
+  IPA: [si.ɾaˈku.za] (Tags: Valencia)
+Fes
+  IPA: [ˈfɛs] (Tags: Central)
+  IPA: [ˈfəs] (Tags: Balearic)
+  IPA: [ˈfes] (Tags: Valencia)
+Olimp
+  IPA: [uˈlim] (Tags: Central)
+  IPA: [uˈlimp] (Tags: Balearic)
+  IPA: [oˈlimp] (Tags: Valencia)
+Benín
+  IPA: [bəˈnin] (Tags: Balearic, Central)
+  IPA: [beˈnin] (Tags: Valencia)
+Tunísia
+  IPA: [tuˈni.zi.ə] (Tags: Balearic, Central)
+  IPA: [tuˈni.zi.a] (Tags: Valencia)
+Namíbia
+  IPA: [nəˈmi.βi.ə] (Tags: Central)
+  IPA: [nəˈmi.bi.ə] (Tags: Balearic)
+  IPA: [naˈmi.bi.a] (Tags: Valencia)
+Normandia
+  IPA: [nur.mənˈdi.ə] (Tags: Central)
+  IPA: [nor.mənˈdi.ə] (Tags: Balearic)
+  IPA: [noɾ.manˈdi.a] (Tags: Valencia)
+Toledo
+  IPA: [tuˈle.ðu] (Tags: Central)
+  IPA: [toˈle.ðo] (Tags: Balearic, Valencia)
+Ignasi
+  IPA: [iŋˈna.zi] (Tags: Balearic, Central, Valencia)
+Landes
+  IPA: [ˈlan.dəs] (Tags: Balearic, Central)
+  IPA: [ˈlan.des] (Tags: Valencia)
+Tirol
+  IPA: [tiˈɾɔl] (Tags: Balearic, Central, Valencia)
+Dublín
+  IPA: [dubˈblin] (Tags: Balearic, Central)
+  IPA: [duˈblin] (Tags: Valencia)
+Berna
+  IPA: [ˈbɛr.nə] (Tags: Balearic, Central)
+  IPA: [ˈbɛɾ.na] (Tags: Valencia)
+Bosch
+  IPA: /bɔsk/
+Alemanya
+  IPA: [ə.ləˈma.ɲə] (Tags: Balearic, Central)
+  IPA: [a.leˈma.ɲa] (Tags: Valencia)
+Armènia
+  IPA: [ərˈmɛ.ni.ə] (Tags: Balearic, Central)
+  IPA: [aɾˈmɛ.ni.a] (Tags: Valencia)
+Martinica
+  IPA: [mər.tiˈni.kə] (Tags: Balearic, Central)
+  IPA: [maɾ.tiˈni.ka] (Tags: Valencia)
+Gràcies
+  IPA: [ˈɡɾa.si.əs] (Tags: Balearic, Central)
+  IPA: [ˈɡɾa.si.es] (Tags: Valencia)
+Irlanda del Nord
+  IPA: [irˈlan.də ðəl ˈnɔrt] (Tags: Balearic, Central)
+  IPA: [iɾˈlan.da ðel ˈnɔɾt] (Tags: Valencia)
+Antoni
+  IPA: [ənˈtɔ.ni] (Tags: Balearic, Central)
+  IPA: [anˈtɔ.ni] (Tags: Valencia)
+Francesc
+  IPA: [fɾənˈsɛsk] (Tags: Central)
+  IPA: [fɾənˈsəsk] (Tags: Balearic)
+  IPA: [fɾanˈsesk] (Tags: Valencia)
+Bíblia
+  IPA: [ˈbi.βli.ə] (Tags: Central)
+  IPA: [ˈbi.bli.ə] (Tags: Balearic)
+  IPA: [ˈbi.bli.a] (Tags: Valencia)
+Úrsula
+  IPA: [ˈur.su.lə] (Tags: Balearic, Central)
+  IPA: [ˈuɾ.su.la] (Tags: Valencia)
+Basilea
+  IPA: [bə.ziˈle.ə] (Tags: Balearic, Central)
+  IPA: [ba.ziˈle.a] (Tags: Valencia)
+Bengala
+  IPA: [bəŋˈɡa.lə] (Tags: Balearic, Central)
+  IPA: [beŋˈɡa.la] (Tags: Valencia)
+Dolors
+  IPA: [duˈlos] (Tags: Central)
+  IPA: [doˈlos] (Tags: Balearic)
+  IPA: [doˈloɾs] (Tags: Valencia)
+Dolors
+  IPA: [duˈlos] (Tags: Central)
+  IPA: [doˈlos] (Tags: Balearic)
+  IPA: [doˈloɾs] (Tags: Valencia)
+Carles
+  IPA: [ˈkar.ləs] (Tags: Balearic, Central)
+  IPA: [ˈkaɾ.les] (Tags: Valencia)
+Nadal
+  IPA: [nəˈðal] (Tags: Balearic, Central)
+  IPA: [naˈðal] (Tags: Valencia)
+Sabadell
+  IPA: [sə.βəˈðeʎ] (Tags: Central)
+  IPA: [sə.bəˈðeʎ] (Tags: Balearic)
+  IPA: [sa.baˈðeʎ] (Tags: Valencia)
+Zelanda
+  IPA: [zəˈlan.də] (Tags: Balearic, Central)
+  IPA: [zeˈlan.da] (Tags: Valencia)
+Uruguai
+  IPA: [u.ɾuˈɣwaj] (Tags: Balearic, Central, Valencia)
+Equador
+  IPA: [ə.kwəˈðo] (Tags: Balearic, Central)
+  IPA: [e.kwaˈðoɾ] (Tags: Valencia)
+Liorna
+  IPA: [liˈor.nə] (Tags: Balearic, Central)
+  IPA: [liˈoɾ.na] (Tags: Valencia)
+Balança
+  IPA: [bəˈlan.sə] (Tags: Balearic, Central)
+  IPA: [baˈlan.sa] (Tags: Valencia)
+Bessons
+  IPA: [bəˈsons] (Tags: Balearic, Central)
+  IPA: [beˈsons] (Tags: Valencia)
+Novossibirsk
+  IPA: [nu.βu.siˈβirsk] (Tags: Central)
+  IPA: [no.vo.siˈbirsk] (Tags: Balearic)
+  IPA: [no.vo.siˈbiɾsk] (Tags: Valencia)
+georgià
+  IPA: [ʒə.ur.ʒiˈa] (Tags: Central)
+  IPA: [ʒə.or.ʒiˈa] (Tags: Balearic)
+  IPA: [d͡ʒe.oɾ.d͡ʒiˈa] (Tags: Valencia)
+macedònic
+  IPA: [mə.səˈðɔ.nik] (Tags: Balearic, Central)
+  IPA: [ma.seˈðɔ.nik] (Tags: Valencia)
+Balcans
+  IPA: [bəlˈkans] (Tags: Balearic, Central)
+  IPA: [balˈkans] (Tags: Valencia)
+Apol·lo
+  IPA: [əˈpol.lu] (Tags: Central)
+  IPA: [əˈpol.lo] (Tags: Balearic)
+  IPA: [aˈpol.lo] (Tags: Valencia)
+Dionís
+  IPA: [di.uˈnis] (Tags: Balearic, Central)
+  IPA: [di.oˈnis] (Tags: Valencia)
+Flandes
+  IPA: [ˈflan.dəs] (Tags: Balearic, Central)
+  IPA: [ˈflan.des] (Tags: Valencia)
+Frísia
+  IPA: [ˈfɾi.zi.ə] (Tags: Balearic, Central)
+  IPA: [ˈfɾi.zi.a] (Tags: Valencia)
+Deessa
+  IPA: [dəˈɛ.sə] (Tags: Central)
+  IPA: [dəˈə.sə] (Tags: Balearic)
+  IPA: [deˈe.sa] (Tags: Valencia)
+Dea
+  IPA: [ˈde.ə] (Tags: Balearic, Central)
+  IPA: [ˈde.a] (Tags: Valencia)
+Déu
+  IPA: [ˈdew] (Tags: Balearic, Central, Valencia)
+gaèlic
+  IPA: [ɡəˈɛ.lik] (Tags: Balearic, Central)
+  IPA: [ɡaˈɛ.lik] (Tags: Valencia)
+Alemània
+  IPA: [ə.ləˈma.ni.ə] (Tags: Balearic, Central)
+  IPA: [a.leˈma.ni.a] (Tags: Valencia)
+Pau
+  IPA: [ˈpaw] (Tags: Balearic, Central, Valencia)
+Bretanya
+  IPA: [bɾəˈta.ɲə] (Tags: Balearic, Central)
+  IPA: [bɾeˈta.ɲa] (Tags: Valencia)
+Lluís
+  IPA: [ʎuˈis] (Tags: Balearic, Central, Valencia)
+Ànglia
+  IPA: [ˈaŋ.ɡli.ə] (Tags: Balearic, Central)
+  IPA: [ˈaŋ.ɡli.a] (Tags: Valencia)
+Escòcia
+  IPA: [əsˈkɔ.si.ə] (Tags: Balearic, Central)
+  IPA: [esˈkɔ.si.a] (Tags: Valencia)
+manès
+  IPA: [məˈnɛs] (Tags: Central)
+  IPA: [məˈnəs] (Tags: Balearic)
+  IPA: [maˈnes] (Tags: Valencia)
+Albània
+  IPA: [əlˈβa.ni.ə] (Tags: Central)
+  IPA: [əlˈba.ni.ə] (Tags: Balearic)
+  IPA: [alˈba.ni.a] (Tags: Valencia)
+Finlàndia
+  IPA: [finˈlan.di.ə] (Tags: Balearic, Central)
+  IPA: [finˈlan.di.a] (Tags: Valencia)
+Grècia
+  IPA: [ˈɡɾɛ.si.ə] (Tags: Balearic, Central)
+  IPA: [ˈɡɾɛ.si.a] (Tags: Valencia)
+Hongria
+  IPA: [uŋˈɡɾi.ə] (Tags: Balearic, Central)
+  IPA: [oŋˈɡɾi.a] (Tags: Valencia)
+Indonèsia
+  IPA: [in.duˈnɛ.zi.ə] (Tags: Central)
+  IPA: [in.doˈnɛ.zi.ə] (Tags: Balearic)
+  IPA: [in.doˈnɛ.zi.a] (Tags: Valencia)
+Japó
+  IPA: [ʒəˈpo] (Tags: Balearic, Central)
+  IPA: [d͡ʒaˈpo] (Tags: Valencia)
+Itàlia
+  IPA: [iˈta.li.ə] (Tags: Balearic, Central)
+  IPA: [iˈta.li.a] (Tags: Valencia)
+Macedònia
+  IPA: [mə.səˈðɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [ma.seˈðɔ.ni.a] (Tags: Valencia)
+Nàpols
+  IPA: [ˈna.puls] (Tags: Central)
+  IPA: [ˈna.pols] (Tags: Balearic, Valencia)
+Occitània
+  IPA: [uk.siˈta.ni.ə] (Tags: Central)
+  IPA: [ok.siˈta.ni.ə] (Tags: Balearic)
+  IPA: [ok.siˈta.ni.a] (Tags: Valencia)
+Gironda
+  IPA: [ʒiˈɾon.də] (Tags: Balearic, Central)
+  IPA: [d͡ʒiˈɾon.da] (Tags: Valencia)
+Sèrbia
+  IPA: [ˈsɛr.bi.ə] (Tags: Balearic, Central)
+  IPA: [ˈsɛɾ.bi.a] (Tags: Valencia)
+Sicília
+  IPA: [siˈsi.li.ə] (Tags: Balearic, Central)
+  IPA: [siˈsi.li.a] (Tags: Valencia)
+Ucraïna
+  IPA: [u.kɾəˈi.nə] (Tags: Balearic, Central)
+  IPA: [u.kɾaˈi.na] (Tags: Valencia)
+Xina
+  IPA: [ˈʃi.nə] (Tags: Balearic, Central)
+  IPA: [ˈt͡ʃi.na] (Tags: Valencia)
+Mèxic
+  IPA: [ˈmɛk.sik] (Tags: Central, Valencia)
+  IPA: [ˈmɛk.sik] (Tags: Balearic)
+  IPA: [ˈmɛ.ʒik] (Tags: Balearic)
+Gal·les
+  IPA: [ˈɡal.ləs] (Tags: Balearic, Central)
+  IPA: [ˈɡal.les] (Tags: Valencia)
+Damasc
+  IPA: [dəˈmask] (Tags: Balearic, Central)
+  IPA: [daˈmask] (Tags: Valencia)
+Ricard
+  IPA: [riˈkart] (Tags: Balearic, Central)
+  IPA: [riˈkaɾt] (Tags: Valencia)
+Haití
+  IPA: [əjˈti] (Tags: Balearic, Central)
+  IPA: [ajˈti] (Tags: Valencia)
+Cirenaica
+  IPA: [si.ɾəˈnaj.kə] (Tags: Balearic, Central)
+  IPA: [si.ɾeˈnaj.ka] (Tags: Valencia)
+Casanova
+  IPA: [kə.zəˈnɔ.βə] (Tags: Central)
+  IPA: [kə.zəˈnɔ.və] (Tags: Balearic)
+  IPA: [ka.zaˈnɔ.va] (Tags: Valencia)
+Montblanc
+  IPA: [mumˈblaŋ] (Tags: Central)
+  IPA: [momˈblaŋk] (Tags: Balearic, Valencia)
+Perpinyà
+  IPA: [pər.piˈɲa] (Tags: Balearic, Central)
+  IPA: [peɾ.piˈɲa] (Tags: Valencia)
+Perpinyà
+  IPA: [pər.piˈɲa] (Tags: Balearic, Central)
+  IPA: [peɾ.piˈɲa] (Tags: Valencia)
+Altai
+  IPA: [əlˈtaj] (Tags: Balearic, Central)
+  IPA: [alˈtaj] (Tags: Valencia)
+Renaixença
+  IPA: [rə.nəˈʃɛn.sə] (Tags: Balearic, Central)
+  IPA: [re.najˈʃen.sa] (Tags: Valencia)
+Primera Guerra Mundial
+  IPA: [pɾiˈme.ɾə ˈɣɛ.rə mun.diˈal] (Tags: Balearic, Central)
+  IPA: [pɾiˈme.ɾa ˈɣɛ.ra mun.diˈal] (Tags: Valencia)
+Víctor
+  IPA: [ˈbik.tur] (Tags: Central)
+  IPA: [ˈvik.tor] (Tags: Balearic, Valencia)
+Elam
+  IPA: [əˈlam] (Tags: Balearic, Central)
+  IPA: [eˈlam] (Tags: Valencia)
+Viquipèdia
+  IPA: [bi.kiˈpɛ.ði.ə] (Tags: Central)
+  IPA: [vi.kiˈpɛ.ði.ə] (Tags: Balearic)
+  IPA: [vi.kiˈpɛ.ði.a] (Tags: Valencia)
+Egina
+  IPA: [əˈʒi.nə] (Tags: Balearic, Central)
+  IPA: [eˈd͡ʒi.na] (Tags: Valencia)
+Amèrica
+  IPA: [əˈmɛ.ɾi.kə] (Tags: Balearic, Central)
+  IPA: [aˈmɛ.ɾi.ka] (Tags: Valencia)
+Antàrtida
+  IPA: [ənˈtar.ti.ðə] (Tags: Balearic, Central)
+  IPA: [anˈtaɾ.ti.ða] (Tags: Valencia)
+Àsia
+  IPA: [ˈa.zi.ə] (Tags: Balearic, Central)
+  IPA: [ˈa.zi.a] (Tags: Valencia)
+Amèrica del Sud
+  IPA: [əˈmɛ.ɾi.kə ðəl ˈsut] (Tags: Balearic, Central)
+  IPA: [aˈmɛ.ɾi.ka ðel ˈsut] (Tags: Valencia)
+Nord-amèrica
+  IPA: [ˌnɔrt.əˈmɛ.ɾi.kə] (Tags: Balearic, Central)
+  IPA: [ˌnɔɾt.aˈmɛ.ɾi.ka] (Tags: Valencia)
+Sud-amèrica
+  IPA: [ˌsut.əˈmɛ.ɾi.kə] (Tags: Balearic, Central)
+  IPA: [ˌsut.aˈmɛ.ɾi.ka] (Tags: Valencia)
+Amèrica del Nord
+  IPA: [əˈmɛ.ɾi.kə ðəl ˈnɔrt] (Tags: Balearic, Central)
+  IPA: [aˈmɛ.ɾi.ka ðel ˈnɔɾt] (Tags: Valencia)
+Àfrica
+  IPA: [ˈa.fɾi.kə] (Tags: Balearic, Central)
+  IPA: [ˈa.fɾi.ka] (Tags: Valencia)
+Miquel
+  IPA: [miˈkɛl] (Tags: Balearic, Central, Valencia)
+Rubèn
+  IPA: [ruˈβɛn] (Tags: Central)
+  IPA: [ruˈbən] (Tags: Balearic)
+  IPA: [ruˈben] (Tags: Valencia)
+Vicenç
+  IPA: [biˈsɛns] (Tags: Central)
+  IPA: [viˈsɛns] (Tags: Balearic, Valencia)
+Vicent
+  IPA: [biˈsɛn] (Tags: Central)
+  IPA: [viˈsɛnt] (Tags: Balearic, Valencia)
+Bétera
+  IPA: [ˈbe.tə.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈbe.te.ɾa] (Tags: Valencia)
+Nàquera
+  IPA: [ˈna.kə.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈna.ke.ɾa] (Tags: Valencia)
+Montcada
+  IPA: [muŋˈka.ðə] (Tags: Central)
+  IPA: [moŋˈka.ðə] (Tags: Balearic)
+  IPA: [moŋˈka.ða] (Tags: Valencia)
+Vilamarxant
+  IPA: [ˌbi.lə.mərˈʃan] (Tags: Central)
+  IPA: [ˌvi.lə.mərˈʃant] (Tags: Balearic)
+  IPA: [ˌvi.la.maɾˈt͡ʃant] (Tags: Valencia)
+Benaguasil
+  IPA: [bə.nə.ɣwəˈzil] (Tags: Balearic, Central)
+  IPA: [be.na.ɣwaˈzil] (Tags: Valencia)
+Llíria
+  IPA: [ˈʎi.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈʎi.ɾi.a] (Tags: Valencia)
+Serra
+  IPA: [ˈsɛ.rə] (Tags: Balearic, Central)
+  IPA: [ˈsɛ.ra] (Tags: Valencia)
+València
+  IPA: [bəˈlɛn.si.ə] (Tags: Central)
+  IPA: [vəˈlən.si.ə] (Tags: Balearic)
+  IPA: [vaˈlen.si.a] (Tags: Valencia)
+Suècia
+  IPA: [suˈɛ.si.ə] (Tags: Balearic, Central)
+  IPA: [suˈɛ.si.a] (Tags: Valencia)
+Bulgària
+  IPA: [bulˈɣa.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [bulˈɣa.ɾi.a] (Tags: Valencia)
+Croàcia
+  IPA: [kɾuˈa.si.ə] (Tags: Central)
+  IPA: [kɾoˈa.si.ə] (Tags: Balearic)
+  IPA: [kɾoˈa.si.a] (Tags: Valencia)
+Anglaterra
+  IPA: [əŋ.ɡləˈtɛ.rə] (Tags: Balearic, Central)
+  IPA: [aŋ.ɡlaˈtɛ.ra] (Tags: Valencia)
+Àustria
+  IPA: [ˈaws.tɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈaws.tɾi.a] (Tags: Valencia)
+Ferrer
+  IPA: [fəˈre] (Tags: Balearic, Central)
+  IPA: [feˈreɾ] (Tags: Valencia)
+Dénia
+  IPA: [ˈde.ni.ə] (Tags: Balearic, Central)
+  IPA: [ˈde.ni.a] (Tags: Valencia)
+Xàtiva
+  IPA: [ˈʃa.ti.βə] (Tags: Central)
+  IPA: [ˈʃa.ti.və] (Tags: Balearic)
+  IPA: [ˈt͡ʃa.ti.va] (Tags: Valencia)
+Algèria
+  IPA: [əʎˈʒɛ.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [aʎˈd͡ʒɛ.ɾi.a] (Tags: Valencia)
+Lituània
+  IPA: [li.tuˈa.ni.ə] (Tags: Balearic, Central)
+  IPA: [li.tuˈa.ni.a] (Tags: Valencia)
+Suïssa
+  IPA: [suˈi.sə] (Tags: Balearic, Central)
+  IPA: [suˈi.sa] (Tags: Valencia)
+Austràlia
+  IPA: [əwsˈtɾa.li.ə] (Tags: Balearic, Central)
+  IPA: [awsˈtɾa.li.a] (Tags: Valencia)
+Letònia
+  IPA: [ləˈtɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [leˈtɔ.ni.a] (Tags: Valencia)
+Moncofa
+  IPA: [muŋˈkɔ.fə] (Tags: Central)
+  IPA: [moŋˈkɔ.fə] (Tags: Balearic)
+  IPA: [moŋˈkɔ.fa] (Tags: Valencia)
+Capadòcia
+  IPA: [kə.pəˈðɔ.si.ə] (Tags: Balearic, Central)
+  IPA: [ka.paˈðɔ.si.a] (Tags: Valencia)
+Lluc
+  IPA: [ˈʎuk] (Tags: Balearic, Central, Valencia)
+Lluc
+  IPA: [ˈʎuk] (Tags: Balearic, Central, Valencia)
+Simó
+  IPA: [siˈmo] (Tags: Balearic, Central, Valencia)
+Aragó
+  IPA: [ə.ɾəˈɣo] (Tags: Balearic, Central)
+  IPA: [a.ɾaˈɣo] (Tags: Valencia)
+Cànoes
+  IPA: [ˈka.nu.əs] (Tags: Central)
+  IPA: [ˈka.no.əs] (Tags: Balearic)
+  IPA: [ˈka.no.es] (Tags: Valencia)
+  IPA: /ˈka.nus/ (Tags: Northern)
+Torderes
+  IPA: [turˈde.ɾəs] (Tags: Central)
+  IPA: [torˈde.ɾəs] (Tags: Balearic)
+  IPA: [toɾˈðe.ɾes] (Tags: Valencia)
+Cotlliure
+  IPA: [kuʎˈʎiw.ɾə] (Tags: Central)
+  IPA: [kulˈliw.ɾə] (Tags: Balearic)
+  IPA: [koˈʎiw.ɾe] (Tags: Valencia)
+Pontellà
+  IPA: [pun.təˈʎa] (Tags: Central)
+  IPA: [pon.təˈʎa] (Tags: Balearic)
+  IPA: [pon.teˈʎa] (Tags: Valencia)
+Tesà
+  IPA: [təˈza] (Tags: Balearic, Central)
+  IPA: [teˈza] (Tags: Valencia)
+Montner
+  IPA: [munˈne] (Tags: Central)
+  IPA: [monˈne] (Tags: Balearic)
+  IPA: [monˈneɾ] (Tags: Valencia)
+Salses
+  IPA: [ˈsal.səs] (Tags: Balearic, Central)
+  IPA: [ˈsal.ses] (Tags: Valencia)
+Salses
+  IPA: [ˈsal.səs] (Tags: Balearic, Central)
+  IPA: [ˈsal.ses] (Tags: Valencia)
+Illa
+  IPA: [ˈi.ʎə] (Tags: Balearic, Central)
+  IPA: [ˈi.ʎa] (Tags: Valencia)
+Illa
+  IPA: [ˈi.ʎə] (Tags: Balearic, Central)
+  IPA: [ˈi.ʎa] (Tags: Valencia)
+Vingrau
+  IPA: [biŋˈɡɾaw] (Tags: Central)
+  IPA: [viŋˈɡɾaw] (Tags: Balearic, Valencia)
+Pollestres
+  IPA: [puˈʎes.tɾəs] (Tags: Central)
+  IPA: [poˈʎes.tɾəs] (Tags: Balearic)
+  IPA: [poˈʎes.tɾes] (Tags: Valencia)
+Eivissa
+  IPA: [əjˈβi.sə] (Tags: Central)
+  IPA: [əjˈvi.sə] (Tags: Balearic)
+  IPA: [ejˈvi.sa] (Tags: Valencia)
+Regne Unit
+  IPA: [ˈreŋ.nə uˈnit] (Tags: Balearic, Central)
+  IPA: [ˈreŋ.ne uˈnit] (Tags: Valencia)
+Xile
+  IPA: [ˈʃi.lə] (Tags: Balearic, Central)
+  IPA: [ˈt͡ʃi.le] (Tags: Valencia)
+Mas
+  IPA: [ˈmas] (Tags: Balearic, Central, Valencia)
+Alboraia
+  IPA: [əl.βuˈɾa.jə] (Tags: Central)
+  IPA: [əl.boˈɾa.jə] (Tags: Balearic)
+  IPA: [al.boˈɾa.ja] (Tags: Valencia)
+Albuixec
+  IPA: [əl.βuˈʃek] (Tags: Central)
+  IPA: [əl.buˈʃek] (Tags: Balearic)
+  IPA: [al.bujˈʃek] (Tags: Valencia)
+Comunitat Valenciana
+  IPA: [ku.mu.niˈtad bə.lən.siˈa.nə] (Tags: Central)
+  IPA: [ko.mu.niˈtad və.lən.siˈa.nə] (Tags: Balearic)
+  IPA: [ko.mu.niˈtad va.len.siˈa.na] (Tags: Valencia)
+Costera
+  IPA: [kusˈte.ɾə] (Tags: Central)
+  IPA: [kosˈte.ɾə] (Tags: Balearic)
+  IPA: [kosˈte.ɾa] (Tags: Valencia)
+Alcàsser
+  IPA: [əlˈka.sər] (Tags: Balearic, Central)
+  IPA: [alˈka.ser] (Tags: Valencia)
+Pobla de Vallbona
+  IPA: [ˈpob.blə ðə βəʎˈβɔ.nə] (Tags: Central)
+  IPA: [ˈpob.blə ðə vəʎˈbɔ.nə] (Tags: Balearic)
+  IPA: [ˈpo.bla ðe vaʎˈbɔ.na] (Tags: Valencia)
+Alcúdia de Crespins
+  IPA: [əlˈku.ði.ə ðə kɾəsˈpins] (Tags: Balearic, Central)
+  IPA: [alˈku.ði.a ðe kɾesˈpins] (Tags: Valencia)
+Rosselló
+  IPA: [ru.səˈʎo] (Tags: Central)
+  IPA: [ro.səˈʎo] (Tags: Balearic)
+  IPA: [ro.seˈʎo] (Tags: Valencia)
+El Voló
+  IPA: [əl βuˈlo] (Tags: Central)
+  IPA: [əl voˈlo] (Tags: Balearic)
+  IPA: [el voˈlo] (Tags: Valencia)
+Eliana
+  IPA: [ə.liˈa.nə] (Tags: Balearic, Central)
+  IPA: [e.liˈa.na] (Tags: Valencia)
+Gil
+  IPA: [ˈʒil] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒil] (Tags: Valencia)
+l'Alguer
+  IPA: [l‿əlˈɣe] (Tags: Balearic, Central)
+  IPA: [l‿alˈɣeɾ] (Tags: Valencia)
+  IPA: /lalˈɡe/
+Bòsnia
+  IPA: [ˈbɔz.ni.ə] (Tags: Balearic, Central)
+  IPA: [ˈbɔz.ni.a] (Tags: Valencia)
+Països Catalans
+  IPA: [pəˈi.zus kə.təˈlans] (Tags: Central)
+  IPA: [pəˈi.zos kə.təˈlans] (Tags: Balearic)
+  IPA: [paˈi.zos ka.taˈlans] (Tags: Valencia)
+Clairà
+  IPA: [klə.iˈɾa] (Tags: Balearic, Central)
+  IPA: [kla.iˈɾa] (Tags: Valencia)
+Pià
+  IPA: [piˈa] (Tags: Balearic, Central, Valencia)
+Pià
+  IPA: [piˈa] (Tags: Balearic, Central, Valencia)
+Bèlgica
+  IPA: [ˈbɛʎ.ʒi.kə] (Tags: Balearic, Central)
+  IPA: [ˈbɛʎ.d͡ʒi.ka] (Tags: Valencia)
+Ventafocs
+  IPA: [ˌben.təˈfɔks] (Tags: Central)
+  IPA: [ˌven.təˈfɔks] (Tags: Balearic)
+  IPA: [ˌven.taˈfɔks] (Tags: Valencia)
+Panamà
+  IPA: [pə.nəˈma] (Tags: Balearic, Central)
+  IPA: [pa.naˈma] (Tags: Valencia)
+Hondures
+  IPA: [unˈdu.ɾəs] (Tags: Balearic, Central)
+  IPA: [onˈdu.ɾes] (Tags: Valencia)
+Costa d'Ivori
+  IPA: [ˈkɔs.tə ð‿iˈβɔ.ɾi] (Tags: Central)
+  IPA: [ˈkɔs.tə ð‿iˈvɔ.ɾi] (Tags: Balearic)
+  IPA: [ˈkɔs.ta ð‿iˈvɔ.ɾi] (Tags: Valencia)
+Plató
+  IPA: [pləˈto] (Tags: Balearic, Central)
+  IPA: [plaˈto] (Tags: Valencia)
+Tità
+  IPA: [tiˈta] (Tags: Balearic, Central, Valencia)
+tità
+  IPA: [tiˈta] (Tags: Balearic, Central, Valencia)
+Veneçuela
+  IPA: [bə.nə.suˈɛ.lə] (Tags: Central)
+  IPA: [və.nə.suˈɛ.lə] (Tags: Balearic)
+  IPA: [ve.ne.suˈɛ.la] (Tags: Valencia)
+Txad
+  IPA: [ˈt͡ʃat] (Tags: Balearic, Central, Valencia)
+Guillem
+  IPA: [ɡiˈʎɛm] (Tags: Central)
+  IPA: [ɡiˈʎem] (Tags: Balearic, Valencia)
+Geòrgia
+  IPA: [ʒeˈɔr.ʒi.ə] (Tags: Balearic, Central)
+  IPA: [d͡ʒeˈɔɾ.d͡ʒi.a] (Tags: Valencia)
+Gonçal
+  IPA: [ɡunˈsal] (Tags: Central)
+  IPA: [ɡonˈsal] (Tags: Balearic, Valencia)
+Fructuós
+  IPA: [fɾuk.tuˈos] (Tags: Balearic, Central, Valencia)
+Felip
+  IPA: [fəˈlip] (Tags: Balearic, Central)
+  IPA: [feˈlip] (Tags: Valencia)
+Prudenci
+  IPA: [pɾuˈðɛn.si] (Tags: Balearic, Central, Valencia)
+Pròsper
+  IPA: [ˈpɾɔs.pər] (Tags: Central)
+  IPA: [ˈpɾɔs.per] (Tags: Valencia)
+Prudència
+  IPA: [pɾuˈðɛn.si.ə] (Tags: Balearic, Central)
+  IPA: [pɾuˈðɛn.si.a] (Tags: Valencia)
+Pompeu
+  IPA: [pumˈpɛw] (Tags: Central)
+  IPA: [pomˈpɛw] (Tags: Balearic, Valencia)
+Raül
+  IPA: [rəˈul] (Tags: Balearic, Central)
+  IPA: [raˈul] (Tags: Valencia)
+Germà
+  IPA: [ʒərˈma] (Tags: Balearic, Central)
+  IPA: [d͡ʒeɾˈma] (Tags: Valencia)
+Guiu
+  IPA: [ˈɡiw] (Tags: Balearic, Central, Valencia)
+Guiu
+  IPA: [ˈɡiw] (Tags: Balearic, Central, Valencia)
+Prudencià
+  IPA: [pɾu.ðən.siˈa] (Tags: Balearic, Central)
+  IPA: [pɾu.ðen.siˈa] (Tags: Valencia)
+Ramir
+  IPA: [rəˈmir] (Tags: Balearic, Central)
+  IPA: [raˈmir] (Tags: Valencia)
+Roc
+  IPA: [ˈrɔk] (Tags: Balearic, Central, Valencia)
+Ferran
+  IPA: [fəˈran] (Tags: Balearic, Central)
+  IPA: [feˈran] (Tags: Valencia)
+Ferran
+  IPA: [fəˈran] (Tags: Balearic, Central)
+  IPA: [feˈran] (Tags: Valencia)
+Quirze
+  IPA: [ˈkir.zə] (Tags: Balearic, Central)
+  IPA: [ˈkiɾ.ze] (Tags: Valencia)
+Pirineus
+  IPA: [pi.ɾiˈnɛws] (Tags: Balearic, Central, Valencia)
+Grenlàndia
+  IPA: [ɡɾənˈlan.di.ə] (Tags: Balearic, Central)
+  IPA: [ɡɾenˈlan.di.a] (Tags: Valencia)
+República d'Irlanda
+  IPA: [rəˈpub.bli.kə ð‿irˈlan.də] (Tags: Balearic, Central)
+  IPA: [reˈpu.bli.ka ð‿iɾˈlan.da] (Tags: Valencia)
+Marroc
+  IPA: [məˈrɔk] (Tags: Balearic, Central)
+  IPA: [maˈrɔk] (Tags: Valencia)
+Oceà
+  IPA: [u.seˈa] (Tags: Central)
+  IPA: [o.seˈa] (Tags: Balearic, Valencia)
+Montboló
+  IPA: [mum.buˈlo] (Tags: Central)
+  IPA: [mom.boˈlo] (Tags: Balearic, Valencia)
+Menera
+  IPA: [məˈne.ɾə] (Tags: Balearic, Central)
+  IPA: [meˈne.ɾa] (Tags: Valencia)
+Cluses
+  IPA: [ˈklu.zəs] (Tags: Balearic, Central)
+  IPA: [ˈklu.zes] (Tags: Valencia)
+Vallespir
+  IPA: [bə.ʎəsˈpi] (Tags: Central)
+  IPA: [və.ʎəsˈpi] (Tags: Balearic)
+  IPA: [va.ʎesˈpiɾ] (Tags: Valencia)
+Vallespir
+  IPA: [bə.ʎəsˈpi] (Tags: Central)
+  IPA: [və.ʎəsˈpi] (Tags: Balearic)
+  IPA: [va.ʎesˈpiɾ] (Tags: Valencia)
+Morellàs i les Illes
+  IPA: [mu.ɾəˈʎaz i ləz ˈi.ʎəs] (Tags: Central)
+  IPA: [mo.ɾəˈʎaz i ləz ˈi.ʎəs] (Tags: Balearic)
+  IPA: [mo.ɾeˈʎaz i lez ˈi.ʎes] (Tags: Valencia)
+Prats de Molló i la Presta
+  IPA: [ˈpɾadz də muˈʎo i lə ˈpɾes.tə] (Tags: Central)
+  IPA: [ˈpɾadz də moˈʎo i lə ˈpɾes.tə] (Tags: Balearic)
+  IPA: [ˈpɾadz ðe moˈʎo i la ˈpɾes.ta] (Tags: Valencia)
+Sant Llorenç de Cerdans
+  IPA: [ˈsaɲ ʎuˈɾɛnz də sərˈdans] (Tags: Central)
+  IPA: [ˈsaɲ ʎoˈɾɛnz də sərˈdans] (Tags: Balearic)
+  IPA: [ˈsaɲ ʎoˈɾɛnz ðe seɾˈðans] (Tags: Valencia)
+Banys i Palaldà
+  IPA: [ˈbaɲz i pə.ləlˈda] (Tags: Balearic, Central)
+  IPA: [ˈbaɲz i pa.lalˈda] (Tags: Valencia)
+Cortsaví
+  IPA: [kurt.səˈβi] (Tags: Central)
+  IPA: [kort.səˈvi] (Tags: Balearic)
+  IPA: [koɾt.saˈvi] (Tags: Valencia)
+Illes Balears
+  IPA: [ˈi.ʎəz bə.leˈars] (Tags: Central)
+  IPA: [ˈi.ʎez ba.leˈaɾs] (Tags: Valencia)
+Ceret
+  IPA: [səˈɾɛt] (Tags: Central)
+  IPA: [səˈɾət] (Tags: Balearic)
+  IPA: [seˈɾet] (Tags: Valencia)
+Sant Joan de Pladecorts
+  IPA: [ˈsaɲ ʒuˈan də ˌpla.ðəˈkorts] (Tags: Central)
+  IPA: [ˈsaɲ ʒoˈan də ˌpla.ðəˈkorts] (Tags: Balearic)
+  IPA: [ˈsaɲ d͡ʒoˈan de ˌpla.ðeˈkoɾts] (Tags: Valencia)
+Albera
+  IPA: [əlˈβe.ɾə] (Tags: Central)
+  IPA: [əlˈbe.ɾə] (Tags: Balearic)
+  IPA: [alˈbe.ɾa] (Tags: Valencia)
+Albera
+  IPA: [əlˈβe.ɾə] (Tags: Central)
+  IPA: [əlˈbe.ɾə] (Tags: Balearic)
+  IPA: [alˈbe.ɾa] (Tags: Valencia)
+Puigbalador
+  IPA: [ˌpud͡ʒ.bə.ləˈðo] (Tags: Balearic, Central)
+  IPA: [ˌpujd͡ʒ.ba.laˈðoɾ] (Tags: Valencia)
+Santa Eulària des Riu
+  IPA: [ˈsan.tə əwˈla.ɾi.ə ðəz ˈriw] (Tags: Balearic, Central)
+  IPA: [ˈsan.ta ewˈla.ɾi.a ðez ˈriw] (Tags: Valencia)
+Sant Antoni de Portmany
+  IPA: [ˌsan.t‿ənˈtɔ.ni ðə purˈmaɲ] (Tags: Central)
+  IPA: [ˌsan.t‿ənˈtɔ.ni ðə porˈmaɲ] (Tags: Balearic)
+  IPA: [ˌsan.t‿anˈtɔ.ni ðe poɾˈmaɲ] (Tags: Valencia)
+Vall de Boí
+  IPA: [ˈbaʎ də βuˈi] (Tags: Central)
+  IPA: [ˈvaʎ də buˈi] (Tags: Balearic)
+  IPA: [ˈvaʎ de boˈi] (Tags: Valencia)
+Sant Josep de sa Talaia
+  IPA: [ˈsaɲ ʒuˈzɛb də sə təˈla.jə] (Tags: Central)
+  IPA: [ˈsaɲ ʒoˈzɛb də sə təˈla.jə] (Tags: Balearic)
+  IPA: [ˈsaɲ d͡ʒoˈzɛb de sa taˈla.ja] (Tags: Valencia)
+Matamala
+  IPA: [mə.təˈma.lə] (Tags: Balearic, Central)
+  IPA: [ma.taˈma.la] (Tags: Valencia)
+Matamala
+  IPA: [mə.təˈma.lə] (Tags: Balearic, Central)
+  IPA: [ma.taˈma.la] (Tags: Valencia)
+Sant Joan de Labritja
+  IPA: [ˈsaɲ ʒuˈan də ləˈβɾi.d͡ʒə] (Tags: Central)
+  IPA: [ˈsaɲ ʒoˈan də ləˈbɾi.d͡ʒə] (Tags: Balearic)
+  IPA: [ˈsaɲ d͡ʒoˈan de laˈbɾi.d͡ʒa] (Tags: Valencia)
+Pont de Suert
+  IPA: [ˈpɔn də suˈɛrt] (Tags: Balearic, Central)
+  IPA: [ˈpɔn de suˈɛɾt] (Tags: Valencia)
+Formiguera
+  IPA: [fur.miˈɣe.ɾə] (Tags: Central)
+  IPA: [for.miˈɣe.ɾə] (Tags: Balearic)
+  IPA: [foɾ.miˈɣe.ɾa] (Tags: Valencia)
+Formiguera
+  IPA: [fur.miˈɣe.ɾə] (Tags: Central)
+  IPA: [for.miˈɣe.ɾə] (Tags: Balearic)
+  IPA: [foɾ.miˈɣe.ɾa] (Tags: Valencia)
+Capcir
+  IPA: [kəpˈsi] (Tags: Balearic, Central)
+  IPA: [kapˈsiɾ] (Tags: Valencia)
+Capcir
+  IPA: [kəpˈsi] (Tags: Balearic, Central)
+  IPA: [kapˈsiɾ] (Tags: Valencia)
+Font-rabiosa
+  IPA: [ˌfɔn.rə.βiˈo.zə] (Tags: Central)
+  IPA: [ˌfɔn.rə.biˈo.zə] (Tags: Balearic)
+  IPA: [ˌfɔn.ra.biˈo.za] (Tags: Valencia)
+  IPA: /ˌfun.rə.biˈu.zə/ (Tags: Catalonia, Northern)
+Llaguna
+  IPA: [ʎəˈɣu.nə] (Tags: Balearic, Central)
+  IPA: [ʎaˈɣu.na] (Tags: Valencia)
+Costoja
+  IPA: [kusˈto.ʒə] (Tags: Central)
+  IPA: [kosˈto.ʒə] (Tags: Balearic)
+  IPA: [kosˈto.d͡ʒa] (Tags: Valencia)
+Costoja
+  IPA: [kusˈto.ʒə] (Tags: Central)
+  IPA: [kosˈto.ʒə] (Tags: Balearic)
+  IPA: [kosˈto.d͡ʒa] (Tags: Valencia)
+Menorca
+  IPA: [məˈnɔr.kə] (Tags: Balearic, Central)
+  IPA: [meˈnɔɾ.ka] (Tags: Valencia)
+Formentera
+  IPA: [fur.mənˈte.ɾə] (Tags: Central)
+  IPA: [for.mənˈte.ɾə] (Tags: Balearic)
+  IPA: [foɾ.menˈte.ɾa] (Tags: Valencia)
+Arles
+  IPA: [ˈar.ləs] (Tags: Balearic, Central)
+  IPA: [ˈaɾ.les] (Tags: Valencia)
+Montferrer
+  IPA: [muɱ.fəˈre] (Tags: Central)
+  IPA: [moɱ.fəˈre] (Tags: Balearic)
+  IPA: [moɱ.feˈreɾ] (Tags: Valencia)
+Montferrer
+  IPA: [muɱ.fəˈre] (Tags: Central)
+  IPA: [moɱ.fəˈre] (Tags: Balearic)
+  IPA: [moɱ.feˈreɾ] (Tags: Valencia)
+Ferreries
+  IPA: [fə.rəˈɾi.əs] (Tags: Balearic, Central)
+  IPA: [fe.reˈɾi.es] (Tags: Valencia)
+Es Mercadal
+  IPA: [əz mər.kəˈðal] (Tags: Balearic, Central)
+  IPA: [ez meɾ.kaˈðal] (Tags: Valencia)
+Ciutadella
+  IPA: [siw.təˈðe.ʎə] (Tags: Balearic, Central)
+  IPA: [siw.taˈðe.ʎa] (Tags: Valencia)
+Sant Lluís
+  IPA: [ˈsaɲ ʎuˈis] (Tags: Balearic, Central, Valencia)
+Maó
+  IPA: [məˈo] (Tags: Balearic, Central)
+  IPA: [maˈo] (Tags: Valencia)
+Es Migjorn Gran
+  IPA: [əz miˈd͡ʒorŋ ˈɡɾan] (Tags: Balearic, Central)
+  IPA: [ez miˈd͡ʒoɾŋ ˈɡɾan] (Tags: Valencia)
+Es Castell
+  IPA: [əs kəsˈteʎ] (Tags: Balearic, Central)
+  IPA: [es kasˈteʎ] (Tags: Valencia)
+Real
+  IPA: [reˈal] (Tags: Balearic, Central, Valencia)
+Real
+  IPA: [reˈal] (Tags: Balearic, Central, Valencia)
+Joaquim
+  IPA: [ʒu.əˈkim] (Tags: Central)
+  IPA: [ʒo.əˈkim] (Tags: Balearic)
+  IPA: [d͡ʒo.aˈkim] (Tags: Valencia)
+Serpentari
+  IPA: [sər.pənˈta.ɾi] (Tags: Balearic, Central)
+  IPA: [seɾ.penˈta.ɾi] (Tags: Valencia)
+Àlvar
+  IPA: [ˈal.βər] (Tags: Central)
+  IPA: [ˈal.vər] (Tags: Balearic)
+  IPA: [ˈal.var] (Tags: Valencia)
+Aleix
+  IPA: [əˈleʃ] (Tags: Balearic, Central)
+  IPA: [aˈlejʃ] (Tags: Valencia)
+Emili
+  IPA: [əˈmi.li] (Tags: Balearic, Central)
+  IPA: [eˈmi.li] (Tags: Valencia)
+Galícia
+  IPA: [ɡəˈli.si.ə] (Tags: Balearic, Central)
+  IPA: [ɡaˈli.si.a] (Tags: Valencia)
+Màrius
+  IPA: [ˈma.ɾiws] (Tags: Balearic, Central, Valencia)
+Unió Europea
+  IPA: [u.niˈo əw.ɾuˈpe.ə] (Tags: Central)
+  IPA: [u.niˈo əw.ɾoˈpe.ə] (Tags: Balearic)
+  IPA: [u.niˈo ew.ɾoˈpe.a] (Tags: Valencia)
+Cecili
+  IPA: [səˈsi.li] (Tags: Balearic, Central)
+  IPA: [seˈsi.li] (Tags: Valencia)
+Antònia
+  IPA: [ənˈtɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [anˈtɔ.ni.a] (Tags: Valencia)
+Josep
+  IPA: [ʒuˈzɛp] (Tags: Balearic, Central)
+  IPA: [d͡ʒuˈzɛp] (Tags: Valencia)
+illes Fèroe
+  IPA: [ˈi.ʎəs ˈfɛ.ɾu.ə] (Tags: Central)
+  IPA: [ˈi.ʎəs ˈfɛ.ɾo.ə] (Tags: Balearic)
+  IPA: [ˈi.ʎes ˈfɛ.ɾo.e] (Tags: Valencia)
+Òscar
+  IPA: [ˈɔs.kər] (Tags: Balearic, Central)
+  IPA: [ˈɔs.kar] (Tags: Valencia)
+Àgueda
+  IPA: [ˈa.ɣə.ðə] (Tags: Balearic, Central)
+  IPA: [ˈa.ɣe.ða] (Tags: Valencia)
+Blai
+  IPA: [ˈblaj] (Tags: Balearic, Central, Valencia)
+Àgata
+  IPA: [ˈa.ɣə.tə] (Tags: Balearic, Central)
+  IPA: [ˈa.ɣa.ta] (Tags: Valencia)
+Garraf
+  IPA: [ɡəˈraf] (Tags: Balearic, Central)
+  IPA: [ɡaˈraf] (Tags: Valencia)
+Garraf
+  IPA: [ɡəˈraf] (Tags: Balearic, Central)
+  IPA: [ɡaˈraf] (Tags: Valencia)
+Octàvia
+  IPA: [ukˈta.βi.ə] (Tags: Central)
+  IPA: [okˈta.vi.ə] (Tags: Balearic)
+  IPA: [okˈta.vi.a] (Tags: Valencia)
+Octavi
+  IPA: [ukˈta.βi] (Tags: Central)
+  IPA: [okˈta.vi] (Tags: Balearic, Valencia)
+Herodes
+  IPA: [əˈɾɔ.ðəs] (Tags: Balearic, Central)
+  IPA: [eˈɾɔ.ðes] (Tags: Valencia)
+Tailàndia
+  IPA: [təjˈlan.di.ə] (Tags: Balearic, Central)
+  IPA: [tajˈlan.di.a] (Tags: Valencia)
+Cesc
+  IPA: [ˈsɛsk] (Tags: Central)
+  IPA: [ˈsəsk] (Tags: Balearic)
+  IPA: [ˈsesk] (Tags: Valencia)
+Sud-àfrica
+  IPA: [ˌsutˈa.fɾi.kə] (Tags: Balearic, Central)
+  IPA: [ˌsutˈa.fɾi.ka] (Tags: Valencia)
+Papua Nova Guinea
+  IPA: [pəˈpu.ə ˈnɔ.βə ɣiˈne.ə] (Tags: Central)
+  IPA: [pəˈpu.ə ˈnɔ.və ɣiˈne.ə] (Tags: Balearic)
+  IPA: [paˈpu.a ˈnɔ.va ɣiˈne.a] (Tags: Valencia)
+Oriol
+  IPA: [u.ɾiˈɔl] (Tags: Central)
+  IPA: [o.ɾiˈɔl] (Tags: Balearic, Valencia)
+Oriol
+  IPA: [u.ɾiˈɔl] (Tags: Central)
+  IPA: [o.ɾiˈɔl] (Tags: Balearic, Valencia)
+Núria
+  IPA: [ˈnu.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈnu.ɾi.a] (Tags: Valencia)
+Mongòlia
+  IPA: [muŋˈɡɔ.li.ə] (Tags: Central)
+  IPA: [moŋˈɡɔ.li.ə] (Tags: Balearic)
+  IPA: [moŋˈɡɔ.li.a] (Tags: Valencia)
+Mònaco
+  IPA: [ˈmɔ.nə.ku] (Tags: Central)
+  IPA: [ˈmɔ.nə.ko] (Tags: Balearic)
+  IPA: [ˈmɔ.na.ko] (Tags: Valencia)
+Iemen
+  IPA: [ˈjɛ.mən] (Tags: Central)
+Colòmbia
+  IPA: [kuˈlɔm.bi.ə] (Tags: Central)
+  IPA: [koˈlɔm.bi.ə] (Tags: Balearic)
+  IPA: [koˈlɔm.bi.a] (Tags: Valencia)
+Eslovàquia
+  IPA: [əz.luˈβa.ki.ə] (Tags: Central)
+  IPA: [əz.loˈva.ki.ə] (Tags: Balearic)
+  IPA: [ez.loˈva.ki.a] (Tags: Valencia)
+Jordània
+  IPA: [ʒurˈda.ni.ə] (Tags: Central)
+  IPA: [ʒorˈda.ni.ə] (Tags: Balearic)
+  IPA: [d͡ʒoɾˈða.ni.a] (Tags: Valencia)
+Etiòpia
+  IPA: [ə.tiˈɔ.pi.ə] (Tags: Balearic, Central)
+  IPA: [e.tiˈɔ.pi.a] (Tags: Valencia)
+Aquil·les
+  IPA: [əˈkil.ləs] (Tags: Balearic, Central)
+  IPA: [aˈkil.les] (Tags: Valencia)
+Tanzània
+  IPA: [tənˈza.ni.ə] (Tags: Balearic, Central)
+  IPA: [tanˈza.ni.a] (Tags: Valencia)
+Laia
+  IPA: [ˈla.jə] (Tags: Balearic, Central)
+  IPA: [ˈla.ja] (Tags: Valencia)
+Mireia
+  IPA: [miˈɾɛ.jə] (Tags: Central)
+Arnau
+  IPA: [ərˈnaw] (Tags: Balearic, Central)
+  IPA: [aɾˈnaw] (Tags: Valencia)
+Mississipí
+  IPA: [mi.si.siˈpi] (Tags: Balearic, Central, Valencia)
+Nou Mèxic
+  IPA: [ˈnɔw ˈmɛk.sik] (Tags: Balearic, Central, Valencia)
+Nova Jersey
+  IPA: [ˈnɔ.βə ˈʒɛr.si] (Tags: Central)
+Califòrnia
+  IPA: [kə.liˈfɔr.ni.ə] (Tags: Balearic, Central)
+  IPA: [ka.liˈfɔɾ.ni.a] (Tags: Valencia)
+Múrcia
+  IPA: [ˈmur.si.ə] (Tags: Balearic, Central)
+  IPA: [ˈmuɾ.si.a] (Tags: Valencia)
+Neptú
+  IPA: [nəpˈtu] (Tags: Balearic, Central)
+  IPA: [nepˈtu] (Tags: Valencia)
+Virgínia
+  IPA: [birˈʒi.ni.ə] (Tags: Central)
+  IPA: [virˈʒi.ni.ə] (Tags: Balearic)
+  IPA: [viɾˈd͡ʒi.ni.a] (Tags: Valencia)
+Polinèsia
+  IPA: [pu.liˈnɛ.zi.ə] (Tags: Central)
+  IPA: [po.liˈnɛ.zi.ə] (Tags: Balearic)
+  IPA: [po.liˈnɛ.zi.a] (Tags: Valencia)
+Provença
+  IPA: [pɾuˈβɛn.sə] (Tags: Central)
+  IPA: [pɾoˈvɛn.sə] (Tags: Balearic)
+  IPA: [pɾoˈven.sa] (Tags: Valencia)
+Brussel·les
+  IPA: [bɾuˈsɛl.ləs] (Tags: Balearic, Central)
+  IPA: [bɾuˈsɛl.les] (Tags: Valencia)
+Comissió Europea
+  IPA: [ku.mi.siˈo əw.ɾuˈpe.ə] (Tags: Central)
+  IPA: [ko.mi.siˈo əw.ɾoˈpe.ə] (Tags: Balearic)
+  IPA: [ko.mi.siˈo ew.ɾoˈpe.a] (Tags: Valencia)
+Xipre
+  IPA: [ˈʃi.pɾə] (Tags: Balearic, Central)
+  IPA: [ˈt͡ʃi.pɾe] (Tags: Valencia)
+Busot
+  IPA: [buˈzɔt] (Tags: Balearic, Central, Valencia)
+Aigües
+  IPA: [ˈaj.ɣwəs] (Tags: Balearic, Central)
+  IPA: [ˈaj.ɣwes] (Tags: Valencia)
+Mutxamel
+  IPA: [mu.t͡ʃəˈmɛl] (Tags: Balearic, Central)
+  IPA: [mu.t͡ʃaˈmɛl] (Tags: Valencia)
+Agost
+  IPA: [əˈɣost] (Tags: Balearic, Central)
+  IPA: [aˈɣost] (Tags: Valencia)
+Xixona
+  IPA: [ʃiˈʃo.nə] (Tags: Balearic, Central)
+  IPA: [ʃiˈʃo.na] (Tags: Valencia)
+Sant Vicent del Raspeig
+  IPA: [ˈsam biˈsɛn dəl rəsˈpɛt͡ʃ] (Tags: Central)
+  IPA: [ˈsaɱ viˈsɛn dəl rəsˈpət͡ʃ] (Tags: Balearic)
+  IPA: [ˈsaɱ viˈsɛn del rasˈpet͡ʃ] (Tags: Valencia)
+Sant Joan d'Alacant
+  IPA: [ˈsaɲ ʒuˈan d‿ə.ləˈkan] (Tags: Central)
+  IPA: [ˈsaɲ ʒoˈan d‿ə.ləˈkant] (Tags: Balearic)
+  IPA: [ˈsaɲ d͡ʒoˈan d‿a.laˈkant] (Tags: Valencia)
+Alacant
+  IPA: [ə.ləˈkan] (Tags: Central)
+  IPA: [ə.ləˈkant] (Tags: Balearic)
+  IPA: [a.laˈkant] (Tags: Valencia)
+Nova Zelanda
+  IPA: [ˈnɔ.βə zəˈlan.də] (Tags: Central)
+  IPA: [ˈnɔ.və zəˈlan.də] (Tags: Balearic)
+  IPA: [ˈnɔ.va zeˈlan.da] (Tags: Valencia)
+Estats Units d'Amèrica
+  IPA: [əsˈtadz uˈnidz d‿əˈmɛ.ɾi.kə] (Tags: Balearic, Central)
+  IPA: [esˈtadz uˈnidz ð‿aˈmɛ.ɾi.ka] (Tags: Valencia)
+República Txeca
+  IPA: [rəˈpub.bli.kə ˈt͡ʃɛ.kə] (Tags: Balearic, Central)
+  IPA: [reˈpu.bli.ka ˈt͡ʃe.ka] (Tags: Valencia)
+Lilla
+  IPA: [ˈli.ʎə] (Tags: Balearic, Central)
+  IPA: [ˈli.ʎa] (Tags: Valencia)
+Malàisia
+  IPA: [məˈlaj.zi.ə] (Tags: Balearic, Central)
+  IPA: [maˈlaj.zi.a] (Tags: Valencia)
+Nicea
+  IPA: [niˈse.ə] (Tags: Balearic, Central)
+  IPA: [niˈse.a] (Tags: Valencia)
+Ibèria
+  IPA: [iˈβɛ.ɾi.ə] (Tags: Central)
+  IPA: [iˈbɛ.ɾi.ə] (Tags: Balearic)
+  IPA: [iˈbɛ.ɾi.a] (Tags: Valencia)
+Cantàbria
+  IPA: [kənˈta.βɾi.ə] (Tags: Central)
+  IPA: [kənˈta.bɾi.ə] (Tags: Balearic)
+  IPA: [kanˈta.bɾi.a] (Tags: Valencia)
+Pep
+  IPA: [ˈpɛp] (Tags: Balearic, Central, Valencia)
+Ginebra
+  IPA: [ʒiˈne.βɾə] (Tags: Central)
+  IPA: [ʒiˈne.bɾə] (Tags: Balearic)
+  IPA: [d͡ʒiˈne.bɾa] (Tags: Valencia)
+Sever
+  IPA: [səˈβe] (Tags: Central)
+  IPA: [səˈve] (Tags: Balearic)
+  IPA: [seˈveɾ] (Tags: Valencia)
+Mahoma
+  IPA: [məˈo.mə] (Tags: Balearic, Central)
+  IPA: [maˈo.ma] (Tags: Valencia)
+franja de Gaza
+  IPA: [ˈfɾaɲ.ʒə ðə ˈɣa.zə] (Tags: Balearic, Central)
+  IPA: [ˈfɾaɲ.d͡ʒa ðe ˈɣa.za] (Tags: Valencia)
+Llemosí
+  IPA: [ʎə.muˈzi] (Tags: Balearic, Central)
+  IPA: [ʎe.moˈzi] (Tags: Valencia)
+Migdia-Pirineus
+  IPA: [ˌmid͡ʒˌdi.ə.pi.ɾiˈnɛws] (Tags: Balearic, Central)
+  IPA: [ˌmid͡ʒˌdi.a.pi.ɾiˈnɛws] (Tags: Valencia)
+Alvèrnia
+  IPA: [əlˈβɛr.ni.ə] (Tags: Central)
+  IPA: [əlˈvɛr.ni.ə] (Tags: Balearic)
+  IPA: [alˈvɛɾ.ni.a] (Tags: Valencia)
+Marne
+  IPA: [ˈmar.nə] (Tags: Balearic, Central)
+  IPA: [ˈmaɾ.ne] (Tags: Valencia)
+Aquisgrà
+  IPA: [ə.kizˈɡɾa] (Tags: Balearic, Central)
+  IPA: [a.kizˈɣɾa] (Tags: Valencia)
+Ovidi
+  IPA: [uˈβi.ði] (Tags: Central)
+  IPA: [uˈvi.ði] (Tags: Balearic)
+  IPA: [oˈvi.ði] (Tags: Valencia)
+Pare Nadal
+  IPA: [ˈpa.ɾə nəˈðal] (Tags: Balearic, Central)
+  IPA: [ˈpa.ɾe naˈðal] (Tags: Valencia)
+Pare Noel
+  IPA: [ˈpa.ɾə nuˈɛl] (Tags: Central)
+  IPA: [ˈpa.ɾə noˈɛl] (Tags: Balearic)
+  IPA: [ˈpa.ɾe noˈɛl] (Tags: Valencia)
+Varsòvia
+  IPA: [bərˈsɔ.βi.ə] (Tags: Central)
+  IPA: [vərˈsɔ.vi.ə] (Tags: Balearic)
+  IPA: [vaɾˈsɔ.vi.a] (Tags: Valencia)
+Pequín
+  IPA: [pəˈkin] (Tags: Balearic, Central)
+  IPA: [peˈkin] (Tags: Valencia)
+Països Baixos
+  IPA: [pəˈi.zuz ˈba.ʃus] (Tags: Central)
+  IPA: [pəˈi.zoz ˈba.ʃos] (Tags: Balearic)
+  IPA: [paˈi.zoz ˈbaj.ʃos] (Tags: Valencia)
+Girona
+  IPA: [ʒiˈɾo.nə] (Tags: Balearic, Central)
+  IPA: [d͡ʒiˈɾo.na] (Tags: Valencia)
+Nínive
+  IPA: [ˈni.ni.βə] (Tags: Central)
+  IPA: [ˈni.ni.və] (Tags: Balearic)
+  IPA: [ˈni.ni.ve] (Tags: Valencia)
+Assíria
+  IPA: [əˈsi.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [aˈsi.ɾi.a] (Tags: Valencia)
+Cartago
+  IPA: [kərˈta.ɣu] (Tags: Central)
+  IPA: [kərˈta.ɣo] (Tags: Balearic)
+  IPA: [kaɾˈta.ɣo] (Tags: Valencia)
+Tolosa
+  IPA: [tuˈlo.zə] (Tags: Central)
+  IPA: [toˈlo.zə] (Tags: Balearic)
+  IPA: [toˈlo.za] (Tags: Valencia)
+Astúries
+  IPA: [əsˈtu.ɾi.əs] (Tags: Balearic, Central)
+  IPA: [asˈtu.ɾi.es] (Tags: Valencia)
+Birmània
+  IPA: [birˈma.ni.ə] (Tags: Balearic, Central)
+  IPA: [biɾˈma.ni.a] (Tags: Valencia)
+Còrsega
+  IPA: [ˈkɔr.sə.ɣə] (Tags: Balearic, Central)
+  IPA: [ˈkɔɾ.se.ɣa] (Tags: Valencia)
+Líban
+  IPA: [ˈli.βən] (Tags: Central)
+  IPA: [ˈli.bən] (Tags: Balearic)
+  IPA: [ˈli.ban] (Tags: Valencia)
+Somàlia
+  IPA: [suˈma.li.ə] (Tags: Central)
+  IPA: [soˈma.li.ə] (Tags: Balearic)
+  IPA: [soˈma.li.a] (Tags: Valencia)
+Bielorússia
+  IPA: [biˌɛ.luˈɾu.si.ə] (Tags: Balearic, Central)
+  IPA: [biˌɛ.loˈɾu.si.a] (Tags: Valencia)
+Bielarús
+  IPA: [biˌɛ.ləˈɾus] (Tags: Balearic, Central)
+  IPA: [biˌɛ.laˈɾus] (Tags: Valencia)
+Estats Units
+  IPA: [əsˈtadz uˈnits] (Tags: Balearic, Central)
+  IPA: [esˈtadz uˈnits] (Tags: Valencia)
+Libèria
+  IPA: [liˈβɛ.ɾi.ə] (Tags: Central)
+  IPA: [liˈbɛ.ɾi.ə] (Tags: Balearic)
+  IPA: [liˈbɛ.ɾi.a] (Tags: Valencia)
+Cap Verd
+  IPA: [ˈkab ˈbɛrt] (Tags: Central)
+  IPA: [ˈkab ˈvərt] (Tags: Balearic)
+  IPA: [ˈkab ˈvɛɾt] (Tags: Valencia)
+Bahames
+  IPA: [bəˈa.məs] (Tags: Balearic, Central)
+  IPA: [baˈa.mes] (Tags: Valencia)
+Tiberi
+  IPA: [tiˈβɛ.ɾi] (Tags: Central)
+  IPA: [tiˈbɛ.ɾi] (Tags: Balearic, Valencia)
+Eurocopa
+  IPA: [ˌɛw.ɾuˈko.pə] (Tags: Central)
+  IPA: [ˌɛw.ɾoˈko.pə] (Tags: Balearic)
+  IPA: [ˌew.ɾoˈko.pa] (Tags: Valencia)
+Besòs
+  IPA: [bəˈzɔs] (Tags: Balearic, Central)
+  IPA: [beˈzɔs] (Tags: Valencia)
+Mar Mediterrània
+  IPA: [ˈmar mə.ði.təˈra.ni.ə] (Tags: Balearic, Central)
+  IPA: [ˈmar me.ði.teˈra.ni.a] (Tags: Valencia)
+Montjuïc
+  IPA: [muɲ.ʒuˈik] (Tags: Central)
+  IPA: [moɲ.ʒuˈik] (Tags: Balearic)
+  IPA: [moɲ.d͡ʒuˈik] (Tags: Valencia)
+Barna
+  IPA: [ˈbar.nə] (Tags: Balearic, Central)
+  IPA: [ˈbaɾ.na] (Tags: Valencia)
+Alfabet Fonètic Internacional
+  IPA: [əl.fəˈβɛt fuˈnɛ.tik in.tər.nə.si.uˈnal] (Tags: Central)
+  IPA: [əl.fəˈbɛt foˈnɛ.tik in.tər.nə.si.oˈnal] (Tags: Balearic)
+  IPA: [al.faˈbet foˈnɛ.tik in.teɾ.na.si.oˈnal] (Tags: Valencia)
+Xavi
+  IPA: [ˈʃa.βi] (Tags: Central)
+  IPA: [ˈʃa.vi] (Tags: Balearic)
+  IPA: [ˈt͡ʃa.vi] (Tags: Valencia)
+Mauritània
+  IPA: [məw.ɾiˈta.ni.ə] (Tags: Balearic, Central)
+  IPA: [maw.ɾiˈta.ni.a] (Tags: Valencia)
+Mercuri
+  IPA: [mərˈku.ɾi] (Tags: Balearic, Central)
+  IPA: [meɾˈku.ɾi] (Tags: Valencia)
+Urà
+  IPA: [uˈɾa] (Tags: Balearic, Central, Valencia)
+Bragança
+  IPA: [bɾəˈɣan.sə] (Tags: Balearic, Central)
+  IPA: [bɾaˈɣan.sa] (Tags: Valencia)
+Piemont
+  IPA: [pi.əˈmon] (Tags: Central)
+  IPA: [pi.əˈmont] (Tags: Balearic)
+  IPA: [pi.eˈmont] (Tags: Valencia)
+Zamora
+  IPA: [zəˈmɔ.ɾə] (Tags: Balearic, Central)
+  IPA: [zaˈmɔ.ɾa] (Tags: Valencia)
+Filipines
+  IPA: [fi.liˈpi.nəs] (Tags: Balearic, Central)
+  IPA: [fi.liˈpi.nes] (Tags: Valencia)
+Bòsnia i Hercegovina
+  IPA: [ˈbɔz.ni.ə i ər.sə.ɣuˈβi.nə] (Tags: Central)
+  IPA: [ˈbɔz.ni.ə i ər.sə.ɣuˈvi.nə] (Tags: Balearic)
+  IPA: [ˈbɔz.ni.a i eɾ.se.ɣoˈvi.na] (Tags: Valencia)
+Sibèria
+  IPA: [siˈβɛ.ɾi.ə] (Tags: Central)
+  IPA: [siˈbɛ.ɾi.ə] (Tags: Balearic)
+  IPA: [siˈbɛ.ɾi.a] (Tags: Valencia)
+Kirguizistan
+  IPA: [kir.ɡi.zisˈtan] (Tags: Balearic, Central)
+  IPA: [kiɾ.ɣi.zisˈtan] (Tags: Valencia)
+Moçambic
+  IPA: [mu.səmˈbik] (Tags: Central)
+  IPA: [mo.səmˈbik] (Tags: Balearic)
+  IPA: [mo.samˈbik] (Tags: Valencia)
+bielorús
+  IPA: [biˌɛ.luˈɾus] (Tags: Balearic, Central)
+  IPA: [biˌɛ.loˈɾus] (Tags: Valencia)
+Atles
+  IPA: [ˈal.ləs] (Tags: Balearic, Central)
+  IPA: [ˈal.les] (Tags: Valencia)
+Euràsia
+  IPA: [əwˈɾa.zi.ə] (Tags: Balearic, Central)
+  IPA: [ewˈɾa.zi.a] (Tags: Valencia)
+Amazones
+  IPA: [ə.məˈzo.nəs] (Tags: Balearic, Central)
+  IPA: [a.maˈzo.nes] (Tags: Valencia)
+Ebre
+  IPA: [ˈe.βɾə] (Tags: Central)
+  IPA: [ˈe.bɾə] (Tags: Balearic)
+  IPA: [ˈe.bɾe] (Tags: Valencia)
+Danubi
+  IPA: [dəˈnu.βi] (Tags: Central)
+  IPA: [dəˈnu.bi] (Tags: Balearic)
+  IPA: [daˈnu.bi] (Tags: Valencia)
+Venècia
+  IPA: [bəˈnɛ.si.ə] (Tags: Central)
+  IPA: [vəˈnɛ.si.ə] (Tags: Balearic)
+  IPA: [veˈnɛ.si.a] (Tags: Valencia)
+Valença
+  IPA: [bəˈlɛn.sə] (Tags: Central)
+  IPA: [vəˈlɛn.sə] (Tags: Balearic)
+  IPA: [vaˈlen.sa] (Tags: Valencia)
+Àngel
+  IPA: [ˈaɲ.ʒəl] (Tags: Balearic, Central)
+  IPA: [ˈaɲ.d͡ʒel] (Tags: Valencia)
+Montse
+  IPA: [ˈmon.sə] (Tags: Balearic, Central)
+  IPA: [ˈmon.se] (Tags: Valencia)
+Tomàs
+  IPA: [tuˈmas] (Tags: Central)
+  IPA: [toˈmas] (Tags: Balearic, Valencia)
+Puig
+  IPA: [ˈput͡ʃ] (Tags: Balearic, Central, Valencia)
+Orfeu
+  IPA: [urˈfɛw] (Tags: Central)
+  IPA: [orˈfɛw] (Tags: Balearic)
+  IPA: [oɾˈfɛw] (Tags: Valencia)
+Eurídice
+  IPA: [əwˈɾi.ði.sə] (Tags: Balearic, Central)
+  IPA: [ewˈɾi.ði.se] (Tags: Valencia)
+Mussa
+  IPA: [ˈmu.sə] (Tags: Balearic, Central)
+  IPA: [ˈmu.sa] (Tags: Valencia)
+Engiadina
+  IPA: [əɲ.ʒi.əˈði.nə] (Tags: Balearic, Central)
+  IPA: [eɲ.d͡ʒi.aˈði.na] (Tags: Valencia)
+Guadalquivir
+  IPA: [ɡwə.ðəl.kiˈβir] (Tags: Central)
+  IPA: [ɡwə.ðəl.kiˈvir] (Tags: Balearic)
+  IPA: [ɡwa.ðal.kiˈvir] (Tags: Valencia)
+Campània
+  IPA: [kəmˈpa.ni.ə] (Tags: Balearic, Central)
+  IPA: [kamˈpa.ni.a] (Tags: Valencia)
+Bangla Desh
+  IPA: [ˌbaŋ.ɡləˈðɛʃ] (Tags: Balearic, Central)
+  IPA: [ˌbaŋ.ɡlaˈðeʃ] (Tags: Valencia)
+Lleó
+  IPA: [ʎəˈo] (Tags: Balearic, Central)
+  IPA: [ʎeˈo] (Tags: Valencia)
+Lleó
+  IPA: [ʎəˈo] (Tags: Balearic, Central)
+  IPA: [ʎeˈo] (Tags: Valencia)
+indoeuropeu
+  IPA: [ˌin.du.əw.ɾuˈpɛw] (Tags: Central)
+  IPA: [ˌin.do.əw.ɾoˈpɛw] (Tags: Balearic)
+  IPA: [ˌin.do.ew.ɾoˈpɛw] (Tags: Valencia)
+Escandinàvia
+  IPA: [əs.kən.diˈna.βi.ə] (Tags: Central)
+  IPA: [əs.kən.diˈna.vi.ə] (Tags: Balearic)
+  IPA: [es.kan.diˈna.vi.a] (Tags: Valencia)
+Gregori
+  IPA: [ɡɾəˈɣɔ.ɾi] (Tags: Balearic, Central)
+  IPA: [ɡɾeˈɣɔ.ɾi] (Tags: Valencia)
+Florència
+  IPA: [fluˈɾɛn.si.ə] (Tags: Central)
+  IPA: [floˈɾən.si.ə] (Tags: Balearic)
+  IPA: [floˈɾen.si.a] (Tags: Valencia)
+Martí
+  IPA: [mərˈti] (Tags: Balearic, Central)
+  IPA: [maɾˈti] (Tags: Valencia)
+Martí
+  IPA: [mərˈti] (Tags: Balearic, Central)
+  IPA: [maɾˈti] (Tags: Valencia)
+Cilícia
+  IPA: [siˈli.si.ə] (Tags: Balearic, Central)
+  IPA: [siˈli.si.a] (Tags: Valencia)
+Etrúria
+  IPA: [əˈtɾu.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [eˈtɾu.ɾi.a] (Tags: Valencia)
+Frígia
+  IPA: [ˈfɾi.ʒi.ə] (Tags: Balearic, Central)
+  IPA: [ˈfɾi.d͡ʒi.a] (Tags: Valencia)
+Antioquia
+  IPA: [ən.ti.uˈki.ə] (Tags: Balearic, Central)
+  IPA: [an.ti.oˈki.a] (Tags: Valencia)
+Emília
+  IPA: [əˈmi.li.ə] (Tags: Balearic, Central)
+  IPA: [eˈmi.li.a] (Tags: Valencia)
+Jericó
+  IPA: [ʒə.ɾiˈko] (Tags: Balearic, Central)
+  IPA: [d͡ʒe.ɾiˈko] (Tags: Valencia)
+Lídia
+  IPA: [ˈli.ði.ə] (Tags: Balearic, Central)
+  IPA: [ˈli.ði.a] (Tags: Valencia)
+Margarida
+  IPA: [mər.ɡəˈɾi.ðə] (Tags: Balearic, Central)
+  IPA: [maɾ.ɣaˈɾi.ða] (Tags: Valencia)
+Meca
+  IPA: [ˈmɛ.kə] (Tags: Balearic, Central)
+  IPA: [ˈme.ka] (Tags: Valencia)
+Júlia
+  IPA: [ˈʒu.li.ə] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒu.li.a] (Tags: Valencia)
+Nicolau
+  IPA: [ni.kuˈlaw] (Tags: Central)
+  IPA: [ni.koˈlaw] (Tags: Balearic, Valencia)
+Proteu
+  IPA: [pɾuˈtɛw] (Tags: Central)
+  IPA: [pɾoˈtɛw] (Tags: Balearic, Valencia)
+Trípoli
+  IPA: [ˈtɾi.pu.li] (Tags: Central)
+  IPA: [ˈtɾi.po.li] (Tags: Balearic, Valencia)
+Xangai
+  IPA: [ʃəŋˈɡaj] (Tags: Balearic, Central)
+  IPA: [t͡ʃaŋˈɡaj] (Tags: Valencia)
+Èdip
+  IPA: [ˈɛ.ðip] (Tags: Balearic, Central, Valencia)
+Betlem
+  IPA: [bəlˈlɛm] (Tags: Balearic, Central)
+  IPA: [belˈlem] (Tags: Valencia)
+Blanes
+  IPA: [ˈbla.nəs] (Tags: Balearic, Central)
+  IPA: [ˈbla.nes] (Tags: Valencia)
+Copenhaguen
+  IPA: [ku.pəˈna.ɣən] (Tags: Central)
+  IPA: [ko.pəˈna.ɣən] (Tags: Balearic)
+  IPA: [ko.peˈna.ɣen] (Tags: Valencia)
+Xiva
+  IPA: [ˈʃi.βə] (Tags: Central)
+  IPA: [ˈʃi.və] (Tags: Balearic)
+  IPA: [ˈt͡ʃi.va] (Tags: Valencia)
+Lluna
+  IPA: [ˈʎu.nə] (Tags: Balearic, Central)
+  IPA: [ˈʎu.na] (Tags: Valencia)
+Úmbria
+  IPA: [ˈum.bɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈum.bɾi.a] (Tags: Valencia)
+Ístria
+  IPA: [ˈis.tɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈis.tɾi.a] (Tags: Valencia)
+Haia
+  IPA: [ˈa.jə] (Tags: Balearic, Central)
+  IPA: [ˈa.ja] (Tags: Valencia)
+Sardenya
+  IPA: [sərˈdɛ.ɲə] (Tags: Central)
+  IPA: [sərˈdə.ɲə] (Tags: Balearic)
+  IPA: [saɾˈðe.ɲa] (Tags: Valencia)
+Segòvia
+  IPA: [səˈɣɔ.βi.ə] (Tags: Central)
+  IPA: [səˈɣɔ.vi.ə] (Tags: Balearic)
+  IPA: [seˈɣɔ.vi.a] (Tags: Valencia)
+Pals
+  IPA: [ˈpals] (Tags: Balearic, Central, Valencia)
+Carme
+  IPA: [ˈkar.mə] (Tags: Balearic, Central)
+  IPA: [ˈkaɾ.me] (Tags: Valencia)
+Caríntia
+  IPA: [kəˈɾin.ti.ə] (Tags: Balearic, Central)
+  IPA: [kaˈɾin.ti.a] (Tags: Valencia)
+Publi
+  IPA: [ˈpub.bli] (Tags: Balearic, Central)
+  IPA: [ˈpu.bli] (Tags: Valencia)
+Estíria
+  IPA: [əsˈti.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [esˈti.ɾi.a] (Tags: Valencia)
+Ligúria
+  IPA: [liˈɣu.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [liˈɣu.ɾi.a] (Tags: Valencia)
+Laci
+  IPA: [ˈla.si] (Tags: Balearic, Central, Valencia)
+Guinea Bissau
+  IPA: [ɡiˈne.ə βiˈsaw] (Tags: Central)
+  IPA: [ɡiˈne.ə biˈsaw] (Tags: Balearic)
+  IPA: [ɡiˈne.a biˈsaw] (Tags: Valencia)
+Jaén
+  IPA: [ʒəˈen] (Tags: Balearic, Central)
+  IPA: [d͡ʒaˈen] (Tags: Valencia)
+Terrassa
+  IPA: [təˈra.sə] (Tags: Balearic, Central)
+  IPA: [teˈra.sa] (Tags: Valencia)
+Lleida
+  IPA: [ˈʎej.ðə] (Tags: Balearic, Central)
+  IPA: [ˈʎej.ða] (Tags: Valencia)
+  IPA: [ˈʎejðɛ]
+Santa Cruz de Tenerife
+  IPA: [ˈsan.tə ˈkɾuz də tə.nəˈɾi.fə] (Tags: Balearic, Central)
+  IPA: [ˈsan.ta ˈkɾuz ðe te.neˈɾi.fe] (Tags: Valencia)
+Mossos d'Esquadra
+  IPA: [ˈmo.suz d‿əsˈkwa.ðɾə] (Tags: Central)
+  IPA: [ˈmo.soz d‿əsˈkwa.ðɾə] (Tags: Balearic)
+  IPA: [ˈmo.soz ð‿esˈkwa.ðɾa] (Tags: Valencia)
+Lugo
+  IPA: [ˈlu.ɣu] (Tags: Central)
+  IPA: [ˈlu.ɣo] (Tags: Balearic, Valencia)
+Acaia
+  IPA: [əˈka.jə] (Tags: Balearic, Central)
+  IPA: [aˈka.ja] (Tags: Valencia)
+Cíclades
+  IPA: [ˈsi.klə.ðəs] (Tags: Balearic, Central)
+  IPA: [ˈsi.kla.ðes] (Tags: Valencia)
+Marques
+  IPA: [ˈmar.kəs] (Tags: Balearic, Central)
+  IPA: [ˈmaɾ.kes] (Tags: Valencia)
+FGC
+  IPA: [ˌe.fəˌʒeˈse] (Tags: Balearic, Central)
+  IPA: [ˌe.feˌd͡ʒeˈse] (Tags: Valencia)
+Torà
+  IPA: [tuˈɾa] (Tags: Central)
+  IPA: [toˈɾa] (Tags: Balearic, Valencia)
+Dudu
+  IPA: [ˈdu.ðu] (Tags: Balearic, Central, Valencia)
+Acosta
+  IPA: [əˈkɔs.tə] (Tags: Balearic, Central)
+  IPA: [aˈkɔs.ta] (Tags: Valencia)
+Cabrera
+  IPA: [kəˈβɾe.ɾə] (Tags: Central)
+  IPA: [kəˈbɾe.ɾə] (Tags: Balearic)
+  IPA: [kaˈbɾe.ɾa] (Tags: Valencia)
+Cabrera
+  IPA: [kəˈβɾe.ɾə] (Tags: Central)
+  IPA: [kəˈbɾe.ɾə] (Tags: Balearic)
+  IPA: [kaˈbɾe.ɾa] (Tags: Valencia)
+Còrdova
+  IPA: [ˈkɔr.du.βə] (Tags: Central)
+  IPA: [ˈkɔr.do.və] (Tags: Balearic)
+  IPA: [ˈkɔɾ.ðo.va] (Tags: Valencia)
+Rodes
+  IPA: [ˈrɔ.ðəs] (Tags: Balearic, Central)
+  IPA: [ˈrɔ.ðes] (Tags: Valencia)
+Turíngia
+  IPA: [tuˈɾiɲ.ʒi.ə] (Tags: Balearic, Central)
+  IPA: [tuˈɾiɲ.d͡ʒi.a] (Tags: Valencia)
+Bengala Occidental
+  IPA: [bəŋˈɡa.lə uk.si.ðənˈtal] (Tags: Central)
+  IPA: [bəŋˈɡa.lə ok.si.ðənˈtal] (Tags: Balearic)
+  IPA: [beŋˈɡa.la ok.si.ðenˈtal] (Tags: Valencia)
+Moldàvia
+  IPA: [mulˈda.βi.ə] (Tags: Central)
+  IPA: [molˈda.vi.ə] (Tags: Balearic)
+  IPA: [molˈda.vi.a] (Tags: Valencia)
+Esmirna
+  IPA: [əzˈmir.nə] (Tags: Balearic, Central)
+  IPA: [ezˈmiɾ.na] (Tags: Valencia)
+Llorenç
+  IPA: [ʎuˈɾɛns] (Tags: Central)
+  IPA: [ʎoˈɾɛns] (Tags: Balearic, Valencia)
+Marsella
+  IPA: [mərˈse.ʎə] (Tags: Balearic, Central)
+  IPA: [maɾˈse.ʎa] (Tags: Valencia)
+Priorat
+  IPA: [pɾi.uˈɾat] (Tags: Central)
+  IPA: [pɾi.oˈɾat] (Tags: Balearic, Valencia)
+Aràbia Saudita
+  IPA: [əˈɾa.βi.ə səwˈði.tə] (Tags: Central)
+  IPA: [əˈɾa.bi.ə səwˈði.tə] (Tags: Balearic)
+  IPA: [aˈɾa.bi.a sawˈði.ta] (Tags: Valencia)
+Llobregat
+  IPA: [ʎu.βɾəˈɣat] (Tags: Central)
+  IPA: [ʎo.bɾəˈɣat] (Tags: Balearic)
+  IPA: [ʎo.bɾeˈɣat] (Tags: Valencia)
+Almeria
+  IPA: [əl.məˈɾi.ə] (Tags: Balearic, Central)
+  IPA: [al.meˈɾi.a] (Tags: Valencia)
+Amadeu
+  IPA: [ə.məˈðɛw] (Tags: Balearic, Central)
+  IPA: [a.maˈðɛw] (Tags: Valencia)
+Ptolemeu
+  IPA: [ptu.ləˈmɛw] (Tags: Central)
+  IPA: [pto.ləˈmɛw] (Tags: Balearic)
+  IPA: [pto.leˈmɛw] (Tags: Valencia)
+Txetxènia
+  IPA: [t͡ʃəˈt͡ʃɛ.ni.ə] (Tags: Balearic, Central)
+  IPA: [t͡ʃeˈt͡ʃɛ.ni.a] (Tags: Valencia)
+Nausica
+  IPA: [nəwˈzi.kə] (Tags: Balearic, Central)
+  IPA: [nawˈzi.ka] (Tags: Valencia)
+Heraclea
+  IPA: [ə.ɾəˈkle.ə] (Tags: Balearic, Central)
+  IPA: [e.ɾaˈkle.a] (Tags: Valencia)
+Txèquia
+  IPA: [ˈt͡ʃɛ.ki.ə] (Tags: Balearic, Central)
+  IPA: [ˈt͡ʃɛ.ki.a] (Tags: Valencia)
+Fraga
+  IPA: [ˈfɾa.ɣə] (Tags: Balearic, Central)
+  IPA: [ˈfɾa.ɣa] (Tags: Valencia)
+Sales
+  IPA: [ˈsa.ləs] (Tags: Balearic, Central)
+  IPA: [ˈsa.les] (Tags: Valencia)
+Generalitat
+  IPA: [ʒə.nə.ɾə.liˈtat] (Tags: Balearic, Central)
+  IPA: [d͡ʒe.ne.ɾa.liˈtat] (Tags: Valencia)
+Pallars
+  IPA: [pəˈʎars] (Tags: Central)
+  IPA: [pəˈʎas] (Tags: Balearic)
+  IPA: [paˈʎaɾs] (Tags: Valencia)
+Jaume
+  IPA: [ˈʒaw.mə] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒaw.me] (Tags: Valencia)
+Gaudí
+  IPA: [ɡəwˈði] (Tags: Balearic, Central)
+  IPA: [ɡawˈði] (Tags: Valencia)
+Ramon
+  IPA: [rəˈmon] (Tags: Balearic, Central)
+  IPA: [raˈmon] (Tags: Valencia)
+Cèsar
+  IPA: [ˈsɛ.zər] (Tags: Balearic, Central)
+  IPA: [ˈsɛ.zar] (Tags: Valencia)
+Tremp
+  IPA: [ˈtɾem] (Tags: Central)
+  IPA: [ˈtɾemp] (Tags: Balearic, Valencia)
+Bernat
+  IPA: [bərˈnat] (Tags: Balearic, Central)
+  IPA: [beɾˈnat] (Tags: Valencia)
+Constantinoble
+  IPA: [kuns.tən.tiˈnɔb.blə] (Tags: Central)
+  IPA: [kons.tən.tiˈnɔb.blə] (Tags: Balearic)
+  IPA: [kons.tan.tiˈno.ble] (Tags: Valencia)
+Milà
+  IPA: [miˈla] (Tags: Balearic, Central, Valencia)
+Balears
+  IPA: [bə.leˈars] (Tags: Central)
+  IPA: [bə.leˈas] (Tags: Balearic)
+  IPA: [ba.leˈaɾs] (Tags: Valencia)
+Borbó
+  IPA: [burˈbo] (Tags: Central)
+  IPA: [borˈbo] (Tags: Balearic)
+  IPA: [boɾˈbo] (Tags: Valencia)
+Castelló
+  IPA: [kəs.təˈʎo] (Tags: Balearic, Central)
+  IPA: [kas.teˈʎo] (Tags: Valencia)
+Lícia
+  IPA: [ˈli.si.ə] (Tags: Balearic, Central)
+  IPA: [ˈli.si.a] (Tags: Valencia)
+Biel
+  IPA: [biˈɛl] (Tags: Balearic, Central, Valencia)
+Picardia
+  IPA: [pi.kərˈdi.ə] (Tags: Balearic, Central)
+  IPA: [pi.kaɾˈði.a] (Tags: Valencia)
+Sanç
+  IPA: [ˈsans] (Tags: Balearic, Central, Valencia)
+Constantí
+  IPA: [kuns.tənˈti] (Tags: Central)
+  IPA: [kons.tənˈti] (Tags: Balearic)
+  IPA: [kons.tanˈti] (Tags: Valencia)
+Iugoslàvia
+  IPA: [ju.ɣuzˈla.βi.ə] (Tags: Central)
+  IPA: [ju.ɣozˈla.vi.ə] (Tags: Balearic)
+  IPA: [ju.ɣozˈla.vi.a] (Tags: Valencia)
+Saxònia
+  IPA: [səkˈsɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [sakˈsɔ.ni.a] (Tags: Valencia)
+Borgonya
+  IPA: [burˈɡo.ɲə] (Tags: Central)
+  IPA: [borˈɡo.ɲə] (Tags: Balearic)
+  IPA: [boɾˈɣo.ɲa] (Tags: Valencia)
+Babilònia
+  IPA: [bə.βiˈlɔ.ni.ə] (Tags: Central)
+  IPA: [bə.biˈlɔ.ni.ə] (Tags: Balearic)
+  IPA: [ba.biˈlɔ.ni.a] (Tags: Valencia)
+Hèrcules
+  IPA: [ˈɛr.ku.ləs] (Tags: Balearic, Central)
+  IPA: [ˈɛɾ.ku.les] (Tags: Valencia)
+Andreu
+  IPA: [ənˈdɾew] (Tags: Balearic, Central)
+  IPA: [anˈdɾew] (Tags: Valencia)
+Ribagorça
+  IPA: [ri.βəˈɣor.sə] (Tags: Central)
+  IPA: [ri.bəˈɣor.sə] (Tags: Balearic)
+  IPA: [ri.baˈɣoɾ.sa] (Tags: Valencia)
+Empúries
+  IPA: [əmˈpu.ɾi.əs] (Tags: Balearic, Central)
+  IPA: [emˈpu.ɾi.es] (Tags: Valencia)
+Munic
+  IPA: [muˈnik] (Tags: Balearic, Central, Valencia)
+Sebastià
+  IPA: [sə.βəs.tiˈa] (Tags: Central)
+  IPA: [sə.bəs.tiˈa] (Tags: Balearic)
+  IPA: [se.bas.tiˈa] (Tags: Valencia)
+Antígon
+  IPA: [ənˈti.ɣun] (Tags: Central)
+  IPA: [ənˈti.ɣon] (Tags: Balearic)
+  IPA: [anˈti.ɣon] (Tags: Valencia)
+Guinea Equatorial
+  IPA: [ɡiˈne.ə ə.kwə.tu.ɾiˈal] (Tags: Central)
+  IPA: [ɡiˈne.ə ə.kwə.to.ɾiˈal] (Tags: Balearic)
+  IPA: [ɡiˈne.a e.kwa.to.ɾiˈal] (Tags: Valencia)
+Noguera
+  IPA: [nuˈɣe.ɾə] (Tags: Central)
+  IPA: [noˈɣe.ɾə] (Tags: Balearic)
+  IPA: [noˈɣe.ɾa] (Tags: Valencia)
+Noguera
+  IPA: [nuˈɣe.ɾə] (Tags: Central)
+  IPA: [noˈɣe.ɾə] (Tags: Balearic)
+  IPA: [noˈɣe.ɾa] (Tags: Valencia)
+Lausana
+  IPA: [ləwˈza.nə] (Tags: Balearic, Central)
+  IPA: [lawˈza.na] (Tags: Valencia)
+Gàl·lia
+  IPA: [ˈɡal.li.ə] (Tags: Balearic, Central)
+  IPA: [ˈɡal.li.a] (Tags: Valencia)
+Antíoc
+  IPA: [ənˈti.uk] (Tags: Central)
+  IPA: [ənˈti.ok] (Tags: Balearic)
+  IPA: [anˈti.ok] (Tags: Valencia)
+Mesopotàmia
+  IPA: [mə.zu.puˈta.mi.ə] (Tags: Central)
+  IPA: [mə.zo.poˈta.mi.ə] (Tags: Balearic)
+  IPA: [me.zo.poˈta.mi.a] (Tags: Valencia)
+Liceu
+  IPA: [liˈsɛw] (Tags: Balearic, Central, Valencia)
+Sul·la
+  IPA: [ˈsul.lə] (Tags: Balearic, Central)
+  IPA: [ˈsul.la] (Tags: Valencia)
+Lluïsa
+  IPA: [ʎuˈi.zə] (Tags: Balearic, Central)
+  IPA: [ʎuˈi.za] (Tags: Valencia)
+Peloponès
+  IPA: [pə.lu.puˈnɛs] (Tags: Central)
+  IPA: [pə.lo.poˈnəs] (Tags: Balearic)
+  IPA: [pe.lo.poˈnes] (Tags: Valencia)
+Cadis
+  IPA: [ˈka.ðis] (Tags: Balearic, Central, Valencia)
+Gandia
+  IPA: [ɡənˈdi.ə] (Tags: Balearic, Central)
+  IPA: [ɡanˈdi.a] (Tags: Valencia)
+Figueres
+  IPA: [fiˈɣe.ɾəs] (Tags: Balearic, Central)
+  IPA: [fiˈɣe.ɾes] (Tags: Valencia)
+Cardona
+  IPA: [kərˈdo.nə] (Tags: Balearic, Central)
+  IPA: [kaɾˈðo.na] (Tags: Valencia)
+Cardona
+  IPA: [kərˈdo.nə] (Tags: Balearic, Central)
+  IPA: [kaɾˈðo.na] (Tags: Valencia)
+Borja
+  IPA: [ˈbɔr.ʒə] (Tags: Balearic, Central)
+  IPA: [ˈbɔɾ.d͡ʒa] (Tags: Valencia)
+Julià
+  IPA: [ʒu.liˈa] (Tags: Balearic, Central)
+  IPA: [d͡ʒu.liˈa] (Tags: Valencia)
+Mateu
+  IPA: [məˈtew] (Tags: Balearic, Central)
+  IPA: [maˈtew] (Tags: Valencia)
+Gènova
+  IPA: [ˈʒɛ.nu.βə] (Tags: Central)
+  IPA: [ˈʒɛ.no.və] (Tags: Balearic)
+  IPA: [ˈd͡ʒɛ.no.va] (Tags: Valencia)
+Aràbia
+  IPA: [əˈɾa.βi.ə] (Tags: Central)
+  IPA: [əˈɾa.bi.ə] (Tags: Balearic)
+  IPA: [aˈɾa.bi.a] (Tags: Valencia)
+Txecoslovàquia
+  IPA: [ˌt͡ʃɛ.kuz.luˈβa.ki.ə] (Tags: Central)
+  IPA: [ˌt͡ʃɛ.koz.loˈva.ki.ə] (Tags: Balearic)
+  IPA: [ˌt͡ʃɛ.koz.loˈva.ki.a] (Tags: Valencia)
+Bohèmia
+  IPA: [buˈɛ.mi.ə] (Tags: Central)
+  IPA: [boˈɛ.mi.ə] (Tags: Balearic)
+  IPA: [boˈɛ.mi.a] (Tags: Valencia)
+Kíev
+  IPA: [ˈki.əf] (Tags: Balearic, Central)
+  IPA: [ˈki.ef] (Tags: Valencia)
+Alsàcia
+  IPA: [əlˈsa.si.ə] (Tags: Balearic, Central)
+  IPA: [alˈsa.si.a] (Tags: Valencia)
+Màlaga
+  IPA: [ˈma.lə.ɣə] (Tags: Balearic, Central)
+  IPA: [ˈma.la.ɣa] (Tags: Valencia)
+Plutó
+  IPA: [pluˈto] (Tags: Balearic, Central, Valencia)
+neolític
+  IPA: [nə.uˈli.tik] (Tags: Balearic, Central)
+  IPA: [ne.oˈli.tik] (Tags: Valencia)
+Vaticà
+  IPA: [bə.tiˈka] (Tags: Central)
+  IPA: [və.tiˈka] (Tags: Balearic)
+  IPA: [va.tiˈka] (Tags: Valencia)
+Dalí
+  IPA: [dəˈli] (Tags: Balearic, Central)
+  IPA: [daˈli] (Tags: Valencia)
+Nigèria
+  IPA: [niˈʒɛ.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [niˈd͡ʒɛ.ɾi.a] (Tags: Valencia)
+Zuric
+  IPA: [zuˈɾik] (Tags: Balearic, Central, Valencia)
+Seül
+  IPA: [səˈul] (Tags: Balearic, Central)
+  IPA: [seˈul] (Tags: Valencia)
+Sòcrates
+  IPA: [ˈsɔ.kɾə.təs] (Tags: Balearic, Central)
+  IPA: [ˈsɔ.kɾa.tes] (Tags: Valencia)
+Sòria
+  IPA: [ˈsɔ.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈsɔ.ɾi.a] (Tags: Valencia)
+Avinyó
+  IPA: [ə.βiˈɲo] (Tags: Central)
+  IPA: [ə.viˈɲo] (Tags: Balearic)
+  IPA: [a.viˈɲo] (Tags: Valencia)
+Bordeus
+  IPA: [burˈdɛws] (Tags: Central)
+  IPA: [borˈdɛws] (Tags: Balearic)
+  IPA: [boɾˈðɛws] (Tags: Valencia)
+Aquitània
+  IPA: [ə.kiˈta.ni.ə] (Tags: Balearic, Central)
+  IPA: [a.kiˈta.ni.a] (Tags: Valencia)
+Llenguadoc
+  IPA: [ˌʎeŋ.ɡwəˈðɔk] (Tags: Balearic, Central)
+  IPA: [ˌʎeŋ.ɡwaˈðɔk] (Tags: Valencia)
+Germània
+  IPA: [ʒərˈma.ni.ə] (Tags: Balearic, Central)
+  IPA: [d͡ʒeɾˈma.ni.a] (Tags: Valencia)
+Genís
+  IPA: [ʒəˈnis] (Tags: Balearic, Central)
+  IPA: [d͡ʒeˈnis] (Tags: Valencia)
+Genís
+  IPA: [ʒəˈnis] (Tags: Balearic, Central)
+  IPA: [d͡ʒeˈnis] (Tags: Valencia)
+Galileu
+  IPA: [ɡə.liˈlɛw] (Tags: Balearic, Central)
+  IPA: [ɡa.liˈlɛw] (Tags: Valencia)
+Guipúscoa
+  IPA: [ɡiˈpus.ku.ə] (Tags: Central)
+  IPA: [ɡiˈpus.ko.ə] (Tags: Balearic)
+  IPA: [ɡiˈpus.ko.a] (Tags: Valencia)
+Moisès
+  IPA: [mujˈzɛs] (Tags: Central)
+  IPA: [mojˈzəs] (Tags: Balearic)
+  IPA: [mojˈzes] (Tags: Valencia)
+Mont-real
+  IPA: [ˌmon.reˈal] (Tags: Balearic, Central, Valencia)
+Mercè
+  IPA: [mərˈsɛ] (Tags: Central)
+  IPA: [mərˈsə] (Tags: Balearic)
+  IPA: [meɾˈse] (Tags: Valencia)
+Montpeller
+  IPA: [mum.pəˈʎe] (Tags: Central)
+  IPA: [mom.pəˈʎe] (Tags: Balearic)
+  IPA: [mom.peˈʎeɾ] (Tags: Valencia)
+Muntaner
+  IPA: [mun.təˈne] (Tags: Balearic, Central)
+  IPA: [mun.taˈneɾ] (Tags: Valencia)
+Mòdena
+  IPA: [ˈmɔ.ðə.nə] (Tags: Balearic, Central)
+  IPA: [ˈmɔ.ðe.na] (Tags: Valencia)
+Miró
+  IPA: [miˈɾo] (Tags: Balearic, Central, Valencia)
+Miró
+  IPA: [miˈɾo] (Tags: Balearic, Central, Valencia)
+Miró
+  IPA: [miˈɾo] (Tags: Balearic, Central, Valencia)
+Miró
+  IPA: [miˈɾo] (Tags: Balearic, Central, Valencia)
+Niça
+  IPA: [ˈni.sə] (Tags: Balearic, Central)
+  IPA: [ˈni.sa] (Tags: Valencia)
+Montseny
+  IPA: [munˈsɛɲ] (Tags: Central)
+  IPA: [monˈsəɲ] (Tags: Balearic)
+  IPA: [monˈseɲ] (Tags: Valencia)
+Salomó
+  IPA: [sə.luˈmo] (Tags: Central)
+  IPA: [sə.loˈmo] (Tags: Balearic)
+  IPA: [sa.loˈmo] (Tags: Valencia)
+Trajà
+  IPA: [tɾəˈʒa] (Tags: Balearic, Central)
+  IPA: [tɾaˈd͡ʒa] (Tags: Valencia)
+Tessàlia
+  IPA: [təˈsa.li.ə] (Tags: Balearic, Central)
+  IPA: [teˈsa.li.a] (Tags: Valencia)
+Bertran
+  IPA: [bərˈtɾan] (Tags: Balearic, Central)
+  IPA: [beɾˈtɾan] (Tags: Valencia)
+Beòcia
+  IPA: [beˈɔ.si.ə] (Tags: Balearic, Central)
+  IPA: [beˈɔ.si.a] (Tags: Valencia)
+Àrtic
+  IPA: [ˈar.tik] (Tags: Balearic, Central)
+  IPA: [ˈaɾ.tik] (Tags: Valencia)
+Sàhara
+  IPA: /ˈsa.hə.ɾə/ (Tags: Balearic, Central)
+  IPA: /ˈsa.ha.ɾa/ (Tags: Valencia)
+Bartomeu
+  IPA: [bər.tuˈmew] (Tags: Central)
+  IPA: [bər.toˈmew] (Tags: Balearic)
+  IPA: [baɾ.toˈmew] (Tags: Valencia)
+Tràcia
+  IPA: [ˈtɾa.si.ə] (Tags: Balearic, Central)
+  IPA: [ˈtɾa.si.a] (Tags: Valencia)
+Bearn
+  IPA: [beˈarn] (Tags: Balearic, Central)
+  IPA: [beˈaɾn] (Tags: Valencia)
+Bàltic
+  IPA: [ˈbal.tik] (Tags: Balearic, Central, Valencia)
+Armanyac
+  IPA: [ər.məˈɲak] (Tags: Balearic, Central)
+  IPA: [aɾ.maˈɲak] (Tags: Valencia)
+Septimània
+  IPA: [səp.tiˈma.ni.ə] (Tags: Balearic, Central)
+  IPA: [sep.tiˈma.ni.a] (Tags: Valencia)
+Versalles
+  IPA: [bərˈsa.ʎəs] (Tags: Central)
+  IPA: [vərˈsa.ʎəs] (Tags: Balearic)
+  IPA: [veɾˈsa.ʎes] (Tags: Valencia)
+Biscaia
+  IPA: [bisˈka.jə] (Tags: Balearic, Central)
+  IPA: [bisˈka.ja] (Tags: Valencia)
+Cleòpatra
+  IPA: [kleˈɔ.pə.tɾə] (Tags: Balearic, Central)
+  IPA: [kleˈɔ.pa.tɾa] (Tags: Valencia)
+Edimburg
+  IPA: [ə.ðimˈburk] (Tags: Balearic, Central)
+  IPA: [e.ðimˈbuɾk] (Tags: Valencia)
+Goliat
+  IPA: [ɡu.liˈat] (Tags: Central)
+  IPA: [ɡo.liˈat] (Tags: Balearic, Valencia)
+Vesuvi
+  IPA: [bəˈzu.βi] (Tags: Central)
+  IPA: [vəˈzu.vi] (Tags: Balearic)
+  IPA: [veˈzu.vi] (Tags: Valencia)
+Cesarea
+  IPA: [sə.zəˈɾe.ə] (Tags: Balearic, Central)
+  IPA: [se.zaˈɾe.a] (Tags: Valencia)
+Canàries
+  IPA: [kəˈna.ɾi.əs] (Tags: Balearic, Central)
+  IPA: [kaˈna.ɾi.es] (Tags: Valencia)
+Alcalá
+  IPA: [əl.kəˈla] (Tags: Balearic, Central)
+  IPA: [al.kaˈla] (Tags: Valencia)
+Ageu
+  IPA: [əˈʒɛw] (Tags: Balearic, Central)
+  IPA: [aˈd͡ʒɛw] (Tags: Valencia)
+Xúquer
+  IPA: [ˈʃu.kər] (Tags: Balearic, Central)
+  IPA: [ˈt͡ʃu.ker] (Tags: Valencia)
+Dalmàcia
+  IPA: [dəlˈma.si.ə] (Tags: Balearic, Central)
+  IPA: [dalˈma.si.a] (Tags: Valencia)
+Manresa
+  IPA: [mənˈrɛ.zə] (Tags: Central)
+Reus
+  IPA: [ˈrɛws] (Tags: Balearic, Central)
+Caucas
+  IPA: [ˈkaw.kəs] (Tags: Balearic, Central)
+  IPA: [ˈkaw.kas] (Tags: Valencia)
+Khrusxov
+  IPA: [χɾuˈʃof] (Tags: Balearic, Central, Valencia)
+Jeroni
+  IPA: [ʒəˈɾɔ.ni] (Tags: Balearic, Central)
+  IPA: [d͡ʒeˈɾɔ.ni] (Tags: Valencia)
+Jordà
+  IPA: [ʒurˈda] (Tags: Central)
+  IPA: [ʒorˈda] (Tags: Balearic)
+  IPA: [d͡ʒoɾˈða] (Tags: Valencia)
+Lió
+  IPA: [liˈo] (Tags: Balearic, Central, Valencia)
+Llúcia
+  IPA: [ˈʎu.si.ə] (Tags: Balearic, Central)
+  IPA: [ˈʎu.si.a] (Tags: Valencia)
+Fènix
+  IPA: [ˈfɛ.niks] (Tags: Balearic, Central, Valencia)
+Granollers
+  IPA: /ɡɾənuˈjɛs/
+Emirats Àrabs Units
+  IPA: [ə.miˈɾadz ˈa.ɾəbz uˈnits] (Tags: Balearic, Central)
+  IPA: [e.miˈɾadz ˈa.ɾabz uˈnits] (Tags: Valencia)
+Antípater
+  IPA: [ənˈti.pə.tər] (Tags: Central)
+  IPA: [anˈti.pa.ter] (Tags: Valencia)
+Àngels
+  IPA: [ˈaɲ.ʒəls] (Tags: Balearic, Central)
+  IPA: [ˈaɲ.d͡ʒels] (Tags: Valencia)
+Ateneu
+  IPA: [ə.təˈnɛw] (Tags: Balearic, Central)
+  IPA: [a.teˈnɛw] (Tags: Valencia)
+Beatriu
+  IPA: [be.əˈtɾiw] (Tags: Balearic, Central)
+  IPA: [be.aˈtɾiw] (Tags: Valencia)
+Britània
+  IPA: [bɾiˈta.ni.ə] (Tags: Balearic, Central)
+  IPA: [bɾiˈta.ni.a] (Tags: Valencia)
+Climent
+  IPA: [kliˈmen] (Tags: Central)
+  IPA: [kliˈment] (Tags: Balearic, Valencia)
+Cató
+  IPA: [kəˈto] (Tags: Balearic, Central)
+  IPA: [kaˈto] (Tags: Valencia)
+Àlaba
+  IPA: [ˈa.lə.βə] (Tags: Central)
+  IPA: [ˈa.lə.bə] (Tags: Balearic)
+  IPA: [ˈa.la.ba] (Tags: Valencia)
+Calàbria
+  IPA: [kəˈla.βɾi.ə] (Tags: Central)
+  IPA: [kəˈla.bɾi.ə] (Tags: Balearic)
+  IPA: [kaˈla.bɾi.a] (Tags: Valencia)
+Carreu
+  IPA: [kəˈrɛw] (Tags: Balearic, Central)
+  IPA: [kaˈrɛw] (Tags: Valencia)
+Conflent
+  IPA: [kuɱˈflen] (Tags: Central)
+  IPA: [koɱˈflent] (Tags: Balearic, Valencia)
+Berga
+  IPA: [ˈber.ɡə] (Tags: Balearic, Central)
+  IPA: [ˈbeɾ.ɣa] (Tags: Valencia)
+Berga
+  IPA: [ˈber.ɡə] (Tags: Balearic, Central)
+  IPA: [ˈbeɾ.ɣa] (Tags: Valencia)
+Castellnou
+  IPA: [kəsˌteʎˈnɔw] (Tags: Balearic, Central)
+  IPA: [kasˌteʎˈnɔw] (Tags: Valencia)
+Berguedà
+  IPA: [bər.ɡəˈða] (Tags: Balearic, Central)
+  IPA: [beɾ.ɣeˈða] (Tags: Valencia)
+Berguedà
+  IPA: [bər.ɡəˈða] (Tags: Balearic, Central)
+  IPA: [beɾ.ɣeˈða] (Tags: Valencia)
+Cerdanya
+  IPA: [sərˈda.ɲə] (Tags: Balearic, Central)
+  IPA: [seɾˈða.ɲa] (Tags: Valencia)
+Balaguer
+  IPA: [bə.ləˈɣe] (Tags: Balearic, Central)
+  IPA: [ba.laˈɣeɾ] (Tags: Valencia)
+Abella
+  IPA: [əˈβɛ.ʎə] (Tags: Central)
+  IPA: [əˈbə.ʎə] (Tags: Balearic)
+  IPA: [aˈbe.ʎa] (Tags: Valencia)
+Quim
+  IPA: [ˈkim] (Tags: Balearic, Central, Valencia)
+Martorell
+  IPA: [mər.tuˈɾeʎ] (Tags: Central)
+  IPA: [mər.toˈɾeʎ] (Tags: Balearic)
+  IPA: [maɾ.toˈɾeʎ] (Tags: Valencia)
+Martorell
+  IPA: [mər.tuˈɾeʎ] (Tags: Central)
+  IPA: [mər.toˈɾeʎ] (Tags: Balearic)
+  IPA: [maɾ.toˈɾeʎ] (Tags: Valencia)
+Martorelles
+  IPA: [mər.tuˈɾe.ʎəs] (Tags: Central)
+  IPA: [mər.toˈɾe.ʎəs] (Tags: Balearic)
+  IPA: [maɾ.toˈɾe.ʎes] (Tags: Valencia)
+Baptista
+  IPA: [bəpˈtis.tə] (Tags: Balearic, Central)
+  IPA: [bapˈtis.ta] (Tags: Valencia)
+Cristòfor
+  IPA: [kɾisˈtɔ.fur] (Tags: Central)
+  IPA: [kɾisˈtɔ.for] (Tags: Balearic, Valencia)
+Elionor
+  IPA: [ə.li.uˈnor] (Tags: Central)
+  IPA: [ə.li.oˈno] (Tags: Balearic)
+  IPA: [e.li.oˈnoɾ] (Tags: Valencia)
+Domènec
+  IPA: [duˈmɛ.nək] (Tags: Central)
+  IPA: [doˈmɛ.nək] (Tags: Balearic)
+  IPA: [doˈmɛ.nek] (Tags: Valencia)
+Cristòfol
+  IPA: [kɾisˈtɔ.ful] (Tags: Central)
+  IPA: [kɾisˈtɔ.fol] (Tags: Balearic, Valencia)
+Empordà
+  IPA: [əm.purˈda] (Tags: Central)
+  IPA: [əm.porˈda] (Tags: Balearic)
+  IPA: [em.poɾˈða] (Tags: Valencia)
+Dàcia
+  IPA: [ˈda.si.ə] (Tags: Balearic, Central)
+  IPA: [ˈda.si.a] (Tags: Valencia)
+Joanot
+  IPA: [ʒu.əˈnɔt] (Tags: Central)
+  IPA: [ʒo.əˈnɔt] (Tags: Balearic)
+  IPA: [d͡ʒo.aˈnɔt] (Tags: Valencia)
+Gurp
+  IPA: [ˈɡurp] (Tags: Balearic, Central)
+  IPA: [ˈɡuɾp] (Tags: Valencia)
+Sogorb
+  IPA: [suˈɣɔrp] (Tags: Central)
+  IPA: [soˈɣɔrp] (Tags: Balearic)
+  IPA: [soˈɣɔɾp] (Tags: Valencia)
+Gascunya
+  IPA: [ɡəsˈku.ɲə] (Tags: Balearic, Central)
+  IPA: [ɡasˈku.ɲa] (Tags: Valencia)
+Fèlix
+  IPA: [ˈfɛ.liks] (Tags: Balearic, Central, Valencia)
+Fabra
+  IPA: [ˈfa.βɾə] (Tags: Central)
+  IPA: [ˈfa.bɾə] (Tags: Balearic)
+  IPA: [ˈfa.bɾa] (Tags: Valencia)
+Luter
+  IPA: [luˈter] (Tags: Central, Valencia)
+Foix
+  IPA: [ˈfoʃ] (Tags: Balearic, Central)
+  IPA: [ˈfojʃ] (Tags: Valencia)
+Maximilià
+  IPA: [mək.si.mi.liˈa] (Tags: Balearic, Central)
+  IPA: [mak.si.mi.liˈa] (Tags: Valencia)
+Maurici
+  IPA: [məwˈɾi.si] (Tags: Balearic, Central)
+  IPA: [mawˈɾi.si] (Tags: Valencia)
+Eulàlia
+  IPA: [əwˈla.li.ə] (Tags: Balearic, Central)
+  IPA: [ewˈla.li.a] (Tags: Valencia)
+Rem
+  IPA: [ˈrem] (Tags: Balearic, Central, Valencia)
+zona euro
+  IPA: [ˈzo.nə ˈɛw.ɾu] (Tags: Central)
+  IPA: [ˈzo.nə ˈɛw.ɾo] (Tags: Balearic)
+  IPA: [ˈzo.na ˈew.ɾo] (Tags: Valencia)
+Alcoi
+  IPA: [əlˈkɔj] (Tags: Balearic, Central)
+  IPA: [alˈkɔj] (Tags: Valencia)
+Anoia
+  IPA: [əˈnɔ.jə] (Tags: Balearic, Central)
+  IPA: [aˈnɔ.ja] (Tags: Valencia)
+Màntua
+  IPA: [ˈman.tu.ə] (Tags: Balearic, Central)
+  IPA: [ˈman.tu.a] (Tags: Valencia)
+Manel
+  IPA: [məˈnɛl] (Tags: Balearic, Central)
+  IPA: [maˈnɛl] (Tags: Valencia)
+Merlí
+  IPA: [mərˈli] (Tags: Balearic, Central)
+  IPA: [meɾˈli] (Tags: Valencia)
+Gàmbia
+  IPA: [ˈɡam.bi.ə] (Tags: Balearic, Central)
+  IPA: [ˈɡam.bi.a] (Tags: Valencia)
+Oliva
+  IPA: [uˈli.βə] (Tags: Central)
+  IPA: [uˈli.və] (Tags: Balearic)
+  IPA: [oˈli.va] (Tags: Valencia)
+Victòria
+  IPA: [bikˈtɔ.ɾi.ə] (Tags: Central)
+  IPA: [vikˈtɔ.ɾi.ə] (Tags: Balearic)
+  IPA: [vikˈtɔ.ɾi.a] (Tags: Valencia)
+Vilafranca
+  IPA: [ˌbi.ləˈfɾaŋ.kə] (Tags: Central)
+  IPA: [ˌvi.ləˈfɾaŋ.kə] (Tags: Balearic)
+  IPA: [ˌvi.laˈfɾaŋ.ka] (Tags: Valencia)
+Vila
+  IPA: [ˈbi.lə] (Tags: Central)
+  IPA: [ˈvi.lə] (Tags: Balearic)
+  IPA: [ˈvi.la] (Tags: Valencia)
+Vidal
+  IPA: [biˈðal] (Tags: Central)
+  IPA: [viˈðal] (Tags: Balearic, Valencia)
+Vidal
+  IPA: [biˈðal] (Tags: Central)
+  IPA: [viˈðal] (Tags: Balearic, Valencia)
+Villena
+  IPA: [biˈʎe.nə] (Tags: Central)
+  IPA: [viˈʎe.nə] (Tags: Balearic)
+  IPA: [viˈʎe.na] (Tags: Valencia)
+Villena
+  IPA: [biˈʎe.nə] (Tags: Central)
+  IPA: [viˈʎe.nə] (Tags: Balearic)
+  IPA: [viˈʎe.na] (Tags: Valencia)
+Viana
+  IPA: [biˈa.nə] (Tags: Central)
+  IPA: [viˈa.nə] (Tags: Balearic)
+  IPA: [viˈa.na] (Tags: Valencia)
+Gran Bretanya
+  IPA: [ˈɡɾam bɾəˈta.ɲə] (Tags: Balearic, Central)
+  IPA: [ˈɡɾam bɾeˈta.ɲa] (Tags: Valencia)
+Pujol
+  IPA: [puˈʒɔl] (Tags: Balearic, Central)
+  IPA: [puˈd͡ʒɔl] (Tags: Valencia)
+Casas
+  IPA: [ˈka.zəs] (Tags: Balearic, Central)
+  IPA: [ˈka.zes] (Tags: Valencia)
+Pirineu
+  IPA: [pi.ɾiˈnɛw] (Tags: Balearic, Central, Valencia)
+Jònia
+  IPA: [ˈʒɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒɔ.ni.a] (Tags: Valencia)
+Prades
+  IPA: [ˈpɾa.ðəs] (Tags: Balearic, Central)
+  IPA: [ˈpɾa.ðes] (Tags: Valencia)
+Pasqual
+  IPA: [pəsˈkwal] (Tags: Balearic, Central)
+  IPA: [pasˈkwal] (Tags: Valencia)
+Pasqual
+  IPA: [pəsˈkwal] (Tags: Balearic, Central)
+  IPA: [pasˈkwal] (Tags: Valencia)
+Ripoll
+  IPA: [riˈpoʎ] (Tags: Balearic, Central, Valencia)
+Ripoll
+  IPA: [riˈpoʎ] (Tags: Balearic, Central, Valencia)
+Narcís
+  IPA: [nərˈsis] (Tags: Balearic, Central)
+  IPA: [naɾˈsis] (Tags: Valencia)
+Olot
+  IPA: [uˈlot] (Tags: Central)
+  IPA: [oˈlot] (Tags: Balearic, Valencia)
+Torí
+  IPA: [tuˈɾi] (Tags: Balearic, Central)
+  IPA: [toˈɾi] (Tags: Valencia)
+Ter
+  IPA: [ˈtɛr] (Tags: Central, Valencia)
+Osona
+  IPA: [uˈzo.nə] (Tags: Central)
+  IPA: [oˈzo.nə] (Tags: Balearic)
+  IPA: [oˈzo.na] (Tags: Valencia)
+Carbonell
+  IPA: [kər.buˈneʎ] (Tags: Central)
+  IPA: [kər.boˈneʎ] (Tags: Balearic)
+  IPA: [kaɾ.boˈneʎ] (Tags: Valencia)
+Roser
+  IPA: [ruˈze] (Tags: Central)
+  IPA: [roˈze] (Tags: Balearic)
+  IPA: [roˈzeɾ] (Tags: Valencia)
+Roser
+  IPA: [ruˈze] (Tags: Central)
+  IPA: [roˈze] (Tags: Balearic)
+  IPA: [roˈzeɾ] (Tags: Valencia)
+Sibil·la
+  IPA: [siˈβil.lə] (Tags: Central)
+  IPA: [siˈbil.lə] (Tags: Balearic)
+  IPA: [siˈbil.la] (Tags: Valencia)
+Sitges
+  IPA: [ˈsi.d͡ʒəs] (Tags: Balearic, Central)
+  IPA: [ˈsi.d͡ʒes] (Tags: Valencia)
+Solsona
+  IPA: [sulˈso.nə] (Tags: Central)
+  IPA: [solˈso.nə] (Tags: Balearic)
+  IPA: [solˈso.na] (Tags: Valencia)
+Solsona
+  IPA: [sulˈso.nə] (Tags: Central)
+  IPA: [solˈso.nə] (Tags: Balearic)
+  IPA: [solˈso.na] (Tags: Valencia)
+Segre
+  IPA: [ˈsɛ.ɣɾə] (Tags: Central)
+  IPA: [ˈsə.ɣɾə] (Tags: Balearic)
+  IPA: [ˈse.ɣɾe] (Tags: Valencia)
+Besalú
+  IPA: [bə.zəˈlu] (Tags: Balearic, Central)
+  IPA: [be.zaˈlu] (Tags: Valencia)
+Puigdemont
+  IPA: [pud͡ʒ.dəˈmon] (Tags: Central)
+  IPA: [pud͡ʒ.dəˈmont] (Tags: Balearic)
+  IPA: [pujd͡ʒ.deˈmont] (Tags: Valencia)
+Bizanci
+  IPA: [biˈzan.si] (Tags: Balearic, Central, Valencia)
+Piles
+  IPA: [ˈpi.ləs] (Tags: Balearic, Central)
+  IPA: [ˈpi.les] (Tags: Valencia)
+Torralba
+  IPA: [tuˈral.βə] (Tags: Central)
+  IPA: [toˈral.bə] (Tags: Balearic)
+  IPA: [toˈral.ba] (Tags: Valencia)
+Garriga
+  IPA: [ɡəˈri.ɣə] (Tags: Balearic, Central)
+  IPA: [ɡaˈri.ɣa] (Tags: Valencia)
+Espina
+  IPA: [əsˈpi.nə] (Tags: Balearic, Central)
+  IPA: [esˈpi.na] (Tags: Valencia)
+Salt
+  IPA: [ˈsal] (Tags: Central)
+  IPA: [ˈsalt] (Tags: Balearic, Valencia)
+Fanes
+  IPA: [ˈfa.nəs] (Tags: Balearic, Central)
+  IPA: [ˈfa.nes] (Tags: Valencia)
+Selva
+  IPA: [ˈsɛl.βə] (Tags: Central)
+  IPA: [ˈsəl.və] (Tags: Balearic)
+  IPA: [ˈsel.va] (Tags: Valencia)
+República Centreafricana
+  IPA: [rəˈpub.bli.kə ˌsen.tɾe.ə.fɾiˈka.nə] (Tags: Balearic, Central)
+  IPA: [reˈpu.bli.ka ˌsen.tɾe.a.fɾiˈka.na] (Tags: Valencia)
+Casals
+  IPA: [kəˈzals] (Tags: Balearic, Central)
+  IPA: [kaˈzals] (Tags: Valencia)
+Casal
+  IPA: [kəˈzal] (Tags: Balearic, Central)
+  IPA: [kaˈzal] (Tags: Valencia)
+Ballester
+  IPA: [bə.ʎəsˈte] (Tags: Balearic, Central)
+  IPA: [ba.ʎesˈteɾ] (Tags: Valencia)
+Sabater
+  IPA: [sə.βəˈte] (Tags: Central)
+  IPA: [sə.bəˈte] (Tags: Balearic)
+  IPA: [sa.baˈteɾ] (Tags: Valencia)
+Balmes
+  IPA: [ˈbal.məs] (Tags: Balearic, Central)
+  IPA: [ˈbal.mes] (Tags: Valencia)
+Tiberíades
+  IPA: [ti.βəˈɾi.ə.ðəs] (Tags: Central)
+  IPA: [ti.bəˈɾi.ə.ðəs] (Tags: Balearic)
+  IPA: [ti.beˈɾi.a.ðes] (Tags: Valencia)
+Alcàntara
+  IPA: [əlˈkan.tə.ɾə] (Tags: Balearic, Central)
+  IPA: [alˈkan.ta.ɾa] (Tags: Valencia)
+Pulla
+  IPA: [ˈpu.ʎə] (Tags: Balearic, Central)
+  IPA: [ˈpu.ʎa] (Tags: Valencia)
+Abello
+  IPA: [əˈβɛ.ʎu] (Tags: Central)
+  IPA: [əˈbɛ.ʎo] (Tags: Balearic)
+  IPA: [aˈbɛ.ʎo] (Tags: Valencia)
+Despuig
+  IPA: [dəsˈput͡ʃ] (Tags: Balearic, Central)
+  IPA: [desˈput͡ʃ] (Tags: Valencia)
+Olivera
+  IPA: [u.liˈβe.ɾə] (Tags: Central)
+  IPA: [o.liˈve.ɾə] (Tags: Balearic)
+  IPA: [o.liˈve.ɾa] (Tags: Valencia)
+Cases
+  IPA: [ˈka.zəs] (Tags: Balearic, Central)
+  IPA: [ˈka.zes] (Tags: Valencia)
+Fàbregas
+  IPA: [ˈfa.βɾə.ɣəs] (Tags: Central)
+  IPA: [ˈfa.bɾə.ɣəs] (Tags: Balearic)
+  IPA: [ˈfa.bɾe.ɣas] (Tags: Valencia)
+Fàbregues
+  IPA: [ˈfa.βɾə.ɣəs] (Tags: Central)
+  IPA: [ˈfa.bɾə.ɣəs] (Tags: Balearic)
+  IPA: [ˈfa.bɾe.ɣes] (Tags: Valencia)
+Ricafort
+  IPA: [ˌri.kəˈfɔrt] (Tags: Balearic, Central)
+  IPA: [ˌri.kaˈfɔɾt] (Tags: Valencia)
+Corpus
+  IPA: [ˈkɔr.pus] (Tags: Balearic, Central)
+  IPA: [ˈkɔɾ.pus] (Tags: Valencia)
+Igualada
+  IPA: [i.ɣwəˈla.ðə] (Tags: Balearic, Central)
+  IPA: [i.ɣwaˈla.ða] (Tags: Valencia)
+Ciutat del Vaticà
+  IPA: [siwˈtad dəl βə.tiˈka] (Tags: Central)
+  IPA: [siwˈtad dəl və.tiˈka] (Tags: Balearic)
+  IPA: [siwˈtad del va.tiˈka] (Tags: Valencia)
+Àiax
+  IPA: [ˈa.jəks] (Tags: Balearic, Central)
+  IPA: [ˈa.jaks] (Tags: Valencia)
+Mònica
+  IPA: [ˈmɔ.ni.kə] (Tags: Balearic, Central)
+  IPA: [ˈmɔ.ni.ka] (Tags: Valencia)
+Swazilàndia
+  IPA: [swə.ziˈlan.di.ə] (Tags: Balearic, Central)
+  IPA: [swa.ziˈlan.di.a] (Tags: Valencia)
+Zàmbia
+  IPA: [ˈzam.bi.ə] (Tags: Balearic, Central)
+  IPA: [ˈzam.bi.a] (Tags: Valencia)
+República Democràtica del Congo
+  IPA: [rəˈpub.bli.kə ðə.muˈkɾa.ti.kə ðəl ˈkoŋ.ɡu] (Tags: Central)
+  IPA: [rəˈpub.bli.kə ðə.moˈkɾa.ti.kə ðəl ˈkoŋ.ɡo] (Tags: Balearic)
+  IPA: [reˈpu.bli.ka ðe.moˈkɾa.ti.ka ðel ˈkoŋ.ɡo] (Tags: Valencia)
+Micronèsia
+  IPA: [ˌmi.kɾuˈnɛ.zi.ə] (Tags: Central)
+  IPA: [ˌmi.kɾoˈnɛ.zi.ə] (Tags: Balearic)
+  IPA: [ˌmi.kɾoˈnɛ.zi.a] (Tags: Valencia)
+càbala
+  IPA: [ˈka.βə.lə] (Tags: Central)
+  IPA: [ˈka.bə.lə] (Tags: Balearic)
+  IPA: [ˈka.ba.la] (Tags: Valencia)
+Marçal
+  IPA: [mərˈsal] (Tags: Balearic, Central)
+  IPA: [maɾˈsal] (Tags: Valencia)
+Ingúixia
+  IPA: [iŋˈɡu.ʃi.ə] (Tags: Balearic, Central)
+  IPA: [iŋˈɡuj.ʃi.a] (Tags: Valencia)
+Mercader
+  IPA: [mər.kəˈðe] (Tags: Balearic, Central)
+  IPA: [meɾ.kaˈðeɾ] (Tags: Valencia)
+Toralla
+  IPA: [tuˈɾa.ʎə] (Tags: Central)
+  IPA: [toˈɾa.ʎə] (Tags: Balearic)
+  IPA: [toˈɾa.ʎa] (Tags: Valencia)
+Suàbia
+  IPA: [suˈa.βi.ə] (Tags: Central)
+  IPA: [suˈa.bi.ə] (Tags: Balearic)
+  IPA: [suˈa.bi.a] (Tags: Valencia)
+Xampanya
+  IPA: [ʃəmˈpa.ɲə] (Tags: Balearic, Central)
+  IPA: [t͡ʃamˈpa.ɲa] (Tags: Valencia)
+Al·là
+  IPA: [əlˈla] (Tags: Balearic, Central)
+  IPA: [alˈla] (Tags: Valencia)
+Gran Canària
+  IPA: [ˈɡɾaŋ kəˈna.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈɡɾaŋ kaˈna.ɾi.a] (Tags: Valencia)
+Rocafort
+  IPA: [ˌrɔ.kəˈfɔrt] (Tags: Balearic, Central)
+  IPA: [ˌrɔ.kaˈfɔɾt] (Tags: Valencia)
+Confuci
+  IPA: [kuɱˈfu.si] (Tags: Balearic, Central)
+  IPA: [koɱˈfu.si] (Tags: Valencia)
+Àrtida
+  IPA: [ˈar.ti.ðə] (Tags: Balearic, Central)
+  IPA: [ˈaɾ.ti.ða] (Tags: Valencia)
+Andròmeda
+  IPA: [ənˈdɾɔ.mə.ðə] (Tags: Balearic, Central)
+  IPA: [anˈdɾɔ.me.ða] (Tags: Valencia)
+Nombres
+  IPA: [ˈnɔm.bɾəs] (Tags: Central)
+  IPA: [ˈnom.bɾəs] (Tags: Balearic)
+  IPA: [ˈnom.bɾes] (Tags: Valencia)
+Marràqueix
+  IPA: [məˈra.kəʃ] (Tags: Balearic, Central)
+  IPA: [maˈra.kejʃ] (Tags: Valencia)
+Tànger
+  IPA: [ˈtaɲ.ʒər] (Tags: Balearic, Central)
+  IPA: [ˈtaɲ.d͡ʒer] (Tags: Valencia)
+Calabuig
+  IPA: [kə.ləˈβut͡ʃ] (Tags: Central)
+  IPA: [kə.ləˈbut͡ʃ] (Tags: Balearic)
+  IPA: [ka.laˈbut͡ʃ] (Tags: Valencia)
+Caixmir
+  IPA: [kəʒˈmir] (Tags: Balearic, Central)
+  IPA: [kad͡ʒˈmir] (Tags: Valencia)
+Colònia
+  IPA: [kuˈlɔ.ni.ə] (Tags: Central)
+  IPA: [koˈlɔ.ni.ə] (Tags: Balearic)
+  IPA: [koˈlɔ.ni.a] (Tags: Valencia)
+Gènesi
+  IPA: [ˈʒɛ.nə.zi] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒɛ.ne.zi] (Tags: Valencia)
+Pentateuc
+  IPA: [pən.təˈtɛwk] (Tags: Balearic, Central)
+Èxode
+  IPA: [ˈɛɡ.zu.ðə] (Tags: Central)
+  IPA: [ˈɛɡ.zo.ðə] (Tags: Balearic)
+  IPA: [ˈɛɡ.zo.ðe] (Tags: Valencia)
+Levític
+  IPA: [ləˈβi.tik] (Tags: Central)
+  IPA: [ləˈvi.tik] (Tags: Balearic)
+  IPA: [leˈvi.tik] (Tags: Valencia)
+Isaïes
+  IPA: [i.zəˈi.əs] (Tags: Balearic, Central)
+  IPA: [i.zaˈi.es] (Tags: Valencia)
+Deuteronomi
+  IPA: [ˌdɛw.tə.ɾuˈnɔ.mi] (Tags: Central)
+  IPA: [ˌdɛw.tə.ɾoˈnɔ.mi] (Tags: Balearic)
+  IPA: [ˌdɛw.te.ɾoˈnɔ.mi] (Tags: Valencia)
+Jeremies
+  IPA: [ʒə.ɾəˈmi.əs] (Tags: Balearic, Central)
+  IPA: [d͡ʒe.ɾeˈmi.es] (Tags: Valencia)
+Jonàs
+  IPA: [ʒuˈnas] (Tags: Central)
+  IPA: [ʒoˈnas] (Tags: Balearic)
+  IPA: [d͡ʒoˈnas] (Tags: Valencia)
+Sofonies
+  IPA: [su.fuˈni.əs] (Tags: Central)
+  IPA: [so.fuˈni.əs] (Tags: Balearic)
+  IPA: [so.foˈni.es] (Tags: Valencia)
+Zacaries
+  IPA: [zə.kəˈɾi.əs] (Tags: Balearic, Central)
+  IPA: [za.kaˈɾi.es] (Tags: Valencia)
+Malaquies
+  IPA: [mə.ləˈki.əs] (Tags: Balearic, Central)
+  IPA: [ma.laˈki.es] (Tags: Valencia)
+Gàlates
+  IPA: [ˈɡa.lə.təs] (Tags: Balearic, Central)
+  IPA: [ˈɡa.la.tes] (Tags: Valencia)
+Judes
+  IPA: [ˈʒu.ðəs] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒu.ðes] (Tags: Valencia)
+Manxúria
+  IPA: [məɲˈʃu.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [maɲˈt͡ʃu.ɾi.a] (Tags: Valencia)
+Eixample
+  IPA: [əˈʃam.plə] (Tags: Balearic, Central)
+  IPA: [ejˈʃam.ple] (Tags: Valencia)
+Apenins
+  IPA: [ə.pəˈnins] (Tags: Balearic, Central)
+  IPA: [a.peˈnins] (Tags: Valencia)
+Calmúquia
+  IPA: [kəlˈmu.ki.ə] (Tags: Balearic, Central)
+  IPA: [kalˈmu.ki.a] (Tags: Valencia)
+Mordòvia
+  IPA: [murˈdɔ.βi.ə] (Tags: Central)
+  IPA: [morˈdɔ.vi.ə] (Tags: Balearic)
+  IPA: [moɾˈðɔ.vi.a] (Tags: Valencia)
+Buriàtia
+  IPA: [bu.ɾiˈa.ti.ə] (Tags: Balearic, Central)
+  IPA: [bu.ɾiˈa.ti.a] (Tags: Valencia)
+Khakàssia
+  IPA: [kəˈka.si.ə] (Tags: Balearic, Central)
+  IPA: [kaˈka.si.a] (Tags: Valencia)
+Daguestan
+  IPA: [də.ɣəsˈtan] (Tags: Balearic, Central)
+  IPA: [da.ɣesˈtan] (Tags: Valencia)
+Txuvàixia
+  IPA: [t͡ʃuˈβa.ʃi.ə] (Tags: Central)
+  IPA: [t͡ʃuˈva.ʃi.ə] (Tags: Balearic)
+  IPA: [t͡ʃuˈvaj.ʃi.a] (Tags: Valencia)
+Tuvà
+  IPA: [tuˈβa] (Tags: Central)
+  IPA: [tuˈva] (Tags: Balearic, Valencia)
+Sakhà
+  IPA: [səˈka] (Tags: Balearic, Central)
+  IPA: [saˈka] (Tags: Valencia)
+República de l'Altai
+  IPA: [rəˈpub.bli.kə ðə l‿əlˈtaj] (Tags: Balearic, Central)
+  IPA: [reˈpu.bli.ka ðe l‿alˈtaj] (Tags: Valencia)
+Iacútia
+  IPA: [jəˈku.ti.ə] (Tags: Balearic, Central)
+  IPA: [jaˈku.ti.a] (Tags: Valencia)
+Udmúrtia
+  IPA: [udˈmur.ti.ə] (Tags: Balearic, Central)
+  IPA: [udˈmuɾ.ti.a] (Tags: Valencia)
+Karatxai-Txerkèssia
+  IPA: [kə.ɾə.t͡ʃə.t͡ʃərˈkɛ.si.ə] (Tags: Balearic, Central)
+  IPA: [ka.ɾa.t͡ʃaj.t͡ʃeɾˈkɛ.si.a] (Tags: Valencia)
+Costa d'Or
+  IPA: [ˈkɔs.tə ˈð‿ɔr] (Tags: Balearic, Central)
+  IPA: [ˈkɔs.ta ˈð‿ɔr] (Tags: Valencia)
+Alps de l'Alta Provença
+  IPA: [ˈalbz də ˈl‿al.tə pɾuˈβɛn.sə] (Tags: Central)
+  IPA: [ˈalbz də ˈl‿al.tə pɾoˈvɛn.sə] (Tags: Balearic)
+  IPA: [ˈalbz ðe ˈl‿al.ta pɾoˈven.sa] (Tags: Valencia)
+Carèlia
+  IPA: [kəˈɾɛ.li.ə] (Tags: Balearic, Central)
+  IPA: [kaˈɾɛ.li.a] (Tags: Valencia)
+Càceres
+  IPA: [ˈka.sə.ɾəs] (Tags: Balearic, Central)
+  IPA: [ˈka.se.ɾes] (Tags: Valencia)
+Àvila
+  IPA: [ˈa.βi.lə] (Tags: Central)
+  IPA: [ˈa.vi.lə] (Tags: Balearic)
+  IPA: [ˈa.vi.la] (Tags: Valencia)
+la Manxa
+  IPA: [lə ˈmaɲ.ʃə] (Tags: Balearic, Central)
+  IPA: [la ˈmaɲ.t͡ʃa] (Tags: Valencia)
+Palència
+  IPA: [pəˈlɛn.si.ə] (Tags: Balearic, Central)
+  IPA: [paˈlɛn.si.a] (Tags: Valencia)
+Apalatxes
+  IPA: [ə.pəˈla.t͡ʃəs] (Tags: Balearic, Central)
+  IPA: [a.paˈla.t͡ʃes] (Tags: Valencia)
+Nova Escòcia
+  IPA: [ˈnɔ.βə əsˈkɔ.si.ə] (Tags: Central)
+  IPA: [ˈnɔ.və əsˈkɔ.si.ə] (Tags: Balearic)
+  IPA: [ˈnɔ.va esˈkɔ.si.a] (Tags: Valencia)
+Colúmbia Britànica
+  IPA: [kuˈlum.bi.ə βɾiˈta.ni.kə] (Tags: Central)
+  IPA: [kuˈlum.bi.ə bɾiˈta.ni.kə] (Tags: Balearic)
+  IPA: [koˈlum.bi.a bɾiˈta.ni.ka] (Tags: Valencia)
+la Corunya
+  IPA: [lə kuˈɾu.ɲə] (Tags: Balearic, Central)
+  IPA: [la koˈɾu.ɲa] (Tags: Valencia)
+Vall d'Aran
+  IPA: [ˈbaʎ d‿əˈɾan] (Tags: Central)
+  IPA: [ˈvaʎ d‿əˈɾan] (Tags: Balearic)
+  IPA: [ˈvaʎ d‿aˈɾan] (Tags: Valencia)
+Bellreguard
+  IPA: [bəʎ.ɾəˈɣwart] (Tags: Balearic, Central)
+  IPA: [beʎ.ɾeˈɣwaɾt] (Tags: Valencia)
+Cullera
+  IPA: [kuˈʎe.ɾə] (Tags: Balearic, Central)
+  IPA: [kuˈʎe.ɾa] (Tags: Valencia)
+Xàbia
+  IPA: [ˈʃa.βi.ə] (Tags: Central)
+  IPA: [ˈʃa.bi.ə] (Tags: Balearic)
+  IPA: [ˈt͡ʃa.bi.a] (Tags: Valencia)
+Lusitània
+  IPA: [lu.ziˈta.ni.ə] (Tags: Balearic, Central)
+  IPA: [lu.ziˈta.ni.a] (Tags: Valencia)
+Calcedònia
+  IPA: [kəl.səˈðɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [kal.seˈðɔ.ni.a] (Tags: Valencia)
+plistocè
+  IPA: [plis.tuˈsɛ] (Tags: Central)
+  IPA: [plis.toˈsə] (Tags: Balearic)
+  IPA: [plis.toˈse] (Tags: Valencia)
+Groenlàndia
+  IPA: [ɡɾu.ənˈlan.di.ə] (Tags: Central)
+  IPA: [ɡɾo.ənˈlan.di.ə] (Tags: Balearic)
+  IPA: [ɡɾo.enˈlan.di.a] (Tags: Valencia)
+Èol
+  IPA: [ˈɛ.ul] (Tags: Central)
+  IPA: [ˈɛ.ol] (Tags: Balearic, Valencia)
+Èter
+  IPA: [ˈɛ.tər] (Tags: Balearic, Central)
+  IPA: [ˈɛ.ter] (Tags: Valencia)
+Demèter
+  IPA: [dəˈmɛ.tər] (Tags: Balearic, Central)
+  IPA: [deˈmɛ.ter] (Tags: Valencia)
+Hèmera
+  IPA: [ˈɛ.mə.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈɛ.me.ɾa] (Tags: Valencia)
+Tànatos
+  IPA: [ˈta.nə.tus] (Tags: Central)
+  IPA: [ˈta.nə.tos] (Tags: Balearic)
+  IPA: [ˈta.na.tos] (Tags: Valencia)
+Nèmesi
+  IPA: [ˈnɛ.mə.zi] (Tags: Balearic, Central)
+  IPA: [ˈnɛ.me.zi] (Tags: Valencia)
+Èreb
+  IPA: [ˈɛ.ɾəp] (Tags: Balearic, Central)
+  IPA: [ˈɛ.ɾep] (Tags: Valencia)
+Hèlios
+  IPA: [ˈɛ.li.us] (Tags: Central)
+  IPA: [ˈɛ.li.os] (Tags: Balearic, Valencia)
+Posidó
+  IPA: [pu.ziˈðo] (Tags: Central)
+  IPA: [po.ziˈðo] (Tags: Balearic, Valencia)
+Àrtemis
+  IPA: [ˈar.tə.mis] (Tags: Balearic, Central)
+  IPA: [ˈaɾ.te.mis] (Tags: Valencia)
+Hècate
+  IPA: [ˈɛ.kə.tə] (Tags: Balearic, Central)
+  IPA: [ˈɛ.ka.te] (Tags: Valencia)
+Príap
+  IPA: [ˈpɾi.əp] (Tags: Balearic, Central)
+  IPA: [ˈpɾi.ap] (Tags: Valencia)
+Teseu
+  IPA: [təˈzɛw] (Tags: Balearic, Central)
+  IPA: [teˈzɛw] (Tags: Valencia)
+Pomerània
+  IPA: [pu.məˈɾa.ni.ə] (Tags: Central)
+  IPA: [po.məˈɾa.ni.ə] (Tags: Balearic)
+  IPA: [po.meˈɾa.ni.a] (Tags: Valencia)
+Abruços
+  IPA: [əˈβɾu.sus] (Tags: Central)
+  IPA: [əˈbɾu.sos] (Tags: Balearic)
+  IPA: [aˈbɾu.sos] (Tags: Valencia)
+Illes Canàries
+  IPA: [ˈi.ʎəs kəˈna.ɾi.əs] (Tags: Balearic, Central)
+  IPA: [ˈi.ʎes kaˈna.ɾi.es] (Tags: Valencia)
+Vulcà
+  IPA: [bulˈka] (Tags: Central)
+  IPA: [vulˈka] (Tags: Balearic, Valencia)
+República Islàmica de l'Iran
+  IPA: [rəˈpub.bli.kə izˈla.mi.kə ðə l‿iˈɾan] (Tags: Balearic, Central)
+  IPA: [reˈpu.bli.ka izˈla.mi.ka ðe l‿iˈɾan] (Tags: Valencia)
+Poblenou
+  IPA: [ˌpɔb.bləˈnɔw] (Tags: Balearic, Central)
+  IPA: [ˌpɔ.bleˈnɔw] (Tags: Valencia)
+Tàmesi
+  IPA: [ˈta.mə.zi] (Tags: Balearic, Central)
+  IPA: [ˈta.me.zi] (Tags: Valencia)
+Magrib
+  IPA: [məˈɣɾip] (Tags: Balearic, Central)
+  IPA: [maˈɣɾip] (Tags: Valencia)
+Meritxell
+  IPA: [mə.ɾiˈt͡ʃeʎ] (Tags: Balearic, Central)
+  IPA: [me.ɾiˈt͡ʃeʎ] (Tags: Valencia)
+Baixa Àustria
+  IPA: [ˈba.ʃə ˈaws.tɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈbaj.ʃa ˈaws.tɾi.a] (Tags: Valencia)
+Filadèlfia
+  IPA: [fi.ləˈðɛl.fi.ə] (Tags: Balearic, Central)
+  IPA: [fi.laˈðɛl.fi.a] (Tags: Valencia)
+Cracòvia
+  IPA: [kɾəˈkɔ.βi.ə] (Tags: Central)
+  IPA: [kɾəˈkɔ.vi.ə] (Tags: Balearic)
+  IPA: [kɾaˈkɔ.vi.a] (Tags: Valencia)
+Assís
+  IPA: [əˈsis] (Tags: Balearic, Central)
+  IPA: [aˈsis] (Tags: Valencia)
+Oristany
+  IPA: [u.ɾisˈtaɲ] (Tags: Central)
+  IPA: [o.ɾisˈtaɲ] (Tags: Balearic, Valencia)
+Sàsser
+  IPA: [ˈsa.sər] (Tags: Central)
+  IPA: [ˈsa.ser] (Tags: Valencia)
+Catània
+  IPA: [kəˈta.ni.ə] (Tags: Balearic, Central)
+  IPA: [kaˈta.ni.a] (Tags: Valencia)
+Bèrgam
+  IPA: [ˈbɛr.ɡəm] (Tags: Balearic, Central)
+  IPA: [ˈbɛɾ.ɣam] (Tags: Valencia)
+Pàdua
+  IPA: [ˈpa.ðu.ə] (Tags: Balearic, Central)
+  IPA: [ˈpa.ðu.a] (Tags: Valencia)
+Dídac
+  IPA: [ˈdi.ðək] (Tags: Balearic, Central)
+  IPA: [ˈdi.ðak] (Tags: Valencia)
+Làrissa
+  IPA: [ˈla.ɾi.sə] (Tags: Balearic, Central)
+  IPA: [ˈla.ɾi.sa] (Tags: Valencia)
+Dodecanès
+  IPA: [du.ðə.kəˈnɛs] (Tags: Central)
+  IPA: [do.ðə.kəˈnəs] (Tags: Balearic)
+  IPA: [do.ðe.kaˈnes] (Tags: Valencia)
+Àtica
+  IPA: [ˈa.ti.kə] (Tags: Balearic, Central)
+  IPA: [ˈa.ti.ka] (Tags: Valencia)
+Muntènia
+  IPA: [munˈtɛ.ni.ə] (Tags: Balearic, Central)
+  IPA: [munˈtɛ.ni.a] (Tags: Valencia)
+Guaiana
+  IPA: [ɡwəˈja.nə] (Tags: Balearic, Central)
+  IPA: [ɡwaˈja.na] (Tags: Valencia)
+Mides
+  IPA: [ˈmi.ðəs] (Tags: Balearic, Central)
+  IPA: [ˈmi.ðes] (Tags: Valencia)
+Atlàntida
+  IPA: [əlˈlan.ti.ðə] (Tags: Balearic, Central)
+  IPA: [alˈlan.ti.ða] (Tags: Valencia)
+Hèbrides
+  IPA: [ˈɛ.βɾi.ðəs] (Tags: Central)
+  IPA: [ˈɛ.bɾi.ðəs] (Tags: Balearic)
+  IPA: [ˈɛ.bɾi.ðes] (Tags: Valencia)
+Nova Guinea
+  IPA: [ˈnɔ.βə ɣiˈne.ə] (Tags: Central)
+  IPA: [ˈnɔ.və ɣiˈne.ə] (Tags: Balearic)
+  IPA: [ˈnɔ.va ɣiˈne.a] (Tags: Valencia)
+Zimbàbue
+  IPA: [zimˈba.βu.ə] (Tags: Central)
+  IPA: [zimˈba.bu.ə] (Tags: Balearic)
+  IPA: [zimˈba.bu.e] (Tags: Valencia)
+Trinitat i Tobago
+  IPA: [tɾi.niˈtat i tuˈβa.ɣu] (Tags: Central)
+  IPA: [tɾi.niˈtat i toˈba.ɣo] (Tags: Balearic, Valencia)
+TMB
+  IPA: [ˌteˌe.məˈβe] (Tags: Central)
+  IPA: [ˌteˌe.məˈbe] (Tags: Balearic)
+  IPA: [ˌteˌe.meˈbe] (Tags: Valencia)
+Mèrida
+  IPA: [ˈmɛ.ɾi.ðə] (Tags: Balearic, Central)
+  IPA: [ˈmɛ.ɾi.ða] (Tags: Valencia)
+Ontàrio
+  IPA: [unˈta.ɾi.u] (Tags: Central)
+  IPA: [onˈta.ɾi.o] (Tags: Balearic, Valencia)
+Nova Brunsvic
+  IPA: [ˈnɔ.βə βɾunzˈbik] (Tags: Central)
+  IPA: [ˈnɔ.və bɾunzˈvik] (Tags: Balearic)
+  IPA: [ˈnɔ.va bɾunzˈvik] (Tags: Valencia)
+Sagunt
+  IPA: [səˈɣun] (Tags: Central)
+  IPA: [səˈɣunt] (Tags: Balearic)
+  IPA: [saˈɣunt] (Tags: Valencia)
+Brabant Flamenc
+  IPA: [bɾəˈβaɱ fləˈmɛŋ] (Tags: Central)
+  IPA: [bɾəˈbaɱ fləˈməŋk] (Tags: Balearic)
+  IPA: [bɾaˈbaɱ flaˈmeŋk] (Tags: Valencia)
+Alta Àustria
+  IPA: [ˈal.tə ˈaws.tɾi.ə] (Tags: Balearic, Central)
+  IPA: [ˈal.ta ˈaws.tɾi.a] (Tags: Valencia)
+Valònia
+  IPA: [bəˈlɔ.ni.ə] (Tags: Central)
+  IPA: [vəˈlɔ.ni.ə] (Tags: Balearic)
+  IPA: [vaˈlɔ.ni.a] (Tags: Valencia)
+Illa del Príncep Eduard
+  IPA: [ˈi.ʎə ðəl ˈpɾin.səp ə.ðuˈart] (Tags: Balearic, Central)
+  IPA: [ˈi.ʎa ðel ˈpɾin.sep e.ðuˈaɾt] (Tags: Valencia)
+Austràlia Occidental
+  IPA: [əwsˈtɾa.li.ə uk.si.ðənˈtal] (Tags: Central)
+  IPA: [əwsˈtɾa.li.ə ok.si.ðənˈtal] (Tags: Balearic)
+  IPA: [awsˈtɾa.li.a ok.si.ðenˈtal] (Tags: Valencia)
+Austràlia Meridional
+  IPA: [əwsˈtɾa.li.ə mə.ɾi.ði.uˈnal] (Tags: Central)
+  IPA: [əwsˈtɾa.li.ə mə.ɾi.ði.oˈnal] (Tags: Balearic)
+  IPA: [awsˈtɾa.li.a me.ɾi.ði.oˈnal] (Tags: Valencia)
+Turgòvia
+  IPA: [turˈɡɔ.βi.ə] (Tags: Central)
+  IPA: [turˈɡɔ.vi.ə] (Tags: Balearic)
+  IPA: [tuɾˈɣɔ.vi.a] (Tags: Valencia)
+Argòvia
+  IPA: [ərˈɡɔ.βi.ə] (Tags: Central)
+  IPA: [ərˈɡɔ.vi.ə] (Tags: Balearic)
+  IPA: [aɾˈɣɔ.vi.a] (Tags: Valencia)
+Brabant Septentrional
+  IPA: [bɾəˈβan səp.tən.tɾi.uˈnal] (Tags: Central)
+  IPA: [bɾəˈban səp.tən.tɾi.oˈnal] (Tags: Balearic)
+  IPA: [bɾaˈban sep.ten.tɾi.oˈnal] (Tags: Valencia)
+Cabília
+  IPA: [kəˈβi.li.ə] (Tags: Central)
+  IPA: [kəˈbi.li.ə] (Tags: Balearic)
+  IPA: [kaˈbi.li.a] (Tags: Valencia)
+Mont
+  IPA: [ˈmon] (Tags: Central)
+  IPA: [ˈmont] (Tags: Balearic, Valencia)
+Elies
+  IPA: [əˈli.əs] (Tags: Balearic, Central)
+  IPA: [eˈli.es] (Tags: Valencia)
+Elies
+  IPA: [əˈli.əs] (Tags: Balearic, Central)
+  IPA: [eˈli.es] (Tags: Valencia)
+Pliocè
+  IPA: [pli.uˈsɛ] (Tags: Central)
+  IPA: [pli.oˈsə] (Tags: Balearic)
+  IPA: [pli.oˈse] (Tags: Valencia)
+Galè
+  IPA: [ɡəˈlɛ] (Tags: Central)
+  IPA: [ɡəˈlə] (Tags: Balearic)
+  IPA: [ɡaˈle] (Tags: Valencia)
+Jessè
+  IPA: [ʒəˈsɛ] (Tags: Central)
+  IPA: [ʒəˈsə] (Tags: Balearic)
+  IPA: [d͡ʒeˈse] (Tags: Valencia)
+Moràvia
+  IPA: [muˈɾa.βi.ə] (Tags: Central)
+  IPA: [moˈɾa.vi.ə] (Tags: Balearic)
+  IPA: [moˈɾa.vi.a] (Tags: Valencia)
+Marià
+  IPA: [mə.ɾiˈa] (Tags: Balearic, Central)
+  IPA: [ma.ɾiˈa] (Tags: Valencia)
+Aniol
+  IPA: [ə.niˈɔl] (Tags: Balearic, Central)
+  IPA: [a.niˈɔl] (Tags: Valencia)
+Caledònia
+  IPA: [kə.ləˈðɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [ka.leˈðɔ.ni.a] (Tags: Valencia)
+Llevant
+  IPA: [ʎəˈβan] (Tags: Central)
+  IPA: [ʎəˈvant] (Tags: Balearic)
+  IPA: [ʎeˈvant] (Tags: Valencia)
+República Catalana
+  IPA: [rəˈpub.bli.kə kə.təˈla.nə] (Tags: Balearic, Central)
+  IPA: [reˈpu.bli.ka ka.taˈla.na] (Tags: Valencia)
+Blancaneus
+  IPA: [bləŋ.kəˈnews] (Tags: Balearic, Central)
+  IPA: [blaŋ.kaˈnews] (Tags: Valencia)
+Rínxols d'Or
+  IPA: [ˈriɲ.ʃulz ˈd‿ɔr] (Tags: Central)
+  IPA: [ˈriɲ.ʃolz ˈd‿ɔr] (Tags: Balearic)
+  IPA: [ˈriɲ.t͡ʃolz ˈð‿ɔr] (Tags: Valencia)
+Euràbia
+  IPA: [əwˈɾa.βi.ə] (Tags: Central)
+  IPA: [əwˈɾa.bi.ə] (Tags: Balearic)
+  IPA: [ewˈɾa.bi.a] (Tags: Valencia)
+Sísif
+  IPA: [ˈsi.zif] (Tags: Balearic, Central, Valencia)
+Giralt
+  IPA: [ʒiˈɾal] (Tags: Central)
+  IPA: [ʒiˈɾalt] (Tags: Balearic)
+  IPA: [d͡ʒiˈɾalt] (Tags: Valencia)
+Antilia
+  IPA: [ən.tiˈli.ə] (Tags: Balearic, Central)
+  IPA: [an.tiˈli.a] (Tags: Valencia)
+Antillia
+  IPA: [ən.tiˈʎi.ə] (Tags: Balearic, Central)
+  IPA: [an.tiˈʎi.a] (Tags: Valencia)
+Nativitat
+  IPA: [nə.ti.βiˈtat] (Tags: Central)
+  IPA: [nə.ti.viˈtat] (Tags: Balearic)
+  IPA: [na.ti.viˈtat] (Tags: Valencia)
+nativitat
+  IPA: [nə.ti.βiˈtat] (Tags: Central)
+  IPA: [nə.ti.viˈtat] (Tags: Balearic)
+  IPA: [na.ti.viˈtat] (Tags: Valencia)
+Xantipa
+  IPA: [ʃənˈti.pə] (Tags: Balearic, Central)
+  IPA: [t͡ʃanˈti.pa] (Tags: Valencia)
+Campaneta
+  IPA: [kəm.pəˈnɛ.tə] (Tags: Central)
+  IPA: [kəm.pəˈnə.tə] (Tags: Balearic)
+  IPA: [kam.paˈne.ta] (Tags: Valencia)
+Tàrraco
+  IPA: [ˈta.rə.ku] (Tags: Central)
+  IPA: [ˈta.rə.ko] (Tags: Balearic)
+  IPA: [ˈta.ra.ko] (Tags: Valencia)
+Terra del Foc
+  IPA: [ˈtɛ.rə ðəl ˈfɔk] (Tags: Balearic, Central)
+  IPA: [ˈtɛ.ra ðel ˈfɔk] (Tags: Valencia)
+illes Galápagos
+  IPA: [ˈi.ʎəz ɡəˈla.pə.ɣus] (Tags: Central)
+  IPA: [ˈi.ʎəz ɡəˈla.pə.ɣos] (Tags: Balearic)
+  IPA: [ˈi.ʎez ɣaˈla.pa.ɣos] (Tags: Valencia)
+Francònia
+  IPA: [fɾəŋˈkɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [fɾaŋˈkɔ.ni.a] (Tags: Valencia)
+Pont
+  IPA: [ˈpɔn] (Tags: Central)
+  IPA: [ˈpɔnt] (Tags: Balearic, Valencia)
+Caputxeta Vermella
+  IPA: [kə.puˈt͡ʃɛ.tə βərˈmɛ.ʎə] (Tags: Central)
+  IPA: [kə.puˈt͡ʃə.tə vərˈmə.ʎə] (Tags: Balearic)
+  IPA: [ka.puˈt͡ʃe.ta veɾˈme.ʎa] (Tags: Valencia)
+Canigó
+  IPA: [kə.niˈɣo] (Tags: Balearic, Central)
+  IPA: [ka.niˈɣo] (Tags: Valencia)
+  IPA: /ka.niˈɡu/ (Tags: Northern)
+Fornells
+  IPA: [furˈneʎs] (Tags: Central)
+  IPA: [forˈneʎs] (Tags: Balearic)
+  IPA: [foɾˈneʎs] (Tags: Valencia)
+Illes Salomó
+  IPA: [ˈi.ʎəs sə.luˈmo] (Tags: Central)
+  IPA: [ˈi.ʎəs sə.loˈmo] (Tags: Balearic)
+  IPA: [ˈi.ʎes sa.loˈmo] (Tags: Valencia)
+Patagònia
+  IPA: [pə.təˈɣɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [pa.taˈɣɔ.ni.a] (Tags: Valencia)
+Tàntal
+  IPA: [ˈtan.təl] (Tags: Balearic, Central)
+  IPA: [ˈtan.tal] (Tags: Valencia)
+mar Bàltica
+  IPA: [ˈmar ˈbal.ti.kə] (Tags: Balearic, Central)
+  IPA: [ˈmar ˈbal.ti.ka] (Tags: Valencia)
+Esperit Sant
+  IPA: [əs.pəˈɾit ˈsan] (Tags: Central)
+  IPA: [əs.pəˈɾit ˈsant] (Tags: Balearic)
+  IPA: [es.peˈɾit ˈsant] (Tags: Valencia)
+Tània
+  IPA: [ˈta.ni.ə] (Tags: Balearic, Central)
+  IPA: [ˈta.ni.a] (Tags: Valencia)
+Talteüll
+  IPA: [təl.təˈuʎ] (Tags: Balearic, Central)
+  IPA: [tal.teˈuʎ] (Tags: Valencia)
+Sant Greal
+  IPA: [ˈsaŋ ɡɾeˈal] (Tags: Balearic, Central, Valencia)
+Rei Artús
+  IPA: [ˈrej ərˈtus] (Tags: Balearic, Central)
+  IPA: [ˈrej aɾˈtus] (Tags: Valencia)
+Magúncia
+  IPA: [məˈɣun.si.ə] (Tags: Balearic, Central)
+  IPA: [maˈɣun.si.a] (Tags: Valencia)
+Trèveris
+  IPA: [ˈtɾɛ.βə.ɾis] (Tags: Central)
+  IPA: [ˈtɾɛ.və.ɾis] (Tags: Balearic)
+  IPA: [ˈtɾɛ.ve.ɾis] (Tags: Valencia)
+Coblença
+  IPA: [kubˈblɛn.sə] (Tags: Central)
+  IPA: [kobˈblɛn.sə] (Tags: Balearic)
+  IPA: [koˈblen.sa] (Tags: Valencia)
+Sant Hipòlit de Voltregà
+  IPA: [ˌsan.t‿iˈpɔ.lid də βul.tɾəˈɣa] (Tags: Central)
+  IPA: [ˌsan.t‿iˈpɔ.lid də vol.tɾəˈɣa] (Tags: Balearic)
+  IPA: [ˌsan.t‿iˈpɔ.lid de vol.tɾeˈɣa] (Tags: Valencia)
+Dàmocles
+  IPA: [ˈda.mu.kləs] (Tags: Central)
+  IPA: [ˈda.mo.kləs] (Tags: Balearic)
+  IPA: [ˈda.mo.kles] (Tags: Valencia)
+Batlle
+  IPA: [ˈbaʎ.ʎə] (Tags: Central)
+  IPA: [ˈbal.lə] (Tags: Balearic)
+  IPA: [ˈbal.le] (Tags: Valencia)
+Patufet
+  IPA: [pə.tuˈfɛt] (Tags: Central)
+  IPA: [pə.tuˈfət] (Tags: Balearic)
+  IPA: [pa.tuˈfet] (Tags: Valencia)
+Cadaqués
+  IPA: [kə.ðəˈkes] (Tags: Balearic, Central)
+  IPA: [ka.ðaˈkes] (Tags: Valencia)
+Westfàlia
+  IPA: [wəsˈfa.li.ə] (Tags: Balearic, Central)
+  IPA: [wesˈfa.li.a] (Tags: Valencia)
+Lusàcia
+  IPA: [luˈza.si.ə] (Tags: Balearic, Central)
+  IPA: [luˈza.si.a] (Tags: Valencia)
+Pletó
+  IPA: [pləˈto] (Tags: Balearic, Central)
+  IPA: [pleˈto] (Tags: Valencia)
+Serpis
+  IPA: [ˈser.pis] (Tags: Balearic, Central)
+  IPA: [ˈseɾ.pis] (Tags: Valencia)
+Alcoià
+  IPA: [əl.kuˈja] (Tags: Central)
+  IPA: [əl.koˈja] (Tags: Balearic)
+  IPA: [al.koˈja] (Tags: Valencia)
+Llucifer
+  IPA: [ʎu.siˈfe] (Tags: Balearic, Central)
+  IPA: [ʎu.siˈfeɾ] (Tags: Valencia)
+Transcaucàsia
+  IPA: [tɾəns.kəwˈka.zi.ə] (Tags: Balearic, Central)
+  IPA: [tɾans.kawˈka.zi.a] (Tags: Valencia)
+Mar Càspia
+  IPA: [ˈmar ˈkas.pi.ə] (Tags: Balearic, Central)
+  IPA: [ˈmar ˈkas.pi.a] (Tags: Valencia)
+Càller
+  IPA: [ˈka.ʎər] (Tags: Central)
+  IPA: [ˈka.ʎer] (Tags: Valencia)
+Hipòlit
+  IPA: [iˈpɔ.lit] (Tags: Balearic, Central, Valencia)
+Lanamesa
+  IPA: [lə.nəˈmɛ.zə] (Tags: Central)
+  IPA: [lə.nəˈmə.zə] (Tags: Balearic)
+  IPA: [la.naˈme.za] (Tags: Valencia)
+Herculà
+  IPA: [ər.kuˈla] (Tags: Balearic, Central)
+  IPA: [eɾ.kuˈla] (Tags: Valencia)
+Kíiv
+  IPA: [ˈki.if] (Tags: Balearic, Central, Valencia)
+Gironès
+  IPA: [ʒi.ɾuˈnɛs] (Tags: Central)
+  IPA: [ʒi.ɾoˈnəs] (Tags: Balearic)
+  IPA: [d͡ʒi.ɾoˈnes] (Tags: Valencia)
+Llagostera
+  IPA: [ʎə.ɣusˈte.ɾə] (Tags: Central)
+  IPA: [ʎə.ɣosˈte.ɾə] (Tags: Balearic)
+  IPA: [ʎa.ɣosˈte.ɾa] (Tags: Valencia)
+Junyent
+  IPA: [ʒuˈɲen] (Tags: Central)
+  IPA: [ʒuˈɲent] (Tags: Balearic)
+  IPA: [d͡ʒuˈɲent] (Tags: Valencia)
+Hiperbòria
+  IPA: [i.pərˈbɔ.ɾi.ə] (Tags: Balearic, Central)
+  IPA: [i.peɾˈbɔ.ɾi.a] (Tags: Valencia)
+Nègueb
+  IPA: [ˈnɛ.ɣəp] (Tags: Balearic, Central)
+  IPA: [ˈnɛ.ɣep] (Tags: Valencia)
+illes Poncianes
+  IPA: [ˈi.ʎəs pun.siˈa.nəs] (Tags: Central)
+  IPA: [ˈi.ʎəs pon.siˈa.nəs] (Tags: Balearic)
+  IPA: [ˈi.ʎes pon.siˈa.nes] (Tags: Valencia)
+Balutxistan
+  IPA: [bə.lu.t͡ʃisˈtan] (Tags: Balearic, Central)
+  IPA: [ba.lu.t͡ʃisˈtan] (Tags: Valencia)
+Alcarràs
+  IPA: [əl.kəˈras] (Tags: Balearic, Central)
+  IPA: [al.kaˈras] (Tags: Valencia)
+Solsonès
+  IPA: [sul.suˈnɛs] (Tags: Central)
+  IPA: [sol.soˈnəs] (Tags: Balearic)
+  IPA: [sol.soˈnes] (Tags: Valencia)
+Amazònia
+  IPA: [ə.məˈzɔ.ni.ə] (Tags: Balearic, Central)
+  IPA: [a.maˈzɔ.ni.a] (Tags: Valencia)
+Illes Salvatges
+  IPA: [ˈi.ʎəs səlˈβa.d͡ʒəs] (Tags: Central)
+  IPA: [ˈi.ʎəs səlˈva.d͡ʒəs] (Tags: Balearic)
+  IPA: [ˈi.ʎes salˈva.d͡ʒes] (Tags: Valencia)
+Pitiüses
+  IPA: [pi.tiˈu.zəs] (Tags: Balearic, Central)
+  IPA: [pi.tiˈu.zes] (Tags: Valencia)
+Tàrtar
+  IPA: [ˈtar.tər] (Tags: Balearic, Central)
+  IPA: [ˈtaɾ.tar] (Tags: Valencia)
+Ripollès
+  IPA: [ri.puˈʎɛs] (Tags: Central)
+  IPA: [ri.poˈʎəs] (Tags: Balearic)
+  IPA: [ri.poˈʎes] (Tags: Valencia)
+Falset
+  IPA: [fəlˈsɛt] (Tags: Central)
+  IPA: [fəlˈsət] (Tags: Balearic)
+  IPA: [falˈset] (Tags: Valencia)
+Empordanet
+  IPA: [əm.pur.dəˈnɛt] (Tags: Central)
+  IPA: [əm.por.dəˈnət] (Tags: Balearic)
+  IPA: [em.poɾ.ðaˈnet] (Tags: Valencia)
+Vendrell
+  IPA: [bənˈdɾeʎ] (Tags: Central)
+  IPA: [vənˈdɾeʎ] (Tags: Balearic)
+  IPA: [venˈdɾeʎ] (Tags: Valencia)
+Vendrell
+  IPA: [bənˈdɾeʎ] (Tags: Central)
+  IPA: [vənˈdɾeʎ] (Tags: Balearic)
+  IPA: [venˈdɾeʎ] (Tags: Valencia)
+Valls
+  IPA: [ˈbaʎs] (Tags: Central)
+  IPA: [ˈvaʎs] (Tags: Balearic, Valencia)
+Valls
+  IPA: [ˈbaʎs] (Tags: Central)
+  IPA: [ˈvaʎs] (Tags: Balearic, Valencia)
+Moianès
+  IPA: [mu.jəˈnɛs] (Tags: Central)
+  IPA: [mo.jəˈnəs] (Tags: Balearic)
+  IPA: [mo.jaˈnes] (Tags: Valencia)
+Garrotxa
+  IPA: [ɡəˈrɔ.t͡ʃə] (Tags: Balearic, Central)
+  IPA: [ɡaˈrɔ.t͡ʃa] (Tags: Valencia)
+Brujat
+  IPA: [bɾuˈʒat] (Tags: Balearic, Central)
+  IPA: [bɾuˈd͡ʒat] (Tags: Valencia)
+Moià
+  IPA: [muˈja] (Tags: Central)
+  IPA: [moˈja] (Tags: Balearic, Valencia)
+Moià
+  IPA: [muˈja] (Tags: Central)
+  IPA: [moˈja] (Tags: Balearic, Valencia)
+Garrigues
+  IPA: [ɡəˈri.ɣəs] (Tags: Balearic, Central)
+  IPA: [ɡaˈri.ɣes] (Tags: Valencia)
+Garrigues
+  IPA: [ɡəˈri.ɣəs] (Tags: Balearic, Central)
+  IPA: [ɡaˈri.ɣes] (Tags: Valencia)
+Macaronèsia
+  IPA: [mə.kə.ɾuˈnɛ.zi.ə] (Tags: Central)
+  IPA: [mə.kə.ɾoˈnɛ.zi.ə] (Tags: Balearic)
+  IPA: [ma.ka.ɾoˈnɛ.zi.a] (Tags: Valencia)
+Perigús
+  IPA: [pə.ɾiˈɣus] (Tags: Balearic, Central)
+  IPA: [pe.ɾiˈɣus] (Tags: Valencia)
+muhàrram
+  IPA: [muˈa.rəm] (Tags: Balearic, Central)
+  IPA: [muˈa.ram] (Tags: Valencia)
+Badakhxan
+  IPA: [bə.ðəkˈʃan] (Tags: Balearic, Central)
+  IPA: [ba.ðakˈt͡ʃan] (Tags: Valencia)
+Duixanbe
+  IPA: [duˈʃam.bə] (Tags: Balearic, Central)
+  IPA: [dujˈʃam.be] (Tags: Valencia)
+Ceilan
+  IPA: [səjˈlan] (Tags: Balearic, Central)
+  IPA: [sejˈlan] (Tags: Valencia)
+illes Verges
+  IPA: [ˈi.ʎəz ˈbɛr.ʒəs] (Tags: Central)
+  IPA: [ˈi.ʎəz ˈvɛr.ʒəs] (Tags: Balearic)
+  IPA: [ˈi.ʎez ˈvɛɾ.d͡ʒes] (Tags: Valencia)
+Sant Martí
+  IPA: [ˈsam mərˈti] (Tags: Balearic, Central)
+  IPA: [ˈsam maɾˈti] (Tags: Valencia)
+Sant Martí
+  IPA: [ˈsam mərˈti] (Tags: Balearic, Central)
+  IPA: [ˈsam maɾˈti] (Tags: Valencia)
+Roix ha-Xanà
+  IPA: [ˈroʒ ə.ʃəˈna] (Tags: Balearic, Central)
+  IPA: [ˈrojd͡ʒ a.ʃaˈna] (Tags: Valencia)
+Mixnà
+  IPA: [miʒˈna] (Tags: Balearic, Central)
+  IPA: [mid͡ʒˈna] (Tags: Valencia)
+Transsiberià
+  IPA: [tɾən.si.βə.ɾiˈa] (Tags: Central)
+  IPA: [tɾən.si.bə.ɾiˈa] (Tags: Balearic)
+  IPA: [tɾan.si.be.ɾiˈa] (Tags: Valencia)
+Il·lustració
+  IPA: [il.lus.tɾə.siˈo] (Tags: Balearic, Central)
+  IPA: [il.lus.tɾa.siˈo] (Tags: Valencia)
+Sóller
+  IPA: [ˈso.ʎə] (Tags: Balearic)
+Sebastòpol
+  IPA: [sə.βəsˈtɔ.pul] (Tags: Central)
+  IPA: [sə.bəsˈtɔ.pol] (Tags: Balearic)
+  IPA: [se.basˈtɔ.pol] (Tags: Valencia)
+Simferòpol
+  IPA: [sim.fəˈɾɔ.pul] (Tags: Central)
+  IPA: [sim.fəˈɾɔ.pol] (Tags: Balearic)
+  IPA: [sim.feˈɾɔ.pol] (Tags: Valencia)
+Mefistòfil
+  IPA: [mə.fisˈtɔ.fil] (Tags: Balearic, Central)
+  IPA: [me.fisˈtɔ.fil] (Tags: Valencia)
+Xauxa
+  IPA: [ˈʃaw.ʃə] (Tags: Balearic, Central)
+  IPA: [ˈt͡ʃaw.t͡ʃa] (Tags: Valencia)
+  IPA: [ˈʃaw.ʃa] (Tags: Valencia)
+Reunió
+  IPA: [rə.u.niˈo] (Tags: Balearic, Central)
+  IPA: [re.u.niˈo] (Tags: Valencia)
+mar Negra
+  IPA: [ˈmar ˈnɛ.ɣɾə] (Tags: Central)
+  IPA: [ˈmar ˈnə.ɣɾə] (Tags: Balearic)
+  IPA: [ˈmar ˈne.ɣɾa] (Tags: Valencia)
+Mèsia
+  IPA: [ˈmɛ.zi.ə] (Tags: Balearic, Central)
+  IPA: [ˈmɛ.zi.a] (Tags: Valencia)
+Sírmia
+  IPA: [ˈsir.mi.ə] (Tags: Balearic, Central)
+  IPA: [ˈsiɾ.mi.a] (Tags: Valencia)
+Bengala Oriental
+  IPA: [bəŋˈɡa.lə u.ɾi.ənˈtal] (Tags: Central)
+  IPA: [bəŋˈɡa.lə o.ɾi.ənˈtal] (Tags: Balearic)
+  IPA: [beŋˈɡa.la o.ɾi.enˈtal] (Tags: Valencia)
+Xèrica
+  IPA: [ˈʃɛ.ɾi.kə] (Tags: Balearic, Central)
+  IPA: [ˈt͡ʃɛ.ɾi.ka] (Tags: Valencia)
+Cisjordània
+  IPA: [si.ʒurˈda.ni.ə] (Tags: Central)
+  IPA: [si.ʒorˈda.ni.ə] (Tags: Balearic)
+  IPA: [siz.d͡ʒoɾˈða.ni.a] (Tags: Valencia)
+mar de la Xina Meridional
+  IPA: [ˈmar də lə ˈʃi.nə mə.ɾi.ði.uˈnal] (Tags: Central)
+  IPA: [ˈmar də lə ˈʃi.nə mə.ɾi.ði.oˈnal] (Tags: Balearic)
+  IPA: [ˈmar ðe la ˈt͡ʃi.na me.ɾi.ði.oˈnal] (Tags: Valencia)
+Corts
+  IPA: [ˈkorts] (Tags: Balearic, Central)
+  IPA: [ˈkoɾts] (Tags: Valencia)
+Corts
+  IPA: [ˈkorts] (Tags: Balearic, Central)
+  IPA: [ˈkoɾts] (Tags: Valencia)
+Tarba
+  IPA: [ˈtar.bə] (Tags: Balearic, Central)
+  IPA: [ˈtaɾ.ba] (Tags: Valencia)
+Bigorra
+  IPA: [biˈɣɔ.rə] (Tags: Balearic, Central)
+  IPA: [biˈɣɔ.ra] (Tags: Valencia)
+Ricosind
+  IPA: [ri.kuˈzin] (Tags: Central)
+  IPA: [ri.kuˈzint] (Tags: Balearic)
+  IPA: [ri.koˈzint] (Tags: Valencia)
+La Jonquera
+  IPA: [lə ʒuŋˈke.ɾə] (Tags: Central)
+  IPA: [lə ʒoŋˈke.ɾə] (Tags: Balearic)
+  IPA: [la d͡ʒoŋˈke.ɾa] (Tags: Valencia)
+Friül
+  IPA: [fɾiˈul] (Tags: Balearic, Central, Valencia)
+Basilea-Camp
+  IPA: [bə.ziˈle.ə ˈkam] (Tags: Central)
+  IPA: [bə.ziˈle.ə ˈkamp] (Tags: Balearic)
+  IPA: [ba.ziˈle.a ˈkamp] (Tags: Valencia)
+Basilea-Ciutat
+  IPA: [bə.ziˈle.ə siwˈtat] (Tags: Balearic, Central)
+  IPA: [ba.ziˈle.a siwˈtat] (Tags: Valencia)
+Dècan
+  IPA: [ˈdɛ.kən] (Tags: Balearic, Central)
+  IPA: [ˈdɛ.kan] (Tags: Valencia)
+L'H
+  IPA: [ˈlak] (Tags: Balearic, Central, Valencia)
+L'Hospitalet
+  IPA: [lus.pi.təˈlɛt] (Tags: Central)
+  IPA: [los.pi.təˈlət] (Tags: Balearic)
+  IPA: [los.pi.taˈlet] (Tags: Valencia)
+mar Roja
+  IPA: [ˈmar ˈrɔ.ʒə] (Tags: Balearic, Central)
+  IPA: [ˈmar ˈrɔ.d͡ʒa] (Tags: Valencia)
+Frejús
+  IPA: [fɾəˈʒus] (Tags: Balearic, Central)
+  IPA: [fɾeˈd͡ʒus] (Tags: Valencia)
+Brisgòvia
+  IPA: [bɾizˈɡɔ.βi.ə] (Tags: Central)
+  IPA: [bɾizˈɡɔ.vi.ə] (Tags: Balearic)
+  IPA: [bɾizˈɣɔ.vi.a] (Tags: Valencia)
+Ivet
+  IPA: [iˈβɛt] (Tags: Central)
+  IPA: [iˈvət] (Tags: Balearic)
+  IPA: [iˈvet] (Tags: Valencia)
+Galderic
+  IPA: [ɡəl.dəˈɾik] (Tags: Balearic, Central)
+  IPA: [ɡal.deˈɾik] (Tags: Valencia)
+Galdric
+  IPA: [ɡəlˈdɾik] (Tags: Balearic, Central)
+  IPA: [ɡalˈdɾik] (Tags: Valencia)
+Sant Gauderic
+  IPA: [ˈsaŋ ɡəw.ðəˈɾik] (Tags: Balearic, Central)
+  IPA: [ˈsaŋ ɡaw.ðeˈɾik] (Tags: Valencia)
+Sant Galdric
+  IPA: [ˈsaŋ ɡəlˈdɾik] (Tags: Balearic, Central)
+  IPA: [ˈsaŋ ɡalˈdɾik] (Tags: Valencia)
+Bompàs
+  IPA: [bumˈpas] (Tags: Central)
+  IPA: [bomˈpas] (Tags: Balearic, Valencia)
+Molí de Vent
+  IPA: [muˈli ðə ˈβen] (Tags: Central)
+  IPA: [muˈli ðə ˈvent] (Tags: Balearic)
+  IPA: [moˈli ðe ˈvent] (Tags: Valencia)
+Castell Rosselló
+  IPA: [kəsˈteʎ ru.səˈʎo] (Tags: Central)
+  IPA: [kəsˈteʎ ro.səˈʎo] (Tags: Balearic)
+  IPA: [kasˈteʎ ro.seˈʎo] (Tags: Valencia)
+Coïmbra
+  IPA: [kuˈim.bɾə] (Tags: Balearic, Central)
+  IPA: [koˈim.bɾa] (Tags: Valencia)
+Aglí
+  IPA: [əˈɣli] (Tags: Balearic, Central)
+  IPA: [aˈɣli] (Tags: Valencia)
+Txernòbil
+  IPA: [t͡ʃərˈnɔ.βil] (Tags: Central)
+  IPA: [t͡ʃərˈnɔ.bil] (Tags: Balearic)
+  IPA: [t͡ʃeɾˈnɔ.bil] (Tags: Valencia)
+Prosèrpina
+  IPA: [pɾuˈzɛr.pi.nə] (Tags: Central)
+  IPA: [pɾoˈzɛr.pi.nə] (Tags: Balearic)
+  IPA: [pɾoˈzɛɾ.pi.na] (Tags: Valencia)
+Llorach
+  IPA: [ʎuˈɾak] (Tags: Central)
+  IPA: [ʎoˈɾak] (Tags: Balearic, Valencia)
+Indoxina
+  IPA: [ˌin.duˈʃi.nə] (Tags: Balearic, Central)
+  IPA: [ˌin.doˈʃi.na] (Tags: Valencia)
+Precambrià
+  IPA: [ˌpɾe.kəm.bɾiˈa] (Tags: Balearic, Central)
+  IPA: [ˌpɾe.kam.bɾiˈa] (Tags: Valencia)
+Moreneta
+  IPA: [mu.ɾəˈnɛ.tə] (Tags: Central)
+  IPA: [mo.ɾəˈnə.tə] (Tags: Balearic)
+  IPA: [mo.ɾeˈne.ta] (Tags: Valencia)
+Regne d'Espanya
+  IPA: [ˈreŋ.nə ð‿əsˈpa.ɲə] (Tags: Balearic, Central)
+  IPA: [ˈreŋ.ne ð‿esˈpa.ɲa] (Tags: Valencia)
+Índies
+  IPA: [ˈin.di.əs] (Tags: Balearic, Central)
+  IPA: [ˈin.di.es] (Tags: Valencia)
+Agramunt
+  IPA: [ə.ɣɾəˈmun] (Tags: Central)
+  IPA: [ə.ɣɾəˈmunt] (Tags: Balearic)
+  IPA: [a.ɣɾaˈmunt] (Tags: Valencia)
+Calafell
+  IPA: [kə.ləˈfeʎ] (Tags: Balearic, Central)
+  IPA: [ka.laˈfeʎ] (Tags: Valencia)
+Cambrils
+  IPA: [kəmˈbɾils] (Tags: Balearic, Central)
+  IPA: [kamˈbɾils] (Tags: Valencia)
+Guissona
+  IPA: [ɡiˈsɔ.nə] (Tags: Balearic, Central)
+  IPA: [ɡiˈsɔ.na] (Tags: Valencia)
+Banyoles
+  IPA: [bəˈɲɔ.ləs] (Tags: Balearic, Central)
+  IPA: [baˈɲɔ.les] (Tags: Valencia)
+Sant Pere de Ribes
+  IPA: [ˈsam ˈpe.ɾə ðə ˈri.βəs] (Tags: Central)
+  IPA: [ˈsam ˈpe.ɾə ðə ˈri.bəs] (Tags: Balearic)
+  IPA: [ˈsam ˈpe.ɾe ðe ˈri.bes] (Tags: Valencia)
+Vilafranca del Penedès
+  IPA: [ˌbi.ləˈfɾaŋ.kə ðəl pə.nəˈðɛs] (Tags: Central)
+  IPA: [ˌvi.ləˈfɾaŋ.kə ðəl pə.nəˈðəs] (Tags: Balearic)
+  IPA: [ˌvi.laˈfɾaŋ.ka ðel pe.neˈðes] (Tags: Valencia)
+Sant Hipòlit
+  IPA: [ˌsan.t‿iˈpɔ.lit] (Tags: Balearic, Central, Valencia)
+Vilanova i la Geltrú
+  IPA: [ˌbi.ləˈnɔ.βə i lə ʒəlˈtɾu] (Tags: Central)
+  IPA: [ˌvi.ləˈnɔ.və i lə ʒəlˈtɾu] (Tags: Balearic)
+  IPA: [ˌvi.laˈnɔ.va i la d͡ʒelˈtɾu] (Tags: Valencia)
+Canet de Rosselló
+  IPA: [kəˈnɛd də ru.səˈʎo] (Tags: Central)
+  IPA: [kəˈnəd də ro.səˈʎo] (Tags: Balearic)
+  IPA: [kaˈned de ro.seˈʎo] (Tags: Valencia)
+Vilallonga de la Salanca
+  IPA: [ˌbi.ləˈʎoŋ.ɡə ðə lə səˈlaŋ.kə] (Tags: Central)
+  IPA: [ˌvi.ləˈʎoŋ.ɡə ðə lə səˈlaŋ.kə] (Tags: Balearic)
+  IPA: [ˌvi.laˈʎoŋ.ɡa ðe la saˈlaŋ.ka] (Tags: Valencia)
+Sant Llorenç de la Salanca
+  IPA: [ˈsaɲ ʎuˈɾɛnz də lə səˈlaŋ.kə] (Tags: Central)
+  IPA: [ˈsaɲ ʎoˈɾɛnz də lə səˈlaŋ.kə] (Tags: Balearic)
+  IPA: [ˈsaɲ ʎoˈɾɛnz ðe la saˈlaŋ.ka] (Tags: Valencia)
+Argelers
+  IPA: [ər.ʒəˈle] (Tags: Balearic, Central)
+  IPA: [aɾ.d͡ʒeˈleɾ] (Tags: Valencia)
+Bataller
+  IPA: [bə.təˈʎe] (Tags: Balearic, Central)
+  IPA: [ba.taˈʎeɾ] (Tags: Valencia)
+Paranà
+  IPA: [pə.ɾəˈna] (Tags: Balearic, Central)
+  IPA: [pa.ɾaˈna] (Tags: Valencia)
+Grabiel
+  IPA: [ɡɾə.βiˈɛl] (Tags: Central)
+  IPA: [ɡɾə.biˈɛl] (Tags: Balearic)
+  IPA: [ɡɾa.biˈɛl] (Tags: Valencia)
+Cardedeu
+  IPA: [ˌkar.dəˈðɛw] (Tags: Balearic, Central)
+  IPA: [ˌkaɾ.ðeˈðɛw] (Tags: Valencia)
+Tallaferro
+  IPA: [ˌta.ʎəˈfɛ.ru] (Tags: Central)
+  IPA: [ˌta.ʎəˈfɛ.ro] (Tags: Balearic)
+  IPA: [ˌta.ʎaˈfɛ.ro] (Tags: Valencia)
+El Raval
+  IPA: [əl rəˈβal] (Tags: Central)
+  IPA: [əl rəˈval] (Tags: Balearic)
+  IPA: [el raˈval] (Tags: Valencia)
+Dimes
+  IPA: [ˈdi.məs] (Tags: Balearic, Central)
+  IPA: [ˈdi.mes] (Tags: Valencia)
+Batlló
+  IPA: [bəʎˈʎo] (Tags: Central)
+  IPA: [bəˈʎo] (Tags: Balearic)
+  IPA: [balˈlo] (Tags: Valencia)
+Hezbol·là
+  IPA: [əz.bulˈla] (Tags: Central)
+  IPA: [əz.bolˈla] (Tags: Balearic)
+  IPA: [ez.bolˈla] (Tags: Valencia)
+Prepirineus
+  IPA: [ˌpɾe.pi.ɾiˈnɛws] (Tags: Balearic, Central, Valencia)
+Novaliches
+  IPA: [nu.βəˈli.t͡ʃəs] (Tags: Central)
+  IPA: [no.vəˈli.t͡ʃəs] (Tags: Balearic)
+  IPA: [no.vaˈli.t͡ʃes] (Tags: Valencia)
+Estat de Palestina
+  IPA: [əsˈtad də pə.ləsˈti.nə] (Tags: Balearic, Central)
+  IPA: [esˈtad de pa.lesˈti.na] (Tags: Valencia)
+Rínia
+  IPA: [ˈri.ni.ə] (Tags: Balearic, Central)
+  IPA: [ˈri.ni.a] (Tags: Valencia)
+Zúric
+  IPA: [ˈzu.ɾik] (Tags: Balearic, Central, Valencia)
+Jaire
+  IPA: [ˈʒaj.ɾə] (Tags: Balearic, Central)
+  IPA: [ˈd͡ʒaj.ɾe] (Tags: Valencia)
+Quart
+  IPA: [ˈkwaɾt]
+Puigcerdà
+  IPA: [put͡ʃ.sərˈda] (Tags: Balearic, Central)
+  IPA: [pujt͡ʃ.seɾˈða] (Tags: Valencia)
+Baldoví
+  IPA: [bəl.duˈβi] (Tags: Central)
+  IPA: [bəl.duˈvi] (Tags: Balearic)
+  IPA: [bal.doˈvi] (Tags: Valencia)
+Arnald
+  IPA: [ərˈnal] (Tags: Central)
+  IPA: [ərˈnalt] (Tags: Balearic)
+  IPA: [aɾˈnalt] (Tags: Valencia)
+Queralt
+  IPA: [kəˈɾal] (Tags: Central)
+  IPA: [kəˈɾalt] (Tags: Balearic)
+  IPA: [keˈɾalt] (Tags: Valencia)
+Guerra Freda
+  IPA: [ˈɡɛ.rə ˈfɾɛ.ðə] (Tags: Central)
+  IPA: [ˈɡɛ.rə ˈfɾə.ðə] (Tags: Balearic)
+  IPA: [ˈɡɛ.ra ˈfɾe.ða] (Tags: Valencia)
+Guerra dels Trenta Anys
+  IPA: [ˈɡɛ.rə ðəls ˈtɾɛn.tə ˈaɲs] (Tags: Central)
+  IPA: [ˈɡɛ.rə ðəls ˈtɾən.tə ˈaɲs] (Tags: Balearic)
+  IPA: [ˈɡɛ.ra ðels ˈtɾen.ta ˈaɲs] (Tags: Valencia)
+Gurb
+  IPA: [ˈɡurp] (Tags: Balearic, Central)
+  IPA: [ˈɡuɾp] (Tags: Valencia)
+Arinsal
+  IPA: [ə.ɾinˈsal] (Tags: Balearic, Central)
+  IPA: [a.ɾinˈsal] (Tags: Valencia)
+La Massana
+  IPA: [lə məˈsa.nə] (Tags: Balearic, Central)
+  IPA: [la maˈsa.na] (Tags: Valencia)
+Francolí
+  IPA: [fɾəŋ.kuˈli] (Tags: Balearic, Central)
+  IPA: [fɾaŋ.koˈli] (Tags: Valencia)

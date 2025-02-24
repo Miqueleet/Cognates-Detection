@@ -1,0 +1,508 @@
+menos
+  IPA: /ˈmenos/
+  IPA: [ˈme.nos]
+mi
+  IPA: /mi/
+  IPA: [mi]
+tan
+  IPA: /ˈtan/
+  IPA: [ˈt̪ãn]
+ese
+  IPA: /ˈese/
+  IPA: [ˈe.se]
+tanto
+  IPA: /ˈtanto/
+  IPA: [ˈt̪ãn̪.t̪o]
+uno
+  IPA: /ˈuno/
+  IPA: [ˈu.no]
+tu
+  IPA: /tu/
+  IPA: [t̪u]
+más
+  IPA: /ˈmas/
+  IPA: [ˈmas]
+mucha
+  IPA: /ˈmut͡ʃa/
+  IPA: [ˈmu.t͡ʃa]
+una
+  IPA: /ˈuna/
+  IPA: [ˈu.na]
+su
+  IPA: /su/
+  IPA: [su]
+todo
+  IPA: /ˈtodo/
+  IPA: [ˈt̪o.ð̞o]
+mis
+  IPA: /mis/
+  IPA: [mis]
+este
+  IPA: /ˈeste/
+  IPA: [ˈes.t̪e]
+muchas
+  IPA: /ˈmut͡ʃas/
+  IPA: [ˈmu.t͡ʃas]
+mucho
+  IPA: /ˈmut͡ʃo/
+  IPA: [ˈmu.t͡ʃo]
+qué
+  IPA: /ˈke/
+  IPA: [ˈke]
+cada
+  IPA: /ˈkada/
+  IPA: [ˈka.ð̞a]
+poco
+  IPA: /ˈpoko/
+  IPA: [ˈpo.ko]
+to'
+  IPA: /ˈto/
+  IPA: [ˈt̪o]
+sus
+  IPA: /sus/
+  IPA: [sus]
+otros
+  IPA: /ˈotɾos/
+  IPA: [ˈo.t̪ɾos]
+estas
+  IPA: /ˈestas/
+  IPA: [ˈes.t̪as]
+estos
+  IPA: /ˈestos/
+  IPA: [ˈes.t̪os]
+esa
+  IPA: /ˈesa/
+  IPA: [ˈe.sa]
+esta
+  IPA: /ˈesta/
+  IPA: [ˈes.t̪a]
+  IPA: /ˈeta/
+esos
+  IPA: /ˈesos/
+  IPA: [ˈe.sos]
+esas
+  IPA: /ˈesas/
+  IPA: [ˈe.sas]
+aquel
+  IPA: /aˈkel/
+  IPA: [aˈkel]
+aquella
+  IPA: /aˈkeʝa/
+  IPA: [aˈke.ʝa]
+  IPA: /aˈkeʝa/
+  IPA: [aˈke.ʝa]
+  IPA: /aˈkeʎa/
+  IPA: [aˈke.ʎa]
+  IPA: /aˈkeʃa/
+  IPA: [aˈke.ʃa]
+  IPA: /aˈkeʒa/
+  IPA: [aˈke.ʒa]
+aquellas
+  IPA: /aˈkeʝas/
+  IPA: [aˈke.ʝas]
+  IPA: /aˈkeʝas/
+  IPA: [aˈke.ʝas]
+  IPA: /aˈkeʎas/
+  IPA: [aˈke.ʎas]
+  IPA: /aˈkeʃas/
+  IPA: [aˈke.ʃas]
+  IPA: /aˈkeʒas/
+  IPA: [aˈke.ʒas]
+aquellos
+  IPA: /aˈkeʝos/
+  IPA: [aˈke.ʝos]
+  IPA: /aˈkeʝos/
+  IPA: [aˈke.ʝos]
+  IPA: /aˈkeʎos/
+  IPA: [aˈke.ʎos]
+  IPA: /aˈkeʃos/
+  IPA: [aˈke.ʃos]
+  IPA: /aˈkeʒos/
+  IPA: [aˈke.ʒos]
+otro
+  IPA: /ˈotɾo/
+  IPA: [ˈo.t̪ɾo]
+tus
+  IPA: /tus/
+  IPA: [t̪us]
+toda
+  IPA: /ˈtoda/
+  IPA: [ˈt̪o.ð̞a]
+cuya
+  IPA: /ˈkuʝa/
+  IPA: [ˈku.ʝa]
+  IPA: /ˈkuʝa/
+  IPA: [ˈku.ʝa]
+  IPA: /ˈkuʃa/
+  IPA: [ˈku.ʃa]
+  IPA: /ˈkuʒa/
+  IPA: [ˈku.ʒa]
+cuyo
+  IPA: /ˈkuʝo/
+  IPA: [ˈku.ʝo]
+  IPA: /ˈkuʝo/
+  IPA: [ˈku.ʝo]
+  IPA: /ˈkuʃo/
+  IPA: [ˈku.ʃo]
+  IPA: /ˈkuʒo/
+  IPA: [ˈku.ʒo]
+algunos
+  IPA: /alˈɡunos/
+  IPA: [alˈɣ̞u.nos]
+cualquier
+  IPA: /kwalˈkjeɾ/
+  IPA: [kwalˈkjeɾ]
+cualquiera
+  IPA: /kwalˈkjeɾa/
+  IPA: [kwalˈkje.ɾa]
+algún
+  IPA: /alˈɡun/
+  IPA: [alˈɣ̞ũn]
+alguno
+  IPA: /alˈɡuno/
+  IPA: [alˈɣ̞u.no]
+cierta
+  IPA: /ˈθjeɾta/ (Tags: Spain)
+  IPA: [ˈθjeɾ.t̪a] (Tags: Spain)
+  IPA: /ˈsjeɾta/ (Tags: Latin-America, Philippines)
+  IPA: [ˈsjeɾ.t̪a] (Tags: Latin-America, Philippines)
+cierto
+  IPA: /ˈθjeɾto/ (Tags: Spain)
+  IPA: [ˈθjeɾ.t̪o] (Tags: Spain)
+  IPA: /ˈsjeɾto/ (Tags: Latin-America, Philippines)
+  IPA: [ˈsjeɾ.t̪o] (Tags: Latin-America, Philippines)
+unas
+  IPA: /ˈunas/
+  IPA: [ˈu.nas]
+vuestro
+  IPA: /ˈbwestɾo/
+  IPA: [ˈbwes.t̪ɾo]
+cuanto
+  IPA: /ˈkwanto/
+  IPA: [ˈkwãn̪.t̪o]
+dicho
+  IPA: /ˈdit͡ʃo/
+  IPA: [ˈd̪i.t͡ʃo]
+todos
+  IPA: /ˈtodos/
+  IPA: [ˈt̪o.ð̞os]
+suyos
+  IPA: /ˈsuʝos/
+  IPA: [ˈsu.ʝos]
+  IPA: /ˈsuʝos/
+  IPA: [ˈsu.ʝos]
+  IPA: /ˈsuʃos/
+  IPA: [ˈsu.ʃos]
+  IPA: /ˈsuʒos/
+  IPA: [ˈsu.ʒos]
+nuestras
+  IPA: /ˈnwestɾas/
+  IPA: [ˈnwes.t̪ɾas]
+nuestros
+  IPA: /ˈnwestɾos/
+  IPA: [ˈnwes.t̪ɾos]
+suyas
+  IPA: /ˈsuʝas/
+  IPA: [ˈsu.ʝas]
+  IPA: /ˈsuʝas/
+  IPA: [ˈsu.ʝas]
+  IPA: /ˈsuʃas/
+  IPA: [ˈsu.ʃas]
+  IPA: /ˈsuʒas/
+  IPA: [ˈsu.ʒas]
+mías
+  IPA: /ˈmias/
+  IPA: [ˈmi.as]
+tuyos
+  IPA: /ˈtuʝos/
+  IPA: [ˈt̪u.ʝos]
+  IPA: /ˈtuʝos/
+  IPA: [ˈt̪u.ʝos]
+  IPA: /ˈtuʃos/
+  IPA: [ˈt̪u.ʃos]
+  IPA: /ˈtuʒos/
+  IPA: [ˈt̪u.ʒos]
+nuestra
+  IPA: /ˈnwestɾa/
+  IPA: [ˈnwes.t̪ɾa]
+tuyas
+  IPA: /ˈtuʝas/
+  IPA: [ˈt̪u.ʝas]
+  IPA: /ˈtuʝas/
+  IPA: [ˈt̪u.ʝas]
+  IPA: /ˈtuʃas/
+  IPA: [ˈt̪u.ʃas]
+  IPA: /ˈtuʒas/
+  IPA: [ˈt̪u.ʒas]
+mío
+  IPA: /ˈmio/
+  IPA: [ˈmi.o]
+nuestro
+  IPA: /ˈnwestɾo/
+  IPA: [ˈnwes.t̪ɾo]
+suyo
+  IPA: /ˈsuʝo/
+  IPA: [ˈsu.ʝo]
+  IPA: /ˈsuʝo/
+  IPA: [ˈsu.ʝo]
+  IPA: /ˈsuʃo/
+  IPA: [ˈsu.ʃo]
+  IPA: /ˈsuʒo/
+  IPA: [ˈsu.ʒo]
+míos
+  IPA: /ˈmios/
+  IPA: [ˈmi.os]
+suya
+  IPA: /ˈsuʝa/
+  IPA: [ˈsu.ʝa]
+  IPA: /ˈsuʝa/
+  IPA: [ˈsu.ʝa]
+  IPA: /ˈsuʃa/
+  IPA: [ˈsu.ʃa]
+  IPA: /ˈsuʒa/
+  IPA: [ˈsu.ʒa]
+mía
+  IPA: /ˈmia/
+  IPA: [ˈmi.a]
+tuya
+  IPA: /ˈtuʝa/
+  IPA: [ˈt̪u.ʝa]
+  IPA: /ˈtuʝa/
+  IPA: [ˈt̪u.ʝa]
+  IPA: /ˈtuʃa/
+  IPA: [ˈt̪u.ʃa]
+  IPA: /ˈtuʒa/
+  IPA: [ˈt̪u.ʒa]
+tuyo
+  IPA: /ˈtuʝo/
+  IPA: [ˈt̪u.ʝo]
+  IPA: /ˈtuʝo/
+  IPA: [ˈt̪u.ʝo]
+  IPA: /ˈtuʃo/
+  IPA: [ˈt̪u.ʃo]
+  IPA: /ˈtuʒo/
+  IPA: [ˈt̪u.ʒo]
+demasiada
+  IPA: /demaˈsjada/
+  IPA: [d̪e.maˈsja.ð̞a]
+otra
+  IPA: /ˈotɾa/
+  IPA: [ˈo.t̪ɾa]
+cuál
+  IPA: /ˈkwal/
+  IPA: [ˈkwal]
+todas
+  IPA: /ˈtodas/
+  IPA: [ˈt̪o.ð̞as]
+muchos
+  IPA: /ˈmut͡ʃos/
+  IPA: [ˈmu.t͡ʃos]
+ninguno
+  IPA: /ninˈɡuno/
+  IPA: [nĩŋˈɡu.no]
+unos
+  IPA: /ˈunos/
+  IPA: [ˈu.nos]
+otras
+  IPA: /ˈotɾas/
+  IPA: [ˈo.t̪ɾas]
+alguna
+  IPA: /alˈɡuna/
+  IPA: [alˈɣ̞u.na]
+tanta
+  IPA: /ˈtanta/
+  IPA: [ˈt̪ãn̪.t̪a]
+cuánto
+  IPA: /ˈkwanto/
+  IPA: [ˈkwãn̪.t̪o]
+cuántos
+  IPA: /ˈkwantos/
+  IPA: [ˈkwãn̪.t̪os]
+poca
+  IPA: /ˈpoka/
+  IPA: [ˈpo.ka]
+ningún
+  IPA: /ninˈɡun/
+  IPA: [nĩŋˈɡũn]
+muchísimo
+  IPA: /muˈt͡ʃisimo/
+  IPA: [muˈt͡ʃi.si.mo]
+cualesquier
+  IPA: /kwalesˈkjeɾ/
+  IPA: [kwa.lesˈkjeɾ]
+ciertas
+  IPA: /ˈθjeɾtas/ (Tags: Spain)
+  IPA: [ˈθjeɾ.t̪as] (Tags: Spain)
+  IPA: /ˈsjeɾtas/ (Tags: Latin-America, Philippines)
+  IPA: [ˈsjeɾ.t̪as] (Tags: Latin-America, Philippines)
+cuantas
+  IPA: /ˈkwantas/
+  IPA: [ˈkwãn̪.t̪as]
+cuantos
+  IPA: /ˈkwantos/
+  IPA: [ˈkwãn̪.t̪os]
+cuanta
+  IPA: /ˈkwanta/
+  IPA: [ˈkwãn̪.t̪a]
+ninguna
+  IPA: /ninˈɡuna/
+  IPA: [nĩŋˈɡu.na]
+algunas
+  IPA: /alˈɡunas/
+  IPA: [alˈɣ̞u.nas]
+vuestras
+  IPA: /ˈbwestɾas/
+  IPA: [ˈbwes.t̪ɾas]
+vuestra
+  IPA: /ˈbwestɾa/
+  IPA: [ˈbwes.t̪ɾa]
+vuestros
+  IPA: /ˈbwestɾos/
+  IPA: [ˈbwes.t̪ɾos]
+tantas
+  IPA: /ˈtantas/
+  IPA: [ˈt̪ãn̪.t̪as]
+tantos
+  IPA: /ˈtantos/
+  IPA: [ˈt̪ãn̪.t̪os]
+pocos
+  IPA: /ˈpokos/
+  IPA: [ˈpo.kos]
+pocas
+  IPA: /ˈpokas/
+  IPA: [ˈpo.kas]
+cuánta
+  IPA: /ˈkwanta/
+  IPA: [ˈkwãn̪.t̪a]
+muchísimas
+  IPA: /muˈt͡ʃisimas/
+  IPA: [muˈt͡ʃi.si.mas]
+muchísimos
+  IPA: /muˈt͡ʃisimos/
+  IPA: [muˈt͡ʃi.si.mos]
+muchísima
+  IPA: /muˈt͡ʃisima/
+  IPA: [muˈt͡ʃi.si.ma]
+ciertos
+  IPA: /ˈθjeɾtos/ (Tags: Spain)
+  IPA: [ˈθjeɾ.t̪os] (Tags: Spain)
+  IPA: /ˈsjeɾtos/ (Tags: Latin-America, Philippines)
+  IPA: [ˈsjeɾ.t̪os] (Tags: Latin-America, Philippines)
+cuántas
+  IPA: /ˈkwantas/
+  IPA: [ˈkwãn̪.t̪as]
+cuyas
+  IPA: /ˈkuʝas/
+  IPA: [ˈku.ʝas]
+  IPA: /ˈkuʝas/
+  IPA: [ˈku.ʝas]
+  IPA: /ˈkuʃas/
+  IPA: [ˈku.ʃas]
+  IPA: /ˈkuʒas/
+  IPA: [ˈku.ʒas]
+cuyos
+  IPA: /ˈkuʝos/
+  IPA: [ˈku.ʝos]
+  IPA: /ˈkuʝos/
+  IPA: [ˈku.ʝos]
+  IPA: /ˈkuʃos/
+  IPA: [ˈku.ʃos]
+  IPA: /ˈkuʒos/
+  IPA: [ˈku.ʒos]
+sendos
+  IPA: /ˈsendos/
+  IPA: [ˈsẽn̪.d̪os]
+aquesta
+  IPA: /aˈkesta/
+  IPA: [aˈkes.t̪a]
+dambos
+  IPA: /ˈdambos/
+  IPA: [ˈd̪ãm.bos]
+todos y cada uno
+  IPA: /ˌtodos i ˌkada ˈuno/
+  IPA: [ˌt̪o.ð̞os i ˌka.ð̞a ˈu.no]
+algún que otro
+  IPA: /alˌɡun ke ˈotɾo/
+  IPA: [alˌɣ̞ũŋ ke ˈo.t̪ɾo]
+cualesquiera
+  IPA: /kwalesˈkjeɾa/
+  IPA: [kwa.lesˈkje.ɾa]
+aquestos
+  IPA: /aˈkestos/
+  IPA: [aˈkes.t̪os]
+aqueste
+  IPA: /aˈkeste/
+  IPA: [aˈkes.t̪e]
+tantísimo
+  IPA: /tanˈtisimo/
+  IPA: [t̪ãn̪ˈt̪i.si.mo]
+tantísimas
+  IPA: /tanˈtisimas/
+  IPA: [t̪ãn̪ˈt̪i.si.mas]
+tantísimos
+  IPA: /tanˈtisimos/
+  IPA: [t̪ãn̪ˈt̪i.si.mos]
+tantísima
+  IPA: /tanˈtisima/
+  IPA: [t̪ãn̪ˈt̪i.si.ma]
+todes
+  IPA: /ˈtodes/
+  IPA: [ˈt̪o.ð̞es]
+aquesto
+  IPA: /aˈkesto/
+  IPA: [aˈkes.t̪o]
+pechá
+  IPA: /peˈt͡ʃa/
+  IPA: [peˈt͡ʃa]
+  IPA: [peˈʃa]
+aquestas
+  IPA: /aˈkestas/
+  IPA: [aˈkes.t̪as]
+aquese
+  IPA: /aˈkese/
+  IPA: [aˈke.se]
+cuantísimo
+  IPA: /kwanˈtisimo/
+  IPA: [kwãn̪ˈt̪i.si.mo]
+algotro
+  IPA: /alˈɡotɾo/
+  IPA: [alˈɣ̞o.t̪ɾo]
+dos que tres
+  IPA: /ˌdos ke ˈtɾes/
+  IPA: [ˌd̪os ke ˈt̪ɾes]
+cúyos
+  IPA: /ˈkuʝos/
+  IPA: [ˈku.ʝos]
+  IPA: /ˈkuʝos/
+  IPA: [ˈku.ʝos]
+  IPA: /ˈkuʃos/
+  IPA: [ˈku.ʃos]
+  IPA: /ˈkuʒos/
+  IPA: [ˈku.ʒos]
+cúyo
+  IPA: /ˈkuʝo/
+  IPA: [ˈku.ʝo]
+  IPA: /ˈkuʝo/
+  IPA: [ˈku.ʝo]
+  IPA: /ˈkuʃo/
+  IPA: [ˈku.ʃo]
+  IPA: /ˈkuʒo/
+  IPA: [ˈku.ʒo]
+cúyas
+  IPA: /ˈkuʝas/
+  IPA: [ˈku.ʝas]
+  IPA: /ˈkuʝas/
+  IPA: [ˈku.ʝas]
+  IPA: /ˈkuʃas/
+  IPA: [ˈku.ʃas]
+  IPA: /ˈkuʒas/
+  IPA: [ˈku.ʒas]
+cúya
+  IPA: /ˈkuʝa/
+  IPA: [ˈku.ʝa]
+  IPA: /ˈkuʝa/
+  IPA: [ˈku.ʝa]
+  IPA: /ˈkuʃa/
+  IPA: [ˈku.ʃa]
+  IPA: /ˈkuʒa/
+  IPA: [ˈku.ʒa]
