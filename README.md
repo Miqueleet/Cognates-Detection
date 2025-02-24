@@ -44,19 +44,7 @@ This project aims to detect cognates—words in different languages that share a
   
 - The optimal threshold varies per language and dataset.
 
-## Usage
-### Running the Detection Process
-```bash
-python main.py --input words.txt --output results.csv
-```
 
-### Adjusting Weights & Threshold
-Modify the configuration file (`config.json`) to tweak α, β, and threshold values for specific languages.
-
-### Generating Heat Maps
-```bash
-python generate_heatmaps.py --input data.csv --output heatmaps/
-```
 
 ## Results & Observations
 - Words with **Levenshtein distance < X** (depending on language) are classified as cognates.
